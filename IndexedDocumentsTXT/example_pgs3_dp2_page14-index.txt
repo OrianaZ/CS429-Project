@@ -1,0 +1,135 @@
+Vocabulary:
+abuse
+addresses
+addressing
+affiliate
+allocations
+apply
+arpa
+assigned
+assignment
+assignments
+authority
+cctlds
+central
+contact
+coordinate
+coordination
+database
+dns
+domain
+domains
+excellence
+functions
+global
+globally
+gtlds
+iana
+icann
+identifiers
+idn
+information
+int
+internet
+ip
+learn
+level
+management
+names
+network
+number
+numbers
+performance
+performed
+policy
+practices
+privacy
+protocol
+protocols
+provided
+public
+regional
+registries
+registry
+reports
+repository
+resources
+reviews
+root
+service
+spaces
+technical
+terms
+time
+unique
+used
+zone
+zones
+
+TF-IDF Matrix:
+abuse: 0.105409
+addresses: 0.052705
+addressing: 0.052705
+affiliate: 0.052705
+allocations: 0.052705
+apply: 0.052705
+arpa: 0.158114
+assigned: 0.158114
+assignment: 0.052705
+assignments: 0.105409
+authority: 0.158114
+cctlds: 0.052705
+central: 0.052705
+contact: 0.052705
+coordinate: 0.052705
+coordination: 0.105409
+database: 0.158114
+dns: 0.105409
+domain: 0.105409
+domains: 0.052705
+excellence: 0.052705
+functions: 0.158114
+global: 0.105409
+globally: 0.052705
+gtlds: 0.052705
+iana: 0.105409
+icann: 0.052705
+identifiers: 0.105409
+idn: 0.105409
+information: 0.105409
+int: 0.158114
+internet: 0.368932
+ip: 0.158114
+learn: 0.052705
+level: 0.052705
+management: 0.105409
+names: 0.105409
+network: 0.052705
+number: 0.210819
+numbers: 0.210819
+performance: 0.052705
+performed: 0.052705
+policy: 0.052705
+practices: 0.052705
+privacy: 0.052705
+protocol: 0.263523
+protocols: 0.105409
+provided: 0.052705
+public: 0.052705
+regional: 0.052705
+registries: 0.210819
+registry: 0.263523
+reports: 0.052705
+repository: 0.158114
+resources: 0.158114
+reviews: 0.052705
+root: 0.210819
+service: 0.052705
+spaces: 0.052705
+technical: 0.052705
+terms: 0.052705
+time: 0.105409
+unique: 0.052705
+used: 0.052705
+zone: 0.263523
+zones: 0.052705

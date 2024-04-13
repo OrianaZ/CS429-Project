@@ -1,0 +1,249 @@
+Vocabulary:
+1591
+1994
+abuse
+administrative
+affiliate
+anchors
+announcement
+archive
+archivearchived
+arpa
+assigning
+audit
+authoritative
+browse
+ceremonies
+ceremony
+certification
+change
+com
+community
+contact
+contains
+coordinate
+database
+delegation
+details
+dns
+dnssec
+domain
+domains
+eligibility
+email
+excellence
+files
+functions
+globally
+guides
+hint
+iana
+icann
+identifiers
+idn
+information
+initial
+instructions
+int
+interface
+internet
+key
+keys
+ksk
+launch
+level
+list
+mailing
+maintain
+maintaining
+management
+march
+materials
+means
+modify
+names
+number
+numbers
+online
+operator
+operators
+overview
+party
+performance
+polices
+policies
+policy
+practices
+privacy
+procedures
+project
+projects
+protocol
+protocols
+provided
+public
+record
+regarding
+register
+registries
+registry
+relating
+reports
+repository
+representatives
+requests
+reserved
+resources
+responsible
+reviews
+revised
+rfc
+role
+rollover
+root
+servers
+service
+signing
+structure
+submit
+submitting
+subsequent
+table
+technical
+template
+terms
+time
+tld
+trust
+trusted
+trusts
+uk
+unique
+using
+various
+zone
+
+TF-IDF Matrix:
+1591: 0.033634
+1994: 0.033634
+abuse: 0.033634
+administrative: 0.033634
+affiliate: 0.033634
+anchors: 0.067267
+announcement: 0.033634
+archive: 0.033634
+archivearchived: 0.033634
+arpa: 0.067267
+assigning: 0.033634
+audit: 0.033634
+authoritative: 0.033634
+browse: 0.033634
+ceremonies: 0.033634
+ceremony: 0.033634
+certification: 0.033634
+change: 0.100901
+com: 0.033634
+community: 0.067267
+contact: 0.033634
+contains: 0.033634
+coordinate: 0.033634
+database: 0.134535
+delegation: 0.067267
+details: 0.100901
+dns: 0.067267
+dnssec: 0.134535
+domain: 0.134535
+domains: 0.134535
+eligibility: 0.033634
+email: 0.033634
+excellence: 0.033634
+files: 0.033634
+functions: 0.033634
+globally: 0.033634
+guides: 0.100901
+hint: 0.033634
+iana: 0.033634
+icann: 0.033634
+identifiers: 0.067267
+idn: 0.067267
+information: 0.134535
+initial: 0.033634
+instructions: 0.033634
+int: 0.100901
+interface: 0.033634
+internet: 0.033634
+key: 0.269069
+keys: 0.033634
+ksk: 0.067267
+launch: 0.033634
+level: 0.067267
+list: 0.033634
+mailing: 0.033634
+maintain: 0.033634
+maintaining: 0.033634
+management: 0.168168
+march: 0.033634
+materials: 0.033634
+means: 0.033634
+modify: 0.033634
+names: 0.067267
+number: 0.033634
+numbers: 0.033634
+online: 0.033634
+operator: 0.033634
+operators: 0.100901
+overview: 0.168168
+party: 0.033634
+performance: 0.033634
+polices: 0.033634
+policies: 0.033634
+policy: 0.067267
+practices: 0.033634
+privacy: 0.033634
+procedures: 0.134535
+project: 0.100901
+projects: 0.033634
+protocol: 0.033634
+protocols: 0.067267
+provided: 0.033634
+public: 0.067267
+record: 0.033634
+regarding: 0.033634
+register: 0.033634
+registries: 0.033634
+registry: 0.168168
+relating: 0.033634
+reports: 0.033634
+repository: 0.067267
+representatives: 0.067267
+requests: 0.067267
+reserved: 0.033634
+resources: 0.033634
+responsible: 0.033634
+reviews: 0.033634
+revised: 0.033634
+rfc: 0.033634
+role: 0.067267
+rollover: 0.033634
+root: 0.504505
+servers: 0.033634
+service: 0.033634
+signing: 0.134535
+structure: 0.033634
+submit: 0.033634
+submitting: 0.033634
+subsequent: 0.033634
+table: 0.033634
+technical: 0.067267
+template: 0.033634
+terms: 0.033634
+time: 0.033634
+tld: 0.033634
+trust: 0.033634
+trusted: 0.033634
+trusts: 0.033634
+uk: 0.033634
+unique: 0.033634
+using: 0.033634
+various: 0.033634
+zone: 0.470871

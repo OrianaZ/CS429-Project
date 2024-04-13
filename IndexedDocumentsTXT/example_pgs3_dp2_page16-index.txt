@@ -1,0 +1,301 @@
+Vocabulary:
+abuse
+addresses
+administer
+administrative
+affiliate
+anchors
+architecture
+archive
+arpa
+aspects
+board
+ceremonies
+change
+characters
+close
+code
+com
+community
+contact
+coordinate
+country
+cross
+database
+day
+delegating
+delivery
+demonstration
+deployment
+designed
+details
+different
+dns
+dnssec
+document
+domain
+domains
+eligibility
+enum
+evaluating
+example
+excellence
+existing
+files
+fit
+foster
+functions
+future
+globally
+guides
+health
+help
+hierarchy
+hint
+iana
+icann
+identifiers
+idn
+idns
+includes
+including
+information
+informative
+instructions
+int
+internally
+internationalised
+internet
+involves
+ip
+key
+keys
+languages
+level
+liaison
+maintain
+maintenance
+managed
+management
+mapping
+modify
+names
+national
+naturally
+number
+numbers
+nz
+operate
+operators
+organisation
+organisations
+overview
+performance
+permissable
+phone
+policies
+policy
+practices
+privacy
+procedures
+project
+protocol
+protocols
+provided
+provides
+public
+purpose
+purposes
+register
+registration
+registries
+registry
+reports
+repository
+representatives
+requests
+reserved
+resources
+responsibility
+reverse
+reviews
+root
+scripts
+segment
+servers
+service
+services
+sharing
+signed
+signing
+sole
+special
+specific
+submit
+table
+tables
+tasks
+technical
+terms
+time
+treaty
+trusts
+uk
+unique
+upper
+use
+used
+verification
+world
+zone
+
+TF-IDF Matrix:
+abuse: 0.033634
+addresses: 0.033634
+administer: 0.033634
+administrative: 0.033634
+affiliate: 0.033634
+anchors: 0.033634
+architecture: 0.033634
+archive: 0.033634
+arpa: 0.201802
+aspects: 0.033634
+board: 0.033634
+ceremonies: 0.033634
+change: 0.067267
+characters: 0.033634
+close: 0.033634
+code: 0.033634
+com: 0.033634
+community: 0.033634
+contact: 0.033634
+coordinate: 0.033634
+country: 0.067267
+cross: 0.033634
+database: 0.067267
+day: 0.067267
+delegating: 0.033634
+delivery: 0.033634
+demonstration: 0.033634
+deployment: 0.033634
+designed: 0.067267
+details: 0.033634
+different: 0.067267
+dns: 0.100901
+dnssec: 0.067267
+document: 0.033634
+domain: 0.403604
+domains: 0.235435
+eligibility: 0.033634
+enum: 0.033634
+evaluating: 0.033634
+example: 0.033634
+excellence: 0.033634
+existing: 0.033634
+files: 0.033634
+fit: 0.033634
+foster: 0.033634
+functions: 0.033634
+future: 0.033634
+globally: 0.033634
+guides: 0.033634
+health: 0.033634
+help: 0.033634
+hierarchy: 0.033634
+hint: 0.033634
+iana: 0.033634
+icann: 0.033634
+identifiers: 0.067267
+idn: 0.134535
+idns: 0.033634
+includes: 0.033634
+including: 0.033634
+information: 0.067267
+informative: 0.033634
+instructions: 0.033634
+int: 0.235435
+internally: 0.033634
+internationalised: 0.033634
+internet: 0.100901
+involves: 0.033634
+ip: 0.033634
+key: 0.269069
+keys: 0.033634
+languages: 0.033634
+level: 0.134535
+liaison: 0.033634
+maintain: 0.033634
+maintenance: 0.033634
+managed: 0.033634
+management: 0.033634
+mapping: 0.067267
+modify: 0.033634
+names: 0.100901
+national: 0.033634
+naturally: 0.033634
+number: 0.134535
+numbers: 0.033634
+nz: 0.033634
+operate: 0.033634
+operators: 0.067267
+organisation: 0.033634
+organisations: 0.067267
+overview: 0.168168
+performance: 0.033634
+permissable: 0.033634
+phone: 0.033634
+policies: 0.033634
+policy: 0.067267
+practices: 0.067267
+privacy: 0.033634
+procedures: 0.033634
+project: 0.033634
+protocol: 0.033634
+protocols: 0.100901
+provided: 0.067267
+provides: 0.033634
+public: 0.033634
+purpose: 0.033634
+purposes: 0.033634
+register: 0.033634
+registration: 0.033634
+registries: 0.067267
+registry: 0.168168
+reports: 0.033634
+repository: 0.168168
+representatives: 0.033634
+requests: 0.067267
+reserved: 0.067267
+resources: 0.033634
+responsibility: 0.067267
+reverse: 0.033634
+reviews: 0.033634
+root: 0.369970
+scripts: 0.033634
+segment: 0.033634
+servers: 0.033634
+service: 0.033634
+services: 0.067267
+sharing: 0.033634
+signed: 0.033634
+signing: 0.134535
+sole: 0.033634
+special: 0.067267
+specific: 0.033634
+submit: 0.033634
+table: 0.033634
+tables: 0.033634
+tasks: 0.033634
+technical: 0.033634
+terms: 0.033634
+time: 0.033634
+treaty: 0.033634
+trusts: 0.033634
+uk: 0.033634
+unique: 0.033634
+upper: 0.033634
+use: 0.067267
+used: 0.033634
+verification: 0.033634
+world: 0.033634
+zone: 0.235435

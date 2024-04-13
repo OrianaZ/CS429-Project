@@ -1,0 +1,289 @@
+Vocabulary:
+000
+1989
+2009
+2013
+30
+abuse
+achieve
+achieves
+activity
+adding
+affiliate
+agility
+allows
+analysis
+arpa
+assessment
+assessors
+audits
+august
+based
+basis
+business
+capability
+cause
+committed
+community
+comprehensive
+concepts
+conducted
+contact
+continual
+coordinate
+creating
+creativity
+criteria
+customers
+database
+departments
+developing
+documents
+does
+domain
+domains
+effect
+efqm
+engaged
+european
+exceed
+excellence
+expectations
+following
+form
+foundation
+founded
+framework
+functions
+fundamental
+future
+globally
+harnessing
+helps
+iana
+icann
+identifiers
+identify
+idn
+improvement
+improvements
+independent
+information
+innovation
+inspiration
+int
+integrity
+internet
+introduction
+leading
+levels
+management
+managing
+meet
+membership
+model
+names
+number
+numbers
+ongoing
+operations
+organization
+organizational
+organizations
+outstanding
+panel
+people
+perform
+performance
+pleased
+policy
+presentations
+privacy
+procedures
+profit
+protocol
+protocols
+provide
+provided
+public
+publishes
+quality
+received
+recognition
+registries
+registry
+relationships
+remain
+reporting
+reports
+repository
+resources
+results
+review
+reviews
+root
+service
+services
+stakeholders
+succeeding
+sustain
+sustainable
+sustaining
+talent
+technical
+terms
+time
+understand
+unique
+use
+used
+using
+value
+vision
+world
+zone
+
+TF-IDF Matrix:
+000: 0.047351
+1989: 0.047351
+2009: 0.047351
+2013: 0.047351
+30: 0.047351
+abuse: 0.047351
+achieve: 0.047351
+achieves: 0.047351
+activity: 0.047351
+adding: 0.047351
+affiliate: 0.047351
+agility: 0.047351
+allows: 0.047351
+analysis: 0.047351
+arpa: 0.047351
+assessment: 0.094703
+assessors: 0.047351
+audits: 0.047351
+august: 0.047351
+based: 0.047351
+basis: 0.047351
+business: 0.142054
+capability: 0.047351
+cause: 0.047351
+committed: 0.142054
+community: 0.047351
+comprehensive: 0.047351
+concepts: 0.094703
+conducted: 0.047351
+contact: 0.094703
+continual: 0.047351
+coordinate: 0.047351
+creating: 0.047351
+creativity: 0.047351
+criteria: 0.047351
+customers: 0.047351
+database: 0.047351
+departments: 0.047351
+developing: 0.047351
+documents: 0.047351
+does: 0.047351
+domain: 0.047351
+domains: 0.047351
+effect: 0.047351
+efqm: 0.284108
+engaged: 0.047351
+european: 0.047351
+exceed: 0.047351
+excellence: 0.520865
+expectations: 0.047351
+following: 0.047351
+form: 0.047351
+foundation: 0.094703
+founded: 0.047351
+framework: 0.094703
+functions: 0.094703
+fundamental: 0.094703
+future: 0.047351
+globally: 0.047351
+harnessing: 0.047351
+helps: 0.047351
+iana: 0.142054
+icann: 0.047351
+identifiers: 0.094703
+identify: 0.047351
+idn: 0.047351
+improvement: 0.047351
+improvements: 0.047351
+independent: 0.047351
+information: 0.047351
+innovation: 0.047351
+inspiration: 0.047351
+int: 0.047351
+integrity: 0.047351
+internet: 0.047351
+introduction: 0.047351
+leading: 0.047351
+levels: 0.047351
+management: 0.189405
+managing: 0.047351
+meet: 0.047351
+membership: 0.047351
+model: 0.236757
+names: 0.047351
+number: 0.047351
+numbers: 0.047351
+ongoing: 0.047351
+operations: 0.047351
+organization: 0.047351
+organizational: 0.047351
+organizations: 0.094703
+outstanding: 0.094703
+panel: 0.047351
+people: 0.094703
+perform: 0.094703
+performance: 0.142054
+pleased: 0.047351
+policy: 0.047351
+presentations: 0.047351
+privacy: 0.047351
+procedures: 0.047351
+profit: 0.047351
+protocol: 0.047351
+protocols: 0.094703
+provide: 0.047351
+provided: 0.047351
+public: 0.094703
+publishes: 0.047351
+quality: 0.189405
+received: 0.047351
+recognition: 0.047351
+registries: 0.047351
+registry: 0.142054
+relationships: 0.047351
+remain: 0.047351
+reporting: 0.047351
+reports: 0.094703
+repository: 0.047351
+resources: 0.047351
+results: 0.094703
+review: 0.047351
+reviews: 0.094703
+root: 0.047351
+service: 0.047351
+services: 0.047351
+stakeholders: 0.047351
+succeeding: 0.047351
+sustain: 0.047351
+sustainable: 0.047351
+sustaining: 0.047351
+talent: 0.047351
+technical: 0.047351
+terms: 0.047351
+time: 0.047351
+understand: 0.047351
+unique: 0.047351
+use: 0.047351
+used: 0.047351
+using: 0.047351
+value: 0.047351
+vision: 0.047351
+world: 0.047351
+zone: 0.094703

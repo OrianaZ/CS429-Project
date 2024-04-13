@@ -1,0 +1,351 @@
+Vocabulary:
+10
+127
+16
+168
+169
+172
+192
+254
+255
+31
+abuse
+access
+additional
+address
+addresses
+affiliate
+afrinic
+allocated
+allocation
+allocations
+answers
+apnic
+arin
+arpa
+asn
+assign
+assigned
+assigns
+attack
+attacking
+authority
+automatically
+begins
+blackhole
+case
+cases
+come
+common
+computer
+computers
+concerning
+contact
+coordinate
+coordination
+corporate
+data
+database
+databases
+default
+designed
+detailed
+does
+domain
+domains
+earliest
+email
+excellence
+following
+functions
+general
+global
+globally
+header
+headers
+hear
+home
+iana
+icann
+identifiers
+identifying
+idn
+important
+indicate
+information
+instead
+int
+internal
+internally
+internet
+ip
+ipv6
+isp
+issues
+lacnic
+like
+likely
+local
+logs
+look
+looking
+mail
+marked
+moments
+names
+ncc
+network
+networks
+normal
+number
+numbers
+office
+ones
+operate
+operated
+org
+origin
+overview
+page
+particular
+people
+perfectly
+performance
+person
+points
+policy
+primarily
+privacy
+protocol
+protocols
+provided
+public
+questions
+ranges
+read
+receive
+received
+regional
+registries
+registry
+remember
+reports
+repository
+represent
+reserved
+resources
+responsible
+reviews
+ripe
+rir
+root
+routers
+seeing
+servers
+service
+sets
+shows
+similarly
+simply
+small
+source
+spamming
+special
+technical
+tell
+terms
+things
+think
+time
+topic
+traffic
+transit
+true
+unexplained
+unique
+unrestricted
+unsolicited
+untracked
+use
+used
+useful
+using
+usually
+ways
+zone
+
+TF-IDF Matrix:
+10: 0.109399
+127: 0.036466
+16: 0.036466
+168: 0.036466
+169: 0.036466
+172: 0.072932
+192: 0.036466
+254: 0.036466
+255: 0.109399
+31: 0.036466
+abuse: 0.182331
+access: 0.036466
+additional: 0.036466
+address: 0.036466
+addresses: 0.072932
+affiliate: 0.036466
+afrinic: 0.072932
+allocated: 0.036466
+allocation: 0.072932
+allocations: 0.036466
+answers: 0.072932
+apnic: 0.072932
+arin: 0.072932
+arpa: 0.036466
+asn: 0.182331
+assign: 0.036466
+assigned: 0.072932
+assigns: 0.036466
+attack: 0.036466
+attacking: 0.036466
+authority: 0.072932
+automatically: 0.036466
+begins: 0.182331
+blackhole: 0.036466
+case: 0.036466
+cases: 0.036466
+come: 0.036466
+common: 0.072932
+computer: 0.036466
+computers: 0.072932
+concerning: 0.036466
+contact: 0.036466
+coordinate: 0.036466
+coordination: 0.036466
+corporate: 0.036466
+data: 0.036466
+database: 0.036466
+databases: 0.036466
+default: 0.036466
+designed: 0.072932
+detailed: 0.036466
+does: 0.072932
+domain: 0.036466
+domains: 0.036466
+earliest: 0.036466
+email: 0.072932
+excellence: 0.036466
+following: 0.072932
+functions: 0.036466
+general: 0.036466
+global: 0.036466
+globally: 0.036466
+header: 0.036466
+headers: 0.036466
+hear: 0.036466
+home: 0.036466
+iana: 0.328196
+icann: 0.036466
+identifiers: 0.072932
+identifying: 0.036466
+idn: 0.036466
+important: 0.036466
+indicate: 0.036466
+information: 0.072932
+instead: 0.036466
+int: 0.036466
+internal: 0.036466
+internally: 0.036466
+internet: 0.109399
+ip: 0.072932
+ipv6: 0.182331
+isp: 0.072932
+issues: 0.072932
+lacnic: 0.072932
+like: 0.072932
+likely: 0.036466
+local: 0.072932
+logs: 0.036466
+look: 0.036466
+looking: 0.036466
+mail: 0.036466
+marked: 0.036466
+moments: 0.036466
+names: 0.036466
+ncc: 0.072932
+network: 0.145865
+networks: 0.036466
+normal: 0.036466
+number: 0.072932
+numbers: 0.510527
+office: 0.036466
+ones: 0.036466
+operate: 0.036466
+operated: 0.036466
+org: 0.036466
+origin: 0.072932
+overview: 0.109399
+page: 0.036466
+particular: 0.036466
+people: 0.036466
+perfectly: 0.036466
+performance: 0.036466
+person: 0.036466
+points: 0.036466
+policy: 0.036466
+primarily: 0.036466
+privacy: 0.036466
+protocol: 0.036466
+protocols: 0.072932
+provided: 0.036466
+public: 0.036466
+questions: 0.072932
+ranges: 0.072932
+read: 0.072932
+receive: 0.036466
+received: 0.036466
+regional: 0.036466
+registries: 0.036466
+registry: 0.109399
+remember: 0.036466
+reports: 0.072932
+repository: 0.036466
+represent: 0.036466
+reserved: 0.109399
+resources: 0.072932
+responsible: 0.036466
+reviews: 0.036466
+ripe: 0.072932
+rir: 0.036466
+root: 0.036466
+routers: 0.036466
+seeing: 0.036466
+servers: 0.036466
+service: 0.036466
+sets: 0.036466
+shows: 0.036466
+similarly: 0.036466
+simply: 0.036466
+small: 0.036466
+source: 0.036466
+spamming: 0.036466
+special: 0.072932
+technical: 0.036466
+tell: 0.036466
+terms: 0.036466
+things: 0.072932
+think: 0.036466
+time: 0.036466
+topic: 0.036466
+traffic: 0.145865
+transit: 0.036466
+true: 0.036466
+unexplained: 0.036466
+unique: 0.036466
+unrestricted: 0.036466
+unsolicited: 0.036466
+untracked: 0.036466
+use: 0.145865
+used: 0.072932
+useful: 0.036466
+using: 0.036466
+usually: 0.072932
+ways: 0.036466
+zone: 0.072932

@@ -1,11 +1,6 @@
 import scrapy
 import os
-from scrapy.spiders import CrawlSpider, Rule
-from scrapy.linkextractors import LinkExtractor
-from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-
-
 class MySpider(scrapy.Spider):
     name = 'myspider'
 
@@ -27,7 +22,7 @@ class MySpider(scrapy.Spider):
     def parse(self, response):
         html_content = response.body.decode('utf-8')
 
-        filename = f"../CrawledDocuments/{self.domain}_pgs{self.max_pages}_dp{self.max_depth}_page-{self.crawled_count}.html"
+        filename = f"../CrawledDocuments/{self.domain}_pgs{self.max_pages}_dp{self.max_depth}_page{self.crawled_count}.html"
 
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, 'w', encoding='utf-8') as f:
@@ -38,8 +33,3 @@ class MySpider(scrapy.Spider):
         if self.crawled_count < self.max_pages and response.meta['depth'] < self.max_depth:
             for link in response.css('a::attr(href)').getall():
                 yield response.follow(link, callback=self.parse)
-
-
-
-# Example usage in terminal:
-# scrapy crawl myspider -a url=https://example.com -a max_pages=1 -a max_depth=1

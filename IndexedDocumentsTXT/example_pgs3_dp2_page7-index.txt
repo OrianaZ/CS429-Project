@@ -1,0 +1,243 @@
+Vocabulary:
+0035
+12
+2012
+2013
+abuse
+affiliate
+allocation
+allocations
+announcements
+appropriate
+arpa
+aspects
+audits
+cctld
+certain
+change
+changes
+cn
+code
+community
+complaint
+complaints
+conducted
+consultation
+consultations
+contact
+contract
+coordinate
+country
+customer
+database
+delegation
+delegations
+developing
+dns
+dnssec
+documents
+domain
+domains
+excellence
+executed
+feedback
+framework
+functions
+generic
+globally
+gtld
+iana
+icann
+identifiers
+idn
+important
+information
+instructions
+int
+internet
+introduction
+ipv4
+ipv6
+key
+ksk
+level
+mid
+names
+notification
+notify
+number
+numbers
+october
+outages
+perform
+performance
+performed
+performing
+policies
+policy
+presentations
+primarily
+privacy
+procedures
+process
+protocol
+protocols
+provided
+public
+quality
+redelegation
+redelegations
+regional
+registries
+registry
+relating
+reporting
+reports
+repository
+requests
+required
+resolution
+resolve
+resource
+resources
+reviews
+rollover
+root
+sa1301
+secure
+seeking
+service
+sign
+signing
+source
+spelled
+standards
+technical
+terms
+time
+unique
+used
+user
+zone
+
+TF-IDF Matrix:
+0035: 0.035072
+12: 0.035072
+2012: 0.035072
+2013: 0.035072
+abuse: 0.035072
+affiliate: 0.035072
+allocation: 0.035072
+allocations: 0.035072
+announcements: 0.035072
+appropriate: 0.070143
+arpa: 0.035072
+aspects: 0.035072
+audits: 0.035072
+cctld: 0.070143
+certain: 0.035072
+change: 0.035072
+changes: 0.035072
+cn: 0.035072
+code: 0.070143
+community: 0.035072
+complaint: 0.035072
+complaints: 0.035072
+conducted: 0.035072
+consultation: 0.140286
+consultations: 0.070143
+contact: 0.070143
+contract: 0.035072
+coordinate: 0.035072
+country: 0.070143
+customer: 0.070143
+database: 0.035072
+delegation: 0.210429
+delegations: 0.070143
+developing: 0.035072
+dns: 0.035072
+dnssec: 0.035072
+documents: 0.035072
+domain: 0.105215
+domains: 0.105215
+excellence: 0.070143
+executed: 0.035072
+feedback: 0.210429
+framework: 0.035072
+functions: 0.175358
+generic: 0.070143
+globally: 0.035072
+gtld: 0.070143
+iana: 0.175358
+icann: 0.140286
+identifiers: 0.070143
+idn: 0.035072
+important: 0.035072
+information: 0.035072
+instructions: 0.210429
+int: 0.035072
+internet: 0.210429
+introduction: 0.035072
+ipv4: 0.035072
+ipv6: 0.035072
+key: 0.070143
+ksk: 0.035072
+level: 0.140286
+mid: 0.035072
+names: 0.035072
+notification: 0.035072
+notify: 0.035072
+number: 0.175358
+numbers: 0.070143
+october: 0.035072
+outages: 0.035072
+perform: 0.070143
+performance: 0.280572
+performed: 0.035072
+performing: 0.035072
+policies: 0.210429
+policy: 0.035072
+presentations: 0.035072
+primarily: 0.035072
+privacy: 0.035072
+procedures: 0.035072
+process: 0.105215
+protocol: 0.035072
+protocols: 0.070143
+provided: 0.035072
+public: 0.105215
+quality: 0.035072
+redelegation: 0.210429
+redelegations: 0.070143
+regional: 0.035072
+registries: 0.070143
+registry: 0.105215
+relating: 0.070143
+reporting: 0.035072
+reports: 0.070143
+repository: 0.035072
+requests: 0.070143
+required: 0.035072
+resolution: 0.035072
+resolve: 0.035072
+resource: 0.070143
+resources: 0.105215
+reviews: 0.140286
+rollover: 0.070143
+root: 0.105215
+sa1301: 0.035072
+secure: 0.035072
+seeking: 0.210429
+service: 0.105215
+sign: 0.035072
+signing: 0.035072
+source: 0.210429
+spelled: 0.035072
+standards: 0.210429
+technical: 0.035072
+terms: 0.035072
+time: 0.035072
+unique: 0.035072
+used: 0.035072
+user: 0.210429
+zone: 0.140286

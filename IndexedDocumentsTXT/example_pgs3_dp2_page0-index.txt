@@ -1,0 +1,27 @@
+Vocabulary:
+asking
+coordination
+documents
+domain
+example
+examples
+illustrative
+information
+literature
+permission
+prior
+use
+
+TF-IDF Matrix:
+asking: 0.174078
+coordination: 0.174078
+documents: 0.174078
+domain: 0.696311
+example: 0.348155
+examples: 0.174078
+illustrative: 0.174078
+information: 0.174078
+literature: 0.174078
+permission: 0.174078
+prior: 0.174078
+use: 0.348155

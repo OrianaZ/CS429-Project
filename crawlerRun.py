@@ -1,4 +1,3 @@
-
 #part 1 scrapy crawler
 import os
 import sys
@@ -12,7 +11,6 @@ def run_spider(url, max_pages, max_depth):
     os.system(f'scrapy crawl myspider -a url={url} -a max_pages={max_pages} -a max_depth={max_depth}')
     
     
-#main function
 if __name__ == "__main__":
     if len(sys.argv) != 5 or sys.argv[1] != "scrapy":
         print("Usage: python projectRunFile.py scrapy <url> <max_pages> <max_depth>")
@@ -22,11 +20,11 @@ if __name__ == "__main__":
         max_depth = sys.argv[4]
         run_spider(url, max_pages, max_depth)
         
-        
+#usage        
 #python crawlerRun.py scrapy https://example.com 1 1
 
 #needed installed things
-#pip3 install scrapy
+#pip install scrapy
 
 #commands done
 #scrapy startproject ScrapyCrawler

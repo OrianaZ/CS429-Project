@@ -1,0 +1,215 @@
+Vocabulary:
+1591
+1994
+abuse
+affiliate
+allowed
+anchors
+applying
+archive
+arpa
+brief
+ceremonies
+change
+community
+contact
+coordinate
+criteria
+database
+delegation
+dnssec
+documentation
+domain
+domains
+eligibility
+ensure
+established
+excellence
+fee
+files
+functions
+globally
+governments
+guides
+hint
+iana
+icann
+identifiers
+idn
+information
+instructions
+int
+intergovernmental
+international
+internet
+key
+keys
+maintain
+management
+march
+meet
+modify
+names
+national
+note
+number
+numbers
+offering
+organisation
+organisations
+overview
+performance
+policies
+policy
+practices
+privacy
+procedures
+project
+protocol
+protocols
+provided
+public
+read
+register
+registering
+registration
+registrations
+registries
+registry
+relevant
+reports
+repository
+representatives
+requests
+reserved
+resources
+reviews
+rfc
+root
+rules
+servers
+service
+signing
+solely
+specialized
+structure
+submit
+sure
+table
+technical
+terms
+time
+treaties
+treaty
+trusts
+unique
+used
+zone
+
+TF-IDF Matrix:
+1591: 0.043980
+1994: 0.043980
+abuse: 0.043980
+affiliate: 0.043980
+allowed: 0.043980
+anchors: 0.043980
+applying: 0.043980
+archive: 0.043980
+arpa: 0.087960
+brief: 0.043980
+ceremonies: 0.043980
+change: 0.043980
+community: 0.043980
+contact: 0.043980
+coordinate: 0.043980
+criteria: 0.087960
+database: 0.087960
+delegation: 0.043980
+dnssec: 0.043980
+documentation: 0.043980
+domain: 0.483779
+domains: 0.131940
+eligibility: 0.131940
+ensure: 0.043980
+established: 0.043980
+excellence: 0.043980
+fee: 0.043980
+files: 0.043980
+functions: 0.043980
+globally: 0.043980
+governments: 0.043980
+guides: 0.043980
+hint: 0.043980
+iana: 0.043980
+icann: 0.043980
+identifiers: 0.087960
+idn: 0.087960
+information: 0.043980
+instructions: 0.043980
+int: 0.483779
+intergovernmental: 0.087960
+international: 0.043980
+internet: 0.043980
+key: 0.131940
+keys: 0.043980
+maintain: 0.043980
+management: 0.087960
+march: 0.043980
+meet: 0.043980
+modify: 0.087960
+names: 0.087960
+national: 0.043980
+note: 0.043980
+number: 0.043980
+numbers: 0.043980
+offering: 0.043980
+organisation: 0.043980
+organisations: 0.087960
+overview: 0.219900
+performance: 0.043980
+policies: 0.043980
+policy: 0.087960
+practices: 0.043980
+privacy: 0.043980
+procedures: 0.087960
+project: 0.043980
+protocol: 0.043980
+protocols: 0.087960
+provided: 0.043980
+public: 0.043980
+read: 0.043980
+register: 0.087960
+registering: 0.087960
+registration: 0.043980
+registrations: 0.043980
+registries: 0.043980
+registry: 0.219900
+relevant: 0.043980
+reports: 0.043980
+repository: 0.087960
+representatives: 0.043980
+requests: 0.043980
+reserved: 0.043980
+resources: 0.043980
+reviews: 0.043980
+rfc: 0.043980
+root: 0.219900
+rules: 0.043980
+servers: 0.043980
+service: 0.043980
+signing: 0.087960
+solely: 0.043980
+specialized: 0.043980
+structure: 0.043980
+submit: 0.043980
+sure: 0.043980
+table: 0.043980
+technical: 0.043980
+terms: 0.043980
+time: 0.043980
+treaties: 0.043980
+treaty: 0.043980
+trusts: 0.043980
+unique: 0.043980
+used: 0.043980
+zone: 0.219900

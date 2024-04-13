@@ -1,0 +1,439 @@
+Vocabulary:
+0db8
+128
+14
+1918
+192
+1983
+1999
+2001
+2002
+2005
+29
+32
+3587
+4291
+4632
+53
+5737
+582
+6177
+6890
+7020
+7249
+abuse
+according
+action
+active
+additional
+address
+addresses
+addressing
+ae33
+affiliate
+afrinic
+afrinicafrica
+aggregation
+allocate
+allocation
+allocations
+america
+announcement
+answers
+anycast
+apnic
+apnicasia
+appropriate
+april
+architecture
+arin
+arincanada
+arpa
+asia
+asn
+assigned
+assignment
+assignments
+autonomous
+began
+bit
+blocks
+bootstrap
+caribbean
+central
+cidr
+circumstances
+classless
+codes
+commonly
+comparative
+contact
+conventionally
+coordinate
+coordination
+covered
+creation
+criteria
+currently
+data
+database
+decimal
+deployed
+deployment
+deprecated
+described
+directly
+dns
+document
+documentation
+domain
+domains
+dotted
+east
+end
+establishment
+example
+excellence
+expressed
+format
+functions
+generally
+global
+globally
+header
+hexadecimal
+hierarchical
+iana
+icann
+icp
+identifiers
+idn
+ietf
+including
+information
+initially
+int
+inter
+internet
+internets
+ip
+ipv4
+ipv6
+islands
+isps
+issues
+january
+july
+june
+lacnic
+lacniclatin
+lir
+local
+locally
+make
+manner
+middle
+multicast
+names
+national
+ncc
+ncceurope
+needs
+new
+nir
+notation
+november
+number
+numbers
+obtain
+octets
+overview
+pacific
+parameters
+performance
+plan
+policy
+pools
+primary
+privacy
+private
+procedure
+procedures
+protocol
+protocols
+provided
+providers
+public
+purpose
+questions
+recognition
+recovered
+region
+regional
+registries
+registry
+registryarea
+report
+reports
+repository
+request
+requires
+reserved
+resource
+resources
+responsible
+reviews
+rfc
+ripe
+rir
+rirs
+role
+root
+routing
+served
+service
+sites
+space
+special
+specific
+strings
+sub
+systems
+technical
+terms
+time
+tla
+traffic
+types
+unallocated
+unicast
+unique
+usa
+use
+used
+users
+using
+version
+worldwide
+zone
+zones
+
+TF-IDF Matrix:
+0db8: 0.019167
+128: 0.019167
+14: 0.019167
+1918: 0.019167
+192: 0.019167
+1983: 0.019167
+1999: 0.038334
+2001: 0.038334
+2002: 0.019167
+2005: 0.019167
+29: 0.019167
+32: 0.019167
+3587: 0.019167
+4291: 0.019167
+4632: 0.019167
+53: 0.019167
+5737: 0.019167
+582: 0.019167
+6177: 0.019167
+6890: 0.019167
+7020: 0.019167
+7249: 0.019167
+abuse: 0.038334
+according: 0.019167
+action: 0.019167
+active: 0.019167
+additional: 0.019167
+address: 0.306673
+addresses: 0.191671
+addressing: 0.038334
+ae33: 0.019167
+affiliate: 0.019167
+afrinic: 0.057501
+afrinicafrica: 0.019167
+aggregation: 0.019167
+allocate: 0.019167
+allocation: 0.076668
+allocations: 0.153337
+america: 0.019167
+announcement: 0.019167
+answers: 0.019167
+anycast: 0.019167
+apnic: 0.038334
+apnicasia: 0.019167
+appropriate: 0.019167
+april: 0.019167
+architecture: 0.019167
+arin: 0.038334
+arincanada: 0.019167
+arpa: 0.019167
+asia: 0.019167
+asn: 0.095835
+assigned: 0.038334
+assignment: 0.057501
+assignments: 0.076668
+autonomous: 0.057501
+began: 0.019167
+bit: 0.038334
+blocks: 0.019167
+bootstrap: 0.057501
+caribbean: 0.038334
+central: 0.019167
+cidr: 0.019167
+circumstances: 0.019167
+classless: 0.019167
+codes: 0.019167
+commonly: 0.019167
+comparative: 0.019167
+contact: 0.019167
+conventionally: 0.019167
+coordinate: 0.019167
+coordination: 0.019167
+covered: 0.019167
+creation: 0.019167
+criteria: 0.019167
+currently: 0.019167
+data: 0.019167
+database: 0.019167
+decimal: 0.019167
+deployed: 0.019167
+deployment: 0.038334
+deprecated: 0.019167
+described: 0.038334
+directly: 0.019167
+dns: 0.019167
+document: 0.019167
+documentation: 0.038334
+domain: 0.038334
+domains: 0.019167
+dotted: 0.019167
+east: 0.019167
+end: 0.038334
+establishment: 0.019167
+example: 0.038334
+excellence: 0.019167
+expressed: 0.038334
+format: 0.019167
+functions: 0.019167
+generally: 0.019167
+global: 0.076668
+globally: 0.019167
+header: 0.019167
+hexadecimal: 0.019167
+hierarchical: 0.019167
+iana: 0.076668
+icann: 0.019167
+icp: 0.019167
+identifiers: 0.038334
+idn: 0.019167
+ietf: 0.019167
+including: 0.019167
+information: 0.019167
+initially: 0.019167
+int: 0.019167
+inter: 0.019167
+internet: 0.364175
+internets: 0.019167
+ip: 0.172504
+ipv4: 0.210838
+ipv6: 0.440843
+islands: 0.038334
+isps: 0.057501
+issues: 0.019167
+january: 0.019167
+july: 0.019167
+june: 0.019167
+lacnic: 0.057501
+lacniclatin: 0.019167
+lir: 0.019167
+local: 0.019167
+locally: 0.019167
+make: 0.038334
+manner: 0.019167
+middle: 0.019167
+multicast: 0.057501
+names: 0.019167
+national: 0.019167
+ncc: 0.038334
+ncceurope: 0.019167
+needs: 0.038334
+new: 0.019167
+nir: 0.019167
+notation: 0.019167
+november: 0.019167
+number: 0.153337
+numbers: 0.134170
+obtain: 0.019167
+octets: 0.019167
+overview: 0.076668
+pacific: 0.019167
+parameters: 0.038334
+performance: 0.019167
+plan: 0.019167
+policy: 0.057501
+pools: 0.019167
+primary: 0.019167
+privacy: 0.019167
+private: 0.019167
+procedure: 0.019167
+procedures: 0.019167
+protocol: 0.172504
+protocols: 0.038334
+provided: 0.019167
+providers: 0.019167
+public: 0.019167
+purpose: 0.057501
+questions: 0.019167
+recognition: 0.038334
+recovered: 0.019167
+region: 0.057501
+regional: 0.095835
+registries: 0.076668
+registry: 0.306673
+registryarea: 0.019167
+report: 0.038334
+reports: 0.019167
+repository: 0.019167
+request: 0.019167
+requires: 0.019167
+reserved: 0.019167
+resource: 0.019167
+resources: 0.076668
+responsible: 0.019167
+reviews: 0.019167
+rfc: 0.172504
+ripe: 0.057501
+rir: 0.095835
+rirs: 0.019167
+role: 0.019167
+root: 0.019167
+routing: 0.038334
+served: 0.019167
+service: 0.095835
+sites: 0.019167
+space: 0.115002
+special: 0.076668
+specific: 0.038334
+strings: 0.019167
+sub: 0.019167
+systems: 0.019167
+technical: 0.038334
+terms: 0.019167
+time: 0.019167
+tla: 0.019167
+traffic: 0.019167
+types: 0.038334
+unallocated: 0.019167
+unicast: 0.038334
+unique: 0.019167
+usa: 0.019167
+use: 0.019167
+used: 0.038334
+users: 0.038334
+using: 0.019167
+version: 0.115002
+worldwide: 0.019167
+zone: 0.038334
+zones: 0.019167

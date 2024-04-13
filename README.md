@@ -19,3 +19,8 @@
 **Source Code- Listings, documentation, dependencies (open-source).** 
 
 **Bibliography- Reference citations (Chicago style- AMS/AIP or ACM/IEEE)** 
+
+usages in order
+python crawlerRun.py scrapy https://example.com 3 2
+python index.py
+python query.py

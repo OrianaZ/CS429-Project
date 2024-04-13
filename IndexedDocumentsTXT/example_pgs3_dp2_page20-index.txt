@@ -1,0 +1,605 @@
+Vocabulary:
+1034
+1035
+10512
+13
+1554
+1591
+1668
+19711
+1987
+1994
+1999
+2606
+276
+302
+310
+32
+3833
+3rd
+500
+65
+6761
+738
+784
+7913
+914
+abstract
+accesses
+acknowledgement
+acquisition
+actual
+actually
+addition
+additional
+address
+addresses
+agreed
+aliza
+assigned
+assigns
+assist
+assumes
+attempts
+authority
+authors
+basis
+bcp
+best
+buglady
+carmel
+case
+category
+cause
+caused
+code
+coded
+com
+come
+comment
+comments
+community
+concepts
+configuration
+conflict
+conflicts
+confusion
+considerations
+construction
+contained
+contents
+copied
+copies
+copyright
+copyrights
+creating
+current
+currently
+data
+dee3
+defined
+defines
+delegation
+depending
+deployed
+derivative
+described
+developing
+disclaims
+discussion
+distributed
+distribution
+dns
+document
+documentation
+documented
+domain
+domains
+donald
+dr
+eastlake
+editor
+email
+end
+engineering
+english
+errata
+escape
+example
+examples
+existing
+existnetwork
+experimental
+experimentation
+explain
+express
+facilities
+fax
+fear
+fitness
+followed
+following
+force
+function
+funding
+furnished
+fuschia
+future
+glance
+global
+granted
+group
+guidance
+having
+hill
+home
+host
+html
+iana
+ibm
+immediately
+implementation
+implementations
+implied
+improvements
+included
+including
+indicate
+indicated
+info
+information
+infringe
+intellectual
+intended
+internet
+introduction
+invalid
+ip
+ipr
+june
+kind
+languages
+later
+level
+levels
+like
+likelihood
+limited
+listed
+local
+localhost
+loop
+march
+memo
+merchantability
+minimize
+mockapetris
+modified
+names
+nature
+need
+needed
+needs
+net
+new
+newark
+normally
+notice
+november
+numbers
+numerous
+ny
+obvious
+online
+operational
+org
+organizations
+page
+panitz
+paragraph
+particular
+pdf
+permanently
+permissions
+perpetual
+phone
+pointing
+possible
+postel
+practice
+practices
+practiceupdated
+prepared
+private
+procedures
+process
+property
+provided
+published
+purpose
+purposes
+real
+recommended
+record
+reduce
+reference
+references
+referencing
+related
+released
+removing
+request
+requests
+required
+reservation
+reservations
+reserve
+reserved
+restricted
+restriction
+result
+revoked
+rfc
+rights
+road
+root
+rr
+run
+safely
+satisfy
+second
+security
+set
+shindegan
+similar
+site
+society
+software
+specification
+specified
+specifies
+stamford
+standards
+starting
+statement
+statically
+status
+std
+structure
+successors
+suggestions
+sure
+synonym
+table
+task
+test
+testbed
+testing
+text
+thought
+thwarted
+tld
+tlds
+tracker
+traditionally
+translate
+translations
+tree
+unlimited
+unused
+usa
+use
+used
+uses
+versions
+warranties
+warranty
+way
+widely
+working
+works
+written
+zones
+
+TF-IDF Matrix:
+1034: 0.046569
+1035: 0.046569
+10512: 0.015523
+13: 0.031046
+1554: 0.015523
+1591: 0.046569
+1668: 0.015523
+19711: 0.015523
+1987: 0.031046
+1994: 0.015523
+1999: 0.108661
+2606: 0.093138
+276: 0.015523
+302: 0.015523
+310: 0.015523
+32: 0.015523
+3833: 0.015523
+3rd: 0.015523
+500: 0.015523
+65: 0.015523
+6761: 0.015523
+738: 0.015523
+784: 0.031046
+7913: 0.015523
+914: 0.046569
+abstract: 0.015523
+accesses: 0.015523
+acknowledgement: 0.015523
+acquisition: 0.015523
+actual: 0.031046
+actually: 0.031046
+addition: 0.015523
+additional: 0.046569
+address: 0.031046
+addresses: 0.031046
+agreed: 0.015523
+aliza: 0.015523
+assigned: 0.015523
+assigns: 0.015523
+assist: 0.015523
+assumes: 0.015523
+attempts: 0.015523
+authority: 0.015523
+authors: 0.031046
+basis: 0.015523
+bcp: 0.015523
+best: 0.139707
+buglady: 0.015523
+carmel: 0.015523
+case: 0.015523
+category: 0.015523
+cause: 0.015523
+caused: 0.015523
+code: 0.108661
+coded: 0.031046
+com: 0.046569
+come: 0.015523
+comment: 0.031046
+comments: 0.015523
+community: 0.015523
+concepts: 0.015523
+configuration: 0.015523
+conflict: 0.062092
+conflicts: 0.031046
+confusion: 0.046569
+considerations: 0.062092
+construction: 0.015523
+contained: 0.015523
+contents: 0.015523
+copied: 0.031046
+copies: 0.015523
+copyright: 0.108661
+copyrights: 0.015523
+creating: 0.015523
+current: 0.170753
+currently: 0.031046
+data: 0.015523
+dee3: 0.015523
+defined: 0.031046
+defines: 0.015523
+delegation: 0.015523
+depending: 0.015523
+deployed: 0.015523
+derivative: 0.031046
+described: 0.015523
+developing: 0.015523
+disclaims: 0.015523
+discussion: 0.015523
+distributed: 0.015523
+distribution: 0.015523
+dns: 0.217322
+document: 0.077615
+documentation: 0.108661
+documented: 0.031046
+domain: 0.263891
+domains: 0.015523
+donald: 0.015523
+dr: 0.015523
+eastlake: 0.108661
+editor: 0.015523
+email: 0.031046
+end: 0.031046
+engineering: 0.015523
+english: 0.015523
+errata: 0.031046
+escape: 0.031046
+example: 0.217322
+examples: 0.124184
+existing: 0.015523
+existnetwork: 0.015523
+experimental: 0.015523
+experimentation: 0.031046
+explain: 0.015523
+express: 0.015523
+facilities: 0.015523
+fax: 0.015523
+fear: 0.015523
+fitness: 0.015523
+followed: 0.015523
+following: 0.015523
+force: 0.015523
+function: 0.015523
+funding: 0.015523
+furnished: 0.015523
+fuschia: 0.015523
+future: 0.031046
+glance: 0.015523
+global: 0.062092
+granted: 0.015523
+group: 0.015523
+guidance: 0.015523
+having: 0.015523
+hill: 0.015523
+home: 0.015523
+host: 0.015523
+html: 0.015523
+iana: 0.062092
+ibm: 0.031046
+immediately: 0.015523
+implementation: 0.031046
+implementations: 0.015523
+implied: 0.031046
+improvements: 0.015523
+included: 0.015523
+including: 0.015523
+indicate: 0.015523
+indicated: 0.015523
+info: 0.015523
+information: 0.031046
+infringe: 0.015523
+intellectual: 0.015523
+intended: 0.015523
+internet: 0.248368
+introduction: 0.031046
+invalid: 0.093138
+ip: 0.015523
+ipr: 0.015523
+june: 0.077615
+kind: 0.015523
+languages: 0.015523
+later: 0.046569
+level: 0.279414
+levels: 0.015523
+like: 0.015523
+likelihood: 0.015523
+limited: 0.031046
+listed: 0.015523
+local: 0.062092
+localhost: 0.031046
+loop: 0.031046
+march: 0.015523
+memo: 0.031046
+merchantability: 0.015523
+minimize: 0.015523
+mockapetris: 0.031046
+modified: 0.015523
+names: 0.403598
+nature: 0.015523
+need: 0.015523
+needed: 0.015523
+needs: 0.015523
+net: 0.046569
+new: 0.015523
+newark: 0.015523
+normally: 0.015523
+notice: 0.046569
+november: 0.031046
+numbers: 0.015523
+numerous: 0.015523
+ny: 0.015523
+obvious: 0.015523
+online: 0.015523
+operational: 0.015523
+org: 0.015523
+organizations: 0.015523
+page: 0.093138
+panitz: 0.108661
+paragraph: 0.015523
+particular: 0.015523
+pdf: 0.015523
+permanently: 0.015523
+permissions: 0.015523
+perpetual: 0.015523
+phone: 0.031046
+pointing: 0.015523
+possible: 0.015523
+postel: 0.015523
+practice: 0.093138
+practices: 0.015523
+practiceupdated: 0.015523
+prepared: 0.015523
+private: 0.031046
+procedures: 0.015523
+process: 0.015523
+property: 0.015523
+provided: 0.046569
+published: 0.015523
+purpose: 0.031046
+purposes: 0.031046
+real: 0.031046
+recommended: 0.031046
+record: 0.015523
+reduce: 0.015523
+reference: 0.015523
+references: 0.046569
+referencing: 0.015523
+related: 0.046569
+released: 0.015523
+removing: 0.015523
+request: 0.015523
+requests: 0.031046
+required: 0.015523
+reservation: 0.015523
+reservations: 0.015523
+reserve: 0.015523
+reserved: 0.248368
+restricted: 0.015523
+restriction: 0.015523
+result: 0.015523
+revoked: 0.015523
+rfc: 0.217322
+rights: 0.062092
+road: 0.015523
+root: 0.015523
+rr: 0.015523
+run: 0.062092
+safely: 0.015523
+satisfy: 0.015523
+second: 0.062092
+security: 0.031046
+set: 0.015523
+shindegan: 0.015523
+similar: 0.015523
+site: 0.015523
+society: 0.093138
+software: 0.015523
+specification: 0.015523
+specified: 0.015523
+specifies: 0.015523
+stamford: 0.015523
+standards: 0.031046
+starting: 0.015523
+statement: 0.031046
+statically: 0.015523
+status: 0.015523
+std: 0.031046
+structure: 0.015523
+successors: 0.015523
+suggestions: 0.015523
+sure: 0.015523
+synonym: 0.015523
+table: 0.015523
+task: 0.015523
+test: 0.124184
+testbed: 0.031046
+testing: 0.108661
+text: 0.015523
+thought: 0.015523
+thwarted: 0.015523
+tld: 0.077615
+tlds: 0.046569
+tracker: 0.015523
+traditionally: 0.015523
+translate: 0.015523
+translations: 0.015523
+tree: 0.015523
+unlimited: 0.015523
+unused: 0.015523
+usa: 0.015523
+use: 0.201799
+used: 0.062092
+uses: 0.031046
+versions: 0.015523
+warranties: 0.031046
+warranty: 0.015523
+way: 0.015523
+widely: 0.015523
+working: 0.015523
+works: 0.031046
+written: 0.015523
+zones: 0.015523

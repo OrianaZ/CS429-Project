@@ -1,0 +1,4901 @@
+Vocabulary:
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+195
+1997
+1998
+1999
+20
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+360
+aaa
+aarp
+aasriya
+ab
+abarth
+abb
+abbott
+abbvie
+abc
+able
+abogado
+abu
+abudhabi
+abuse
+ac
+academic
+academy
+accent
+accenture
+accountant
+accountants
+aco
+active
+actor
+ad
+adac
+address
+addresses
+adetic
+administration
+administrative
+ads
+adult
+advanced
+ae
+aeg
+aero
+aerovias
+aetna
+af
+afamilycompany
+affairs
+affiliate
+affinity
+afilias
+afl
+africa
+afrinic
+ag
+aga
+agakhan
+age
+agence
+agency
+agência
+ahlmann
+aig
+aigo
+air
+airbus
+airforce
+airtel
+akdn
+aktiebolag
+aktiebolaget
+aktiengesellschaft
+al
+albahrain
+alfaromeo
+algeria
+alibaba
+alipay
+allfinanz
+allgemeiner
+alliance
+allocation
+allstate
+ally
+alsace
+alstom
+amazon
+america
+american
+americanexpress
+americanfamily
+americano
+amex
+amfam
+amica
+amsterdam
+analytics
+android
+angola
+annco
+annuity
+anonima
+anquan
+antilles
+anz
+ao
+aol
+apartments
+app
+apple
+apr
+april
+aquarelle
+aquarius
+arab
+arabia
+arabic
+aramco
+arcep
+archi
+argentaria
+armenia
+armenian
+army
+arpa
+arrangements
+art
+artci
+arte
+artemis
+aruba
+arzneimittel
+asa
+asbl
+asda
+asia
+asiamix
+asociación
+asset
+assets
+assignment
+assistance
+associates
+association
+associação
+assurance
+atgron
+athleta
+atomic
+attorney
+au
+auburn
+auction
+audi
+audible
+audio
+audit
+audits
+aug
+augstein
+auspost
+australia
+australian
+author
+authority
+auto
+automobil
+automobile
+automobiles
+automobili
+autonomous
+autoridade
+autorite
+autorité
+autos
+avenue
+avianca
+aws
+ax
+axa
+azure
+baby
+bahrain
+baidu
+banamex
+bananarepublic
+banca
+banco
+band
+bangla
+bangladesh
+bangning
+bank
+banking
+bar
+barcelona
+barclaycard
+barclays
+barefoot
+bargains
+baseball
+basketball
+bauhaus
+baxter
+bayerische
+bayern
+bb
+bbc
+bbt
+bbva
+bby
+bcg
+bcn
+beach
+beats
+beauty
+bee
+beer
+beijing
+bel
+belarus
+belarusian
+bengali
+benin
+bentley
+berlin
+bermuda
+best
+bestbuy
+besttld
+bet
+bf
+bg
+bh
+bharti
+bhd
+bi
+bible
+bid
+big
+bike
+bilbao
+bilgi
+bilgisayar
+bing
+bingo
+binky
+bio
+birch
+bissau
+bitter
+biz
+bj
+black
+blackfriday
+blanco
+blockbuster
+blog
+bloom
+bloomberg
+blue
+bm
+bms
+bmw
+bn
+bnl
+bnnic
+bnp
+bnpparibas
+boats
+boehringer
+bofa
+bom
+bond
+boo
+book
+booking
+boots
+bosch
+bostik
+boston
+bot
+botswana
+boutique
+box
+br
+bradesco
+bradstreet
+branch
+brand
+brasil
+brice
+bridgestone
+bristol
+british
+broadcasting
+broadway
+broker
+brokerage
+brother
+brregistry
+brunei
+brussels
+btk
+budapest
+bugatti
+build
+builders
+bulgaria
+bulgarian
+bureau
+burkina
+business
+businessralliart
+buy
+buzz
+bw
+bzh
+bénin
+ca
+cab
+cabinet
+cablesystems
+cafe
+caixa
+cal
+calvinklein
+cam
+camera
+cameroon
+camp
+campus
+canada
+canadian
+cancer
+cancerresearch
+canon
+canyon
+capetown
+capital
+capitalone
+capricorn
+car
+caravan
+cards
+care
+career
+careers
+caribe
+cars
+cartier
+casa
+case
+caseih
+cash
+casino
+castle
+casualty
+cat
+catering
+catholic
+cba
+cbn
+cbre
+cbs
+cctld
+cd
+ceb
+cedar
+celebrate
+cellulosa
+center
+centers
+central
+centre
+centres
+century
+ceo
+ceotld
+cern
+cessation
+cfa
+cfd
+chad
+chanel
+channel
+charity
+charleston
+chase
+chat
+cheap
+chef
+chemins
+china
+chinese
+chintai
+chloe
+christian
+christmas
+chrome
+chrysler
+church
+ci
+cipriani
+circle
+cisco
+citadel
+citi
+citic
+citigroup
+city
+cityeats
+claims
+cleaning
+click
+clinic
+clinique
+clothing
+cloud
+club
+clubmed
+cm
+cmc
+cnh
+coach
+code
+codes
+coffee
+collectivité
+college
+cologne
+colombia
+com
+combell
+comcast
+comercio
+commbank
+commercial
+commission
+committee
+commonwealth
+communication
+communications
+community
+companies
+company
+compare
+computer
+comsec
+comunicacoes
+comunicationibus
+comunicação
+comunicações
+comunidad
+condos
+confederation
+congo
+congolais
+connect
+connecting
+consilium
+construction
+consultancy
+consultation
+consulting
+contact
+content
+continente
+contingency
+continuity
+contractors
+cooking
+cookingchannel
+cool
+coop
+cooperative
+coordenação
+coordinate
+coordination
+core
+corn
+corner
+corp
+corporation
+corse
+corsica
+cosméticos
+cote
+cotton
+council
+country
+coupon
+coupons
+courses
+couture
+cover
+cpa
+cra
+creative
+credit
+creditcard
+creditunion
+crescent
+cricket
+cross
+crown
+crs
+cruise
+cruises
+csc
+cuisinella
+cuna
+curaçao
+customer
+cv
+cw
+cx
+cymru
+cyou
+cypress
+cyrillic
+côte
+da
+dabur
+dad
+daddy
+dai
+dale
+dance
+darussalam
+das
+dash
+data
+database
+datacom
+date
+dating
+datsun
+day
+dbs
+dclk
+dds
+deal
+dealer
+deals
+degradation
+degree
+del
+delegation
+deletion
+delivery
+dell
+deloitte
+delta
+democrat
+democratic
+dental
+dentist
+department
+depot
+derautos
+derboats
+derhomes
+dermotorcycles
+deryachts
+des
+desi
+design
+deutsche
+deutscher
+deutschland
+dev
+development
+developments
+dh
+dhabi
+dhl
+diamonds
+diet
+digital
+digity
+direct
+directory
+discount
+discover
+diseño
+dish
+disney
+distributeurs
+division
+diy
+dm
+dnhc
+dnp
+dns
+docs
+doctor
+documents
+dodge
+dog
+doha
+domain
+domains
+doosan
+dot
+dotberlin
+dotbroker
+dotcareer
+dotcfd
+dotcool
+dotcooperation
+dotforex
+dothealth
+dothiv
+dothost
+dotkids
+dotkoeln
+dotmarkets
+dotmusic
+dotonline
+dotpress
+dotqpon
+dotrealestate
+dotreise
+dotsaarland
+dotsite
+dotspace
+dotspreadbetting
+dotstore
+dotstrategy
+dottrading
+dotversicherung
+dotwebsite
+download
+drive
+driver
+dsrt
+dtv
+du
+dubai
+duck
+dun
+dunlop
+duns
+dupont
+durban
+dutch
+dvag
+dvr
+dwango
+dynamite
+développement
+eagle
+earth
+east
+eat
+ebu
+eco
+ecom
+economic
+edeka
+edge
+edouard
+education
+ee
+eesti
+egypt
+el
+electrolux
+electronic
+electronics
+electroniques
+electrònico
+elegant
+eli
+elite
+email
+emarat
+emerck
+emergency
+emirates
+empresa
+end
+endeavor
+energy
+engineer
+engineering
+enterprises
+entertainment
+epost
+epson
+equipment
+ericsson
+erni
+es
+esq
+establishment
+estalvis
+estate
+estonia
+estée
+esurance
+et
+etisalat
+eu
+eurid
+eurodrive
+europe
+european
+européenne
+eurovision
+eus
+evaluative
+events
+everbank
+excellence
+excellent
+exchange
+exclusive
+expert
+exposed
+express
+extra
+extraspace
+fa
+fage
+fail
+fairwinds
+faith
+falasteen
+falls
+family
+fan
+fans
+farm
+farmers
+farms
+fashion
+faso
+fca
+feb
+federaciòn
+federal
+federated
+federation
+federations
+fedex
+feedback
+fegistry
+fer
+fern
+ferrari
+ferrero
+fest
+fiat
+fiba
+fidelity
+fido
+fields
+film
+final
+finance
+financial
+firestone
+firmdale
+fish
+fishing
+fit
+fitness
+fk
+flickr
+flights
+flir
+florist
+flowers
+flsmidth
+fly
+fo
+foggy
+fondation
+foo
+food
+foodnetwork
+football
+ford
+forex
+format
+formation
+formatted
+forsale
+forth
+forum
+foundation
+fox
+framework
+francais
+francaise
+france
+française
+free
+fresenius
+frl
+frlregistry
+frogans
+frontdoor
+frontier
+frostbite
+fréquences
+ftld
+ftr
+fujitsu
+fujixerox
+fun
+functions
+fund
+fundazioa
+funding
+furniture
+futbol
+fyi
+fzc
+fédération
+für
+g2xx48c
+ga
+gabon
+gaisf
+gakuen
+gal
+gallery
+galley
+gallo
+gallup
+game
+gamease
+games
+gap
+garden
+gay
+gbiz
+gd
+gdn
+ge
+gea
+gemeente
+gemeinnuetziger
+general
+genossenschaft
+genossenschaften
+gent
+genting
+george
+georgia
+georgian
+gesellschaft
+ggee
+gift
+gifts
+gives
+giving
+glade
+glass
+gle
+glen
+global
+globally
+globo
+glue
+gmail
+gmbh
+gmo
+gobain
+godaddy
+gold
+goldpoint
+golf
+goo
+goodbye
+goodhands
+goodyear
+goog
+google
+goose
+gop
+government
+gr
+grainger
+grand
+gratis
+greece
+greek
+green
+greentech
+gripe
+grocery
+group
+gruppe
+gs
+gtld
+guangdong
+guangzhou
+guardian
+gucci
+guccio
+guge
+guide
+guiné
+guitars
+guru
+gw
+hair
+half
+hallow
+hamburg
+hangout
+hanguk
+haus
+haute
+hbo
+hdfc
+hdfcbank
+health
+healthcare
+hebrew
+heli
+helium
+help
+helsinki
+hermes
+hgtv
+hidden
+hill
+hip
+hiphop
+hisamitsu
+hitachi
+hiv
+hk
+hkt
+hockey
+holdco
+holding
+holdings
+holiday
+hollow
+holly
+home
+homedepot
+homegoods
+homer
+homes
+homesense
+honda
+honeywell
+hong
+hop
+horizon
+horse
+hospedagem
+hospital
+host
+hosting
+hot
+hotel
+hoteles
+hotels
+hotmail
+house
+housing
+hsbc
+ht
+htc
+hu
+hughes
+huyi
+hyatt
+hye
+hyundai
+iana
+iard
+ibm
+icann
+icbc
+ice
+icm
+ics
+icu
+id
+ideas
+identifiers
+idn
+ieee
+ifm
+iinet
+ikano
+ilangai
+imamat
+imdb
+imena
+immo
+immobilien
+incorporated
+incorporation
+india
+inditex
+indonesia
+industria
+industrial
+industries
+infibeam
+infiniti
+info
+information
+informação
+informática
+infrastructure
+infrastructures
+ing
+ingelheim
+ingeniería
+initiatives
+ink
+innovation
+institute
+instituteur
+institution
+insurance
+insure
+insurers
+int
+intel
+intercap
+intercontinentalexchange
+interlink
+international
+internationale
+internationalised
+internet
+interneti
+internetx
+introduction
+intuit
+inversion
+investment
+investments
+ion
+ip
+ipiranga
+iplanrio
+ipv4
+ipv6
+iq
+iran
+iraq
+iri
+irish
+iselect
+islamic
+island
+islands
+ismaili
+israel
+ist
+istanbul
+itau
+itv
+iveco
+ivoire
+iwc
+iyengar
+jaguar
+jan
+japan
+java
+jazair
+jcb
+jcp
+jeep
+jetzt
+jewelry
+jiangsu
+jio
+jlc
+jll
+jmp
+jnj
+jobs
+joburg
+john
+johnson
+joint
+jones
+jordan
+joy
+jp
+jpmorgan
+jprs
+juegos
+jul
+june
+juniper
+juris
+just
+jyoho
+kanton
+kaufen
+kaufmännischer
+kaz
+kazakhstan
+kddi
+ke
+kerry
+kerryhotels
+kerrylogistics
+kerryproperties
+kfh
+kg
+kgaa
+khan
+kia
+kids
+kim
+kinder
+kindle
+kitchen
+kiwi
+kluwer
+kn
+knet
+knob
+knock
+koeln
+koko
+komatsu
+kommun
+kong
+koninklijke
+korea
+korean
+kosher
+kp
+kpmg
+kpn
+krd
+kred
+kredtld
+krg
+kuokgroup
+kurumu
+kuwait
+ky
+kyoto
+kz
+la
+laboratories
+lac
+lacaixa
+lacnic
+ladbrokes
+lake
+lamborghini
+lamer
+lancaster
+lancia
+lancome
+land
+landrover
+lang
+language
+languages
+lanic
+lanka
+lanxess
+lao
+lasalle
+lat
+latin
+latino
+latinoamèrica
+latrobe
+lauder
+lavoro
+law
+lawyer
+lb
+lds
+leader
+leadership
+league
+lease
+lebanon
+lec
+leclerc
+lefrak
+legal
+lego
+leo
+lesotho
+letişim
+level
+lexus
+lgbt
+liability
+liaison
+libra
+licensing
+lidl
+life
+lifeinsurance
+lifestyle
+lighting
+like
+lilly
+limited
+limo
+lincoln
+linde
+lines
+link
+lipsy
+little
+live
+living
+lixil
+llc
+llp
+loan
+loans
+locker
+locus
+loft
+lol
+london
+lone
+lotte
+lotto
+love
+lpl
+lplfinancial
+ls
+lsnic
+ltda
+lundbeck
+lupin
+lux
+luxe
+luxury
+lvoire
+lw
+ly
+ma
+maarten
+macao
+macedonia
+macedonian
+machines
+macys
+madison
+madrid
+maghrib
+magic
+maif
+maison
+makeup
+malaysia
+mali
+man
+management
+mango
+manor
+map
+maple
+market
+marketing
+markets
+marriott
+marshalls
+mart
+maserati
+massachusetts
+matrix
+mattel
+matters
+mba
+mbh
+mccook
+mcd
+mcdonald
+mcdonalds
+mckinsey
+md
+mechanism
+med
+media
+medistry
+meet
+melbourne
+memo
+memorial
+men
+menu
+meo
+merchant
+merck
+merckmsd
+metlife
+metropolitan
+miami
+microsoft
+minds
+mini
+ministry
+mint
+misr
+mit
+mitsubishi
+mk
+mkhedruli
+ml
+mlb
+mls
+mma
+mni
+mo
+mobi
+mobile
+mobily
+moda
+moe
+moi
+mom
+mon
+monash
+money
+mongolia
+monolith
+monster
+montblanc
+montenegro
+moon
+mopar
+mormon
+morocco
+morris
+mortgage
+moscow
+motion
+moto
+motor
+motorcycles
+motoren
+motorola
+motors
+movie
+movistar
+ms
+msd
+mtn
+mtpc
+mtr
+mu
+municipal
+municipality
+municipi
+museum
+music
+mutual
+mutualité
+mutuelle
+mw
+myers
+méditerranée
+na
+nab
+nacional
+nadex
+nagoya
+nama
+names
+naming
+national
+nationale
+nationwide
+natura
+navigation
+navy
+nawang
+nazionale
+nba
+nec
+nederland
+nemours
+net
+netbank
+netcologne
+netflix
+netherlands
+network
+networks
+neustar
+new
+newholland
+news
+nextdirect
+nexus
+nfl
+ng
+ngo
+nhk
+nic
+nico
+niederlassung
+nigeria
+nike
+nikon
+ninja
+nippon
+nissan
+nissay
+nms
+nokia
+nominet
+north
+northwestern
+northwesternmutual
+norton
+nouakchott
+nov
+nova
+november
+nowruz
+nowtv
+npc
+nra
+nrw
+ns1
+ntt
+nuclear
+number
+numbers
+numériques
+nv
+nyc
+núcleo
+oaks
+oath
+obi
+observer
+occupied
+oct
+october
+office
+okinawa
+olayan
+olayangroup
+oldnavy
+ollo
+om
+oman
+omega
+ong
+onl
+online
+onyourside
+ooo
+op3ft
+open
+operations
+operatives
+ops
+oracle
+orange
+orchard
+ordon
+org
+organic
+organisations
+organization
+organizational
+orient
+orientexpress
+origins
+oréal
+osaka
+otsuka
+ott
+outer
+ovh
+pacific
+page
+pakistan
+palestinian
+pampered
+pamperedchef
+panasonic
+panerai
+paper
+para
+paribas
+paris
+park
+pars
+participation
+participações
+partners
+parts
+party
+pass
+passagens
+pay
+pccs
+pccw
+pearl
+pengelola
+pensions
+people
+performance
+perkumpulan
+personals
+pet
+petroleo
+petroleum
+pfizer
+pharma
+pharmaceutical
+phd
+philips
+phone
+photo
+photography
+photos
+physbiz
+physio
+piaget
+pics
+pictet
+picture
+pictures
+pid
+pike
+pin
+pine
+ping
+pink
+pioneer
+pipe
+pir
+pizza
+place
+plan
+play
+playstation
+plc
+plumbing
+plus
+pn
+pnc
+pohl
+pointquébec
+poker
+policies
+policy
+politie
+pont
+pontifical
+pontificium
+ponto
+populi
+porn
+portugal
+portuguese
+post
+postal
+poste
+postes
+posts
+pramerica
+praxi
+premier
+presentations
+press
+pricewaterhousecoopers
+prime
+printing
+privacy
+private
+pro
+procedure
+procedures
+processing
+prod
+product
+productions
+products
+produtos
+prof
+progress
+progressive
+promo
+promotion
+promotora
+properties
+property
+proprietary
+protection
+protocol
+protocols
+provide
+provided
+provider
+pru
+prudential
+ps
+pt
+pte
+pty
+pub
+publ
+public
+puff
+punkt
+punto
+puntogal
+puntueus
+pvh
+pw
+pwc
+qa
+qatar
+qianxiang
+qihoo
+qpon
+quality
+quebec
+quest
+qvc
+racing
+radio
+radiocommunications
+radiotelephone
+radix
+raid
+read
+real
+realestate
+realtor
+realty
+recipes
+recognition
+red
+redelegation
+redstone
+redumbrella
+reg
+regiodot
+region
+regional
+register
+registrar
+registration
+registries
+registry
+registrydienstleistungen
+reglementation
+reguladora
+regulation
+regulator
+regulatory
+rehab
+reise
+reisen
+reit
+related
+relative
+release
+reliable
+reliance
+remaining
+removal
+ren
+rent
+rentals
+repair
+report
+reporting
+reports
+repository
+represented
+representing
+republic
+republican
+request
+research
+reservations
+resonant
+resorts
+resources
+rest
+restaurant
+review
+reviews
+revocation
+rexroth
+rich
+richardli
+richemont
+ricoh
+right
+rightathome
+ril
+rio
+rip
+rise
+ritt
+river
+rmit
+road
+robert
+robot
+rocher
+rocks
+rodeo
+rogers
+romeo
+room
+root
+rover
+royal
+rs
+ru
+rubber
+ruby
+rudolf
+rugby
+ruhr
+run
+rusnames
+russian
+rw
+rwanda
+rwe
+ryukyu
+régulation
+sa
+saarland
+safe
+safety
+saint
+sakura
+sale
+salm
+salon
+sample
+samsclub
+samsung
+san
+sand
+sandvik
+sandvikcoromant
+sanofi
+sap
+sapo
+sarl
+sas
+satellite
+saudi
+saudiah
+save
+saxo
+sbi
+sbs
+sca
+scb
+schaeffler
+schmidt
+scholarships
+school
+schule
+schwarz
+science
+sciences
+scjohnson
+scor
+scorpio
+scot
+script
+sd
+sdn
+sds
+se
+sea
+search
+seat
+second
+secteurs
+secure
+security
+seek
+seiko
+select
+selection
+self
+sener
+serbia
+serbian
+server
+servers
+service
+services
+servicos
+ses
+seven
+severin
+sew
+sex
+sexy
+sfr
+shadow
+shangri
+shangrila
+shareholdings
+sharp
+shaw
+shell
+shia
+shiksha
+shoes
+shop
+shopping
+shortdot
+shouji
+showtime
+shriram
+siam
+sihtasutus
+silk
+silver
+sina
+singapore
+singles
+sinhalese
+sint
+sistemas
+site
+sites
+ski
+skin
+skopje
+sky
+skype
+sling
+smart
+smile
+sncf
+snow
+soccer
+social
+socialibus
+sociedad
+societe
+society
+société
+softbank
+software
+sohu
+solar
+solutions
+somalia
+song
+sons
+sony
+sourya
+south
+soy
+spa
+space
+special
+specialty
+spectrum
+spiegel
+sport
+sportaccord
+sports
+spot
+spreadbetting
+spring
+squibb
+srb
+sri
+srl
+srt
+ss
+stable
+stada
+staples
+star
+starbucks
+starhub
+starting
+state
+statebank
+statefarm
+states
+station
+statoil
+stc
+stcgroup
+steel
+sti
+stock
+stockholm
+stockholms
+storage
+store
+stores
+storm
+strategic
+stream
+studio
+study
+style
+sucks
+sudan
+sugar
+suhub
+sundram
+sunset
+supplies
+supply
+support
+supreme
+surf
+surgery
+survey
+sustainable
+suzuki
+svenska
+sverige
+swatch
+swiftcover
+swiss
+sx
+sy
+sydney
+symantec
+syrian
+systems
+systrust
+tab
+tabcorp
+taipei
+taiwan
+talk
+tamil
+tanabe
+tanzania
+taobao
+target
+tata
+tatamotors
+tatar
+tatarstan
+tattoo
+tax
+taxi
+tci
+td
+tdk
+teachers
+team
+tech
+technical
+technologies
+technology
+tecnologias
+teknolojileri
+tel
+tele
+telecity
+telecitygroup
+telecom
+telecommunication
+telecommunications
+telefonaktiebolaget
+telefonica
+telefónica
+telegraph
+telekommunikation
+telephone
+telnames
+temasek
+tennis
+terms
+territoriale
+territory
+test
+teva
+textil
+tf
+tg
+thai
+thailand
+thd
+theater
+theatre
+tiaa
+tic
+tickets
+tienda
+tiffany
+tigers
+time
+times
+timor
+tin
+tips
+tire
+tires
+tirol
+title
+tj
+tjmaxx
+tjx
+tk
+tkmaxx
+tl
+tlc
+tld
+tld2
+tlds
+tmall
+today
+togo
+tohmatsu
+tokyo
+tone
+tools
+toray
+toshiba
+total
+touche
+tours
+town
+toyota
+toys
+tp
+tr
+tra
+trade
+trademark
+trading
+traditional
+trail
+training
+transfer
+transitional
+travel
+travelchannel
+travelers
+travelersinsurance
+trbr
+treasure
+trixy
+trobe
+trust
+trusts
+trv
+tube
+tui
+tunes
+tunis
+tunisia
+tunisienne
+turkey
+tushu
+tvs
+tw
+tycoon
+tz
+télécommunications
+télévision
+ubank
+ubn
+ubs
+uconnect
+uk
+ukr
+ukraine
+um
+und
+unibanco
+unicom
+union
+unipersonal
+unique
+uniregistry
+unit
+united
+universities
+university
+université
+uno
+unr
+uol
+update
+updates
+ups
+usa
+uz
+vacations
+valuetainment
+vana
+vanguard
+variable
+various
+ve
+vegas
+venture
+ventures
+verband
+verisign
+verlag
+vermögensberater
+vermögensberatung
+versicherung
+verwaltungs
+vet
+vg
+viajes
+victor
+victoria
+victory
+video
+vienna
+vig
+viking
+villas
+vin
+vineyards
+vip
+virgin
+visa
+vision
+vista
+vistaprint
+viva
+vivo
+vizcaya
+vlaanderen
+vodka
+volkswagen
+volvo
+vote
+voting
+voto
+vox
+voyage
+vu
+vuelos
+vzw
+wal
+wales
+walmart
+walter
+wang
+wangjing
+warman
+watch
+watches
+way
+weather
+weatherchannel
+webcam
+webconnecting
+weber
+website
+wed
+wedding
+wei
+weibo
+weir
+wellness
+werke
+werkhaus
+west
+white
+whois
+whoswho
+wien
+wiener
+wiki
+wild
+william
+williamhill
+willow
+win
+windows
+wine
+winners
+wme
+wolters
+wolterskluwer
+woods
+woodside
+work
+works
+world
+worldwide
+wow
+written
+wtc
+wtf
+www
+xbox
+xerox
+xfinity
+xiamen
+xihuan
+xin
+xinhua
+xml
+xn
+xperia
+xxx
+xyz
+yachts
+yahoo
+yamaxun
+yandex
+yi
+yodobashi
+yoga
+yokohama
+york
+youtube
+yu
+yugoslav
+yugoslavia
+yun
+za
+zadco
+zambia
+zappos
+zara
+zdns
+zealand
+zero
+zhongguo
+zip
+zippo
+zm
+zodiac
+zone
+zr
+zuerich
+zürich
+ελ
+ευ
+бг
+бел
+дети
+ею
+католик
+ком
+мкд
+мон
+москва
+онлайн
+орг
+рус
+рф
+сайт
+срб
+укр
+қаз
+հայ
+ישראל
+קום
+ابوظبي
+اتصالات
+ارامكو
+الاردن
+البحرين
+الجزائر
+السعودية
+العليان
+المغرب
+امارات
+ایران
+بازار
+بيتك
+تونس
+سودان
+سورية
+شبكة
+عراق
+عرب
+عمان
+فلسطين
+قطر
+كاثوليك
+كوم
+مصر
+مليسيا
+موبايلي
+موريتانيا
+موقع
+همراه
+پاکستان
+गठन
+இலங
+கப
+คอม
+ไทย
+ລາວ
+გე
+みんな
+アマゾン
+クラウド
+グーグル
+コム
+ストア
+セール
+ファッション
+ポイント
+世界
+中信
+中国
+中國
+中文网
+亚马逊
+企业
+佛山
+信息
+健康
+八卦
+公司
+公益
+台湾
+台灣
+商城
+商店
+商标
+嘉里
+嘉里大酒店
+在线
+大众汽车
+大拿
+天主教
+娱乐
+家電
+工行
+广东
+微博
+慈善
+我爱你
+手机
+手表
+招聘
+政务
+政府
+新加坡
+新华通讯社广东分社
+新闻
+时尚
+書籍
+机构
+淡马锡
+游戏
+澳門
+点看
+珠宝
+移动
+组织机构
+网址
+网店
+网站
+网络
+联通
+诺基亚
+谷歌
+购物
+通販
+集团
+電訊盈科
+飞利浦
+食品
+餐厅
+香格里拉
+香港
+닷넷
+닷컴
+삼성
+한국
+
+TF-IDF Matrix:
+01: 0.082072
+02: 0.102391
+03: 0.074901
+04: 0.080080
+05: 0.070120
+06: 0.104782
+07: 0.105180
+08: 0.081674
+09: 0.068128
+10: 0.051395
+11: 0.074104
+12: 0.096017
+13: 0.016335
+14: 0.028287
+15: 0.020319
+16: 0.031076
+17: 0.026693
+18: 0.018725
+19: 0.012749
+195: 0.000398
+1997: 0.000797
+1998: 0.001195
+1999: 0.000398
+20: 0.021116
+2000: 0.003984
+2001: 0.005179
+2002: 0.004383
+2003: 0.003187
+2004: 0.001594
+2005: 0.005976
+2006: 0.002390
+2007: 0.004383
+2008: 0.003984
+2009: 0.002789
+2010: 0.007171
+2011: 0.006375
+2012: 0.004781
+2013: 0.036255
+2014: 0.160957
+2015: 0.156973
+2016: 0.143029
+2017: 0.012749
+2018: 0.011155
+2019: 0.020319
+2020: 0.016733
+2021: 0.045419
+2022: 0.018327
+2023: 0.015936
+2024: 0.011155
+21: 0.027490
+22: 0.023506
+23: 0.021514
+24: 0.019920
+25: 0.029482
+26: 0.028287
+27: 0.020319
+28: 0.019522
+29: 0.023108
+30: 0.011952
+31: 0.013944
+360: 0.001594
+aaa: 0.000398
+aarp: 0.000797
+aasriya: 0.000398
+ab: 0.001992
+abarth: 0.000797
+abb: 0.000797
+abbott: 0.000797
+abbvie: 0.000797
+abc: 0.000398
+able: 0.000797
+abogado: 0.000797
+abu: 0.000797
+abudhabi: 0.000398
+abuse: 0.000398
+ac: 0.000398
+academic: 0.000797
+academy: 0.001594
+accent: 0.000398
+accenture: 0.000797
+accountant: 0.000797
+accountants: 0.000398
+aco: 0.000797
+active: 0.001195
+actor: 0.000797
+ad: 0.000797
+adac: 0.001195
+address: 0.001992
+addresses: 0.000398
+adetic: 0.000398
+administration: 0.000797
+administrative: 0.001195
+ads: 0.000398
+adult: 0.000398
+advanced: 0.000797
+ae: 0.000398
+aeg: 0.000398
+aero: 0.000398
+aerovias: 0.000398
+aetna: 0.000797
+af: 0.000398
+afamilycompany: 0.000797
+affairs: 0.000398
+affiliate: 0.000398
+affinity: 0.000398
+afilias: 0.009163
+afl: 0.000398
+africa: 0.000797
+afrinic: 0.000398
+ag: 0.003984
+aga: 0.003187
+agakhan: 0.000398
+age: 0.000398
+agence: 0.001992
+agency: 0.001195
+agência: 0.000398
+ahlmann: 0.000398
+aig: 0.000398
+aigo: 0.001195
+air: 0.000398
+airbus: 0.000797
+airforce: 0.000797
+airtel: 0.000797
+akdn: 0.000398
+aktiebolag: 0.000398
+aktiebolaget: 0.000797
+aktiengesellschaft: 0.003984
+al: 0.001992
+albahrain: 0.000398
+alfaromeo: 0.000797
+algeria: 0.000398
+alibaba: 0.001992
+alipay: 0.000398
+allfinanz: 0.000797
+allgemeiner: 0.000398
+alliance: 0.000398
+allocation: 0.000398
+allstate: 0.001195
+ally: 0.000797
+alsace: 0.000797
+alstom: 0.000797
+amazon: 0.020717
+america: 0.001594
+american: 0.003187
+americanexpress: 0.000398
+americanfamily: 0.000398
+americano: 0.000398
+amex: 0.000398
+amfam: 0.001195
+amica: 0.000797
+amsterdam: 0.000797
+analytics: 0.000797
+android: 0.000398
+angola: 0.000398
+annco: 0.000398
+annuity: 0.000398
+anonima: 0.000797
+anquan: 0.000398
+antilles: 0.000797
+anz: 0.000398
+ao: 0.000398
+aol: 0.000797
+apartments: 0.000398
+app: 0.000398
+apple: 0.000797
+apr: 0.000398
+april: 0.000398
+aquarelle: 0.000797
+aquarius: 0.000398
+arab: 0.002390
+arabia: 0.000398
+arabic: 0.006773
+aramco: 0.001195
+arcep: 0.000398
+archi: 0.000797
+argentaria: 0.000398
+armenia: 0.000797
+armenian: 0.000398
+army: 0.000797
+arpa: 0.000398
+arrangements: 0.000398
+art: 0.000797
+artci: 0.000398
+arte: 0.000398
+artemis: 0.000398
+aruba: 0.000398
+arzneimittel: 0.000398
+asa: 0.000398
+asbl: 0.000797
+asda: 0.000398
+asia: 0.003187
+asiamix: 0.000797
+asociación: 0.000398
+asset: 0.000398
+assets: 0.000398
+assignment: 0.001195
+assistance: 0.000797
+associates: 0.000398
+association: 0.006773
+associação: 0.000398
+assurance: 0.000398
+atgron: 0.000398
+athleta: 0.000398
+atomic: 0.002390
+attorney: 0.000797
+au: 0.000797
+auburn: 0.000797
+auction: 0.000797
+audi: 0.000797
+audible: 0.000398
+audio: 0.000797
+audit: 0.000398
+audits: 0.000398
+aug: 0.000398
+augstein: 0.000398
+auspost: 0.000398
+australia: 0.003187
+australian: 0.001195
+author: 0.000398
+authority: 0.004781
+auto: 0.000797
+automobil: 0.000398
+automobile: 0.000797
+automobiles: 0.002390
+automobili: 0.000398
+autonomous: 0.000398
+autoridade: 0.000398
+autorite: 0.000398
+autorité: 0.001195
+autos: 0.000797
+avenue: 0.001195
+avianca: 0.001992
+aws: 0.001195
+ax: 0.000398
+axa: 0.001594
+azure: 0.000398
+baby: 0.000797
+bahrain: 0.000797
+baidu: 0.000797
+banamex: 0.000398
+bananarepublic: 0.000797
+banca: 0.000398
+banco: 0.000797
+band: 0.000797
+bangla: 0.000398
+bangladesh: 0.000398
+bangning: 0.000398
+bank: 0.007171
+banking: 0.000398
+bar: 0.000398
+barcelona: 0.001594
+barclaycard: 0.000398
+barclays: 0.001195
+barefoot: 0.000398
+bargains: 0.000398
+baseball: 0.000398
+basketball: 0.000797
+bauhaus: 0.000398
+baxter: 0.000398
+bayerische: 0.000797
+bayern: 0.000797
+bb: 0.000797
+bbc: 0.000398
+bbt: 0.000398
+bbva: 0.000398
+bby: 0.000398
+bcg: 0.000398
+bcn: 0.000398
+beach: 0.020319
+beats: 0.000797
+beauty: 0.000797
+bee: 0.000398
+beer: 0.000797
+beijing: 0.001594
+bel: 0.000398
+belarus: 0.000797
+belarusian: 0.000398
+bengali: 0.000398
+benin: 0.000797
+bentley: 0.000797
+berlin: 0.000398
+bermuda: 0.001195
+best: 0.000398
+bestbuy: 0.000398
+besttld: 0.000398
+bet: 0.000398
+bf: 0.000398
+bg: 0.000797
+bh: 0.000398
+bharti: 0.001195
+bhd: 0.000398
+bi: 0.000398
+bible: 0.000797
+bid: 0.000797
+big: 0.001594
+bike: 0.000398
+bilbao: 0.000398
+bilgi: 0.000398
+bilgisayar: 0.001992
+bing: 0.000398
+bingo: 0.000398
+binky: 0.003187
+bio: 0.000797
+birch: 0.001195
+bissau: 0.000398
+bitter: 0.000398
+biz: 0.000797
+bj: 0.000398
+black: 0.001992
+blackfriday: 0.000797
+blanco: 0.001195
+blockbuster: 0.000398
+blog: 0.000398
+bloom: 0.001594
+bloomberg: 0.000797
+blue: 0.001992
+bm: 0.000398
+bms: 0.000398
+bmw: 0.000398
+bn: 0.000398
+bnl: 0.000797
+bnnic: 0.000398
+bnp: 0.000398
+bnpparibas: 0.000398
+boats: 0.000797
+boehringer: 0.000797
+bofa: 0.000797
+bom: 0.000398
+bond: 0.001195
+boo: 0.000398
+book: 0.000398
+booking: 0.001195
+boots: 0.001195
+bosch: 0.001195
+bostik: 0.000797
+boston: 0.001594
+bot: 0.000398
+botswana: 0.000797
+boutique: 0.000398
+box: 0.001992
+br: 0.001594
+bradesco: 0.000797
+bradstreet: 0.000398
+branch: 0.000398
+brand: 0.000398
+brasil: 0.000398
+brice: 0.001195
+bridgestone: 0.001594
+bristol: 0.000398
+british: 0.000797
+broadcasting: 0.002789
+broadway: 0.000797
+broker: 0.000797
+brokerage: 0.000398
+brother: 0.000797
+brregistry: 0.000797
+brunei: 0.000797
+brussels: 0.000398
+btk: 0.000398
+budapest: 0.000797
+bugatti: 0.001195
+build: 0.000398
+builders: 0.000398
+bulgaria: 0.000398
+bulgarian: 0.000398
+bureau: 0.000797
+burkina: 0.000398
+business: 0.001992
+businessralliart: 0.000797
+buy: 0.000398
+buzz: 0.000398
+bw: 0.000398
+bzh: 0.000797
+bénin: 0.000398
+ca: 0.000398
+cab: 0.000398
+cabinet: 0.000398
+cablesystems: 0.000398
+cafe: 0.000398
+caixa: 0.000398
+cal: 0.000398
+calvinklein: 0.000398
+cam: 0.001195
+camera: 0.001195
+cameroon: 0.000398
+camp: 0.000398
+campus: 0.000398
+canada: 0.000797
+canadian: 0.000398
+cancer: 0.000398
+cancerresearch: 0.000797
+canon: 0.000797
+canyon: 0.000797
+capetown: 0.000398
+capital: 0.001992
+capitalone: 0.000398
+capricorn: 0.000398
+car: 0.000797
+caravan: 0.000797
+cards: 0.000398
+care: 0.000398
+career: 0.000398
+careers: 0.000398
+caribe: 0.000398
+cars: 0.001195
+cartier: 0.000797
+casa: 0.000797
+case: 0.000797
+caseih: 0.000797
+cash: 0.000398
+casino: 0.000398
+castle: 0.000797
+casualty: 0.001195
+cat: 0.000398
+catering: 0.000398
+catholic: 0.000398
+cba: 0.000398
+cbn: 0.000398
+cbre: 0.000797
+cbs: 0.001594
+cctld: 0.003586
+cd: 0.000398
+ceb: 0.000398
+cedar: 0.000398
+celebrate: 0.000398
+cellulosa: 0.000398
+center: 0.005578
+centers: 0.000398
+central: 0.002789
+centre: 0.001992
+centres: 0.000398
+century: 0.000398
+ceo: 0.000797
+ceotld: 0.000398
+cern: 0.000797
+cessation: 0.000398
+cfa: 0.000797
+cfd: 0.000398
+chad: 0.000398
+chanel: 0.000797
+channel: 0.001195
+charity: 0.001195
+charleston: 0.016733
+chase: 0.002390
+chat: 0.000398
+cheap: 0.000398
+chef: 0.000398
+chemins: 0.000398
+china: 0.003586
+chinese: 0.003187
+chintai: 0.000797
+chloe: 0.000797
+christian: 0.000398
+christmas: 0.000797
+chrome: 0.000398
+chrysler: 0.003187
+church: 0.000398
+ci: 0.000398
+cipriani: 0.000797
+circle: 0.000398
+cisco: 0.000797
+citadel: 0.000797
+citi: 0.000398
+citic: 0.001195
+citigroup: 0.000797
+city: 0.002390
+cityeats: 0.000797
+claims: 0.000398
+cleaning: 0.000398
+click: 0.000797
+clinic: 0.000398
+clinique: 0.000398
+clothing: 0.000398
+cloud: 0.000797
+club: 0.001992
+clubmed: 0.000398
+cm: 0.000398
+cmc: 0.000398
+cnh: 0.001594
+coach: 0.000398
+code: 0.000797
+codes: 0.000398
+coffee: 0.000398
+collectivité: 0.000398
+college: 0.000398
+cologne: 0.001195
+colombia: 0.000398
+com: 0.016335
+combell: 0.000398
+comcast: 0.001594
+comercio: 0.000398
+commbank: 0.000398
+commercial: 0.001195
+commission: 0.001195
+committee: 0.000398
+commonwealth: 0.001195
+communication: 0.003586
+communications: 0.006773
+community: 0.000398
+companies: 0.003984
+company: 0.018327
+compare: 0.000797
+computer: 0.001992
+comsec: 0.000398
+comunicacoes: 0.000797
+comunicationibus: 0.001594
+comunicação: 0.000797
+comunicações: 0.000398
+comunidad: 0.000398
+condos: 0.000398
+confederation: 0.000398
+congo: 0.000398
+congolais: 0.000398
+connect: 0.000797
+connecting: 0.000398
+consilium: 0.001594
+construction: 0.000398
+consultancy: 0.000797
+consultation: 0.000797
+consulting: 0.000797
+contact: 0.001992
+content: 0.000398
+continente: 0.000398
+contingency: 0.001992
+continuity: 0.001992
+contractors: 0.000398
+cooking: 0.000797
+cookingchannel: 0.000797
+cool: 0.000398
+coop: 0.000398
+cooperative: 0.000398
+coordenação: 0.000797
+coordinate: 0.000398
+coordination: 0.000797
+core: 0.001195
+corn: 0.001594
+corner: 0.001594
+corp: 0.011554
+corporation: 0.032271
+corse: 0.000398
+corsica: 0.000398
+cosméticos: 0.000398
+cote: 0.000398
+cotton: 0.000797
+council: 0.002789
+country: 0.001594
+coupon: 0.000398
+coupons: 0.000398
+courses: 0.000797
+couture: 0.000398
+cover: 0.001992
+cpa: 0.000398
+cra: 0.000398
+creative: 0.000398
+credit: 0.000398
+creditcard: 0.000398
+creditunion: 0.000797
+crescent: 0.001195
+cricket: 0.000398
+cross: 0.001195
+crown: 0.001195
+crs: 0.000398
+cruise: 0.000398
+cruises: 0.001195
+csc: 0.000797
+cuisinella: 0.000398
+cuna: 0.000398
+curaçao: 0.000398
+customer: 0.001195
+cv: 0.000398
+cw: 0.000398
+cx: 0.000398
+cymru: 0.000398
+cyou: 0.000797
+cypress: 0.001992
+cyrillic: 0.002390
+côte: 0.000398
+da: 0.000398
+dabur: 0.000797
+dad: 0.000398
+daddy: 0.000398
+dai: 0.000398
+dale: 0.000398
+dance: 0.000797
+darussalam: 0.000797
+das: 0.000797
+dash: 0.001195
+data: 0.000797
+database: 0.000398
+datacom: 0.000797
+date: 0.001195
+dating: 0.000398
+datsun: 0.000398
+day: 0.000398
+dbs: 0.004383
+dclk: 0.000398
+dds: 0.000797
+deal: 0.000398
+dealer: 0.001195
+deals: 0.000398
+degradation: 0.000398
+degree: 0.000797
+del: 0.000797
+delegation: 0.514745
+deletion: 0.000398
+delivery: 0.000398
+dell: 0.000797
+deloitte: 0.000797
+delta: 0.002390
+democrat: 0.000797
+democratic: 0.001195
+dental: 0.000398
+dentist: 0.000797
+department: 0.001992
+depot: 0.000797
+derautos: 0.000398
+derboats: 0.000398
+derhomes: 0.000398
+dermotorcycles: 0.000398
+deryachts: 0.000398
+des: 0.004781
+desi: 0.001195
+design: 0.002390
+deutsche: 0.002789
+deutscher: 0.000398
+deutschland: 0.000398
+dev: 0.000398
+development: 0.003586
+developments: 0.000398
+dh: 0.000797
+dhabi: 0.000797
+dhl: 0.000398
+diamonds: 0.000398
+diet: 0.000797
+digital: 0.002390
+digity: 0.000398
+direct: 0.000398
+directory: 0.000398
+discount: 0.000398
+discover: 0.000797
+diseño: 0.000398
+dish: 0.004781
+disney: 0.000398
+distributeurs: 0.000398
+division: 0.000398
+diy: 0.000797
+dm: 0.000398
+dnhc: 0.000797
+dnp: 0.000398
+dns: 0.005578
+docs: 0.000398
+doctor: 0.000398
+documents: 0.000398
+dodge: 0.000797
+dog: 0.020319
+doha: 0.000797
+domain: 0.704787
+domains: 0.007968
+doosan: 0.001195
+dot: 0.009960
+dotberlin: 0.000398
+dotbroker: 0.000398
+dotcareer: 0.000398
+dotcfd: 0.000398
+dotcool: 0.000398
+dotcooperation: 0.000398
+dotforex: 0.000398
+dothealth: 0.000398
+dothiv: 0.000398
+dothost: 0.000398
+dotkids: 0.000398
+dotkoeln: 0.000797
+dotmarkets: 0.000398
+dotmusic: 0.000398
+dotonline: 0.000398
+dotpress: 0.000398
+dotqpon: 0.000398
+dotrealestate: 0.000398
+dotreise: 0.000398
+dotsaarland: 0.000797
+dotsite: 0.000797
+dotspace: 0.000797
+dotspreadbetting: 0.000398
+dotstore: 0.000398
+dotstrategy: 0.000398
+dottrading: 0.000398
+dotversicherung: 0.000398
+dotwebsite: 0.000398
+download: 0.000398
+drive: 0.000398
+driver: 0.000398
+dsrt: 0.000797
+dtv: 0.000398
+du: 0.001195
+dubai: 0.001195
+duck: 0.000797
+dun: 0.000398
+dunlop: 0.000398
+duns: 0.000797
+dupont: 0.001195
+durban: 0.000398
+dutch: 0.000398
+dvag: 0.001992
+dvr: 0.000398
+dwango: 0.000398
+dynamite: 0.001594
+développement: 0.000398
+eagle: 0.000398
+earth: 0.000797
+east: 0.000398
+eat: 0.000398
+ebu: 0.000797
+eco: 0.000398
+ecom: 0.000398
+economic: 0.000398
+edeka: 0.000797
+edge: 0.001195
+edouard: 0.000398
+education: 0.000398
+ee: 0.000398
+eesti: 0.000398
+egypt: 0.000398
+el: 0.001195
+electrolux: 0.000398
+electronic: 0.000797
+electronics: 0.000398
+electroniques: 0.000797
+electrònico: 0.000398
+elegant: 0.000398
+eli: 0.000398
+elite: 0.000398
+email: 0.000398
+emarat: 0.000398
+emerck: 0.000398
+emergency: 0.000797
+emirates: 0.001195
+empresa: 0.000398
+end: 0.000797
+endeavor: 0.000398
+energy: 0.000398
+engineer: 0.000797
+engineering: 0.000398
+enterprises: 0.002390
+entertainment: 0.000797
+epost: 0.000797
+epson: 0.000797
+equipment: 0.000797
+ericsson: 0.000797
+erni: 0.000797
+es: 0.000398
+esq: 0.000398
+establishment: 0.002789
+estalvis: 0.000398
+estate: 0.001594
+estonia: 0.000398
+estée: 0.001195
+esurance: 0.001195
+et: 0.002789
+etisalat: 0.001594
+eu: 0.000797
+eurid: 0.000797
+eurodrive: 0.000398
+europe: 0.000797
+european: 0.001992
+européenne: 0.000398
+eurovision: 0.000398
+eus: 0.000398
+evaluative: 0.000398
+events: 0.000398
+everbank: 0.001195
+excellence: 0.000797
+excellent: 0.000398
+exchange: 0.001594
+exclusive: 0.000398
+expert: 0.000398
+exposed: 0.000398
+express: 0.002390
+extra: 0.001195
+extraspace: 0.000398
+fa: 0.000398
+fage: 0.000797
+fail: 0.000398
+fairwinds: 0.000797
+faith: 0.000797
+falasteen: 0.000398
+falls: 0.003586
+family: 0.000797
+fan: 0.000797
+fans: 0.000797
+farm: 0.000797
+farmers: 0.000797
+farms: 0.000398
+fashion: 0.000797
+faso: 0.000398
+fca: 0.002390
+feb: 0.000398
+federaciòn: 0.000398
+federal: 0.000797
+federated: 0.000398
+federation: 0.000398
+federations: 0.000398
+fedex: 0.000398
+feedback: 0.000398
+fegistry: 0.001195
+fer: 0.000398
+fern: 0.000797
+ferrari: 0.000398
+ferrero: 0.001594
+fest: 0.000797
+fiat: 0.003187
+fiba: 0.000398
+fidelity: 0.000797
+fido: 0.000398
+fields: 0.002390
+film: 0.000398
+final: 0.000398
+finance: 0.001992
+financial: 0.002789
+firestone: 0.000797
+firmdale: 0.000797
+fish: 0.000398
+fishing: 0.000797
+fit: 0.000797
+fitness: 0.000398
+fk: 0.000398
+flickr: 0.001195
+flights: 0.000398
+flir: 0.000797
+florist: 0.000398
+flowers: 0.000797
+flsmidth: 0.001195
+fly: 0.000398
+fo: 0.000398
+foggy: 0.002390
+fondation: 0.001594
+foo: 0.000398
+food: 0.000797
+foodnetwork: 0.000797
+football: 0.000797
+ford: 0.001195
+forex: 0.000797
+format: 0.000398
+formation: 0.000398
+formatted: 0.000398
+forsale: 0.000797
+forth: 0.000398
+forum: 0.000398
+foundation: 0.004781
+fox: 0.003187
+framework: 0.000398
+francais: 0.000398
+francaise: 0.000398
+france: 0.000398
+française: 0.000398
+free: 0.000398
+fresenius: 0.000797
+frl: 0.000398
+frlregistry: 0.000398
+frogans: 0.000398
+frontdoor: 0.000797
+frontier: 0.001195
+frostbite: 0.001992
+fréquences: 0.000398
+ftld: 0.000797
+ftr: 0.000398
+fujitsu: 0.000797
+fujixerox: 0.000797
+fun: 0.001195
+functions: 0.000398
+fund: 0.000398
+fundazioa: 0.000398
+funding: 0.000398
+furniture: 0.000398
+futbol: 0.000797
+fyi: 0.000398
+fzc: 0.003984
+fédération: 0.000797
+für: 0.000797
+g2xx48c: 0.000398
+ga: 0.000398
+gabon: 0.000398
+gaisf: 0.000398
+gakuen: 0.000398
+gal: 0.000398
+gallery: 0.000398
+galley: 0.001992
+gallo: 0.001195
+gallup: 0.000797
+game: 0.000797
+gamease: 0.000398
+games: 0.000797
+gap: 0.001992
+garden: 0.000797
+gay: 0.000797
+gbiz: 0.000398
+gd: 0.000398
+gdn: 0.000398
+ge: 0.000398
+gea: 0.000797
+gemeente: 0.000398
+gemeinnuetziger: 0.000398
+general: 0.000398
+genossenschaft: 0.000398
+genossenschaften: 0.000398
+gent: 0.000398
+genting: 0.000398
+george: 0.000398
+georgia: 0.000398
+georgian: 0.000398
+gesellschaft: 0.000797
+ggee: 0.000398
+gift: 0.000398
+gifts: 0.000398
+gives: 0.001195
+giving: 0.001195
+glade: 0.000797
+glass: 0.000398
+gle: 0.000398
+glen: 0.002390
+global: 0.003586
+globally: 0.000398
+globo: 0.000797
+glue: 0.000398
+gmail: 0.000398
+gmbh: 0.013148
+gmo: 0.002789
+gobain: 0.000398
+godaddy: 0.000398
+gold: 0.000398
+goldpoint: 0.000398
+golf: 0.000398
+goo: 0.000398
+goodbye: 0.001195
+goodhands: 0.000797
+goodyear: 0.001195
+goog: 0.000398
+google: 0.000398
+goose: 0.001594
+gop: 0.000398
+government: 0.002390
+gr: 0.000398
+grainger: 0.000797
+grand: 0.001594
+gratis: 0.000398
+greece: 0.000398
+greek: 0.000797
+green: 0.002789
+greentech: 0.000797
+gripe: 0.000398
+grocery: 0.000398
+group: 0.011554
+gruppe: 0.000398
+gs: 0.000398
+gtld: 0.001195
+guangdong: 0.000398
+guangzhou: 0.001195
+guardian: 0.001195
+gucci: 0.000797
+guccio: 0.000398
+guge: 0.000398
+guide: 0.000398
+guiné: 0.000398
+guitars: 0.000797
+guru: 0.000398
+gw: 0.000797
+hair: 0.000797
+half: 0.002789
+hallow: 0.000398
+hamburg: 0.000797
+hangout: 0.000398
+hanguk: 0.000398
+haus: 0.000797
+haute: 0.000398
+hbo: 0.000797
+hdfc: 0.000797
+hdfcbank: 0.000398
+health: 0.000797
+healthcare: 0.000398
+hebrew: 0.000398
+heli: 0.000398
+helium: 0.000398
+help: 0.000797
+helsinki: 0.000797
+hermes: 0.000797
+hgtv: 0.000797
+hidden: 0.000797
+hill: 0.001195
+hip: 0.000398
+hiphop: 0.000797
+hisamitsu: 0.000797
+hitachi: 0.000797
+hiv: 0.000797
+hk: 0.000797
+hkt: 0.000797
+hockey: 0.000398
+holdco: 0.015140
+holding: 0.006773
+holdings: 0.020319
+holiday: 0.000398
+hollow: 0.001594
+holly: 0.001594
+home: 0.000797
+homedepot: 0.000797
+homegoods: 0.000398
+homer: 0.000797
+homes: 0.000797
+homesense: 0.000398
+honda: 0.000797
+honeywell: 0.001195
+hong: 0.001992
+hop: 0.000398
+horizon: 0.000398
+horse: 0.000797
+hospedagem: 0.000398
+hospital: 0.000398
+host: 0.001195
+hosting: 0.000797
+hot: 0.000398
+hotel: 0.001195
+hoteles: 0.000797
+hotels: 0.000398
+hotmail: 0.000398
+house: 0.002789
+housing: 0.000398
+hsbc: 0.001594
+ht: 0.000398
+htc: 0.001195
+hu: 0.000797
+hughes: 0.001594
+huyi: 0.000398
+hyatt: 0.000797
+hye: 0.000398
+hyundai: 0.000797
+iana: 0.023506
+iard: 0.000398
+ibm: 0.000398
+icann: 0.000398
+icbc: 0.000398
+ice: 0.000398
+icm: 0.001195
+ics: 0.000398
+icu: 0.000797
+id: 0.000398
+ideas: 0.000398
+identifiers: 0.000797
+idn: 0.000398
+ieee: 0.000797
+ifm: 0.000797
+iinet: 0.000797
+ikano: 0.000797
+ilangai: 0.000398
+imamat: 0.000398
+imdb: 0.000398
+imena: 0.000398
+immo: 0.000398
+immobilien: 0.001195
+incorporated: 0.001195
+incorporation: 0.000398
+india: 0.003586
+inditex: 0.000398
+indonesia: 0.000797
+industria: 0.000398
+industrial: 0.002390
+industries: 0.002390
+infibeam: 0.000398
+infiniti: 0.000398
+info: 0.000797
+information: 0.013546
+informação: 0.001195
+informática: 0.000398
+infrastructure: 0.001195
+infrastructures: 0.000398
+ing: 0.000398
+ingelheim: 0.000398
+ingeniería: 0.000398
+initiatives: 0.000398
+ink: 0.000398
+innovation: 0.001594
+institute: 0.002390
+instituteur: 0.000398
+institution: 0.000398
+insurance: 0.006375
+insure: 0.000398
+insurers: 0.000398
+int: 0.000398
+intel: 0.001195
+intercap: 0.001594
+intercontinentalexchange: 0.000398
+interlink: 0.001992
+international: 0.009163
+internationale: 0.000398
+internationalised: 0.000797
+internet: 0.015936
+interneti: 0.000398
+internetx: 0.000797
+introduction: 0.000398
+intuit: 0.001195
+inversion: 0.000797
+investment: 0.000797
+investments: 0.000398
+ion: 0.000398
+ip: 0.003586
+ipiranga: 0.000797
+iplanrio: 0.000398
+ipv4: 0.001195
+ipv6: 0.001594
+iq: 0.000398
+iran: 0.000797
+iraq: 0.000797
+iri: 0.000797
+irish: 0.001195
+iselect: 0.001992
+islamic: 0.000398
+island: 0.001594
+islands: 0.000398
+ismaili: 0.000398
+israel: 0.001195
+ist: 0.000398
+istanbul: 0.001195
+itau: 0.000797
+itv: 0.000797
+iveco: 0.000797
+ivoire: 0.000398
+iwc: 0.000797
+iyengar: 0.000398
+jaguar: 0.001195
+jan: 0.000398
+japan: 0.000797
+java: 0.000398
+jazair: 0.000398
+jcb: 0.000797
+jcp: 0.001195
+jeep: 0.000398
+jetzt: 0.000398
+jewelry: 0.000398
+jiangsu: 0.000398
+jio: 0.000398
+jlc: 0.000797
+jll: 0.000398
+jmp: 0.000398
+jnj: 0.000398
+jobs: 0.000398
+joburg: 0.000398
+john: 0.002390
+johnson: 0.004383
+joint: 0.000797
+jones: 0.000797
+jordan: 0.000398
+joy: 0.000398
+jp: 0.000797
+jpmorgan: 0.002390
+jprs: 0.000398
+juegos: 0.000797
+jul: 0.000398
+june: 0.001992
+juniper: 0.000797
+juris: 0.000398
+just: 0.001195
+jyoho: 0.000398
+kanton: 0.000398
+kaufen: 0.000797
+kaufmännischer: 0.000398
+kaz: 0.000398
+kazakhstan: 0.000398
+kddi: 0.000797
+ke: 0.000398
+kerry: 0.002390
+kerryhotels: 0.000398
+kerrylogistics: 0.000398
+kerryproperties: 0.000398
+kfh: 0.000398
+kg: 0.003586
+kgaa: 0.000797
+khan: 0.003187
+kia: 0.000797
+kids: 0.000398
+kim: 0.000398
+kinder: 0.000797
+kindle: 0.000398
+kitchen: 0.000398
+kiwi: 0.000797
+kluwer: 0.000398
+kn: 0.000398
+knet: 0.000398
+knob: 0.000398
+knock: 0.000797
+koeln: 0.001195
+koko: 0.001992
+komatsu: 0.000797
+kommun: 0.000398
+kong: 0.001992
+koninklijke: 0.001195
+korea: 0.001195
+korean: 0.000398
+kosher: 0.000797
+kp: 0.000797
+kpmg: 0.001195
+kpn: 0.000797
+krd: 0.000398
+kred: 0.000398
+kredtld: 0.000398
+krg: 0.000398
+kuokgroup: 0.000398
+kurumu: 0.000398
+kuwait: 0.000797
+ky: 0.000398
+kyoto: 0.000797
+kz: 0.000398
+la: 0.003984
+laboratories: 0.000398
+lac: 0.000398
+lacaixa: 0.000398
+lacnic: 0.000398
+ladbrokes: 0.001195
+lake: 0.002390
+lamborghini: 0.000797
+lamer: 0.000398
+lancaster: 0.000797
+lancia: 0.000797
+lancome: 0.000797
+land: 0.001195
+landrover: 0.000398
+lang: 0.000797
+language: 0.000398
+languages: 0.000797
+lanic: 0.000398
+lanka: 0.001195
+lanxess: 0.000797
+lao: 0.001594
+lasalle: 0.001195
+lat: 0.000797
+latin: 0.000797
+latino: 0.000398
+latinoamèrica: 0.000398
+latrobe: 0.000398
+lauder: 0.001195
+lavoro: 0.000398
+law: 0.001594
+lawyer: 0.000797
+lb: 0.000398
+lds: 0.000398
+leader: 0.000398
+leadership: 0.000398
+league: 0.001195
+lease: 0.000398
+lebanon: 0.000797
+lec: 0.000398
+leclerc: 0.000797
+lefrak: 0.000797
+legal: 0.000398
+lego: 0.000797
+leo: 0.000398
+lesotho: 0.000797
+letişim: 0.000398
+level: 0.046614
+lexus: 0.000398
+lgbt: 0.000398
+liability: 0.000398
+liaison: 0.001195
+libra: 0.000398
+licensing: 0.000398
+lidl: 0.000398
+life: 0.001992
+lifeinsurance: 0.000398
+lifestyle: 0.005179
+lighting: 0.000398
+like: 0.000398
+lilly: 0.000797
+limited: 0.066136
+limo: 0.000398
+lincoln: 0.000398
+linde: 0.001195
+lines: 0.000398
+link: 0.000797
+lipsy: 0.000797
+little: 0.001195
+live: 0.000797
+living: 0.000797
+lixil: 0.001195
+llc: 0.164145
+llp: 0.001992
+loan: 0.000797
+loans: 0.000398
+locker: 0.000797
+locus: 0.000797
+loft: 0.000797
+lol: 0.000797
+london: 0.000797
+lone: 0.001594
+lotte: 0.000797
+lotto: 0.000398
+love: 0.000398
+lpl: 0.001195
+lplfinancial: 0.000398
+ls: 0.000398
+lsnic: 0.000398
+ltda: 0.001594
+lundbeck: 0.000797
+lupin: 0.001195
+lux: 0.001195
+luxe: 0.000797
+luxury: 0.000797
+lvoire: 0.000398
+lw: 0.000398
+ly: 0.000398
+ma: 0.000398
+maarten: 0.000398
+macao: 0.001195
+macedonia: 0.000398
+macedonian: 0.000398
+machines: 0.003984
+macys: 0.001195
+madison: 0.002390
+madrid: 0.000797
+maghrib: 0.000398
+magic: 0.001594
+maif: 0.000797
+maison: 0.000398
+makeup: 0.000797
+malaysia: 0.000398
+mali: 0.000398
+man: 0.000797
+management: 0.002789
+mango: 0.000398
+manor: 0.000797
+map: 0.000398
+maple: 0.001992
+market: 0.001195
+marketing: 0.000797
+markets: 0.000797
+marriott: 0.000797
+marshalls: 0.000398
+mart: 0.001992
+maserati: 0.000797
+massachusetts: 0.000398
+matrix: 0.000398
+mattel: 0.000797
+matters: 0.000398
+mba: 0.000398
+mbh: 0.000797
+mccook: 0.001195
+mcd: 0.000797
+mcdonald: 0.000797
+mcdonalds: 0.000797
+mckinsey: 0.000797
+md: 0.000398
+mechanism: 0.000398
+med: 0.000398
+media: 0.002789
+medistry: 0.000398
+meet: 0.000797
+melbourne: 0.000797
+memo: 0.002789
+memorial: 0.000398
+men: 0.000398
+menu: 0.000398
+meo: 0.000797
+merchant: 0.000398
+merck: 0.000398
+merckmsd: 0.000398
+metlife: 0.001195
+metropolitan: 0.000797
+miami: 0.000797
+microsoft: 0.003586
+minds: 0.002789
+mini: 0.000398
+ministry: 0.002390
+mint: 0.000398
+misr: 0.000398
+mit: 0.000398
+mitsubishi: 0.001195
+mk: 0.000398
+mkhedruli: 0.000398
+ml: 0.000398
+mlb: 0.001195
+mls: 0.000398
+mma: 0.000797
+mni: 0.000398
+mo: 0.000398
+mobi: 0.000398
+mobile: 0.000797
+mobily: 0.000797
+moda: 0.000797
+moe: 0.000797
+moi: 0.000398
+mom: 0.000797
+mon: 0.000398
+monash: 0.000797
+money: 0.000398
+mongolia: 0.000398
+monolith: 0.000797
+monster: 0.001195
+montblanc: 0.000797
+montenegro: 0.000398
+moon: 0.002789
+mopar: 0.000797
+mormon: 0.000398
+morocco: 0.000398
+morris: 0.000398
+mortgage: 0.000797
+moscow: 0.000398
+motion: 0.000398
+moto: 0.000398
+motor: 0.003984
+motorcycles: 0.000797
+motoren: 0.000797
+motorola: 0.000398
+motors: 0.001195
+movie: 0.000797
+movistar: 0.000797
+ms: 0.000398
+msd: 0.001195
+mtn: 0.000797
+mtpc: 0.000797
+mtr: 0.000797
+mu: 0.000398
+municipal: 0.000398
+municipality: 0.000797
+municipi: 0.000797
+museum: 0.000398
+music: 0.000398
+mutual: 0.003187
+mutualité: 0.000398
+mutuelle: 0.001195
+mw: 0.000398
+myers: 0.000398
+méditerranée: 0.000398
+na: 0.000398
+nab: 0.000398
+nacional: 0.000797
+nadex: 0.001195
+nagoya: 0.000398
+nama: 0.000398
+names: 0.001594
+naming: 0.005179
+national: 0.005179
+nationale: 0.001594
+nationwide: 0.001594
+natura: 0.000797
+navigation: 0.000398
+navy: 0.000797
+nawang: 0.000398
+nazionale: 0.000398
+nba: 0.000797
+nec: 0.000797
+nederland: 0.000398
+nemours: 0.000398
+net: 0.000797
+netbank: 0.000398
+netcologne: 0.000797
+netflix: 0.000797
+netherlands: 0.000797
+network: 0.007171
+networks: 0.001195
+neustar: 0.000797
+new: 0.004383
+newholland: 0.000797
+news: 0.003984
+nextdirect: 0.000398
+nexus: 0.000398
+nfl: 0.000797
+ng: 0.000797
+ngo: 0.000398
+nhk: 0.000797
+nic: 0.000797
+nico: 0.000398
+niederlassung: 0.000398
+nigeria: 0.000398
+nike: 0.000797
+nikon: 0.000797
+ninja: 0.000797
+nippon: 0.001195
+nissan: 0.001594
+nissay: 0.000398
+nms: 0.000398
+nokia: 0.000797
+nominet: 0.000797
+north: 0.000398
+northwestern: 0.000797
+northwesternmutual: 0.000797
+norton: 0.000398
+nouakchott: 0.000398
+nov: 0.000398
+nova: 0.000398
+november: 0.001195
+nowruz: 0.000398
+nowtv: 0.000398
+npc: 0.001594
+nra: 0.000797
+nrw: 0.000797
+ns1: 0.000398
+ntt: 0.000797
+nuclear: 0.000398
+number: 0.000797
+numbers: 0.000398
+numériques: 0.000398
+nv: 0.000398
+nyc: 0.000398
+núcleo: 0.000797
+oaks: 0.001195
+oath: 0.000398
+obi: 0.000797
+observer: 0.001195
+occupied: 0.000398
+oct: 0.000398
+october: 0.000398
+office: 0.000797
+okinawa: 0.000797
+olayan: 0.000398
+olayangroup: 0.000398
+oldnavy: 0.000797
+ollo: 0.000398
+om: 0.000398
+oman: 0.001195
+omega: 0.000398
+ong: 0.000398
+onl: 0.000398
+online: 0.001195
+onyourside: 0.000797
+ooo: 0.000398
+op3ft: 0.000398
+open: 0.001594
+operations: 0.003187
+operatives: 0.000398
+ops: 0.000398
+oracle: 0.001195
+orange: 0.001195
+orchard: 0.002789
+ordon: 0.000398
+org: 0.000398
+organic: 0.000398
+organisations: 0.000398
+organization: 0.001195
+organizational: 0.000797
+orient: 0.000398
+orientexpress: 0.000797
+origins: 0.000398
+oréal: 0.001992
+osaka: 0.000398
+otsuka: 0.000797
+ott: 0.000398
+outer: 0.002390
+ovh: 0.000797
+pacific: 0.000398
+page: 0.000398
+pakistan: 0.000797
+palestinian: 0.000398
+pampered: 0.000398
+pamperedchef: 0.000797
+panasonic: 0.000797
+panerai: 0.000797
+paper: 0.000398
+para: 0.000398
+paribas: 0.000398
+paris: 0.000797
+park: 0.001992
+pars: 0.000398
+participation: 0.000398
+participações: 0.000398
+partners: 0.001195
+parts: 0.000398
+party: 0.000398
+pass: 0.001195
+passagens: 0.000797
+pay: 0.000398
+pccs: 0.001594
+pccw: 0.001594
+pearl: 0.000398
+pengelola: 0.000398
+pensions: 0.000398
+people: 0.000797
+performance: 0.001992
+perkumpulan: 0.000398
+personals: 0.000398
+pet: 0.000398
+petroleo: 0.000398
+petroleum: 0.000398
+pfizer: 0.000797
+pharma: 0.000398
+pharmaceutical: 0.000797
+phd: 0.000398
+philips: 0.001195
+phone: 0.000398
+photo: 0.000797
+photography: 0.000398
+photos: 0.000398
+physbiz: 0.000398
+physio: 0.000398
+piaget: 0.000797
+pics: 0.000398
+pictet: 0.000797
+picture: 0.000398
+pictures: 0.000398
+pid: 0.000398
+pike: 0.000398
+pin: 0.000398
+pine: 0.001992
+ping: 0.000797
+pink: 0.000398
+pioneer: 0.003586
+pipe: 0.000398
+pir: 0.000398
+pizza: 0.000398
+place: 0.000398
+plan: 0.002390
+play: 0.000398
+playstation: 0.000398
+plc: 0.004781
+plumbing: 0.000398
+plus: 0.000398
+pn: 0.000797
+pnc: 0.000797
+pohl: 0.000398
+pointquébec: 0.000398
+poker: 0.000398
+policies: 0.000398
+policy: 0.000797
+politie: 0.000797
+pont: 0.000398
+pontifical: 0.001594
+pontificium: 0.001594
+ponto: 0.000797
+populi: 0.000398
+porn: 0.000398
+portugal: 0.000398
+portuguese: 0.000398
+post: 0.001594
+postal: 0.000398
+poste: 0.000398
+postes: 0.000797
+posts: 0.000797
+pramerica: 0.000398
+praxi: 0.000797
+premier: 0.000797
+presentations: 0.000398
+press: 0.001195
+pricewaterhousecoopers: 0.000398
+prime: 0.000398
+printing: 0.000398
+privacy: 0.000398
+private: 0.001992
+pro: 0.000797
+procedure: 0.000398
+procedures: 0.000797
+processing: 0.000398
+prod: 0.000398
+product: 0.000797
+productions: 0.000398
+products: 0.000398
+produtos: 0.000398
+prof: 0.000398
+progress: 0.001594
+progressive: 0.000797
+promo: 0.000398
+promotion: 0.000398
+promotora: 0.000797
+properties: 0.000398
+property: 0.001594
+proprietary: 0.000398
+protection: 0.000398
+protocol: 0.000398
+protocols: 0.000797
+provide: 0.000398
+provided: 0.000398
+provider: 0.000398
+pru: 0.000398
+prudential: 0.001594
+ps: 0.000797
+pt: 0.001594
+pte: 0.000797
+pty: 0.003586
+pub: 0.000797
+publ: 0.000398
+public: 0.005578
+puff: 0.000398
+punkt: 0.001594
+punto: 0.001195
+puntogal: 0.000398
+puntueus: 0.000398
+pvh: 0.000398
+pw: 0.000398
+pwc: 0.000398
+qa: 0.000398
+qatar: 0.001195
+qianxiang: 0.000398
+qihoo: 0.001594
+qpon: 0.000797
+quality: 0.000398
+quebec: 0.000398
+quest: 0.001195
+qvc: 0.001195
+racing: 0.000398
+radio: 0.000398
+radiocommunications: 0.000398
+radiotelephone: 0.000398
+radix: 0.007968
+raid: 0.000797
+read: 0.000398
+real: 0.001195
+realestate: 0.000398
+realtor: 0.000398
+realty: 0.001195
+recipes: 0.000398
+recognition: 0.000797
+red: 0.000398
+redelegation: 0.032670
+redstone: 0.000797
+redumbrella: 0.000398
+reg: 0.000398
+regiodot: 0.000398
+region: 0.000398
+regional: 0.001594
+register: 0.000398
+registrar: 0.000398
+registration: 0.000797
+registries: 0.000797
+registry: 0.083268
+registrydienstleistungen: 0.000398
+reglementation: 0.000398
+reguladora: 0.000398
+regulation: 0.000797
+regulator: 0.000398
+regulatory: 0.003984
+rehab: 0.000797
+reise: 0.000797
+reisen: 0.000398
+reit: 0.000398
+related: 0.001195
+relative: 0.000398
+release: 0.000398
+reliable: 0.000797
+reliance: 0.001195
+remaining: 0.000398
+removal: 0.000797
+ren: 0.000797
+rent: 0.000398
+rentals: 0.000398
+repair: 0.000398
+report: 0.049403
+reporting: 0.000398
+reports: 0.002390
+repository: 0.000398
+represented: 0.000398
+representing: 0.027092
+republic: 0.003984
+republican: 0.001195
+request: 0.002789
+research: 0.001594
+reservations: 0.001195
+resonant: 0.000398
+resorts: 0.000398
+resources: 0.001992
+rest: 0.000398
+restaurant: 0.000398
+review: 0.000797
+reviews: 0.001594
+revocation: 0.050200
+rexroth: 0.000398
+rich: 0.000398
+richardli: 0.000398
+richemont: 0.003984
+ricoh: 0.000797
+right: 0.000398
+rightathome: 0.000797
+ril: 0.000398
+rio: 0.000398
+rip: 0.000797
+rise: 0.000398
+ritt: 0.000398
+river: 0.000797
+rmit: 0.000797
+road: 0.016733
+robert: 0.000797
+robot: 0.000398
+rocher: 0.000797
+rocks: 0.000797
+rodeo: 0.000797
+rogers: 0.001195
+romeo: 0.000797
+room: 0.000797
+root: 0.001992
+rover: 0.000797
+royal: 0.000398
+rs: 0.000398
+ru: 0.000398
+rubber: 0.000797
+ruby: 0.001195
+rudolf: 0.000398
+rugby: 0.000797
+ruhr: 0.000797
+run: 0.000398
+rusnames: 0.000398
+russian: 0.000398
+rw: 0.000398
+rwanda: 0.000797
+rwe: 0.000797
+ryukyu: 0.000797
+régulation: 0.001195
+sa: 0.004383
+saarland: 0.000398
+safe: 0.000398
+safety: 0.000797
+saint: 0.000398
+sakura: 0.000797
+sale: 0.000797
+salm: 0.000797
+salon: 0.000398
+sample: 0.000398
+samsclub: 0.000398
+samsung: 0.001195
+san: 0.001992
+sand: 0.002390
+sandvik: 0.001594
+sandvikcoromant: 0.000398
+sanofi: 0.000797
+sap: 0.000797
+sapo: 0.000797
+sarl: 0.005179
+sas: 0.001594
+satellite: 0.001195
+saudi: 0.001594
+saudiah: 0.000398
+save: 0.000398
+saxo: 0.000797
+sbi: 0.000398
+sbs: 0.000398
+sca: 0.001195
+scb: 0.000797
+schaeffler: 0.000797
+schmidt: 0.000398
+scholarships: 0.000797
+school: 0.000398
+schule: 0.000398
+schwarz: 0.001195
+science: 0.001195
+sciences: 0.000797
+scjohnson: 0.000797
+scor: 0.000398
+scorpio: 0.000398
+scot: 0.000797
+script: 0.005179
+sd: 0.000398
+sdn: 0.000398
+sds: 0.000797
+se: 0.000797
+sea: 0.001195
+search: 0.000398
+seat: 0.000797
+second: 0.000797
+secteurs: 0.000398
+secure: 0.000398
+security: 0.000797
+seek: 0.000797
+seiko: 0.000398
+select: 0.000797
+selection: 0.000398
+self: 0.000398
+sener: 0.000797
+serbia: 0.000398
+serbian: 0.000398
+server: 0.000398
+servers: 0.000398
+service: 0.002789
+services: 0.047411
+servicos: 0.000398
+ses: 0.001195
+seven: 0.001195
+severin: 0.000398
+sew: 0.000797
+sex: 0.000398
+sexy: 0.000797
+sfr: 0.000797
+shadow: 0.001992
+shangri: 0.000797
+shangrila: 0.000398
+shareholdings: 0.002789
+sharp: 0.000797
+shaw: 0.000797
+shell: 0.000797
+shia: 0.000398
+shiksha: 0.000398
+shoes: 0.000398
+shop: 0.000398
+shopping: 0.000398
+shortdot: 0.001195
+shouji: 0.000398
+showtime: 0.000797
+shriram: 0.001195
+siam: 0.000398
+sihtasutus: 0.000398
+silk: 0.000398
+silver: 0.001594
+sina: 0.001594
+singapore: 0.001195
+singles: 0.000398
+sinhalese: 0.000398
+sint: 0.000398
+sistemas: 0.000398
+site: 0.001195
+sites: 0.000398
+ski: 0.000797
+skin: 0.000797
+skopje: 0.000398
+sky: 0.003586
+skype: 0.000398
+sling: 0.000398
+smart: 0.001992
+smile: 0.000398
+sncf: 0.000797
+snow: 0.003187
+soccer: 0.000398
+social: 0.002390
+socialibus: 0.001594
+sociedad: 0.001195
+societe: 0.000398
+society: 0.001594
+société: 0.000398
+softbank: 0.000797
+software: 0.001594
+sohu: 0.000797
+solar: 0.000398
+solutions: 0.001195
+somalia: 0.000398
+song: 0.000398
+sons: 0.000398
+sony: 0.001594
+sourya: 0.000398
+south: 0.000398
+soy: 0.000398
+spa: 0.000797
+space: 0.002789
+special: 0.000398
+specialty: 0.000398
+spectrum: 0.001594
+spiegel: 0.001195
+sport: 0.000797
+sportaccord: 0.000398
+sports: 0.000398
+spot: 0.000398
+spreadbetting: 0.000797
+spring: 0.002390
+squibb: 0.000398
+srb: 0.000398
+sri: 0.000797
+srl: 0.001992
+srt: 0.000797
+ss: 0.000398
+stable: 0.000797
+stada: 0.000797
+staples: 0.000797
+star: 0.001195
+starbucks: 0.000398
+starhub: 0.001195
+starting: 0.001195
+state: 0.002789
+statebank: 0.000398
+statefarm: 0.000398
+states: 0.000797
+station: 0.002789
+statoil: 0.001195
+stc: 0.000398
+stcgroup: 0.000398
+steel: 0.001195
+sti: 0.001992
+stock: 0.000398
+stockholm: 0.000398
+stockholms: 0.000398
+storage: 0.001195
+store: 0.001195
+stores: 0.001992
+storm: 0.000398
+strategic: 0.000398
+stream: 0.000797
+studio: 0.000797
+study: 0.000797
+style: 0.000398
+sucks: 0.000398
+sudan: 0.001195
+sugar: 0.002390
+suhub: 0.000398
+sundram: 0.000398
+sunset: 0.001992
+supplies: 0.000398
+supply: 0.000398
+support: 0.000797
+supreme: 0.000398
+surf: 0.000797
+surgery: 0.000398
+survey: 0.001195
+sustainable: 0.000398
+suzuki: 0.000797
+svenska: 0.000398
+sverige: 0.000398
+swatch: 0.001195
+swiftcover: 0.001195
+swiss: 0.000797
+sx: 0.001195
+sy: 0.000398
+sydney: 0.000398
+symantec: 0.001594
+syrian: 0.000797
+systems: 0.003984
+systrust: 0.000398
+tab: 0.000398
+tabcorp: 0.000398
+taipei: 0.000797
+taiwan: 0.000797
+talk: 0.000398
+tamil: 0.000797
+tanabe: 0.000398
+tanzania: 0.001195
+taobao: 0.000398
+target: 0.000797
+tata: 0.000398
+tatamotors: 0.000398
+tatar: 0.000398
+tatarstan: 0.000398
+tattoo: 0.001195
+tax: 0.000398
+taxi: 0.000398
+tci: 0.000398
+td: 0.000398
+tdk: 0.000797
+teachers: 0.000398
+team: 0.000398
+tech: 0.001992
+technical: 0.000398
+technologies: 0.008367
+technology: 0.010757
+tecnologias: 0.000398
+teknolojileri: 0.000398
+tel: 0.000797
+tele: 0.000398
+telecity: 0.000797
+telecitygroup: 0.000398
+telecom: 0.001594
+telecommunication: 0.000797
+telecommunications: 0.007570
+telefonaktiebolaget: 0.000398
+telefonica: 0.001195
+telefónica: 0.000797
+telegraph: 0.000398
+telekommunikation: 0.000797
+telephone: 0.000398
+telnames: 0.000398
+temasek: 0.001195
+tennis: 0.000398
+terms: 0.000398
+territoriale: 0.000398
+territory: 0.000398
+test: 0.001992
+teva: 0.000797
+textil: 0.000398
+tf: 0.000398
+tg: 0.000398
+thai: 0.001195
+thailand: 0.000398
+thd: 0.000797
+theater: 0.000398
+theatre: 0.000398
+tiaa: 0.000398
+tic: 0.002390
+tickets: 0.000797
+tienda: 0.000398
+tiffany: 0.001195
+tigers: 0.001992
+time: 0.000398
+times: 0.000398
+timor: 0.000398
+tin: 0.001594
+tips: 0.000398
+tire: 0.000797
+tires: 0.000398
+tirol: 0.000797
+title: 0.000398
+tj: 0.000398
+tjmaxx: 0.000398
+tjx: 0.003187
+tk: 0.000398
+tkmaxx: 0.000398
+tl: 0.000398
+tlc: 0.000797
+tld: 0.021116
+tld2: 0.000398
+tlds: 0.000398
+tmall: 0.000398
+today: 0.000398
+togo: 0.000398
+tohmatsu: 0.000398
+tokyo: 0.000398
+tone: 0.000797
+tools: 0.000398
+toray: 0.000797
+toshiba: 0.000797
+total: 0.000797
+touche: 0.000398
+tours: 0.000398
+town: 0.001594
+toyota: 0.001195
+toys: 0.000398
+tp: 0.000398
+tr: 0.000398
+tra: 0.000398
+trade: 0.000797
+trademark: 0.000797
+trading: 0.006773
+traditional: 0.000398
+trail: 0.001195
+training: 0.000398
+transfer: 0.088447
+transitional: 0.000797
+travel: 0.003187
+travelchannel: 0.000797
+travelers: 0.001992
+travelersinsurance: 0.000398
+trbr: 0.000398
+treasure: 0.000398
+trixy: 0.001594
+trobe: 0.000398
+trust: 0.001195
+trusts: 0.000398
+trv: 0.000398
+tube: 0.000398
+tui: 0.000797
+tunes: 0.000398
+tunis: 0.000398
+tunisia: 0.000398
+tunisienne: 0.000398
+turkey: 0.000398
+tushu: 0.000398
+tvs: 0.000398
+tw: 0.000398
+tycoon: 0.000398
+tz: 0.000797
+télécommunications: 0.000398
+télévision: 0.000398
+ubank: 0.000398
+ubn: 0.000398
+ubs: 0.000797
+uconnect: 0.000797
+uk: 0.001594
+ukr: 0.000398
+ukraine: 0.000398
+um: 0.000398
+und: 0.000797
+unibanco: 0.000398
+unicom: 0.000398
+union: 0.001594
+unipersonal: 0.000398
+unique: 0.000398
+uniregistry: 0.009163
+unit: 0.000398
+united: 0.016733
+universities: 0.000797
+university: 0.001992
+université: 0.000398
+uno: 0.001594
+unr: 0.000797
+uol: 0.000398
+update: 0.000797
+updates: 0.000398
+ups: 0.000797
+usa: 0.000398
+uz: 0.000398
+vacations: 0.000398
+valuetainment: 0.000398
+vana: 0.000797
+vanguard: 0.000797
+variable: 0.000797
+various: 0.000797
+ve: 0.002390
+vegas: 0.000797
+venture: 0.000398
+ventures: 0.000398
+verband: 0.000398
+verisign: 0.005578
+verlag: 0.000398
+vermögensberater: 0.000398
+vermögensberatung: 0.002390
+versicherung: 0.001195
+verwaltungs: 0.000398
+vet: 0.000797
+vg: 0.000398
+viajes: 0.000398
+victor: 0.001594
+victoria: 0.000398
+victory: 0.000398
+video: 0.000797
+vienna: 0.000398
+vig: 0.000398
+viking: 0.001195
+villas: 0.000398
+vin: 0.000398
+vineyards: 0.000797
+vip: 0.000797
+virgin: 0.001195
+visa: 0.000797
+vision: 0.000398
+vista: 0.000797
+vistaprint: 0.001594
+viva: 0.000398
+vivo: 0.000398
+vizcaya: 0.000398
+vlaanderen: 0.000398
+vodka: 0.000797
+volkswagen: 0.001594
+volvo: 0.000797
+vote: 0.000398
+voting: 0.000398
+voto: 0.000398
+vox: 0.000398
+voyage: 0.000398
+vu: 0.000398
+vuelos: 0.000797
+vzw: 0.001594
+wal: 0.001992
+wales: 0.000797
+walmart: 0.000398
+walter: 0.000398
+wang: 0.000797
+wangjing: 0.000398
+warman: 0.000797
+watch: 0.000398
+watches: 0.000797
+way: 0.001992
+weather: 0.001594
+weatherchannel: 0.000797
+webcam: 0.000797
+webconnecting: 0.000398
+weber: 0.000797
+website: 0.001594
+wed: 0.000797
+wedding: 0.001195
+wei: 0.001195
+weibo: 0.000398
+weir: 0.001195
+wellness: 0.000398
+werke: 0.000797
+werkhaus: 0.000398
+west: 0.000797
+white: 0.000398
+whois: 0.000797
+whoswho: 0.000398
+wien: 0.001594
+wiener: 0.000398
+wiki: 0.000797
+wild: 0.001992
+william: 0.000797
+williamhill: 0.000398
+willow: 0.001992
+win: 0.000398
+windows: 0.000398
+wine: 0.000398
+winners: 0.000398
+wme: 0.000398
+wolters: 0.000398
+wolterskluwer: 0.000398
+woods: 0.001992
+woodside: 0.000797
+work: 0.000797
+works: 0.000398
+world: 0.001594
+worldwide: 0.001195
+wow: 0.000398
+written: 0.000398
+wtc: 0.000398
+wtf: 0.000398
+www: 0.000398
+xbox: 0.000398
+xerox: 0.001195
+xfinity: 0.000797
+xiamen: 0.000398
+xihuan: 0.000398
+xin: 0.000398
+xinhua: 0.000398
+xml: 0.000797
+xn: 0.000398
+xperia: 0.000797
+xxx: 0.000398
+xyz: 0.013546
+yachts: 0.000797
+yahoo: 0.001594
+yamaxun: 0.000398
+yandex: 0.001594
+yi: 0.000797
+yodobashi: 0.001195
+yoga: 0.000797
+yokohama: 0.000398
+york: 0.000797
+youtube: 0.000398
+yu: 0.001992
+yugoslav: 0.000398
+yugoslavia: 0.000398
+yun: 0.000398
+za: 0.003187
+zadco: 0.000398
+zambia: 0.000398
+zappos: 0.000398
+zara: 0.000398
+zdns: 0.000797
+zealand: 0.000398
+zero: 0.000398
+zhongguo: 0.000398
+zip: 0.000398
+zippo: 0.000797
+zm: 0.000398
+zodiac: 0.002390
+zone: 0.001594
+zr: 0.000398
+zuerich: 0.000398
+zürich: 0.000398
+ελ: 0.000398
+ευ: 0.000398
+бг: 0.000398
+бел: 0.000797
+дети: 0.000398
+ею: 0.000398
+католик: 0.000398
+ком: 0.000398
+мкд: 0.000398
+мон: 0.000398
+москва: 0.000398
+онлайн: 0.000398
+орг: 0.000398
+рус: 0.000398
+рф: 0.000398
+сайт: 0.000398
+срб: 0.000398
+укр: 0.000398
+қаз: 0.000398
+հայ: 0.000398
+ישראל: 0.000398
+קום: 0.000398
+ابوظبي: 0.000398
+اتصالات: 0.000797
+ارامكو: 0.000398
+الاردن: 0.000398
+البحرين: 0.000398
+الجزائر: 0.000398
+السعودية: 0.000398
+العليان: 0.000398
+المغرب: 0.000398
+امارات: 0.000398
+ایران: 0.000398
+بازار: 0.000398
+بيتك: 0.000398
+تونس: 0.000398
+سودان: 0.000398
+سورية: 0.000398
+شبكة: 0.000398
+عراق: 0.000398
+عرب: 0.000398
+عمان: 0.000398
+فلسطين: 0.000398
+قطر: 0.000398
+كاثوليك: 0.000398
+كوم: 0.000398
+مصر: 0.000398
+مليسيا: 0.000398
+موبايلي: 0.000797
+موريتانيا: 0.000398
+موقع: 0.000797
+همراه: 0.000398
+پاکستان: 0.000398
+गठन: 0.000398
+இலங: 0.000398
+கப: 0.000398
+คอม: 0.000398
+ไทย: 0.000398
+ລາວ: 0.000398
+გე: 0.000398
+みんな: 0.000398
+アマゾン: 0.000398
+クラウド: 0.000398
+グーグル: 0.000398
+コム: 0.000398
+ストア: 0.000398
+セール: 0.000398
+ファッション: 0.000398
+ポイント: 0.000398
+世界: 0.000398
+中信: 0.000398
+中国: 0.000398
+中國: 0.000398
+中文网: 0.000398
+亚马逊: 0.000398
+企业: 0.000398
+佛山: 0.000398
+信息: 0.000398
+健康: 0.000398
+八卦: 0.000398
+公司: 0.000398
+公益: 0.000398
+台湾: 0.000398
+台灣: 0.000398
+商城: 0.000797
+商店: 0.000398
+商标: 0.000398
+嘉里: 0.000398
+嘉里大酒店: 0.000398
+在线: 0.000398
+大众汽车: 0.000797
+大拿: 0.000398
+天主教: 0.000398
+娱乐: 0.000398
+家電: 0.000398
+工行: 0.000797
+广东: 0.000398
+微博: 0.000398
+慈善: 0.000398
+我爱你: 0.000398
+手机: 0.000398
+手表: 0.000797
+招聘: 0.000398
+政务: 0.000398
+政府: 0.000398
+新加坡: 0.000398
+新华通讯社广东分社: 0.000398
+新闻: 0.000797
+时尚: 0.000398
+書籍: 0.000398
+机构: 0.000398
+淡马锡: 0.000398
+游戏: 0.000398
+澳門: 0.000398
+点看: 0.000398
+珠宝: 0.000797
+移动: 0.000398
+组织机构: 0.000398
+网址: 0.000797
+网店: 0.000398
+网站: 0.000398
+网络: 0.000398
+联通: 0.000398
+诺基亚: 0.000398
+谷歌: 0.000398
+购物: 0.000398
+通販: 0.000398
+集团: 0.000398
+電訊盈科: 0.000398
+飞利浦: 0.000398
+食品: 0.000398
+餐厅: 0.000398
+香格里拉: 0.000398
+香港: 0.000398
+닷넷: 0.000398
+닷컴: 0.000398
+삼성: 0.000398
+한국: 0.000398
