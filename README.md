@@ -40,7 +40,7 @@ Started with the first objective <br>
 - Created a python file to run the crawler <br>
   - made sure that the user can specify each of the variables URL/Domain, Max Pages, Max Depth <br>
   - made sure that it correctly imitates the crawler, and has correct uage requirements met (will not error out)<br>
-  - Usage: python crawlerRun.py scrapy https://example.com 3 2 <br> <br>
+  - Usage: python crawl.py https://example.com 3 2 <br> <br>
  
 Moved onto second objective <br>
 - installed sklearn, pickle <br>
@@ -94,12 +94,18 @@ Moved on to third objective   <br>
   - also allows the user to exit, by typing 'exit' <br>
   - this file also will output the top ranked documents based on the Similarity score to the query (as calculated in the search function) <br> <br>
 
-Fixes and Improvements: <br>
+Fixes and Improvements 1: <br>
 - user can now specify the number of results they want retrieved y tagging the end of there query with a k number 'k=#' <br>
   - it will default to 10 items retrieved <br>
     - decided this because there could be ALOT of indexed documents. <br>
 - fixed the usage in the CrawlerRun document to reflect the name changes,  <br>
 - Spelling Corrections Here <br> <br>
 
+Fixes and Improvements 2: <br>
+- added new py file to run the crawler then index, then the flask app in succession.<br>
+  - Usage: python run.py https://example.com 3 2 <br>
+- added # type: ignore to some of the imports to get rid of warnings<br>
+- renamed CrawlerRun file to just crawl and updated usages
+
 Future ideas: <br>
-- 1 command that will run the Crawl, Index, and then prompt a query input by the user <br>
+- rename the files so that it is the 'title'? <br>

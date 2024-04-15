@@ -1,0 +1,1061 @@
+Vocabulary:
+05
+10
+1034
+1035
+128
+13
+14
+160
+164
+1987
+1996
+1997
+2000
+2001
+28
+2860
+2870
+2874
+2916
+3026
+3152
+3172
+330
+331
+40
+40sbnt067020
+4676
+49
+52
+55
+90292
+9120
+97
+abbreviation
+abstract
+accord
+accordance
+according
+acknowledgement
+acknowledgements
+acknowledges
+add
+addition
+additional
+additions
+addr
+address
+addresses
+adequately
+adhere
+administered
+administration
+admiralty
+advanced
+agency
+agent
+aggregation
+allocation
+allowing
+appendix
+applications
+apply
+approach
+appropriate
+approved
+april
+architecture
+area
+arpa
+arpanet
+arrangement
+arrangements
+ask
+assigned
+assigns
+assist
+associate
+associated
+august
+author
+authoritative
+authority
+available
+avoid
+baker
+basis
+bcp
+believe
+best
+blane
+board
+bradner
+bush
+ca
+capable
+carpenter
+case
+category
+caused
+change
+changes
+class
+comment
+comments
+commerce
+common
+commonly
+community
+concepts
+concerning
+confusion
+conjunction
+consideration
+considerations
+considered
+considers
+consisting
+contact
+contained
+contributions
+cooperation
+copied
+copies
+copyright
+copyrights
+corporation
+correct
+corresponding
+corresponds
+counsel
+crawford
+create
+creating
+creation
+criteria
+critical
+current
+currently
+darpa
+data
+database
+dear
+decision
+deeply
+defense
+defined
+del
+delegate
+delegated
+delegation
+delegations
+department
+dependent
+deployment
+derivative
+derived
+described
+describes
+developing
+different
+direction
+disassociation
+disclaims
+discussion
+distributed
+distribution
+dns
+doc
+document
+documented
+domain
+domains
+e164
+earlier
+editor
+efficiency
+efficient
+elements
+embedded
+engineering
+english
+entities
+entity
+entries
+entry
+enum
+essential
+established
+example
+exclusive
+exists
+expansion
+explain
+explicitly
+express
+extensions
+facilities
+falls
+falstrom
+family
+fashion
+february
+fitness
+followed
+force
+function
+functions
+funding
+furnished
+future
+general
+generally
+generic
+geoff
+given
+granted
+group
+guidance
+guidelines
+hesitate
+hierarchical
+hierarchically
+hierarchy
+historical
+home
+hope
+host
+hosts
+html
+huitema
+huston
+iab
+iana
+icann
+identifier
+iesg
+ietf
+implementation
+implication
+implied
+importance
+improvements
+include
+included
+including
+incorporated
+indicated
+info
+information
+infrastructural
+infrastructure
+infringe
+initial
+instabilities
+int
+integrity
+international
+internet
+introduction
+ip
+ip6
+ipr
+ipv4
+ipv6
+isoc
+itu
+january
+july
+june
+karen
+karrenberg
+keeping
+key
+keys
+kind
+known
+kosters
+languages
+level
+liaison
+likely
+limited
+list
+loaded
+locate
+located
+look
+lookup
+lookups
+louis
+manage
+managed
+management
+managing
+manner
+map
+mapped
+mapping
+marina
+matching
+matter
+maximal
+mechanism
+members
+memo
+memorandum
+merchantability
+method
+migrating
+migration
+mockapetris
+modified
+mou
+mr
+multiple
+names
+naming
+needed
+nested
+network
+new
+node
+normally
+noted
+notes
+notice
+november
+number
+numbering
+numbers
+object
+objects
+october
+officially
+operating
+operation
+operational
+operationally
+opposite
+order
+org
+organization
+organizations
+originally
+overall
+page
+paragraph
+parameter
+parent
+particular
+parties
+pdf
+perform
+performed
+permissions
+perpetual
+phone
+plan
+plzak
+positioned
+potential
+practice
+practices
+practiceupdated
+predominately
+preparation
+prepared
+president
+prevalent
+principles
+procedures
+process
+projects
+proposes
+protocol
+provide
+provided
+provides
+providing
+provision
+provisions
+ptr
+public
+published
+purchase
+purpose
+query
+questions
+quotation
+reasons
+recommend
+recommendation
+recommendations
+recommended
+record
+records
+redesignated
+reducing
+references
+reflect
+regional
+registrant
+registries
+registry
+relation
+reliable
+remains
+removing
+renumbering
+representative
+request
+requested
+requests
+required
+requirements
+research
+reserved
+reside
+resolution
+responsibility
+responsible
+restriction
+retrieve
+reverse
+revision
+revoked
+rey
+rfc
+rfc2026
+rights
+roberts
+role
+root
+rose
+routing
+rules
+scope
+scott
+secretary
+section
+security
+september
+serve
+server
+servers
+service
+services
+set
+sets
+shall
+signaled
+sincerely
+society
+space
+spaces
+spanning
+specific
+specification
+specifications
+specifies
+stability
+standard
+standards
+statement
+status
+std
+store
+stored
+string
+structure
+structured
+style
+sub
+subdomain
+subset
+successors
+sufficiently
+suggestions
+suite
+support
+supporting
+tables
+target
+task
+technical
+telecommunication
+termed
+terms
+text
+textual
+tld
+touton
+track
+tracker
+transform
+transformed
+transition
+translate
+translated
+translates
+translation
+translations
+tree
+types
+understanding
+undertake
+undertaken
+undertakes
+undertaking
+unlimited
+uris
+use
+used
+users
+uses
+using
+value
+values
+various
+vice
+warranties
+warranty
+way
+whois
+work
+working
+works
+www
+zone
+
+TF-IDF Matrix:
+05: 0.007531
+10: 0.015062
+1034: 0.007531
+1035: 0.007531
+128: 0.015062
+13: 0.015062
+14: 0.007531
+160: 0.015062
+164: 0.037656
+1987: 0.015062
+1996: 0.007531
+1997: 0.007531
+2000: 0.060249
+2001: 0.090374
+28: 0.007531
+2860: 0.015062
+2870: 0.045187
+2874: 0.007531
+2916: 0.030125
+3026: 0.015062
+3152: 0.007531
+3172: 0.067780
+330: 0.007531
+331: 0.007531
+40: 0.007531
+40sbnt067020: 0.015062
+4676: 0.007531
+49: 0.007531
+52: 0.007531
+55: 0.015062
+90292: 0.007531
+9120: 0.007531
+97: 0.007531
+abbreviation: 0.007531
+abstract: 0.007531
+accord: 0.007531
+accordance: 0.060249
+according: 0.007531
+acknowledgement: 0.007531
+acknowledgements: 0.007531
+acknowledges: 0.007531
+add: 0.015062
+addition: 0.007531
+additional: 0.007531
+additions: 0.007531
+addr: 0.052718
+address: 0.120498
+addresses: 0.007531
+adequately: 0.007531
+adhere: 0.007531
+administered: 0.007531
+administration: 0.030125
+admiralty: 0.007531
+advanced: 0.015062
+agency: 0.015062
+agent: 0.007531
+aggregation: 0.007531
+allocation: 0.007531
+allowing: 0.015062
+appendix: 0.015062
+applications: 0.037656
+apply: 0.037656
+approach: 0.007531
+appropriate: 0.022593
+approved: 0.007531
+april: 0.015062
+architecture: 0.030125
+area: 0.037656
+arpa: 0.512118
+arpanet: 0.007531
+arrangement: 0.015062
+arrangements: 0.007531
+ask: 0.007531
+assigned: 0.045187
+assigns: 0.007531
+assist: 0.007531
+associate: 0.007531
+associated: 0.015062
+august: 0.007531
+author: 0.007531
+authoritative: 0.022593
+authority: 0.015062
+available: 0.007531
+avoid: 0.015062
+baker: 0.007531
+basis: 0.007531
+bcp: 0.030125
+believe: 0.007531
+best: 0.082843
+blane: 0.007531
+board: 0.030125
+bradner: 0.015062
+bush: 0.015062
+ca: 0.007531
+capable: 0.007531
+carpenter: 0.007531
+case: 0.007531
+category: 0.007531
+caused: 0.007531
+change: 0.007531
+changes: 0.007531
+class: 0.007531
+comment: 0.007531
+comments: 0.007531
+commerce: 0.015062
+common: 0.015062
+commonly: 0.007531
+community: 0.015062
+concepts: 0.007531
+concerning: 0.037656
+confusion: 0.007531
+conjunction: 0.007531
+consideration: 0.022593
+considerations: 0.075312
+considered: 0.007531
+considers: 0.007531
+consisting: 0.007531
+contact: 0.007531
+contained: 0.007531
+contributions: 0.007531
+cooperation: 0.022593
+copied: 0.015062
+copies: 0.007531
+copyright: 0.045187
+copyrights: 0.007531
+corporation: 0.030125
+correct: 0.022593
+corresponding: 0.015062
+corresponds: 0.007531
+counsel: 0.007531
+crawford: 0.007531
+create: 0.007531
+creating: 0.007531
+creation: 0.007531
+criteria: 0.015062
+critical: 0.022593
+current: 0.090374
+currently: 0.052718
+darpa: 0.030125
+data: 0.007531
+database: 0.022593
+dear: 0.007531
+decision: 0.007531
+deeply: 0.007531
+defense: 0.007531
+defined: 0.022593
+del: 0.007531
+delegate: 0.007531
+delegated: 0.037656
+delegation: 0.045187
+delegations: 0.007531
+department: 0.015062
+dependent: 0.007531
+deployment: 0.007531
+derivative: 0.015062
+derived: 0.007531
+described: 0.022593
+describes: 0.022593
+developing: 0.007531
+different: 0.007531
+direction: 0.007531
+disassociation: 0.007531
+disclaims: 0.007531
+discussion: 0.007531
+distributed: 0.022593
+distribution: 0.007531
+dns: 0.128030
+doc: 0.007531
+document: 0.150623
+documented: 0.030125
+domain: 0.429276
+domains: 0.090374
+e164: 0.015062
+earlier: 0.007531
+editor: 0.030125
+efficiency: 0.007531
+efficient: 0.030125
+elements: 0.022593
+embedded: 0.007531
+engineering: 0.007531
+english: 0.007531
+entities: 0.022593
+entity: 0.007531
+entries: 0.007531
+entry: 0.022593
+enum: 0.007531
+essential: 0.007531
+established: 0.015062
+example: 0.007531
+exclusive: 0.007531
+exists: 0.007531
+expansion: 0.007531
+explain: 0.007531
+explicitly: 0.007531
+express: 0.007531
+extensions: 0.007531
+facilities: 0.007531
+falls: 0.007531
+falstrom: 0.007531
+family: 0.007531
+fashion: 0.007531
+february: 0.007531
+fitness: 0.007531
+followed: 0.007531
+force: 0.007531
+function: 0.015062
+functions: 0.015062
+funding: 0.007531
+furnished: 0.007531
+future: 0.015062
+general: 0.007531
+generally: 0.007531
+generic: 0.007531
+geoff: 0.007531
+given: 0.015062
+granted: 0.007531
+group: 0.007531
+guidance: 0.007531
+guidelines: 0.067780
+hesitate: 0.007531
+hierarchical: 0.022593
+hierarchically: 0.015062
+hierarchy: 0.022593
+historical: 0.007531
+home: 0.015062
+hope: 0.007531
+host: 0.007531
+hosts: 0.007531
+html: 0.007531
+huitema: 0.007531
+huston: 0.075312
+iab: 0.150623
+iana: 0.150623
+icann: 0.060249
+identifier: 0.037656
+iesg: 0.015062
+ietf: 0.037656
+implementation: 0.015062
+implication: 0.007531
+implied: 0.015062
+importance: 0.007531
+improvements: 0.007531
+include: 0.022593
+included: 0.007531
+including: 0.015062
+incorporated: 0.007531
+indicated: 0.007531
+info: 0.007531
+information: 0.022593
+infrastructural: 0.007531
+infrastructure: 0.097905
+infringe: 0.007531
+initial: 0.007531
+instabilities: 0.007531
+int: 0.007531
+integrity: 0.015062
+international: 0.007531
+internet: 0.263590
+introduction: 0.007531
+ip: 0.030125
+ip6: 0.030125
+ipr: 0.007531
+ipv4: 0.022593
+ipv6: 0.022593
+isoc: 0.007531
+itu: 0.022593
+january: 0.007531
+july: 0.007531
+june: 0.015062
+karen: 0.007531
+karrenberg: 0.007531
+keeping: 0.007531
+key: 0.007531
+keys: 0.015062
+kind: 0.007531
+known: 0.007531
+kosters: 0.007531
+languages: 0.007531
+level: 0.037656
+liaison: 0.015062
+likely: 0.007531
+limited: 0.045187
+list: 0.007531
+loaded: 0.007531
+locate: 0.007531
+located: 0.022593
+look: 0.007531
+lookup: 0.045187
+lookups: 0.007531
+louis: 0.007531
+manage: 0.007531
+managed: 0.015062
+management: 0.030125
+managing: 0.015062
+manner: 0.015062
+map: 0.007531
+mapped: 0.007531
+mapping: 0.037656
+marina: 0.007531
+matching: 0.007531
+matter: 0.007531
+maximal: 0.007531
+mechanism: 0.022593
+members: 0.007531
+memo: 0.022593
+memorandum: 0.007531
+merchantability: 0.007531
+method: 0.007531
+migrating: 0.007531
+migration: 0.007531
+mockapetris: 0.015062
+modified: 0.007531
+mou: 0.015062
+mr: 0.015062
+multiple: 0.007531
+names: 0.112967
+naming: 0.007531
+needed: 0.015062
+nested: 0.007531
+network: 0.015062
+new: 0.007531
+node: 0.015062
+normally: 0.007531
+noted: 0.030125
+notes: 0.007531
+notice: 0.022593
+november: 0.015062
+number: 0.022593
+numbering: 0.007531
+numbers: 0.052718
+object: 0.030125
+objects: 0.030125
+october: 0.007531
+officially: 0.007531
+operating: 0.007531
+operation: 0.090374
+operational: 0.090374
+operationally: 0.015062
+opposite: 0.007531
+order: 0.030125
+org: 0.022593
+organization: 0.007531
+organizations: 0.007531
+originally: 0.007531
+overall: 0.007531
+page: 0.067780
+paragraph: 0.007531
+parameter: 0.037656
+parent: 0.007531
+particular: 0.030125
+parties: 0.007531
+pdf: 0.007531
+perform: 0.007531
+performed: 0.007531
+permissions: 0.007531
+perpetual: 0.007531
+phone: 0.007531
+plan: 0.007531
+plzak: 0.007531
+positioned: 0.007531
+potential: 0.007531
+practice: 0.067780
+practices: 0.015062
+practiceupdated: 0.007531
+predominately: 0.007531
+preparation: 0.007531
+prepared: 0.007531
+president: 0.007531
+prevalent: 0.007531
+principles: 0.007531
+procedures: 0.015062
+process: 0.022593
+projects: 0.015062
+proposes: 0.007531
+protocol: 0.150623
+provide: 0.007531
+provided: 0.030125
+provides: 0.022593
+providing: 0.015062
+provision: 0.007531
+provisions: 0.015062
+ptr: 0.007531
+public: 0.007531
+published: 0.007531
+purchase: 0.022593
+purpose: 0.022593
+query: 0.007531
+questions: 0.007531
+quotation: 0.007531
+reasons: 0.007531
+recommend: 0.007531
+recommendation: 0.037656
+recommendations: 0.015062
+recommended: 0.015062
+record: 0.015062
+records: 0.015062
+redesignated: 0.007531
+reducing: 0.007531
+references: 0.015062
+reflect: 0.007531
+regional: 0.015062
+registrant: 0.007531
+registries: 0.022593
+registry: 0.007531
+relation: 0.007531
+reliable: 0.007531
+remains: 0.007531
+removing: 0.007531
+renumbering: 0.007531
+representative: 0.007531
+request: 0.037656
+requested: 0.007531
+requests: 0.015062
+required: 0.015062
+requirements: 0.075312
+research: 0.015062
+reserved: 0.015062
+reside: 0.007531
+resolution: 0.007531
+responsibility: 0.015062
+responsible: 0.007531
+restriction: 0.007531
+retrieve: 0.007531
+reverse: 0.037656
+revision: 0.015062
+revoked: 0.007531
+rey: 0.007531
+rfc: 0.210872
+rfc2026: 0.007531
+rights: 0.022593
+roberts: 0.007531
+role: 0.045187
+root: 0.097905
+rose: 0.007531
+routing: 0.037656
+rules: 0.007531
+scope: 0.007531
+scott: 0.007531
+secretary: 0.007531
+section: 0.075312
+security: 0.030125
+september: 0.067780
+serve: 0.007531
+server: 0.022593
+servers: 0.120498
+service: 0.030125
+services: 0.015062
+set: 0.015062
+sets: 0.007531
+shall: 0.037656
+signaled: 0.007531
+sincerely: 0.007531
+society: 0.045187
+space: 0.037656
+spaces: 0.015062
+spanning: 0.007531
+specific: 0.030125
+specification: 0.015062
+specifications: 0.007531
+specifies: 0.007531
+stability: 0.007531
+standard: 0.007531
+standards: 0.045187
+statement: 0.007531
+status: 0.015062
+std: 0.015062
+store: 0.015062
+stored: 0.007531
+string: 0.007531
+structure: 0.030125
+structured: 0.030125
+style: 0.007531
+sub: 0.105436
+subdomain: 0.037656
+subset: 0.015062
+successors: 0.015062
+sufficiently: 0.007531
+suggestions: 0.015062
+suite: 0.007531
+support: 0.022593
+supporting: 0.007531
+tables: 0.007531
+target: 0.007531
+task: 0.007531
+technical: 0.022593
+telecommunication: 0.007531
+termed: 0.007531
+terms: 0.007531
+text: 0.007531
+textual: 0.007531
+tld: 0.037656
+touton: 0.015062
+track: 0.015062
+tracker: 0.007531
+transform: 0.007531
+transformed: 0.007531
+transition: 0.007531
+translate: 0.015062
+translated: 0.007531
+translates: 0.007531
+translation: 0.007531
+translations: 0.022593
+tree: 0.015062
+types: 0.007531
+understanding: 0.022593
+undertake: 0.007531
+undertaken: 0.015062
+undertakes: 0.007531
+undertaking: 0.007531
+unlimited: 0.007531
+uris: 0.007531
+use: 0.075312
+used: 0.097905
+users: 0.007531
+uses: 0.030125
+using: 0.007531
+value: 0.022593
+values: 0.037656
+various: 0.015062
+vice: 0.007531
+warranties: 0.015062
+warranty: 0.007531
+way: 0.015062
+whois: 0.007531
+work: 0.007531
+working: 0.015062
+works: 0.015062
+www: 0.015062
+zone: 0.067780

@@ -1,0 +1,3573 @@
+Vocabulary:
+00
+01
+02
+04
+0x00
+0x01
+0x02
+0x03
+0x4a5243
+0xfffe
+0xffff
+10
+11
+1109
+12
+128
+13
+14
+145
+15
+16
+1721
+17487
+190
+1997
+1999
+2001
+2005
+2007
+2010
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2070
+210
+2119
+224
+254
+255
+256
+257
+2597
+26
+3172
+32
+32990
+384
+3a
+3b
+4231
+470
+4944
+4e
+512
+52
+5869
+6028
+64
+644852
+6550
+65535
+65536
+6761
+6762
+687884
+6lbr
+6lbrs
+6ln
+6lns
+6lowpan
+6p
+6tisch
+6top
+7252
+732638
+7460875
+75012
+7554
+7721
+78
+7841
+800
+802
+8085
+8126
+8152
+8174
+8180
+8415
+8480
+8505
+8610
+8613
+8615
+8742
+8820
+8949
+8974
+8990
+9030
+9031
+90a
+90ar1
+910
+94
+94587
+94720
+a10542cafe
+a202820150e6bf4287c2d7618d6a9687445ffd33e6038142af93
+aaaa
+ability
+able
+absence
+absolute
+abstract
+acceleration
+accept
+accepts
+access
+accommodate
+according
+account
+achieved
+ack_random_factor
+ack_timeout
+acknowledges
+acknowledgment
+acknowledgments
+act
+acted
+acting
+action
+activities
+acts
+adam
+add
+added
+addition
+additional
+additionally
+address
+addressed
+addresses
+addressing
+administrator
+admission
+advertised
+advertisement
+advertises
+advertising
+aead
+aes
+af42
+af43
+af93
+aforementioned
+aggregate
+agreed
+agreement
+agreements
+air
+al
+albeit
+alexander
+algorithm
+algorithms
+alias
+alive
+alleviates
+allocate
+allocated
+allocates
+allocating
+allocation
+allow
+allows
+alphabetic
+alterations
+alvarado
+alvaro
+ambiguity
+amending
+america
+amounts
+amsüss
+analog
+analysis
+anew
+annex
+anticipate
+anycast
+appear
+appendix
+application
+applied
+applies
+apply
+appropriate
+approved
+april
+arbitrary
+architecture
+area
+arise
+armour
+arpa
+array
+arrives
+ascii
+asserted
+assign
+assigned
+assigning
+associated
+assumed
+assumes
+assumption
+assured
+asynchronously
+attack
+attacker
+attackers
+attacks
+attempt
+attempted
+attempting
+attempts
+attribute
+attributes
+authenticate
+authenticated
+authenticates
+authentication
+authenticity
+authority
+authorization
+authorized
+authors
+autonomic
+available
+avenue
+average
+avoid
+aware
+backups
+bad
+baker
+band
+bandwidth
+barry
+based
+batch
+bcp
+beacon
+beacons
+beginning
+behalf
+behavior
+behaviors
+believe
+belonging
+benjamin
+berkeley
+best
+binary
+binding
+birkholz
+bit
+bits
+blacklist
+blacklisted
+blocks
+bogus
+bootstrap
+border
+bormann
+bradner
+brandt
+break
+breaking
+brief
+bsd
+bstr
+buffers
+building
+built
+burden
+button
+buttons
+byte
+bytes
+ca
+cache
+cached
+caching
+cafe
+cage
+calculate
+california
+called
+canada
+cap
+capability
+capacity
+capitals
+care
+carefully
+carpenter
+carried
+carries
+carry
+carrying
+case
+cases
+category
+cause
+causing
+cbor
+ccm
+cddl
+cell
+cells
+central
+certain
+chakrabarti
+challenging
+chang
+change
+changed
+channel
+check
+cheshire
+chips
+choice
+chosen
+christian
+city
+clear
+client
+clients
+coap
+code
+codes
+cojp
+cojp_max_join_attempts
+cojp_rekeying_guard_time
+collision
+column
+columns
+com
+combination
+come
+comes
+coming
+common
+communicate
+communicated
+communicates
+communication
+community
+compact
+compactness
+companion
+comparable
+compared
+complete
+completed
+completes
+completion
+compliant
+comply
+components
+compressed
+comprise
+compromise
+compromised
+computation
+concatenation
+concepts
+concerned
+concerns
+concise
+concurrently
+condition
+conditioned
+conditions
+confidentiality
+configuration
+configure
+configured
+configures
+configuring
+confirmable
+congested
+congesting
+congestion
+consensus
+consequence
+consequently
+conserve
+consider
+consideration
+considerations
+considered
+consisting
+consists
+console
+constrained
+constraints
+constructed
+constructing
+construction
+contact
+contain
+contained
+containing
+contains
+content
+contents
+context
+continue
+control
+controlled
+convention
+conversation
+convert
+converted
+cooper
+coordinator
+copyright
+correct
+correctly
+correlate
+correlation
+corresponding
+cory
+cose
+cost
+cotton
+countermeasure
+craft
+creates
+cryptographic
+cryptographically
+culler
+current
+currently
+cycle
+danyliw
+data
+date
+dawson
+debugging
+december
+decide
+decides
+deciding
+decision
+declared
+declares
+decode
+decoded
+decoder
+decreases
+decrypt
+decryption
+dedicate
+default
+default_leisure
+define
+defined
+defines
+definition
+delay
+delays
+delivers
+demonstration
+denial
+denoted
+denotes
+dense
+dependent
+depending
+deployed
+deployment
+deployments
+derivation
+derive
+derived
+derives
+described
+describes
+description
+descriptive
+design
+designated
+designates
+despite
+destined
+detailed
+details
+detected
+detection
+determination
+determine
+determined
+determines
+deterministic
+development
+device
+devices
+dhcpv6
+diagnostic
+diagram
+different
+differentiate
+differs
+diffserv
+dio
+dios
+directed
+directly
+discard
+discarded
+disclose
+discover
+discovers
+discovery
+discussed
+distinct
+distributed
+distribution
+disturb
+dns
+document
+documents
+dodag
+dodagid
+does
+doi
+domain
+dos
+downstream
+drives
+drop
+dropped
+dropping
+dscp
+dscps
+dunbar
+duplicate
+duration
+duty
+dynamic
+dynamically
+e2e
+e6bf4287c2d7618d6a9687445ffd33e6
+easier
+easy
+eavesdropper
+eb
+ebs
+echoed
+ed
+editor
+edu
+eecs
+effect
+effectively
+efficiency
+effort
+eggert
+element
+elements
+email
+enables
+enabling
+enc
+enclosed
+enclosing
+encode
+encoded
+encoding
+encompasses
+encompassing
+encountered
+encourages
+encrypted
+encryption
+end
+energy
+engineering
+enhanced
+ensure
+ensured
+ensures
+entire
+entirely
+entities
+entity
+entries
+entropy
+entry
+environments
+equal
+equally
+eronen
+errata
+error
+errors
+es
+established
+establishing
+et
+eui
+european
+event
+events
+exactly
+example
+exceed
+exceeded
+exchange
+exchanged
+exchanges
+exchanging
+executed
+executes
+executing
+execution
+existing
+exists
+expand
+expect
+expected
+experience
+expert
+expiration
+expires
+expiry
+explained
+explicit
+explicitly
+exploitation
+exposed
+exposes
+express
+extended
+extends
+extensions
+extensively
+extra
+extract
+extracted
+face
+facilitate
+fail
+failed
+fails
+failure
+failures
+fairhurst
+familiar
+far
+faraday
+feasible
+february
+fed4fire
+feedback
+field
+fight
+figure
+filter
+finally
+flag
+followed
+following
+follows
+footprint
+force
+forces
+forcing
+form
+formatting
+forms
+formula
+forward
+forwarded
+forwarding
+forwards
+fr
+fragment
+frame
+frames
+framework
+france
+fraudulent
+freshly
+freshness
+fully
+function
+functionality
+future
+general
+generate
+generated
+generates
+generating
+generation
+generators
+generic
+given
+gives
+giving
+global
+globally
+going
+gont
+good
+grant
+grasp
+greater
+grieco
+group
+guarantee
+guarantees
+guidance
+guidelines
+gurbani
+göran
+h2020
+hall
+handle
+handled
+handles
+handling
+hanging
+happen
+happens
+hardware
+hartke
+hash
+hashing
+having
+hear
+hears
+heart
+heinanen
+helps
+hilarie
+hint
+hints
+hkdf
+hmac
+hoffman
+hop
+hopping
+host
+hosted
+hosting
+hours
+https
+hui
+human
+huston
+iana
+id
+identification
+identified
+identifier
+identifiers
+identifies
+identify
+ieee
+ieee802
+ieee802154
+ieeestd
+ieeexplore
+iesg
+ietf
+iff
+ignore
+illustrates
+immediately
+imminent
+imperfect
+impersonate
+impersonation
+implement
+implementation
+implementations
+implemented
+implementers
+implementing
+implements
+implications
+implicit
+implicitly
+implied
+imply
+importance
+important
+include
+included
+includes
+including
+incoming
+increasing
+incrementing
+independent
+index
+indicate
+indicated
+indicates
+indication
+indistinguishable
+individual
+individuals
+infinity
+influence
+info
+information
+informative
+initial
+initialization
+initially
+initiate
+initiated
+initiates
+initiating
+input
+inputs
+inria
+install
+installation
+installed
+instance
+instantiated
+instantiates
+instead
+institute
+int
+integer
+integrator
+interact
+interacts
+interchangeably
+interchanged
+interface
+intermediate
+intermediating
+internal
+internally
+internet
+interop
+interpreted
+interval
+introduction
+invalid
+invest
+involved
+iot
+ipv6
+issn
+issue
+item
+iv
+january
+jiang
+jim
+john
+join
+join_request
+joined
+joining
+joins
+joint
+jonathan
+jp
+jps
+jrc
+jrcs
+json
+jtag
+july
+june
+just
+k1
+k1k2
+k1z5v7
+k2
+kaduk
+keeping
+keeps
+kelsey
+kept
+key
+key_addinfo
+key_id
+key_usage
+key_value
+keying
+keys
+kid
+kid_context
+kivinen
+klaus
+know
+knowing
+knowledge
+known
+knows
+krawczyk
+kris
+krochmal
+kushalnagar
+kühlewind
+label
+labels
+language
+larger
+latent
+later
+layer
+layering
+layers
+lead
+learned
+learns
+lease
+lease_time
+legal
+legitimate
+leiba
+lemon
+length
+lengths
+level
+levels
+levis
+license
+lifetime
+lightweight
+like
+likely
+limitations
+limited
+linda
+link
+link_layer_key
+links
+list
+listen
+listening
+listens
+liu
+lived
+local
+locally
+located
+location
+long
+longer
+look
+looks
+lookup
+loss
+lossy
+lost
+low
+lower
+lowercase
+machine
+majority
+make
+makes
+making
+malformed
+malicious
+malisa
+mališa
+man
+manage
+managed
+management
+managing
+mandate
+mandates
+mandating
+mandatory
+manner
+manufacturer
+map
+mapped
+mapping
+maps
+march
+marked
+marking
+master
+matched
+material
+mattsson
+max_retransmit
+maximum
+mcr
+mdns
+meaning
+means
+measured
+mechanism
+mechanisms
+medium
+meets
+memo
+memory
+message
+messages
+messaging
+method
+methods
+metric
+mic
+mic128
+mic32
+mic64
+michael
+microcontrollers
+middle
+minimal
+minimum
+mirja
+misconfiguration
+misconfigured
+mitigated
+mitigation
+mixing
+mode
+modes
+modified
+module
+montenegro
+mrugalski
+multicast
+multiple
+mutable
+mutual
+mutually
+names
+narten
+national
+nature
+necessary
+need
+needed
+needing
+needs
+negligible
+neighbor
+neighbors
+network
+networking
+networks
+new
+nil
+niles
+nist
+nist800
+node
+nodes
+non
+nonce
+nonces
+nonfunctional
+nonzero
+nordmark
+normally
+normative
+notational
+note
+notice
+notion
+nottingham
+november
+nstart
+null
+number
+numbers
+nystrom
+object
+objects
+observe
+obtain
+obtained
+obtains
+obtention
+occur
+occurs
+offered
+offers
+old
+omits
+omitted
+ongoing
+opaque
+open
+opens
+operate
+operates
+operating
+operation
+operational
+operations
+optimization
+optimizing
+option
+optional
+optionally
+order
+org
+originated
+originates
+originating
+originator
+orman
+oscore
+ottawa
+ought
+outgoing
+outlined
+output
+outweigh
+overall
+overcommit
+overhead
+overview
+overwhelm
+overwhelming
+overwrite
+owner
+ownership
+paces
+packet
+packets
+page
+pairs
+pairwise
+palattella
+palombini
+pan
+parameter
+parameter_addinfo
+parameter_label
+parameters
+paramount
+paris
+parse
+partial
+partially
+participates
+particular
+particulars
+party
+pascal
+passed
+passive
+path
+payload
+peer
+peers
+perform
+performs
+period
+perkins
+permit
+permits
+persistency
+persistent
+personal
+persons
+perspective
+phase
+phb
+phenomenon
+physical
+physically
+pister
+pitfall
+pitfalls
+place
+play
+pledge
+pledges
+point
+pointer
+points
+policies
+poor
+populated
+port
+pose
+poses
+positive
+possess
+possession
+possibility
+possible
+possibly
+post
+potential
+potentially
+power
+practices
+pre
+precede
+preconfigured
+predictable
+prefix
+prepared
+presence
+present
+press
+presumes
+prevent
+prevents
+previous
+previously
+price
+principle
+priority
+privacy
+private
+probability
+probing_rate
+problem
+procedure
+proceed
+process
+processed
+processes
+processing
+produces
+product
+programme
+progressively
+prohibits
+project
+prolong
+prolongs
+promiscuous
+prone
+properly
+properties
+property
+protect
+protected
+protection
+protocol
+protocols
+provide
+provided
+provides
+provision
+provisioned
+provisioning
+provisions
+proxied
+proxies
+proxy
+psk
+psks
+ptr
+public
+publication
+published
+purpose
+purposes
+pushing
+question
+queues
+quite
+radio
+raised
+random
+randomness
+range
+ranges
+rare
+rarely
+rate
+reach
+reached
+reaching
+readable
+reader
+reason
+reasons
+reattempt
+reboot
+reboots
+receipt
+receive
+received
+receives
+receiving
+reception
+recipient
+recommendation
+recommendations
+recommended
+recommends
+recommissioning
+record
+recover
+recovery
+reduces
+redundancy
+refer
+reference
+references
+refers
+regained
+regard
+regardless
+registrar
+registration
+registry
+regular
+reinitialization
+reinitialize
+reinitialized
+rejoin
+rejoins
+rekeying
+related
+relates
+relating
+relationship
+relevant
+relies
+remainder
+remains
+remove
+renegotiation
+renew
+reorder
+replaced
+replay
+replayed
+replays
+representation
+represents
+reprovision
+request
+requested
+requesting
+requests
+require
+required
+requirement
+requirements
+requires
+requiring
+research
+reserved
+resistance
+resolved
+resolves
+resource
+resources
+respect
+respectively
+responds
+response
+responses
+rest
+restful
+restrictions
+result
+resulting
+results
+retana
+retransmission
+retransmissions
+retrieval
+retrieve
+retrieved
+returned
+reuse
+reused
+reuses
+review
+revision
+rfc
+rfc2119
+rfc2597
+rfc3172
+rfc4231
+rfc4944
+rfc5869
+rfc6550
+rfc6761
+rfc6762
+rfc7252
+rfc7554
+rfc7721
+rfc8085
+rfc8126
+rfc8152
+rfc8174
+rfc8180
+rfc8415
+rfc8480
+rfc8505
+rfc8610
+rfc8613
+rfc8615
+rfc8742
+rfc8820
+rfc8949
+rfc8974
+rfc8990
+rfc9030
+rfc9031
+rfcs
+richardson
+rights
+ripple
+risk
+risks
+roach
+road
+role
+roles
+roman
+root
+route
+router
+routes
+routing
+rpl
+rue
+rules
+running
+safe
+salt
+sandelman
+satisfy
+savings
+scan
+scanning
+scenario
+schaad
+schedule
+scheduled
+scheduling
+scheme
+scope
+scrambling
+search
+secexempt
+seckeyindex
+second
+seconds
+secret
+section
+sections
+secure
+secured
+securely
+securing
+security
+seeks
+seemingly
+seitz
+selander
+selection
+selects
+self
+send
+sender
+sending
+sends
+sent
+separate
+separately
+september
+sequence
+sequences
+serial
+serialized
+server
+service
+set
+sets
+setting
+settings
+sf
+sha
+shall
+share
+shared
+shelby
+shepherd
+shifted
+short
+short_identifier
+shown
+signal
+signaled
+signaling
+signals
+significantly
+signing
+silently
+similarly
+simon
+simone
+simplified
+simplifies
+simultaneously
+single
+siodelski
+size
+sleep
+slot
+slots
+slotted
+small
+soda
+software
+solicitation
+solution
+source
+sources
+sp
+space
+span
+special
+specific
+specification
+specifications
+specified
+specifies
+specify
+spent
+spots
+stable
+stack
+standard
+standards
+start
+started
+state
+stateful
+stateless
+statelessness
+statement
+states
+static
+status
+std
+steering
+step
+steps
+stop
+store
+stored
+stores
+stream
+strength
+string
+strings
+strong
+structure
+structures
+struik
+subdomains
+subject
+sublayer
+subregistry
+subsequent
+subsequently
+subset
+substantial
+success
+successful
+successfully
+sufficient
+suite
+summarized
+summarizes
+summary
+support
+supported
+surface
+switch
+switched
+symmetric
+synchronization
+synchronize
+synchronizes
+table
+tables
+tag
+tagged
+taken
+taking
+tanaka
+task
+technique
+technological
+technologies
+technology
+tell
+telling
+temporarily
+temporary
+tengfei
+term
+terminology
+terms
+tero
+test
+text
+thaler
+things
+thomas
+thoroughly
+threats
+throttling
+thubert
+time
+timed
+timing
+token
+tokens
+topology
+track
+tracking
+traffic
+transaction
+transfer
+transferred
+transit
+transitions
+transmission
+transmissions
+transmit
+transport
+transported
+transports
+travels
+tried
+tries
+trigger
+triggered
+triggers
+trust
+trusted
+trustee
+try
+tsch
+turned
+twice
+type
+types
+typical
+typically
+udp
+uint
+unauthenticated
+unauthorized
+unchanged
+uncorrelated
+undergo
+undergoes
+underlying
+understands
+undesirable
+undesired
+unencrypted
+unexpected
+uniform
+union
+unique
+uniquely
+uniqueness
+united
+units
+university
+unpredictable
+unprotected
+unsafe
+unsanitized
+unsecured
+unsigned
+unsupported
+unsupported_configuration
+unsupported_parameter
+untrusted
+update
+updated
+updates
+updating
+upper
+uppercase
+uri
+uris
+usage
+use
+used
+uses
+using
+utmost
+valid
+validates
+validity
+value
+values
+varies
+various
+vasseur
+vector
+vectors
+vendor
+vendors
+verification
+verified
+verifies
+verifying
+view
+viewpoint
+vigano
+vignat
+vijay
+vilajosana
+virtually
+visible
+vital
+volz
+vs
+vucinic
+vulnerability
+vučinić
+vyncke
+waiting
+wang
+wants
+warranty
+watteyne
+ways
+web
+weiss
+wide
+william
+window
+winter
+winters
+wireless
+wish
+words
+work
+works
+wrap
+write
+writing
+written
+wroclawski
+wrong
+www
+xavier
+xoring
+yasuyuki
+years
+yourtchenko
+zero
+éric
+
+TF-IDF Matrix:
+00: 0.001615
+01: 0.001615
+02: 0.006460
+04: 0.008075
+0x00: 0.003230
+0x01: 0.004845
+0x02: 0.001615
+0x03: 0.003230
+0x4a5243: 0.003230
+0xfffe: 0.001615
+0xffff: 0.001615
+10: 0.062983
+11: 0.022609
+1109: 0.001615
+12: 0.012920
+128: 0.038759
+13: 0.003230
+14: 0.006460
+145: 0.001615
+15: 0.059753
+16: 0.008075
+1721: 0.001615
+17487: 0.046834
+190: 0.003230
+1997: 0.001615
+1999: 0.001615
+2001: 0.001615
+2005: 0.001615
+2007: 0.001615
+2010: 0.001615
+2012: 0.001615
+2013: 0.003230
+2014: 0.001615
+2015: 0.004845
+2016: 0.004845
+2017: 0.008075
+2018: 0.004845
+2019: 0.004845
+2020: 0.004845
+2021: 0.009690
+2070: 0.001615
+210: 0.001615
+2119: 0.003230
+224: 0.001615
+254: 0.001615
+255: 0.006460
+256: 0.016149
+257: 0.004845
+2597: 0.001615
+26: 0.003230
+3172: 0.001615
+32: 0.011305
+32990: 0.001615
+384: 0.001615
+3a: 0.006460
+3b: 0.006460
+4231: 0.001615
+470: 0.001615
+4944: 0.001615
+4e: 0.003230
+512: 0.003230
+52: 0.001615
+5869: 0.001615
+6028: 0.003230
+64: 0.035529
+644852: 0.001615
+6550: 0.001615
+65535: 0.009690
+65536: 0.009690
+6761: 0.001615
+6762: 0.001615
+687884: 0.001615
+6lbr: 0.145345
+6lbrs: 0.001615
+6ln: 0.008075
+6lns: 0.001615
+6lowpan: 0.006460
+6p: 0.001615
+6tisch: 0.096897
+6top: 0.003230
+7252: 0.001615
+732638: 0.001615
+7460875: 0.003230
+75012: 0.001615
+7554: 0.001615
+7721: 0.001615
+78: 0.001615
+7841: 0.001615
+800: 0.004845
+802: 0.029069
+8085: 0.001615
+8126: 0.001615
+8152: 0.001615
+8174: 0.001615
+8180: 0.001615
+8415: 0.001615
+8480: 0.001615
+8505: 0.001615
+8610: 0.001615
+8613: 0.001615
+8615: 0.001615
+8742: 0.001615
+8820: 0.001615
+8949: 0.001615
+8974: 0.001615
+8990: 0.001615
+9030: 0.001615
+9031: 0.025839
+90a: 0.004845
+90ar1: 0.003230
+910: 0.001615
+94: 0.001615
+94587: 0.001615
+94720: 0.001615
+a10542cafe: 0.001615
+a202820150e6bf4287c2d7618d6a9687445ffd33e6038142af93: 0.001615
+aaaa: 0.001615
+ability: 0.001615
+able: 0.009690
+absence: 0.001615
+absolute: 0.011305
+abstract: 0.003230
+acceleration: 0.001615
+accept: 0.004845
+accepts: 0.003230
+access: 0.004845
+accommodate: 0.001615
+according: 0.008075
+account: 0.003230
+achieved: 0.004845
+ack_random_factor: 0.001615
+ack_timeout: 0.003230
+acknowledges: 0.001615
+acknowledgment: 0.020994
+acknowledgments: 0.003230
+act: 0.012920
+acted: 0.020994
+acting: 0.003230
+action: 0.006460
+activities: 0.001615
+acts: 0.017764
+adam: 0.001615
+add: 0.001615
+added: 0.001615
+addition: 0.008075
+additional: 0.020994
+additionally: 0.006460
+address: 0.108202
+addressed: 0.003230
+addresses: 0.009690
+addressing: 0.003230
+administrator: 0.003230
+admission: 0.009690
+advertised: 0.004845
+advertisement: 0.003230
+advertises: 0.001615
+advertising: 0.001615
+aead: 0.009690
+aes: 0.027454
+af42: 0.004845
+af43: 0.004845
+af93: 0.001615
+aforementioned: 0.001615
+aggregate: 0.001615
+agreed: 0.003230
+agreement: 0.003230
+agreements: 0.001615
+air: 0.003230
+al: 0.001615
+albeit: 0.001615
+alexander: 0.001615
+algorithm: 0.024224
+algorithms: 0.008075
+alias: 0.003230
+alive: 0.001615
+alleviates: 0.004845
+allocate: 0.003230
+allocated: 0.001615
+allocates: 0.001615
+allocating: 0.001615
+allocation: 0.001615
+allow: 0.003230
+allows: 0.012920
+alphabetic: 0.001615
+alterations: 0.001615
+alvarado: 0.001615
+alvaro: 0.001615
+ambiguity: 0.001615
+amending: 0.004845
+america: 0.003230
+amounts: 0.001615
+amsüss: 0.001615
+analog: 0.004845
+analysis: 0.001615
+anew: 0.001615
+annex: 0.001615
+anticipate: 0.001615
+anycast: 0.001615
+appear: 0.012920
+appendix: 0.014535
+application: 0.016149
+applied: 0.001615
+applies: 0.001615
+apply: 0.011305
+appropriate: 0.004845
+approved: 0.001615
+april: 0.001615
+arbitrary: 0.001615
+architecture: 0.001615
+area: 0.004845
+arise: 0.001615
+armour: 0.001615
+arpa: 0.012920
+array: 0.022609
+arrives: 0.001615
+ascii: 0.001615
+asserted: 0.001615
+assign: 0.001615
+assigned: 0.027454
+assigning: 0.001615
+associated: 0.001615
+assumed: 0.008075
+assumes: 0.003230
+assumption: 0.001615
+assured: 0.003230
+asynchronously: 0.001615
+attack: 0.022609
+attacker: 0.024224
+attackers: 0.001615
+attacks: 0.001615
+attempt: 0.012920
+attempted: 0.001615
+attempting: 0.008075
+attempts: 0.011305
+attribute: 0.003230
+attributes: 0.001615
+authenticate: 0.003230
+authenticated: 0.006460
+authenticates: 0.001615
+authentication: 0.012920
+authenticity: 0.009690
+authority: 0.001615
+authorization: 0.003230
+authorized: 0.001615
+authors: 0.006460
+autonomic: 0.003230
+available: 0.011305
+avenue: 0.001615
+average: 0.004845
+avoid: 0.004845
+aware: 0.003230
+backups: 0.001615
+bad: 0.001615
+baker: 0.001615
+band: 0.011305
+bandwidth: 0.011305
+barry: 0.001615
+based: 0.020994
+batch: 0.006460
+bcp: 0.016149
+beacon: 0.009690
+beacons: 0.003230
+beginning: 0.001615
+behalf: 0.006460
+behavior: 0.006460
+behaviors: 0.001615
+believe: 0.001615
+belonging: 0.003230
+benjamin: 0.001615
+berkeley: 0.006460
+best: 0.003230
+binary: 0.006460
+binding: 0.001615
+birkholz: 0.001615
+bit: 0.004845
+bits: 0.003230
+blacklist: 0.022609
+blacklisted: 0.001615
+blocks: 0.001615
+bogus: 0.006460
+bootstrap: 0.001615
+border: 0.003230
+bormann: 0.008075
+bradner: 0.001615
+brandt: 0.001615
+break: 0.001615
+breaking: 0.001615
+brief: 0.001615
+bsd: 0.003230
+bstr: 0.009690
+buffers: 0.003230
+building: 0.001615
+built: 0.003230
+burden: 0.001615
+button: 0.001615
+buttons: 0.001615
+byte: 0.046834
+bytes: 0.011305
+ca: 0.004845
+cache: 0.006460
+cached: 0.001615
+caching: 0.001615
+cafe: 0.001615
+cage: 0.001615
+calculate: 0.001615
+california: 0.003230
+called: 0.006460
+canada: 0.001615
+cap: 0.009690
+capability: 0.001615
+capacity: 0.003230
+capitals: 0.001615
+care: 0.004845
+carefully: 0.001615
+carpenter: 0.001615
+carried: 0.006460
+carries: 0.006460
+carry: 0.003230
+carrying: 0.006460
+case: 0.033914
+cases: 0.004845
+category: 0.001615
+cause: 0.006460
+causing: 0.001615
+cbor: 0.061368
+ccm: 0.029069
+cddl: 0.011305
+cell: 0.003230
+cells: 0.006460
+central: 0.003230
+certain: 0.006460
+chakrabarti: 0.001615
+challenging: 0.001615
+chang: 0.001615
+change: 0.004845
+changed: 0.009690
+channel: 0.016149
+check: 0.003230
+cheshire: 0.003230
+chips: 0.001615
+choice: 0.001615
+chosen: 0.003230
+christian: 0.001615
+city: 0.001615
+clear: 0.001615
+client: 0.017764
+clients: 0.001615
+coap: 0.109816
+code: 0.040374
+codes: 0.008075
+cojp: 0.106587
+cojp_max_join_attempts: 0.006460
+cojp_rekeying_guard_time: 0.006460
+collision: 0.001615
+column: 0.001615
+columns: 0.004845
+com: 0.001615
+combination: 0.001615
+come: 0.001615
+comes: 0.006460
+coming: 0.001615
+common: 0.008075
+communicate: 0.004845
+communicated: 0.003230
+communicates: 0.003230
+communication: 0.009690
+community: 0.001615
+compact: 0.001615
+compactness: 0.003230
+companion: 0.008075
+comparable: 0.001615
+compared: 0.001615
+complete: 0.003230
+completed: 0.003230
+completes: 0.004845
+completion: 0.001615
+compliant: 0.001615
+comply: 0.001615
+components: 0.001615
+compressed: 0.001615
+comprise: 0.001615
+compromise: 0.009690
+compromised: 0.003230
+computation: 0.001615
+concatenation: 0.003230
+concepts: 0.001615
+concerned: 0.001615
+concerns: 0.001615
+concise: 0.009690
+concurrently: 0.001615
+condition: 0.004845
+conditioned: 0.003230
+conditions: 0.001615
+confidentiality: 0.006460
+configuration: 0.098512
+configure: 0.025839
+configured: 0.009690
+configures: 0.006460
+configuring: 0.001615
+confirmable: 0.011305
+congested: 0.001615
+congesting: 0.001615
+congestion: 0.004845
+consensus: 0.001615
+consequence: 0.004845
+consequently: 0.004845
+conserve: 0.001615
+consider: 0.001615
+consideration: 0.001615
+considerations: 0.020994
+considered: 0.009690
+consisting: 0.001615
+consists: 0.004845
+console: 0.001615
+constrained: 0.059753
+constraints: 0.001615
+constructed: 0.001615
+constructing: 0.001615
+construction: 0.004845
+contact: 0.003230
+contain: 0.006460
+contained: 0.004845
+containing: 0.006460
+contains: 0.017764
+content: 0.001615
+contents: 0.003230
+context: 0.072673
+continue: 0.003230
+control: 0.006460
+controlled: 0.003230
+convention: 0.001615
+conversation: 0.003230
+convert: 0.001615
+converted: 0.003230
+cooper: 0.001615
+coordinator: 0.004845
+copyright: 0.003230
+correct: 0.004845
+correctly: 0.001615
+correlate: 0.001615
+correlation: 0.001615
+corresponding: 0.011305
+cory: 0.001615
+cose: 0.001615
+cost: 0.001615
+cotton: 0.001615
+countermeasure: 0.001615
+craft: 0.003230
+creates: 0.001615
+cryptographic: 0.014535
+cryptographically: 0.003230
+culler: 0.001615
+current: 0.006460
+currently: 0.003230
+cycle: 0.001615
+danyliw: 0.001615
+data: 0.050063
+date: 0.001615
+dawson: 0.001615
+debugging: 0.001615
+december: 0.003230
+decide: 0.003230
+decides: 0.004845
+deciding: 0.001615
+decision: 0.001615
+declared: 0.001615
+declares: 0.003230
+decode: 0.003230
+decoded: 0.001615
+decoder: 0.004845
+decreases: 0.001615
+decrypt: 0.003230
+decryption: 0.001615
+dedicate: 0.001615
+default: 0.024224
+default_leisure: 0.001615
+define: 0.001615
+defined: 0.035529
+defines: 0.009690
+definition: 0.003230
+delay: 0.001615
+delays: 0.001615
+delivers: 0.001615
+demonstration: 0.001615
+denial: 0.001615
+denoted: 0.001615
+denotes: 0.006460
+dense: 0.001615
+dependent: 0.001615
+depending: 0.003230
+deployed: 0.001615
+deployment: 0.003230
+deployments: 0.001615
+derivation: 0.017764
+derive: 0.003230
+derived: 0.017764
+derives: 0.001615
+described: 0.027454
+describes: 0.006460
+description: 0.019379
+descriptive: 0.008075
+design: 0.004845
+designated: 0.014535
+designates: 0.001615
+despite: 0.001615
+destined: 0.001615
+detailed: 0.001615
+details: 0.004845
+detected: 0.004845
+detection: 0.003230
+determination: 0.001615
+determine: 0.003230
+determined: 0.003230
+determines: 0.004845
+deterministic: 0.003230
+development: 0.001615
+device: 0.040374
+devices: 0.016149
+dhcpv6: 0.003230
+diagnostic: 0.011305
+diagram: 0.001615
+different: 0.058138
+differentiate: 0.001615
+differs: 0.001615
+diffserv: 0.001615
+dio: 0.001615
+dios: 0.001615
+directed: 0.001615
+directly: 0.006460
+discard: 0.001615
+discarded: 0.004845
+disclose: 0.001615
+discover: 0.003230
+discovers: 0.001615
+discovery: 0.011305
+discussed: 0.022609
+distinct: 0.001615
+distributed: 0.001615
+distribution: 0.006460
+disturb: 0.001615
+dns: 0.003230
+document: 0.066213
+documents: 0.011305
+dodag: 0.004845
+dodagid: 0.001615
+does: 0.029069
+doi: 0.051678
+domain: 0.003230
+dos: 0.016149
+downstream: 0.001615
+drives: 0.001615
+drop: 0.008075
+dropped: 0.001615
+dropping: 0.001615
+dscp: 0.008075
+dscps: 0.001615
+dunbar: 0.001615
+duplicate: 0.001615
+duration: 0.001615
+duty: 0.001615
+dynamic: 0.003230
+dynamically: 0.001615
+e2e: 0.001615
+e6bf4287c2d7618d6a9687445ffd33e6: 0.001615
+easier: 0.004845
+easy: 0.001615
+eavesdropper: 0.001615
+eb: 0.040374
+ebs: 0.027454
+echoed: 0.001615
+ed: 0.017764
+editor: 0.050063
+edu: 0.001615
+eecs: 0.001615
+effect: 0.001615
+effectively: 0.001615
+efficiency: 0.001615
+effort: 0.003230
+eggert: 0.001615
+element: 0.001615
+elements: 0.004845
+email: 0.006460
+enables: 0.014535
+enabling: 0.001615
+enc: 0.022609
+enclosed: 0.003230
+enclosing: 0.001615
+encode: 0.001615
+encoded: 0.029069
+encoding: 0.012920
+encompasses: 0.003230
+encompassing: 0.003230
+encountered: 0.001615
+encourages: 0.001615
+encrypted: 0.006460
+encryption: 0.008075
+end: 0.016149
+energy: 0.003230
+engineering: 0.004845
+enhanced: 0.009690
+ensure: 0.004845
+ensured: 0.001615
+ensures: 0.006460
+entire: 0.004845
+entirely: 0.003230
+entities: 0.001615
+entity: 0.003230
+entries: 0.004845
+entropy: 0.001615
+entry: 0.001615
+environments: 0.004845
+equal: 0.001615
+equally: 0.001615
+eronen: 0.001615
+errata: 0.001615
+error: 0.019379
+errors: 0.006460
+es: 0.001615
+established: 0.001615
+establishing: 0.001615
+et: 0.001615
+eui: 0.019379
+european: 0.001615
+event: 0.009690
+events: 0.003230
+exactly: 0.006460
+example: 0.019379
+exceed: 0.003230
+exceeded: 0.001615
+exchange: 0.045219
+exchanged: 0.009690
+exchanges: 0.006460
+exchanging: 0.001615
+executed: 0.001615
+executes: 0.001615
+executing: 0.001615
+execution: 0.009690
+existing: 0.003230
+exists: 0.004845
+expand: 0.001615
+expect: 0.001615
+expected: 0.008075
+experience: 0.001615
+expert: 0.004845
+expiration: 0.001615
+expires: 0.003230
+expiry: 0.003230
+explained: 0.001615
+explicit: 0.003230
+explicitly: 0.003230
+exploitation: 0.001615
+exposed: 0.001615
+exposes: 0.001615
+express: 0.001615
+extended: 0.009690
+extends: 0.001615
+extensions: 0.001615
+extensively: 0.001615
+extra: 0.001615
+extract: 0.001615
+extracted: 0.001615
+face: 0.001615
+facilitate: 0.001615
+fail: 0.003230
+failed: 0.011305
+fails: 0.003230
+failure: 0.014535
+failures: 0.001615
+fairhurst: 0.001615
+familiar: 0.001615
+far: 0.001615
+faraday: 0.001615
+feasible: 0.004845
+february: 0.004845
+fed4fire: 0.001615
+feedback: 0.001615
+field: 0.020994
+fight: 0.003230
+figure: 0.009690
+filter: 0.003230
+finally: 0.001615
+flag: 0.003230
+followed: 0.001615
+following: 0.025839
+follows: 0.012920
+footprint: 0.004845
+force: 0.006460
+forces: 0.001615
+forcing: 0.001615
+form: 0.004845
+formatting: 0.001615
+forms: 0.001615
+formula: 0.004845
+forward: 0.008075
+forwarded: 0.011305
+forwarding: 0.008075
+forwards: 0.014535
+fr: 0.001615
+fragment: 0.008075
+frame: 0.029069
+frames: 0.041989
+framework: 0.004845
+france: 0.001615
+fraudulent: 0.001615
+freshly: 0.003230
+freshness: 0.003230
+fully: 0.004845
+function: 0.006460
+functionality: 0.001615
+future: 0.001615
+general: 0.001615
+generate: 0.008075
+generated: 0.003230
+generates: 0.003230
+generating: 0.003230
+generation: 0.003230
+generators: 0.003230
+generic: 0.009690
+given: 0.020994
+gives: 0.006460
+giving: 0.001615
+global: 0.014535
+globally: 0.004845
+going: 0.001615
+gont: 0.001615
+good: 0.003230
+grant: 0.001615
+grasp: 0.003230
+greater: 0.004845
+grieco: 0.001615
+group: 0.006460
+guarantee: 0.001615
+guarantees: 0.001615
+guidance: 0.001615
+guidelines: 0.006460
+gurbani: 0.001615
+göran: 0.001615
+h2020: 0.001615
+hall: 0.001615
+handle: 0.004845
+handled: 0.001615
+handles: 0.004845
+handling: 0.012920
+hanging: 0.001615
+happen: 0.006460
+happens: 0.003230
+hardware: 0.003230
+hartke: 0.004845
+hash: 0.003230
+hashing: 0.001615
+having: 0.004845
+hear: 0.001615
+hears: 0.001615
+heart: 0.001615
+heinanen: 0.001615
+helps: 0.003230
+hilarie: 0.001615
+hint: 0.003230
+hints: 0.001615
+hkdf: 0.009690
+hmac: 0.008075
+hoffman: 0.001615
+hop: 0.003230
+hopping: 0.006460
+host: 0.014535
+hosted: 0.001615
+hosting: 0.001615
+hours: 0.003230
+https: 0.053293
+hui: 0.003230
+human: 0.001615
+huston: 0.001615
+iana: 0.009690
+id: 0.043604
+identification: 0.003230
+identified: 0.001615
+identifier: 0.158265
+identifiers: 0.030684
+identifies: 0.014535
+identify: 0.014535
+ieee: 0.033914
+ieee802: 0.030684
+ieee802154: 0.024224
+ieeestd: 0.001615
+ieeexplore: 0.001615
+iesg: 0.001615
+ietf: 0.014535
+iff: 0.001615
+ignore: 0.001615
+illustrates: 0.001615
+immediately: 0.001615
+imminent: 0.001615
+imperfect: 0.001615
+impersonate: 0.001615
+impersonation: 0.001615
+implement: 0.014535
+implementation: 0.025839
+implementations: 0.008075
+implemented: 0.008075
+implementers: 0.001615
+implementing: 0.001615
+implements: 0.003230
+implications: 0.001615
+implicit: 0.006460
+implicitly: 0.001615
+implied: 0.008075
+imply: 0.001615
+importance: 0.001615
+important: 0.011305
+include: 0.012920
+included: 0.029069
+includes: 0.006460
+including: 0.011305
+incoming: 0.004845
+increasing: 0.001615
+incrementing: 0.001615
+independent: 0.001615
+index: 0.003230
+indicate: 0.003230
+indicated: 0.006460
+indicates: 0.009690
+indication: 0.001615
+indistinguishable: 0.001615
+individual: 0.006460
+individuals: 0.001615
+infinity: 0.006460
+influence: 0.001615
+info: 0.050063
+information: 0.041989
+informative: 0.004845
+initial: 0.001615
+initialization: 0.001615
+initially: 0.009690
+initiate: 0.003230
+initiated: 0.001615
+initiates: 0.001615
+initiating: 0.001615
+input: 0.003230
+inputs: 0.003230
+inria: 0.004845
+install: 0.003230
+installation: 0.001615
+installed: 0.004845
+instance: 0.001615
+instantiated: 0.003230
+instantiates: 0.001615
+instead: 0.004845
+institute: 0.001615
+int: 0.004845
+integer: 0.041989
+integrator: 0.001615
+interact: 0.001615
+interacts: 0.003230
+interchangeably: 0.001615
+interchanged: 0.001615
+interface: 0.017764
+intermediate: 0.008075
+intermediating: 0.001615
+internal: 0.001615
+internally: 0.001615
+internet: 0.009690
+interop: 0.001615
+interpreted: 0.001615
+interval: 0.003230
+introduction: 0.003230
+invalid: 0.009690
+invest: 0.001615
+involved: 0.001615
+iot: 0.001615
+ipv6: 0.074288
+issn: 0.001615
+issue: 0.004845
+item: 0.004845
+iv: 0.006460
+january: 0.001615
+jiang: 0.001615
+jim: 0.001615
+john: 0.001615
+join: 0.322990
+join_request: 0.022609
+joined: 0.072673
+joining: 0.016149
+joins: 0.001615
+joint: 0.001615
+jonathan: 0.003230
+jp: 0.163110
+jps: 0.003230
+jrc: 0.261622
+jrcs: 0.003230
+json: 0.001615
+jtag: 0.001615
+july: 0.003230
+june: 0.009690
+just: 0.001615
+k1: 0.006460
+k1k2: 0.012920
+k1z5v7: 0.001615
+k2: 0.011305
+kaduk: 0.001615
+keeping: 0.001615
+keeps: 0.003230
+kelsey: 0.001615
+kept: 0.001615
+key: 0.151805
+key_addinfo: 0.022609
+key_id: 0.017764
+key_usage: 0.008075
+key_value: 0.004845
+keying: 0.009690
+keys: 0.050063
+kid: 0.014535
+kid_context: 0.003230
+kivinen: 0.001615
+klaus: 0.001615
+know: 0.004845
+knowing: 0.001615
+knowledge: 0.001615
+known: 0.017764
+knows: 0.001615
+krawczyk: 0.001615
+kris: 0.001615
+krochmal: 0.003230
+kushalnagar: 0.001615
+kühlewind: 0.001615
+label: 0.011305
+labels: 0.004845
+language: 0.003230
+larger: 0.001615
+latent: 0.001615
+later: 0.001615
+layer: 0.150190
+layering: 0.001615
+layers: 0.001615
+lead: 0.006460
+learned: 0.003230
+learns: 0.004845
+lease: 0.006460
+lease_time: 0.011305
+legal: 0.003230
+legitimate: 0.009690
+leiba: 0.004845
+lemon: 0.001615
+length: 0.016149
+lengths: 0.004845
+level: 0.008075
+levels: 0.003230
+levis: 0.001615
+license: 0.004845
+lifetime: 0.009690
+lightweight: 0.004845
+like: 0.004845
+likely: 0.006460
+limitations: 0.003230
+limited: 0.004845
+linda: 0.001615
+link: 0.125966
+link_layer_key: 0.017764
+links: 0.004845
+list: 0.001615
+listen: 0.001615
+listening: 0.001615
+listens: 0.001615
+liu: 0.001615
+lived: 0.001615
+local: 0.014535
+locally: 0.004845
+located: 0.011305
+location: 0.001615
+long: 0.019379
+longer: 0.003230
+look: 0.001615
+looks: 0.003230
+lookup: 0.003230
+loss: 0.006460
+lossy: 0.001615
+lost: 0.001615
+low: 0.009690
+lower: 0.004845
+lowercase: 0.001615
+machine: 0.001615
+majority: 0.001615
+make: 0.004845
+makes: 0.004845
+making: 0.003230
+malformed: 0.004845
+malicious: 0.004845
+malisa: 0.001615
+mališa: 0.001615
+man: 0.003230
+manage: 0.001615
+managed: 0.009690
+management: 0.004845
+managing: 0.001615
+mandate: 0.001615
+mandates: 0.003230
+mandating: 0.001615
+mandatory: 0.006460
+manner: 0.011305
+manufacturer: 0.004845
+map: 0.006460
+mapped: 0.006460
+mapping: 0.006460
+maps: 0.001615
+march: 0.006460
+marked: 0.004845
+marking: 0.001615
+master: 0.004845
+matched: 0.001615
+material: 0.008075
+mattsson: 0.003230
+max_retransmit: 0.003230
+maximum: 0.004845
+mcr: 0.001615
+mdns: 0.001615
+meaning: 0.001615
+means: 0.006460
+measured: 0.001615
+mechanism: 0.025839
+mechanisms: 0.009690
+medium: 0.001615
+meets: 0.001615
+memo: 0.001615
+memory: 0.016149
+message: 0.075903
+messages: 0.025839
+messaging: 0.001615
+method: 0.003230
+methods: 0.004845
+metric: 0.001615
+mic: 0.033914
+mic128: 0.008075
+mic32: 0.011305
+mic64: 0.008075
+michael: 0.001615
+microcontrollers: 0.001615
+middle: 0.003230
+minimal: 0.011305
+minimum: 0.001615
+mirja: 0.001615
+misconfiguration: 0.001615
+misconfigured: 0.001615
+mitigated: 0.001615
+mitigation: 0.001615
+mixing: 0.001615
+mode: 0.030684
+modes: 0.006460
+modified: 0.001615
+module: 0.003230
+montenegro: 0.001615
+mrugalski: 0.001615
+multicast: 0.003230
+multiple: 0.008075
+mutable: 0.012920
+mutual: 0.003230
+mutually: 0.001615
+names: 0.001615
+narten: 0.001615
+national: 0.001615
+nature: 0.001615
+necessary: 0.004845
+need: 0.011305
+needed: 0.012920
+needing: 0.001615
+needs: 0.027454
+negligible: 0.001615
+neighbor: 0.020994
+neighbors: 0.004845
+network: 0.222863
+networking: 0.006460
+networks: 0.016149
+new: 0.038759
+nil: 0.001615
+niles: 0.001615
+nist: 0.003230
+nist800: 0.003230
+node: 0.104972
+nodes: 0.033914
+non: 0.014535
+nonce: 0.017764
+nonces: 0.008075
+nonfunctional: 0.001615
+nonzero: 0.001615
+nordmark: 0.001615
+normally: 0.001615
+normative: 0.004845
+notational: 0.001615
+note: 0.016149
+notice: 0.001615
+notion: 0.003230
+nottingham: 0.003230
+november: 0.004845
+nstart: 0.001615
+null: 0.003230
+number: 0.033914
+numbers: 0.006460
+nystrom: 0.001615
+object: 0.114661
+objects: 0.011305
+observe: 0.001615
+obtain: 0.006460
+obtained: 0.003230
+obtains: 0.006460
+obtention: 0.001615
+occur: 0.001615
+occurs: 0.008075
+offered: 0.001615
+offers: 0.001615
+old: 0.004845
+omits: 0.001615
+omitted: 0.009690
+ongoing: 0.001615
+opaque: 0.003230
+open: 0.003230
+opens: 0.003230
+operate: 0.009690
+operates: 0.011305
+operating: 0.009690
+operation: 0.008075
+operational: 0.008075
+operations: 0.004845
+optimization: 0.001615
+optimizing: 0.001615
+option: 0.030684
+optional: 0.004845
+optionally: 0.004845
+order: 0.027454
+org: 0.053293
+originated: 0.003230
+originates: 0.001615
+originating: 0.001615
+originator: 0.001615
+orman: 0.001615
+oscore: 0.113046
+ottawa: 0.001615
+ought: 0.001615
+outgoing: 0.011305
+outlined: 0.003230
+output: 0.001615
+outweigh: 0.001615
+overall: 0.001615
+overcommit: 0.001615
+overhead: 0.003230
+overview: 0.004845
+overwhelm: 0.003230
+overwhelming: 0.001615
+overwrite: 0.001615
+owner: 0.004845
+ownership: 0.003230
+paces: 0.001615
+packet: 0.006460
+packets: 0.006460
+page: 0.001615
+pairs: 0.001615
+pairwise: 0.006460
+palattella: 0.001615
+palombini: 0.001615
+pan: 0.004845
+parameter: 0.192179
+parameter_addinfo: 0.011305
+parameter_label: 0.006460
+parameters: 0.090437
+paramount: 0.001615
+paris: 0.001615
+parse: 0.001615
+partial: 0.003230
+partially: 0.001615
+participates: 0.001615
+particular: 0.006460
+particulars: 0.001615
+party: 0.003230
+pascal: 0.001615
+passed: 0.003230
+passive: 0.004845
+path: 0.009690
+payload: 0.022609
+peer: 0.003230
+peers: 0.003230
+perform: 0.004845
+performs: 0.001615
+period: 0.001615
+perkins: 0.001615
+permit: 0.001615
+permits: 0.001615
+persistency: 0.001615
+persistent: 0.012920
+personal: 0.003230
+persons: 0.001615
+perspective: 0.001615
+phase: 0.008075
+phb: 0.001615
+phenomenon: 0.001615
+physical: 0.003230
+physically: 0.001615
+pister: 0.008075
+pitfall: 0.003230
+pitfalls: 0.001615
+place: 0.001615
+play: 0.006460
+pledge: 0.410197
+pledges: 0.027454
+point: 0.016149
+pointer: 0.004845
+points: 0.001615
+policies: 0.006460
+poor: 0.001615
+populated: 0.004845
+port: 0.001615
+pose: 0.001615
+poses: 0.001615
+positive: 0.008075
+possess: 0.003230
+possession: 0.006460
+possibility: 0.001615
+possible: 0.019379
+possibly: 0.003230
+post: 0.009690
+potential: 0.004845
+potentially: 0.004845
+power: 0.008075
+practices: 0.003230
+pre: 0.004845
+precede: 0.001615
+preconfigured: 0.001615
+predictable: 0.003230
+prefix: 0.004845
+prepared: 0.003230
+presence: 0.008075
+present: 0.027454
+press: 0.001615
+presumes: 0.001615
+prevent: 0.001615
+prevents: 0.004845
+previous: 0.004845
+previously: 0.006460
+price: 0.001615
+principle: 0.001615
+priority: 0.001615
+privacy: 0.014535
+private: 0.006460
+probability: 0.004845
+probing_rate: 0.009690
+problem: 0.001615
+procedure: 0.008075
+proceed: 0.001615
+process: 0.071058
+processed: 0.003230
+processes: 0.001615
+processing: 0.024224
+produces: 0.001615
+product: 0.001615
+programme: 0.001615
+progressively: 0.001615
+prohibits: 0.001615
+project: 0.008075
+prolong: 0.001615
+prolongs: 0.001615
+promiscuous: 0.001615
+prone: 0.004845
+properly: 0.001615
+properties: 0.012920
+property: 0.001615
+protect: 0.006460
+protected: 0.014535
+protection: 0.014535
+protocol: 0.075903
+protocols: 0.003230
+provide: 0.009690
+provided: 0.011305
+provides: 0.009690
+provision: 0.003230
+provisioned: 0.030684
+provisioning: 0.022609
+provisions: 0.003230
+proxied: 0.004845
+proxies: 0.001615
+proxy: 0.025839
+psk: 0.046834
+psks: 0.009690
+ptr: 0.001615
+public: 0.006460
+publication: 0.006460
+published: 0.001615
+purpose: 0.003230
+purposes: 0.001615
+pushing: 0.001615
+question: 0.003230
+queues: 0.001615
+quite: 0.001615
+radio: 0.004845
+raised: 0.003230
+random: 0.009690
+randomness: 0.003230
+range: 0.001615
+ranges: 0.004845
+rare: 0.001615
+rarely: 0.001615
+rate: 0.024224
+reach: 0.001615
+reached: 0.004845
+reaching: 0.001615
+readable: 0.001615
+reader: 0.001615
+reason: 0.004845
+reasons: 0.004845
+reattempt: 0.001615
+reboot: 0.001615
+reboots: 0.004845
+receipt: 0.001615
+receive: 0.003230
+received: 0.022609
+receives: 0.011305
+receiving: 0.003230
+reception: 0.008075
+recipient: 0.003230
+recommendation: 0.004845
+recommendations: 0.001615
+recommended: 0.032299
+recommends: 0.001615
+recommissioning: 0.001615
+record: 0.001615
+recover: 0.001615
+recovery: 0.001615
+reduces: 0.003230
+redundancy: 0.001615
+refer: 0.001615
+reference: 0.016149
+references: 0.009690
+refers: 0.001615
+regained: 0.001615
+regard: 0.001615
+regardless: 0.004845
+registrar: 0.004845
+registration: 0.006460
+registry: 0.022609
+regular: 0.006460
+reinitialization: 0.001615
+reinitialize: 0.001615
+reinitialized: 0.006460
+rejoin: 0.003230
+rejoins: 0.001615
+rekeying: 0.008075
+related: 0.001615
+relates: 0.001615
+relating: 0.003230
+relationship: 0.001615
+relevant: 0.001615
+relies: 0.004845
+remainder: 0.001615
+remains: 0.001615
+remove: 0.004845
+renegotiation: 0.001615
+renew: 0.001615
+reorder: 0.001615
+replaced: 0.001615
+replay: 0.022609
+replayed: 0.001615
+replays: 0.001615
+representation: 0.008075
+represents: 0.011305
+reprovision: 0.001615
+request: 0.083977
+requested: 0.003230
+requesting: 0.001615
+requests: 0.029069
+require: 0.001615
+required: 0.008075
+requirement: 0.009690
+requirements: 0.001615
+requires: 0.004845
+requiring: 0.001615
+research: 0.001615
+reserved: 0.004845
+resistance: 0.001615
+resolved: 0.001615
+resolves: 0.001615
+resource: 0.004845
+resources: 0.003230
+respect: 0.006460
+respectively: 0.001615
+responds: 0.001615
+response: 0.096897
+responses: 0.006460
+rest: 0.001615
+restful: 0.003230
+restrictions: 0.001615
+result: 0.004845
+resulting: 0.004845
+results: 0.006460
+retana: 0.001615
+retransmission: 0.006460
+retransmissions: 0.003230
+retrieval: 0.001615
+retrieve: 0.004845
+retrieved: 0.003230
+returned: 0.004845
+reuse: 0.014535
+reused: 0.001615
+reuses: 0.001615
+review: 0.008075
+revision: 0.001615
+rfc: 0.125966
+rfc2119: 0.006460
+rfc2597: 0.008075
+rfc3172: 0.006460
+rfc4231: 0.008075
+rfc4944: 0.006460
+rfc5869: 0.009690
+rfc6550: 0.008075
+rfc6761: 0.006460
+rfc6762: 0.006460
+rfc7252: 0.019379
+rfc7554: 0.011305
+rfc7721: 0.006460
+rfc8085: 0.006460
+rfc8126: 0.009690
+rfc8152: 0.009690
+rfc8174: 0.006460
+rfc8180: 0.016149
+rfc8415: 0.006460
+rfc8480: 0.006460
+rfc8505: 0.011305
+rfc8610: 0.006460
+rfc8613: 0.029069
+rfc8615: 0.006460
+rfc8742: 0.006460
+rfc8820: 0.009690
+rfc8949: 0.006460
+rfc8974: 0.009690
+rfc8990: 0.006460
+rfc9030: 0.011305
+rfc9031: 0.001615
+rfcs: 0.003230
+richardson: 0.006460
+rights: 0.003230
+ripple: 0.001615
+risk: 0.004845
+risks: 0.003230
+roach: 0.001615
+road: 0.001615
+role: 0.022609
+roles: 0.003230
+roman: 0.001615
+root: 0.001615
+route: 0.001615
+router: 0.003230
+routes: 0.001615
+routing: 0.003230
+rpl: 0.004845
+rue: 0.001615
+rules: 0.003230
+running: 0.001615
+safe: 0.001615
+salt: 0.001615
+sandelman: 0.004845
+satisfy: 0.001615
+savings: 0.001615
+scan: 0.001615
+scanning: 0.001615
+scenario: 0.003230
+schaad: 0.003230
+schedule: 0.003230
+scheduled: 0.001615
+scheduling: 0.003230
+scheme: 0.011305
+scope: 0.029069
+scrambling: 0.001615
+search: 0.001615
+secexempt: 0.003230
+seckeyindex: 0.001615
+second: 0.003230
+seconds: 0.006460
+secret: 0.006460
+section: 0.132426
+sections: 0.004845
+secure: 0.027454
+secured: 0.008075
+securely: 0.006460
+securing: 0.001615
+security: 0.116276
+seeks: 0.003230
+seemingly: 0.001615
+seitz: 0.001615
+selander: 0.003230
+selection: 0.003230
+selects: 0.001615
+self: 0.001615
+send: 0.004845
+sender: 0.012920
+sending: 0.017764
+sends: 0.016149
+sent: 0.012920
+separate: 0.001615
+separately: 0.001615
+september: 0.003230
+sequence: 0.014535
+sequences: 0.001615
+serial: 0.003230
+serialized: 0.001615
+server: 0.011305
+service: 0.004845
+set: 0.114661
+sets: 0.006460
+setting: 0.011305
+settings: 0.019379
+sf: 0.004845
+sha: 0.014535
+shall: 0.014535
+share: 0.004845
+shared: 0.016149
+shelby: 0.001615
+shepherd: 0.001615
+shifted: 0.001615
+short: 0.053293
+short_identifier: 0.014535
+shown: 0.003230
+signal: 0.009690
+signaled: 0.004845
+signaling: 0.012920
+signals: 0.004845
+significantly: 0.001615
+signing: 0.001615
+silently: 0.009690
+similarly: 0.003230
+simon: 0.004845
+simone: 0.001615
+simplified: 0.004845
+simplifies: 0.001615
+simultaneously: 0.001615
+single: 0.012920
+siodelski: 0.001615
+size: 0.004845
+sleep: 0.001615
+slot: 0.011305
+slots: 0.001615
+slotted: 0.006460
+small: 0.001615
+soda: 0.001615
+software: 0.003230
+solicitation: 0.001615
+solution: 0.006460
+source: 0.009690
+sources: 0.001615
+sp: 0.003230
+space: 0.003230
+span: 0.001615
+special: 0.011305
+specific: 0.014535
+specification: 0.030684
+specifications: 0.001615
+specified: 0.040374
+specifies: 0.006460
+specify: 0.006460
+spent: 0.001615
+spots: 0.001615
+stable: 0.001615
+stack: 0.014535
+standard: 0.003230
+standards: 0.014535
+start: 0.008075
+started: 0.001615
+state: 0.030684
+stateful: 0.001615
+stateless: 0.012920
+statelessness: 0.003230
+statement: 0.001615
+states: 0.003230
+static: 0.001615
+status: 0.003230
+std: 0.016149
+steering: 0.001615
+step: 0.022609
+steps: 0.003230
+stop: 0.003230
+store: 0.003230
+stored: 0.001615
+stores: 0.001615
+stream: 0.001615
+strength: 0.001615
+string: 0.038759
+strings: 0.001615
+strong: 0.001615
+structure: 0.011305
+structures: 0.006460
+struik: 0.001615
+subdomains: 0.003230
+subject: 0.001615
+sublayer: 0.003230
+subregistry: 0.009690
+subsequent: 0.001615
+subsequently: 0.001615
+subset: 0.001615
+substantial: 0.001615
+success: 0.001615
+successful: 0.012920
+successfully: 0.004845
+sufficient: 0.001615
+suite: 0.001615
+summarized: 0.006460
+summarizes: 0.003230
+summary: 0.003230
+support: 0.003230
+supported: 0.008075
+surface: 0.001615
+switch: 0.004845
+switched: 0.001615
+symmetric: 0.006460
+synchronization: 0.004845
+synchronize: 0.001615
+synchronizes: 0.009690
+table: 0.027454
+tables: 0.001615
+tag: 0.014535
+tagged: 0.001615
+taken: 0.006460
+taking: 0.001615
+tanaka: 0.001615
+task: 0.003230
+technique: 0.003230
+technological: 0.001615
+technologies: 0.001615
+technology: 0.006460
+tell: 0.001615
+telling: 0.001615
+temporarily: 0.001615
+temporary: 0.003230
+tengfei: 0.001615
+term: 0.012920
+terminology: 0.003230
+terms: 0.008075
+tero: 0.001615
+test: 0.003230
+text: 0.011305
+thaler: 0.001615
+things: 0.001615
+thomas: 0.001615
+thoroughly: 0.001615
+threats: 0.004845
+throttling: 0.003230
+thubert: 0.006460
+time: 0.048448
+timed: 0.001615
+timing: 0.001615
+token: 0.022609
+tokens: 0.001615
+topology: 0.001615
+track: 0.006460
+tracking: 0.001615
+traffic: 0.085592
+transaction: 0.001615
+transfer: 0.001615
+transferred: 0.001615
+transit: 0.003230
+transitions: 0.001615
+transmission: 0.006460
+transmissions: 0.001615
+transmit: 0.001615
+transport: 0.001615
+transported: 0.004845
+transports: 0.001615
+travels: 0.001615
+tried: 0.003230
+tries: 0.001615
+trigger: 0.003230
+triggered: 0.006460
+triggers: 0.003230
+trust: 0.004845
+trusted: 0.001615
+trustee: 0.001615
+try: 0.001615
+tsch: 0.014535
+turned: 0.001615
+twice: 0.001615
+type: 0.019379
+types: 0.006460
+typical: 0.001615
+typically: 0.008075
+udp: 0.004845
+uint: 0.008075
+unauthenticated: 0.017764
+unauthorized: 0.001615
+unchanged: 0.001615
+uncorrelated: 0.001615
+undergo: 0.001615
+undergoes: 0.003230
+underlying: 0.004845
+understands: 0.001615
+undesirable: 0.001615
+undesired: 0.001615
+unencrypted: 0.001615
+unexpected: 0.001615
+uniform: 0.003230
+union: 0.003230
+unique: 0.046834
+uniquely: 0.001615
+uniqueness: 0.011305
+united: 0.003230
+units: 0.003230
+university: 0.003230
+unpredictable: 0.001615
+unprotected: 0.004845
+unsafe: 0.004845
+unsanitized: 0.001615
+unsecured: 0.006460
+unsigned: 0.014535
+unsupported: 0.025839
+unsupported_configuration: 0.008075
+unsupported_parameter: 0.009690
+untrusted: 0.001615
+update: 0.041989
+updated: 0.001615
+updates: 0.004845
+updating: 0.003230
+upper: 0.008075
+uppercase: 0.001615
+uri: 0.024224
+uris: 0.001615
+usage: 0.016149
+use: 0.127581
+used: 0.098512
+uses: 0.017764
+using: 0.048448
+utmost: 0.001615
+valid: 0.008075
+validates: 0.001615
+validity: 0.001615
+value: 0.079132
+values: 0.059753
+varies: 0.001615
+various: 0.001615
+vasseur: 0.001615
+vector: 0.006460
+vectors: 0.001615
+vendor: 0.001615
+vendors: 0.001615
+verification: 0.001615
+verified: 0.003230
+verifies: 0.001615
+verifying: 0.004845
+view: 0.003230
+viewpoint: 0.001615
+vigano: 0.001615
+vignat: 0.001615
+vijay: 0.001615
+vilajosana: 0.004845
+virtually: 0.001615
+visible: 0.001615
+vital: 0.001615
+volz: 0.001615
+vs: 0.001615
+vucinic: 0.001615
+vulnerability: 0.001615
+vučinić: 0.004845
+vyncke: 0.001615
+waiting: 0.001615
+wang: 0.001615
+wants: 0.001615
+warranty: 0.001615
+watteyne: 0.006460
+ways: 0.001615
+web: 0.003230
+weiss: 0.001615
+wide: 0.003230
+william: 0.001615
+window: 0.009690
+winter: 0.001615
+winters: 0.001615
+wireless: 0.004845
+wish: 0.003230
+words: 0.004845
+work: 0.001615
+works: 0.003230
+wrap: 0.001615
+write: 0.003230
+writing: 0.003230
+written: 0.009690
+wroclawski: 0.001615
+wrong: 0.001615
+www: 0.048448
+xavier: 0.001615
+xoring: 0.001615
+yasuyuki: 0.001615
+years: 0.001615
+yourtchenko: 0.001615
+zero: 0.004845
+éric: 0.001615

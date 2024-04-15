@@ -1,0 +1,397 @@
+Vocabulary:
+01
+02
+024
+03
+04
+05
+06
+07
+08
+09
+10
+100
+102
+104
+11
+112
+12
+13
+132
+14
+146
+15
+184
+2023
+2024
+2025
+213
+22
+23
+232
+258
+2nd
+31
+33
+38
+39
+402
+44
+45
+451
+48
+49
+51
+52
+53
+54
+57
+59
+61
+64
+644
+68
+69
+74
+77
+79
+80
+81
+84
+89
+92
+94
+975
+abuse
+according
+additional
+address
+affiliate
+afrinic
+allocated
+allocation
+allocations
+answers
+apnic
+apply
+ar
+arin
+arpa
+asn
+asns
+au
+autonomous
+available
+average
+aw
+based
+blocks
+bo
+bq
+br
+bz
+charts
+cl
+code
+contact
+coordinate
+countries
+country
+cr
+cu
+current
+cw
+data
+database
+date
+does
+domain
+domains
+ec
+eligibility
+eligible
+estimate
+excellence
+forecast
+functions
+future
+gf
+globally
+graph
+gt
+gy
+hn
+ht
+iana
+icann
+identifiers
+idn
+individual
+information
+int
+internet
+ipv6
+issues
+lacnic
+month
+monthly
+months
+mx
+names
+ncc
+near
+need
+needs
+network
+ni
+number
+numbers
+operators
+overview
+pa
+pe
+percentage
+performance
+policy
+pool
+previous
+privacy
+protocol
+protocols
+provided
+public
+publish
+published
+py
+questions
+rate
+rates
+regional
+registries
+registry
+reports
+repository
+resources
+reviews
+ripe
+rir
+rirs
+root
+satisfy
+service
+space
+specifically
+sr
+sv
+sx
+technical
+terms
+time
+total
+tt
+unique
+updated
+used
+uses
+uy
+ve
+zone
+
+TF-IDF Matrix:
+01: 0.063372
+02: 0.063372
+024: 0.063372
+03: 0.095059
+04: 0.126745
+05: 0.031686
+06: 0.031686
+07: 0.031686
+08: 0.031686
+09: 0.031686
+10: 0.063372
+100: 0.095059
+102: 0.031686
+104: 0.031686
+11: 0.063372
+112: 0.031686
+12: 0.158431
+13: 0.031686
+132: 0.031686
+14: 0.031686
+146: 0.031686
+15: 0.063372
+184: 0.031686
+2023: 0.095059
+2024: 0.443607
+2025: 0.126745
+213: 0.031686
+22: 0.063372
+23: 0.031686
+232: 0.031686
+258: 0.031686
+2nd: 0.031686
+31: 0.063372
+33: 0.031686
+38: 0.031686
+39: 0.031686
+402: 0.031686
+44: 0.095059
+45: 0.031686
+451: 0.031686
+48: 0.031686
+49: 0.031686
+51: 0.031686
+52: 0.031686
+53: 0.031686
+54: 0.031686
+57: 0.031686
+59: 0.031686
+61: 0.095059
+64: 0.031686
+644: 0.031686
+68: 0.031686
+69: 0.063372
+74: 0.031686
+77: 0.031686
+79: 0.031686
+80: 0.031686
+81: 0.031686
+84: 0.063372
+89: 0.031686
+92: 0.031686
+94: 0.031686
+975: 0.031686
+abuse: 0.063372
+according: 0.031686
+additional: 0.031686
+address: 0.031686
+affiliate: 0.031686
+afrinic: 0.063372
+allocated: 0.158431
+allocation: 0.190117
+allocations: 0.158431
+answers: 0.031686
+apnic: 0.063372
+apply: 0.031686
+ar: 0.031686
+arin: 0.063372
+arpa: 0.031686
+asn: 0.316862
+asns: 0.063372
+au: 0.031686
+autonomous: 0.031686
+available: 0.158431
+average: 0.095059
+aw: 0.031686
+based: 0.095059
+blocks: 0.031686
+bo: 0.031686
+bq: 0.031686
+br: 0.031686
+bz: 0.031686
+charts: 0.031686
+cl: 0.031686
+code: 0.031686
+contact: 0.031686
+coordinate: 0.031686
+countries: 0.031686
+country: 0.063372
+cr: 0.031686
+cu: 0.031686
+current: 0.063372
+cw: 0.031686
+data: 0.063372
+database: 0.031686
+date: 0.063372
+does: 0.031686
+domain: 0.031686
+domains: 0.031686
+ec: 0.031686
+eligibility: 0.063372
+eligible: 0.095059
+estimate: 0.031686
+excellence: 0.031686
+forecast: 0.063372
+functions: 0.031686
+future: 0.031686
+gf: 0.031686
+globally: 0.031686
+graph: 0.031686
+gt: 0.031686
+gy: 0.031686
+hn: 0.031686
+ht: 0.031686
+iana: 0.063372
+icann: 0.031686
+identifiers: 0.063372
+idn: 0.031686
+individual: 0.031686
+information: 0.031686
+int: 0.031686
+internet: 0.063372
+ipv6: 0.158431
+issues: 0.031686
+lacnic: 0.285176
+month: 0.095059
+monthly: 0.031686
+months: 0.158431
+mx: 0.031686
+names: 0.031686
+ncc: 0.063372
+near: 0.031686
+need: 0.063372
+needs: 0.031686
+network: 0.031686
+ni: 0.031686
+number: 0.126745
+numbers: 0.095059
+operators: 0.031686
+overview: 0.095059
+pa: 0.031686
+pe: 0.031686
+percentage: 0.063372
+performance: 0.031686
+policy: 0.031686
+pool: 0.063372
+previous: 0.031686
+privacy: 0.031686
+protocol: 0.031686
+protocols: 0.063372
+provided: 0.031686
+public: 0.031686
+publish: 0.031686
+published: 0.031686
+py: 0.031686
+questions: 0.031686
+rate: 0.063372
+rates: 0.031686
+regional: 0.031686
+registries: 0.063372
+registry: 0.095059
+reports: 0.031686
+repository: 0.031686
+resources: 0.063372
+reviews: 0.031686
+ripe: 0.063372
+rir: 0.031686
+rirs: 0.031686
+root: 0.031686
+satisfy: 0.031686
+service: 0.031686
+space: 0.063372
+specifically: 0.031686
+sr: 0.031686
+sv: 0.031686
+sx: 0.031686
+technical: 0.031686
+terms: 0.031686
+time: 0.031686
+total: 0.031686
+tt: 0.031686
+unique: 0.031686
+updated: 0.031686
+used: 0.031686
+uses: 0.031686
+uy: 0.031686
+ve: 0.031686
+zone: 0.063372

@@ -1,0 +1,485 @@
+Vocabulary:
+009
+01
+02
+03
+04
+07
+08
+10
+11
+111
+12
+124
+13
+14
+15
+153
+17
+20
+2023
+2024
+2025
+2026
+21
+22
+23
+24
+25
+250
+258
+264
+270
+28
+285
+30
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+50
+516
+55
+56
+57
+58
+596
+599
+607
+66
+885
+89
+95
+952
+958
+96
+964
+965
+97
+976
+982
+988
+994
+9th
+abuse
+according
+additional
+address
+addresses
+affiliate
+afrinic
+allocated
+allocation
+allocations
+answers
+ao
+apnic
+apply
+arin
+arpa
+asn
+assigned
+available
+average
+based
+bf
+bi
+bj
+block
+blocks
+bw
+ca
+cd
+cg
+chart
+charts
+ci
+cm
+code
+considered
+contact
+coordinate
+count
+country
+current
+cv
+data
+database
+date
+dj
+domain
+domains
+dz
+eligibility
+eligible
+estimate
+et
+excellence
+existing
+following
+forecast
+fragmented
+functions
+future
+ga
+gh
+globally
+gm
+gn
+gq
+grouped
+gw
+held
+iana
+icann
+identifiers
+idn
+information
+int
+internet
+ipv6
+issues
+ke
+km
+lacnic
+length
+lr
+ls
+ly
+ma
+measurements
+mg
+ml
+month
+monthly
+months
+mr
+mu
+mw
+mz
+na
+names
+ncc
+ne
+near
+necessary
+needs
+network
+ng
+number
+numbers
+operators
+overview
+percentage
+performance
+policy
+prefix
+privacy
+protocol
+protocols
+provided
+public
+publish
+published
+questions
+rate
+rates
+regional
+registries
+registry
+reports
+repository
+reserved
+resources
+reviews
+ripe
+rir
+rirs
+root
+rw
+sc
+sd
+service
+shows
+sl
+smaller
+sn
+space
+specifically
+ss
+st
+status
+sz
+td
+technical
+terms
+tg
+time
+tn
+total
+tz
+ug
+unique
+updated
+used
+uses
+za
+zm
+zone
+zw
+
+TF-IDF Matrix:
+009: 0.053606
+01: 0.080408
+02: 0.026803
+03: 0.026803
+04: 0.134014
+07: 0.053606
+08: 0.026803
+10: 0.187620
+11: 0.080408
+111: 0.026803
+12: 0.160817
+124: 0.026803
+13: 0.026803
+14: 0.053606
+15: 0.107211
+153: 0.026803
+17: 0.026803
+20: 0.026803
+2023: 0.080408
+2024: 0.214423
+2025: 0.080408
+2026: 0.053606
+21: 0.053606
+22: 0.053606
+23: 0.026803
+24: 0.080408
+25: 0.026803
+250: 0.026803
+258: 0.053606
+264: 0.026803
+270: 0.026803
+28: 0.026803
+285: 0.026803
+30: 0.026803
+32: 0.134014
+33: 0.026803
+34: 0.026803
+35: 0.026803
+36: 0.026803
+37: 0.053606
+38: 0.026803
+39: 0.026803
+40: 0.026803
+41: 0.053606
+42: 0.053606
+43: 0.026803
+44: 0.026803
+45: 0.026803
+46: 0.026803
+47: 0.026803
+48: 0.026803
+50: 0.026803
+516: 0.026803
+55: 0.080408
+56: 0.026803
+57: 0.026803
+58: 0.026803
+596: 0.026803
+599: 0.026803
+607: 0.026803
+66: 0.026803
+885: 0.026803
+89: 0.026803
+95: 0.241225
+952: 0.026803
+958: 0.026803
+96: 0.053606
+964: 0.026803
+965: 0.026803
+97: 0.026803
+976: 0.026803
+982: 0.026803
+988: 0.026803
+994: 0.026803
+9th: 0.026803
+abuse: 0.053606
+according: 0.026803
+additional: 0.026803
+address: 0.080408
+addresses: 0.080408
+affiliate: 0.026803
+afrinic: 0.268028
+allocated: 0.187620
+allocation: 0.107211
+allocations: 0.214423
+answers: 0.026803
+ao: 0.026803
+apnic: 0.053606
+apply: 0.026803
+arin: 0.053606
+arpa: 0.026803
+asn: 0.134014
+assigned: 0.026803
+available: 0.134014
+average: 0.053606
+based: 0.053606
+bf: 0.026803
+bi: 0.026803
+bj: 0.026803
+block: 0.026803
+blocks: 0.053606
+bw: 0.026803
+ca: 0.026803
+cd: 0.026803
+cg: 0.026803
+chart: 0.053606
+charts: 0.026803
+ci: 0.026803
+cm: 0.026803
+code: 0.026803
+considered: 0.026803
+contact: 0.026803
+coordinate: 0.026803
+count: 0.026803
+country: 0.080408
+current: 0.053606
+cv: 0.026803
+data: 0.053606
+database: 0.026803
+date: 0.053606
+dj: 0.026803
+domain: 0.026803
+domains: 0.026803
+dz: 0.026803
+eligibility: 0.053606
+eligible: 0.080408
+estimate: 0.026803
+et: 0.026803
+excellence: 0.026803
+existing: 0.026803
+following: 0.026803
+forecast: 0.053606
+fragmented: 0.080408
+functions: 0.026803
+future: 0.026803
+ga: 0.026803
+gh: 0.026803
+globally: 0.026803
+gm: 0.026803
+gn: 0.026803
+gq: 0.026803
+grouped: 0.026803
+gw: 0.026803
+held: 0.026803
+iana: 0.053606
+icann: 0.026803
+identifiers: 0.053606
+idn: 0.026803
+information: 0.026803
+int: 0.026803
+internet: 0.053606
+ipv6: 0.428845
+issues: 0.026803
+ke: 0.026803
+km: 0.026803
+lacnic: 0.053606
+length: 0.053606
+lr: 0.026803
+ls: 0.026803
+ly: 0.026803
+ma: 0.026803
+measurements: 0.026803
+mg: 0.026803
+ml: 0.026803
+month: 0.053606
+monthly: 0.026803
+months: 0.107211
+mr: 0.026803
+mu: 0.026803
+mw: 0.026803
+mz: 0.026803
+na: 0.026803
+names: 0.026803
+ncc: 0.053606
+ne: 0.026803
+near: 0.026803
+necessary: 0.053606
+needs: 0.026803
+network: 0.053606
+ng: 0.026803
+number: 0.134014
+numbers: 0.026803
+operators: 0.053606
+overview: 0.080408
+percentage: 0.053606
+performance: 0.026803
+policy: 0.026803
+prefix: 0.053606
+privacy: 0.026803
+protocol: 0.026803
+protocols: 0.053606
+provided: 0.026803
+public: 0.026803
+publish: 0.026803
+published: 0.026803
+questions: 0.026803
+rate: 0.026803
+rates: 0.026803
+regional: 0.026803
+registries: 0.053606
+registry: 0.080408
+reports: 0.026803
+repository: 0.026803
+reserved: 0.026803
+resources: 0.053606
+reviews: 0.026803
+ripe: 0.053606
+rir: 0.026803
+rirs: 0.026803
+root: 0.026803
+rw: 0.026803
+sc: 0.026803
+sd: 0.026803
+service: 0.026803
+shows: 0.026803
+sl: 0.026803
+smaller: 0.026803
+sn: 0.026803
+space: 0.214423
+specifically: 0.026803
+ss: 0.026803
+st: 0.026803
+status: 0.080408
+sz: 0.026803
+td: 0.026803
+technical: 0.026803
+terms: 0.026803
+tg: 0.026803
+time: 0.026803
+tn: 0.026803
+total: 0.026803
+tz: 0.026803
+ug: 0.026803
+unique: 0.026803
+updated: 0.026803
+used: 0.026803
+uses: 0.026803
+za: 0.026803
+zm: 0.026803
+zone: 0.053606
+zw: 0.026803

@@ -1,0 +1,667 @@
+Vocabulary:
+04
+08
+2022
+3743
+4290
+5646
+7940
+abuse
+accept
+accepted
+accidentally
+accompanied
+according
+accuracy
+address
+adhering
+administrative
+advance
+affiliate
+aid
+allow
+amendment
+american
+analysis
+appear
+applicable
+applications
+applied
+apply
+appropriate
+approved
+ar
+arab
+arabic
+archive
+archived
+arpa
+articulated
+ascii
+ask
+attached
+available
+aware
+bear
+br
+brazilian
+careful
+case
+cases
+cctld
+change
+changes
+chinese
+classification
+classifications
+clearly
+code
+codes
+coming
+common
+complex
+comprising
+confirmation
+confusion
+consent
+consistently
+constructing
+contact
+contain
+containing
+content
+contractually
+conventions
+coordinate
+copy
+correct
+country
+covers
+created
+current
+cyrillic
+cyrl
+da
+danish
+data
+database
+date
+days
+delegated
+denote
+deprecated
+described
+description
+designator
+designators
+details
+development
+distinct
+distinctions
+dk
+document
+documented
+does
+domain
+domains
+effective
+elements
+email
+en
+encoded
+encourage
+encouraged
+english
+ensure
+entries
+errors
+example
+excellence
+existing
+file
+followed
+following
+form
+format
+formats
+functions
+generation
+geographic
+globally
+gtld
+guidance
+guidelines
+hans
+hant
+header
+hiragana
+historical
+historically
+iana
+icann
+identical
+identifiers
+identify
+idn
+idns
+implement
+implementation
+include
+includes
+increase
+indicate
+information
+instead
+int
+intend
+intended
+internationalized
+internet
+involve
+involving
+ja
+japan
+japanese
+jp
+jpan
+kanji
+katakana
+ko
+korean
+kr
+label
+language
+languages
+latin
+latn
+lgr
+lgrs
+limited
+list
+listed
+listings
+lists
+machine
+main
+maintain
+marked
+means
+method
+mind
+multiple
+names
+naming
+nature
+necessary
+need
+note
+notes
+notice
+number
+numbers
+operational
+optimal
+order
+org
+overview
+parsing
+particularly
+performance
+permitted
+persian
+phone
+placed
+point
+points
+policies
+policy
+portal
+portuguese
+possible
+posted
+posting
+practices
+previously
+privacy
+procedures
+process
+promoting
+proposed
+protocol
+protocols
+provided
+pt
+public
+publication
+publish
+purpose
+ready
+reason
+receive
+recognized
+recommend
+recommended
+refer
+referred
+register
+registration
+registrations
+registries
+registry
+repetition
+reports
+repository
+represent
+representatives
+request
+requesting
+requests
+required
+requirements
+resources
+responsible
+reviews
+revised
+rfc
+root
+rules
+ruleset
+rulesets
+script
+scripts
+sent
+service
+services
+sharing
+similar
+simplified
+sole
+special
+specific
+specifically
+specified
+standards
+strongly
+submission
+submissions
+submit
+submitted
+submitter
+submitting
+subtag
+support
+sv
+swedish
+systems
+tables
+tabular
+tags
+taiwan
+tar
+technical
+terms
+text
+ticket
+time
+tld
+traditional
+treats
+tw
+unable
+und
+unicode
+unique
+unless
+unlisted
+unnecessary
+update
+updated
+updates
+upper
+urdu
+use
+used
+using
+utf
+variance
+variant
+verified
+version
+writing
+zh
+zip
+zone
+
+TF-IDF Matrix:
+04: 0.021729
+08: 0.021729
+2022: 0.021729
+3743: 0.021729
+4290: 0.021729
+5646: 0.021729
+7940: 0.021729
+abuse: 0.021729
+accept: 0.043458
+accepted: 0.021729
+accidentally: 0.021729
+accompanied: 0.021729
+according: 0.021729
+accuracy: 0.021729
+address: 0.043458
+adhering: 0.021729
+administrative: 0.130373
+advance: 0.021729
+affiliate: 0.021729
+aid: 0.021729
+allow: 0.021729
+amendment: 0.021729
+american: 0.021729
+analysis: 0.021729
+appear: 0.021729
+applicable: 0.021729
+applications: 0.021729
+applied: 0.043458
+apply: 0.021729
+appropriate: 0.021729
+approved: 0.021729
+ar: 0.021729
+arab: 0.021729
+arabic: 0.065187
+archive: 0.021729
+archived: 0.021729
+arpa: 0.021729
+articulated: 0.021729
+ascii: 0.021729
+ask: 0.021729
+attached: 0.021729
+available: 0.021729
+aware: 0.021729
+bear: 0.021729
+br: 0.021729
+brazilian: 0.021729
+careful: 0.021729
+case: 0.021729
+cases: 0.043458
+cctld: 0.021729
+change: 0.021729
+changes: 0.021729
+chinese: 0.086915
+classification: 0.043458
+classifications: 0.021729
+clearly: 0.021729
+code: 0.195560
+codes: 0.086915
+coming: 0.021729
+common: 0.108644
+complex: 0.021729
+comprising: 0.021729
+confirmation: 0.086915
+confusion: 0.043458
+consent: 0.021729
+consistently: 0.021729
+constructing: 0.021729
+contact: 0.239018
+contain: 0.043458
+containing: 0.065187
+content: 0.021729
+contractually: 0.021729
+conventions: 0.021729
+coordinate: 0.021729
+copy: 0.021729
+correct: 0.021729
+country: 0.086915
+covers: 0.021729
+created: 0.021729
+current: 0.043458
+cyrillic: 0.021729
+cyrl: 0.021729
+da: 0.021729
+danish: 0.021729
+data: 0.043458
+database: 0.043458
+date: 0.043458
+days: 0.021729
+delegated: 0.021729
+denote: 0.021729
+deprecated: 0.021729
+described: 0.043458
+description: 0.021729
+designator: 0.021729
+designators: 0.021729
+details: 0.043458
+development: 0.021729
+distinct: 0.021729
+distinctions: 0.021729
+dk: 0.021729
+document: 0.021729
+documented: 0.021729
+does: 0.043458
+domain: 0.108644
+domains: 0.043458
+effective: 0.021729
+elements: 0.065187
+email: 0.086915
+en: 0.043458
+encoded: 0.021729
+encourage: 0.021729
+encouraged: 0.021729
+english: 0.043458
+ensure: 0.021729
+entries: 0.021729
+errors: 0.021729
+example: 0.021729
+excellence: 0.021729
+existing: 0.021729
+file: 0.043458
+followed: 0.021729
+following: 0.043458
+form: 0.021729
+format: 0.065187
+formats: 0.043458
+functions: 0.021729
+generation: 0.065187
+geographic: 0.021729
+globally: 0.021729
+gtld: 0.021729
+guidance: 0.021729
+guidelines: 0.021729
+hans: 0.043458
+hant: 0.043458
+header: 0.043458
+hiragana: 0.021729
+historical: 0.021729
+historically: 0.021729
+iana: 0.108644
+icann: 0.065187
+identical: 0.021729
+identifiers: 0.043458
+identify: 0.021729
+idn: 0.239018
+idns: 0.021729
+implement: 0.021729
+implementation: 0.021729
+include: 0.043458
+includes: 0.043458
+increase: 0.021729
+indicate: 0.021729
+information: 0.043458
+instead: 0.065187
+int: 0.021729
+intend: 0.021729
+intended: 0.021729
+internationalized: 0.043458
+internet: 0.021729
+involve: 0.021729
+involving: 0.021729
+ja: 0.043458
+japan: 0.021729
+japanese: 0.065187
+jp: 0.043458
+jpan: 0.021729
+kanji: 0.021729
+katakana: 0.021729
+ko: 0.043458
+korean: 0.043458
+kr: 0.021729
+label: 0.065187
+language: 0.260746
+languages: 0.086915
+latin: 0.021729
+latn: 0.021729
+lgr: 0.239018
+lgrs: 0.195560
+limited: 0.021729
+list: 0.108644
+listed: 0.043458
+listings: 0.021729
+lists: 0.021729
+machine: 0.021729
+main: 0.021729
+maintain: 0.021729
+marked: 0.021729
+means: 0.043458
+method: 0.021729
+mind: 0.021729
+multiple: 0.021729
+names: 0.130373
+naming: 0.021729
+nature: 0.021729
+necessary: 0.065187
+need: 0.043458
+note: 0.021729
+notes: 0.021729
+notice: 0.021729
+number: 0.108644
+numbers: 0.021729
+operational: 0.021729
+optimal: 0.021729
+order: 0.021729
+org: 0.043458
+overview: 0.021729
+parsing: 0.021729
+particularly: 0.021729
+performance: 0.021729
+permitted: 0.021729
+persian: 0.021729
+phone: 0.021729
+placed: 0.021729
+point: 0.086915
+points: 0.043458
+policies: 0.065187
+policy: 0.065187
+portal: 0.021729
+portuguese: 0.021729
+possible: 0.021729
+posted: 0.021729
+posting: 0.021729
+practices: 0.043458
+previously: 0.021729
+privacy: 0.021729
+procedures: 0.043458
+process: 0.065187
+promoting: 0.021729
+proposed: 0.021729
+protocol: 0.021729
+protocols: 0.043458
+provided: 0.021729
+pt: 0.021729
+public: 0.021729
+publication: 0.021729
+publish: 0.043458
+purpose: 0.043458
+ready: 0.021729
+reason: 0.021729
+receive: 0.065187
+recognized: 0.021729
+recommend: 0.021729
+recommended: 0.021729
+refer: 0.021729
+referred: 0.021729
+register: 0.021729
+registration: 0.173831
+registrations: 0.021729
+registries: 0.086915
+registry: 0.195560
+repetition: 0.021729
+reports: 0.021729
+repository: 0.173831
+represent: 0.021729
+representatives: 0.021729
+request: 0.152102
+requesting: 0.021729
+requests: 0.086915
+required: 0.021729
+requirements: 0.043458
+resources: 0.021729
+responsible: 0.021729
+reviews: 0.021729
+revised: 0.043458
+rfc: 0.086915
+root: 0.043458
+rules: 0.021729
+ruleset: 0.043458
+rulesets: 0.043458
+script: 0.217289
+scripts: 0.043458
+sent: 0.065187
+service: 0.065187
+services: 0.021729
+sharing: 0.021729
+similar: 0.021729
+simplified: 0.021729
+sole: 0.021729
+special: 0.021729
+specific: 0.021729
+specifically: 0.021729
+specified: 0.021729
+standards: 0.021729
+strongly: 0.021729
+submission: 0.043458
+submissions: 0.043458
+submit: 0.043458
+submitted: 0.021729
+submitter: 0.086915
+submitting: 0.043458
+subtag: 0.043458
+support: 0.065187
+sv: 0.021729
+swedish: 0.021729
+systems: 0.021729
+tables: 0.086915
+tabular: 0.021729
+tags: 0.043458
+taiwan: 0.021729
+tar: 0.021729
+technical: 0.043458
+terms: 0.021729
+text: 0.021729
+ticket: 0.021729
+time: 0.021729
+tld: 0.043458
+traditional: 0.021729
+treats: 0.021729
+tw: 0.021729
+unable: 0.021729
+und: 0.021729
+unicode: 0.021729
+unique: 0.021729
+unless: 0.021729
+unlisted: 0.021729
+unnecessary: 0.021729
+update: 0.043458
+updated: 0.021729
+updates: 0.043458
+upper: 0.021729
+urdu: 0.021729
+use: 0.152102
+used: 0.065187
+using: 0.021729
+utf: 0.021729
+variance: 0.021729
+variant: 0.043458
+verified: 0.021729
+version: 0.065187
+writing: 0.021729
+zh: 0.086915
+zip: 0.021729
+zone: 0.065187

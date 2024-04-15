@@ -1,0 +1,233 @@
+Vocabulary:
+13
+2022
+9uakj0p
+abuse
+affiliate
+anchors
+answers
+archive
+arpa
+articles
+cctld
+ceremonies
+change
+code
+common
+community
+consent
+contact
+coordinate
+country
+database
+december
+delegating
+delegation
+descriptions
+dnssec
+domain
+domains
+eligibility
+eligible
+excellence
+files
+functions
+generation
+generic
+globally
+guide
+guides
+help
+hint
+iana
+icann
+identifiers
+idn
+information
+instructions
+int
+internet
+key
+keys
+level
+management
+mb
+modify
+names
+nameservers
+number
+numbers
+obtaining
+online
+operational
+overview
+passcode
+pdf
+performance
+plan
+policies
+policy
+practices
+preparing
+privacy
+procedures
+process
+project
+protocol
+protocols
+provided
+public
+questions
+recorded
+redelegations
+regarding
+register
+registries
+registry
+related
+reports
+repository
+representatives
+request
+requests
+requirements
+reserved
+resources
+reviews
+root
+servers
+service
+signing
+strings
+submit
+table
+technical
+terms
+test
+time
+tld
+transferring
+transfers
+trusts
+unique
+updated
+user
+webinar
+zone
+
+TF-IDF Matrix:
+13: 0.037062
+2022: 0.037062
+9uakj0p: 0.037062
+abuse: 0.037062
+affiliate: 0.037062
+anchors: 0.037062
+answers: 0.037062
+archive: 0.037062
+arpa: 0.074125
+articles: 0.037062
+cctld: 0.037062
+ceremonies: 0.037062
+change: 0.148250
+code: 0.037062
+common: 0.074125
+community: 0.037062
+consent: 0.037062
+contact: 0.037062
+coordinate: 0.037062
+country: 0.037062
+database: 0.074125
+december: 0.037062
+delegating: 0.111187
+delegation: 0.037062
+descriptions: 0.037062
+dnssec: 0.037062
+domain: 0.259437
+domains: 0.111187
+eligibility: 0.037062
+eligible: 0.037062
+excellence: 0.037062
+files: 0.037062
+functions: 0.037062
+generation: 0.037062
+generic: 0.037062
+globally: 0.037062
+guide: 0.074125
+guides: 0.111187
+help: 0.037062
+hint: 0.037062
+iana: 0.037062
+icann: 0.037062
+identifiers: 0.074125
+idn: 0.111187
+information: 0.074125
+instructions: 0.074125
+int: 0.111187
+internet: 0.037062
+key: 0.111187
+keys: 0.037062
+level: 0.148250
+management: 0.222375
+mb: 0.037062
+modify: 0.037062
+names: 0.074125
+nameservers: 0.037062
+number: 0.037062
+numbers: 0.037062
+obtaining: 0.037062
+online: 0.037062
+operational: 0.037062
+overview: 0.185312
+passcode: 0.037062
+pdf: 0.037062
+performance: 0.037062
+plan: 0.037062
+policies: 0.037062
+policy: 0.037062
+practices: 0.037062
+preparing: 0.037062
+privacy: 0.037062
+procedures: 0.111187
+process: 0.074125
+project: 0.037062
+protocol: 0.037062
+protocols: 0.074125
+provided: 0.037062
+public: 0.037062
+questions: 0.074125
+recorded: 0.037062
+redelegations: 0.037062
+regarding: 0.037062
+register: 0.037062
+registries: 0.037062
+registry: 0.185312
+related: 0.037062
+reports: 0.037062
+repository: 0.074125
+representatives: 0.037062
+request: 0.037062
+requests: 0.074125
+requirements: 0.037062
+reserved: 0.037062
+resources: 0.037062
+reviews: 0.037062
+root: 0.518875
+servers: 0.037062
+service: 0.037062
+signing: 0.074125
+strings: 0.037062
+submit: 0.037062
+table: 0.037062
+technical: 0.111187
+terms: 0.037062
+test: 0.037062
+time: 0.037062
+tld: 0.037062
+transferring: 0.037062
+transfers: 0.037062
+trusts: 0.037062
+unique: 0.037062
+updated: 0.037062
+user: 0.111187
+webinar: 0.037062
+zone: 0.444750

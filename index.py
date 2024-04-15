@@ -1,9 +1,9 @@
 import os
 import pickle
-import numpy as np
-from bs4 import BeautifulSoup
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np # type: ignore
+from bs4 import BeautifulSoup # type: ignore
+from sklearn.feature_extraction.text import TfidfVectorizer # type: ignore
+from sklearn.metrics.pairwise import cosine_similarity # type: ignore
 
 
 def parse_html_document(file_path):

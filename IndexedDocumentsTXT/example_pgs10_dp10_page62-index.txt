@@ -1,0 +1,1751 @@
+Vocabulary:
+00
+02
+10
+100
+1016ab
+11
+12
+128
+13
+134
+13t00
+14
+15
+16
+17
+18
+18t00
+19
+192
+1988
+1997
+1998
+19980210
+1999
+19990114
+20
+2000
+2001
+20010502
+2002
+2004
+2005
+2006
+20166
+21
+2119
+21345
+22
+23
+24
+25
+255
+258
+26
+27
+27t00
+28
+29
+30
+31
+3166
+32
+33
+3382
+34
+35
+36
+37
+3707
+38
+39
+3981
+3983
+3rd
+40
+41
+42
+43
+44
+4444
+45
+46
+4698
+47
+48
+535
+555
+5555
+703
+78
+79
+948
+abstract
+abusecontact
+abused
+accepting
+accessing
+according
+acknowledgement
+acknowledgements
+action
+activity
+additional
+address
+addresses
+addressrangetype
+admincontact
+administrative
+affected
+aid
+al
+allocated
+allocation
+allow
+allowable
+allowed
+allowequivalences
+allows
+alternative
+amsterdam
+andrei
+andrew
+andy
+annotation
+answer
+appear
+appendix
+application
+applications
+april
+areg
+areg1
+argument
+arpa
+ashandle
+asn
+asnumberend
+asnumberstart
+assigned
+associated
+assume
+assurances
+attempt
+attention
+attribute
+attributes
+august
+auth00
+auth03
+authenticated
+authentication
+authoritative
+authority
+authorization
+authors
+automated
+autonomous
+autonomoussystem
+autonomoussystemtype
+available
+base
+based
+basis
+bcp
+beep
+befitting
+begin
+beginning
+beginswith
+blacka
+block
+blocks
+bob
+boolean
+boundaries
+bradner
+bring
+byte
+called
+capabilities
+case
+category
+cathy
+character
+child
+children
+choice
+christensen
+circle
+city
+claimed
+clarify
+classes
+client
+clients
+code
+codes
+combined
+comments
+common
+commongroup
+commonname
+commonsearchgroup
+community
+complete
+completely
+complexcontent
+complextype
+compliance
+compliant
+composed
+compromising
+computer
+condition
+connection
+considerations
+consortium
+constituents
+constrained
+constrains
+constraint
+constraints
+constructively
+contact
+contactgroup
+contacthandle
+contacts
+contactsearchgroup
+contacttype
+contain
+contained
+containing
+contains
+content
+contents
+contributed
+contributions
+contributor
+contributors
+control
+convert
+copies
+copyright
+copyrights
+core
+countries
+country
+cover
+create
+crisp
+criteria
+cross
+current
+currently
+d5
+d6
+data
+database
+datatypes
+date
+datetime
+david
+db
+decides
+default
+defined
+definition
+definitions
+delegation
+delegations
+demonstrate
+denote
+denoting
+dependent
+derivation
+derivatives
+derive
+derived
+described
+describes
+describing
+description
+descriptions
+details
+determines
+direct
+directory
+disclaim
+disclosures
+discover
+discussion
+discussions
+displayname
+distribution
+dns
+document
+documentation
+documents
+does
+domain
+domainresource
+domainresourceparameter
+domains
+edition
+editor
+effective
+effort
+element
+elementformdefault
+elements
+email
+en
+encompass
+encompasses
+end
+endaddress
+ending
+endswith
+engin
+engineering
+entities
+entity
+entityclass
+entityname
+entitytype
+enumeration
+equivalent
+eric
+errata
+et
+exact
+exactly
+exactmatch
+exactmatchgroup
+exactmatchparameter
+exactorpartialmatchparameter
+example
+examples
+exchange
+exchanges
+existnetwork
+exists
+explained
+explicitly
+express
+extends
+extensibility
+extensible
+extension
+extensions
+extent
+fall
+false
+february
+fields
+figure
+findasbynumber
+findasbynumbertype
+findautonomoussystemsbyname
+findbycontact
+findbycontacttype
+findbynametype
+findcontacts
+findcontactstype
+findnetworksbyaddress
+findnetworksbyaddresstype
+findnetworksbyhandle
+findnetworksbyhandletype
+findnetworksbyname
+findnetworksbynameserver
+findnetworksbynameservertype
+findorganizations
+findorganizationstype
+fitness
+flag
+flags
+follow
+following
+follows
+force
+form
+formal
+format
+forth
+framework
+frederico
+friendly
+fulfill
+fully
+function
+functional
+funding
+general
+george
+given
+group
+groups
+gunduz
+hall
+handle
+handled
+handles
+hardie
+having
+hint
+home
+html
+http
+human
+hxr
+iab
+iana
+iasa
+id
+identified
+identifier
+identify
+ietf
+implement
+implementation
+implementers
+implied
+import
+improvements
+include
+included
+includes
+including
+inclusion
+independent
+indicate
+indicating
+indirectly
+indomain
+info
+information
+informative
+infringe
+initial
+insensitive
+insert
+instance
+institute
+instruct
+instructed
+instructions
+integer
+intellectual
+interested
+international
+internationalization
+internet
+interpreted
+interrelated
+interrelationships
+introduction
+invites
+ip
+ipnetworktype
+ipr
+ipv4
+ipv4address
+ipv4network
+ipv6
+ipv6address
+ipv6network
+iris
+iris1
+iso
+issuing
+january
+jn560
+kerr
+key
+label
+language
+larger
+lastupdateddate
+lays
+leibzon
+level
+levels
+license
+licenses
+limited
+line
+links
+list
+local
+located
+lookup
+lookupentity
+lwz
+mail
+mailing
+maintain
+makes
+manner
+mapping
+march
+marcos
+marine
+markup
+match
+matches
+matching
+maxoccurs
+meant
+mechanisms
+meet
+meeting
+member
+members
+memo
+merchantability
+message
+messaging
+method
+michaelson
+minlength
+minoccurs
+mixed
+multiple
+murphy
+names
+nameserver
+namespace
+namespaces
+naptr
+national
+natural
+ncc
+necessary
+needed
+needs
+negative
+nested
+nesting
+net
+netherlands
+network
+networkhandle
+networks
+networktype
+networktypeinfo
+neves
+new
+newton
+noc
+noccontact
+non
+noparent
+normalization
+normalizedstring
+normalizes
+normative
+notation
+notice
+nro
+ns
+number
+numberresourceregistry
+numbers
+oa12
+object
+obtain
+obtained
+october
+office
+official
+operate
+operational
+operations
+opposite
+option
+optional
+options
+order
+org
+organization
+organizationid
+organizationname
+organizations
+organizationtype
+orgx
+orgy
+othercontact
+outlines
+outside
+overlapping
+overlaps
+page
+parameter
+parameters
+params
+parent
+parentage
+partial
+partially
+partialmatchgroup
+partialmatchparameter
+particular
+party
+pass
+patent
+patents
+pattern
+pdf
+perform
+permission
+pertain
+phone
+place
+plain
+point
+policies
+policy
+portability
+portable
+position
+postal
+postaladdress
+postalcode
+precautions
+pref
+presence
+presented
+presents
+privacy
+problems
+procedures
+process
+processing
+properly
+property
+proposed
+proprietary
+protocol
+provide
+provided
+provides
+provision
+purpose
+purposefully
+qualified
+queries
+query
+querytype
+range
+ranges
+reaching
+readable
+reading
+reassigned
+rec
+recognized
+recommended
+record
+ref
+refer
+reference
+references
+referent
+referenttype
+regarding
+region
+registered
+registration
+registrationdate
+registries
+registry
+registrytype
+related
+relation
+relationship
+relationships
+remarks
+replacement
+repository
+represent
+representation
+represents
+request
+requested
+requests
+required
+requirement
+requirements
+requires
+resolution
+resource
+respect
+respectively
+response
+responses
+responsible
+restrict
+restriction
+restrictions
+result
+results
+resultset
+resulttype
+retain
+retrieving
+return
+returnass
+returned
+returnedresulttype
+returnipv4networks
+returnipv6networks
+returnorganizations
+reverse
+rfc
+rfcs
+ridgetop
+rights
+ripe
+rir
+rir1
+robachevsky
+role
+routines
+said
+sanz
+schema
+schemalocation
+scope
+search
+searches
+searching
+searchset
+second
+secretariat
+section
+security
+seealso
+seek
+selected
+sensitive
+sent
+sequence
+server
+servers
+service
+serving
+sessions
+set
+shall
+shane
+share
+short
+shows
+signifies
+signify
+similar
+simplecontent
+simpleentity
+simpletype
+singel
+single
+sip
+smaller
+smurd
+society
+space
+specific
+specification
+specifications
+specificity
+specificitysubsettype
+specificitytype
+specifics
+specified
+specifies
+specifying
+sponsored
+standard
+standardization
+standards
+start
+startaddress
+starting
+state
+statement
+status
+std
+sterling
+store
+stores
+string
+strings
+structures
+subject
+substantial
+substitutiongroup
+substrings
+subtype
+suggestions
+suitable
+support
+symbol
+syntax
+syntaxes
+systems
+table
+tags
+tailoring
+taken
+takes
+targetnamespace
+task
+techcontact
+technology
+ted
+terminology
+terms
+text
+tim
+time
+times
+token
+tr
+track
+tracker
+transfer
+transport
+travellers
+tree
+tried
+true
+type
+types
+unbounded
+unchanged
+unidirectional
+unique
+unlike
+unlimited
+updated
+uri
+uris
+urn
+usa
+use
+used
+user
+users
+uses
+using
+usually
+uu
+va
+valid
+validation
+validity
+value
+values
+verisign
+version
+w3
+w3c
+warranties
+warranty
+web
+wide
+william
+words
+working
+world
+www
+xml
+xml_ns
+xml_sd
+xml_ss
+xmlns
+xmlschema
+xmpp
+xpc
+xsd
+xsi
+yield
+yields
+zero
+
+TF-IDF Matrix:
+00: 0.031083
+02: 0.001943
+10: 0.021370
+100: 0.001943
+1016ab: 0.003885
+11: 0.040796
+12: 0.011656
+128: 0.005828
+13: 0.009713
+134: 0.001943
+13t00: 0.001943
+14: 0.009713
+15: 0.038854
+16: 0.085478
+17: 0.003885
+18: 0.005828
+18t00: 0.003885
+19: 0.003885
+192: 0.448760
+1988: 0.001943
+1997: 0.001943
+1998: 0.003885
+19980210: 0.001943
+1999: 0.003885
+19990114: 0.001943
+20: 0.007771
+2000: 0.005828
+2001: 0.013599
+20010502: 0.003885
+2002: 0.005828
+2004: 0.001943
+2005: 0.003885
+2006: 0.097134
+20166: 0.001943
+21: 0.003885
+2119: 0.005828
+21345: 0.001943
+22: 0.003885
+23: 0.003885
+24: 0.003885
+25: 0.003885
+255: 0.003885
+258: 0.003885
+26: 0.003885
+27: 0.001943
+27t00: 0.001943
+28: 0.001943
+29: 0.001943
+30: 0.056338
+31: 0.046624
+3166: 0.007771
+32: 0.007771
+33: 0.007771
+3382: 0.001943
+34: 0.007771
+35: 0.001943
+36: 0.003885
+37: 0.001943
+3707: 0.001943
+38: 0.001943
+39: 0.003885
+3981: 0.001943
+3983: 0.001943
+3rd: 0.001943
+40: 0.001943
+41: 0.001943
+42: 0.001943
+43: 0.001943
+44: 0.001943
+4444: 0.003885
+45: 0.001943
+46: 0.005828
+4698: 0.095192
+47: 0.001943
+48: 0.001943
+535: 0.003885
+555: 0.001943
+5555: 0.001943
+703: 0.003885
+78: 0.003885
+79: 0.001943
+948: 0.001943
+abstract: 0.001943
+abusecontact: 0.007771
+abused: 0.001943
+accepting: 0.001943
+accessing: 0.001943
+according: 0.003885
+acknowledgement: 0.001943
+acknowledgements: 0.003885
+action: 0.001943
+activity: 0.001943
+additional: 0.003885
+address: 0.176784
+addresses: 0.017484
+addressrangetype: 0.005828
+admincontact: 0.007771
+administrative: 0.001943
+affected: 0.007771
+aid: 0.007771
+al: 0.093249
+allocated: 0.003885
+allocation: 0.001943
+allow: 0.001943
+allowable: 0.009713
+allowed: 0.007771
+allowequivalences: 0.031083
+allows: 0.013599
+alternative: 0.001943
+amsterdam: 0.003885
+andrei: 0.001943
+andrew: 0.001943
+andy: 0.001943
+annotation: 0.003885
+answer: 0.007771
+appear: 0.009713
+appendix: 0.021370
+application: 0.007771
+applications: 0.001943
+april: 0.001943
+areg: 0.134045
+areg1: 0.056338
+argument: 0.003885
+arpa: 0.013599
+ashandle: 0.003885
+asn: 0.007771
+asnumberend: 0.007771
+asnumberstart: 0.007771
+assigned: 0.011656
+associated: 0.011656
+assume: 0.001943
+assurances: 0.001943
+attempt: 0.001943
+attention: 0.001943
+attribute: 0.007771
+attributes: 0.001943
+august: 0.001943
+auth00: 0.001943
+auth03: 0.001943
+authenticated: 0.001943
+authentication: 0.007771
+authoritative: 0.001943
+authority: 0.025255
+authorization: 0.001943
+authors: 0.003885
+automated: 0.001943
+autonomous: 0.040796
+autonomoussystem: 0.015541
+autonomoussystemtype: 0.003885
+available: 0.007771
+base: 0.040796
+based: 0.015541
+basis: 0.001943
+bcp: 0.007771
+beep: 0.011656
+befitting: 0.001943
+begin: 0.001943
+beginning: 0.001943
+beginswith: 0.005828
+blacka: 0.001943
+block: 0.001943
+blocks: 0.001943
+bob: 0.003885
+boolean: 0.003885
+boundaries: 0.001943
+bradner: 0.001943
+bring: 0.001943
+byte: 0.001943
+called: 0.001943
+capabilities: 0.001943
+case: 0.013599
+category: 0.001943
+cathy: 0.001943
+character: 0.009713
+child: 0.077707
+children: 0.003885
+choice: 0.042739
+christensen: 0.003885
+circle: 0.001943
+city: 0.017484
+claimed: 0.001943
+clarify: 0.001943
+classes: 0.003885
+client: 0.015541
+clients: 0.015541
+code: 0.009713
+codes: 0.007771
+combined: 0.003885
+comments: 0.003885
+common: 0.031083
+commongroup: 0.009713
+commonname: 0.011656
+commonsearchgroup: 0.009713
+community: 0.001943
+complete: 0.001943
+completely: 0.003885
+complexcontent: 0.046624
+complextype: 0.089364
+compliance: 0.003885
+compliant: 0.005828
+composed: 0.003885
+compromising: 0.001943
+computer: 0.001943
+condition: 0.005828
+connection: 0.001943
+considerations: 0.027198
+consortium: 0.007771
+constituents: 0.003885
+constrained: 0.003885
+constrains: 0.003885
+constraint: 0.013599
+constraints: 0.011656
+constructively: 0.001943
+contact: 0.099077
+contactgroup: 0.007771
+contacthandle: 0.013599
+contacts: 0.015541
+contactsearchgroup: 0.009713
+contacttype: 0.003885
+contain: 0.015541
+contained: 0.007771
+containing: 0.013599
+contains: 0.085478
+content: 0.003885
+contents: 0.013599
+contributed: 0.001943
+contributions: 0.001943
+contributor: 0.001943
+contributors: 0.003885
+control: 0.001943
+convert: 0.003885
+copies: 0.001943
+copyright: 0.007771
+copyrights: 0.001943
+core: 0.003885
+countries: 0.001943
+country: 0.025255
+cover: 0.001943
+create: 0.003885
+crisp: 0.003885
+criteria: 0.001943
+cross: 0.001943
+current: 0.001943
+currently: 0.001943
+d5: 0.001943
+d6: 0.001943
+data: 0.009713
+database: 0.001943
+datatypes: 0.001943
+date: 0.003885
+datetime: 0.003885
+david: 0.001943
+db: 0.001943
+decides: 0.009713
+default: 0.011656
+defined: 0.017484
+definition: 0.003885
+definitions: 0.001943
+delegation: 0.003885
+delegations: 0.001943
+demonstrate: 0.001943
+denote: 0.003885
+denoting: 0.001943
+dependent: 0.001943
+derivation: 0.001943
+derivatives: 0.007771
+derive: 0.001943
+derived: 0.003885
+described: 0.015541
+describes: 0.009713
+describing: 0.005828
+description: 0.003885
+descriptions: 0.005828
+details: 0.003885
+determines: 0.005828
+direct: 0.009713
+directory: 0.003885
+disclaim: 0.001943
+disclosures: 0.001943
+discover: 0.001943
+discussion: 0.001943
+discussions: 0.001943
+displayname: 0.015541
+distribution: 0.001943
+dns: 0.013599
+document: 0.029140
+documentation: 0.003885
+documents: 0.001943
+does: 0.007771
+domain: 0.017484
+domainresource: 0.003885
+domainresourceparameter: 0.003885
+domains: 0.003885
+edition: 0.003885
+editor: 0.001943
+effective: 0.007771
+effort: 0.001943
+element: 0.305002
+elementformdefault: 0.001943
+elements: 0.083535
+email: 0.029140
+en: 0.009713
+encompass: 0.003885
+encompasses: 0.007771
+end: 0.019427
+endaddress: 0.011656
+ending: 0.011656
+endswith: 0.011656
+engin: 0.001943
+engineering: 0.001943
+entities: 0.001943
+entity: 0.029140
+entityclass: 0.027198
+entityname: 0.027198
+entitytype: 0.023312
+enumeration: 0.038854
+equivalent: 0.003885
+eric: 0.001943
+errata: 0.003885
+et: 0.093249
+exact: 0.050510
+exactly: 0.001943
+exactmatch: 0.005828
+exactmatchgroup: 0.007771
+exactmatchparameter: 0.025255
+exactorpartialmatchparameter: 0.015541
+example: 0.095192
+examples: 0.013599
+exchange: 0.003885
+exchanges: 0.001943
+existnetwork: 0.001943
+exists: 0.001943
+explained: 0.001943
+explicitly: 0.001943
+express: 0.001943
+extends: 0.001943
+extensibility: 0.001943
+extensible: 0.007771
+extension: 0.062166
+extensions: 0.003885
+extent: 0.001943
+fall: 0.001943
+false: 0.017484
+february: 0.003885
+fields: 0.009713
+figure: 0.050510
+findasbynumber: 0.007771
+findasbynumbertype: 0.003885
+findautonomoussystemsbyname: 0.007771
+findbycontact: 0.007771
+findbycontacttype: 0.003885
+findbynametype: 0.005828
+findcontacts: 0.007771
+findcontactstype: 0.003885
+findnetworksbyaddress: 0.011656
+findnetworksbyaddresstype: 0.003885
+findnetworksbyhandle: 0.007771
+findnetworksbyhandletype: 0.003885
+findnetworksbyname: 0.007771
+findnetworksbynameserver: 0.007771
+findnetworksbynameservertype: 0.003885
+findorganizations: 0.007771
+findorganizationstype: 0.003885
+fitness: 0.001943
+flag: 0.001943
+flags: 0.001943
+follow: 0.001943
+following: 0.046624
+follows: 0.003885
+force: 0.001943
+form: 0.003885
+formal: 0.013599
+format: 0.003885
+forth: 0.001943
+framework: 0.001943
+frederico: 0.001943
+friendly: 0.001943
+fulfill: 0.003885
+fully: 0.009713
+function: 0.001943
+functional: 0.001943
+funding: 0.001943
+general: 0.003885
+george: 0.001943
+given: 0.048567
+group: 0.083535
+groups: 0.001943
+gunduz: 0.099077
+hall: 0.001943
+handle: 0.052453
+handled: 0.005828
+handles: 0.001943
+hardie: 0.001943
+having: 0.001943
+hint: 0.007771
+home: 0.001943
+html: 0.001943
+http: 0.019427
+human: 0.003885
+hxr: 0.001943
+iab: 0.007771
+iana: 0.017484
+iasa: 0.001943
+id: 0.013599
+identified: 0.001943
+identifier: 0.011656
+identify: 0.001943
+ietf: 0.056338
+implement: 0.001943
+implementation: 0.011656
+implementers: 0.001943
+implied: 0.003885
+import: 0.001943
+improvements: 0.001943
+include: 0.003885
+included: 0.009713
+includes: 0.003885
+including: 0.001943
+inclusion: 0.001943
+independent: 0.001943
+indicate: 0.001943
+indicating: 0.003885
+indirectly: 0.001943
+indomain: 0.007771
+info: 0.001943
+information: 0.046624
+informative: 0.003885
+infringe: 0.001943
+initial: 0.001943
+insensitive: 0.001943
+insert: 0.003885
+instance: 0.009713
+institute: 0.001943
+instruct: 0.001943
+instructed: 0.001943
+instructions: 0.003885
+integer: 0.007771
+intellectual: 0.003885
+interested: 0.001943
+international: 0.001943
+internationalization: 0.005828
+internet: 0.046624
+interpreted: 0.001943
+interrelated: 0.001943
+interrelationships: 0.001943
+introduction: 0.003885
+invites: 0.001943
+ip: 0.025255
+ipnetworktype: 0.007771
+ipr: 0.009713
+ipv4: 0.021370
+ipv4address: 0.009713
+ipv4network: 0.033026
+ipv6: 0.011656
+ipv6address: 0.003885
+ipv6network: 0.021370
+iris: 0.322486
+iris1: 0.013599
+iso: 0.007771
+issuing: 0.001943
+january: 0.005828
+jn560: 0.009713
+kerr: 0.003885
+key: 0.003885
+label: 0.007771
+language: 0.054395
+larger: 0.001943
+lastupdateddate: 0.011656
+lays: 0.003885
+leibzon: 0.001943
+level: 0.040796
+levels: 0.001943
+license: 0.003885
+licenses: 0.003885
+limited: 0.001943
+line: 0.001943
+links: 0.001943
+list: 0.001943
+local: 0.005828
+located: 0.015541
+lookup: 0.001943
+lookupentity: 0.007771
+lwz: 0.001943
+mail: 0.005828
+mailing: 0.001943
+maintain: 0.003885
+makes: 0.001943
+manner: 0.001943
+mapping: 0.001943
+march: 0.001943
+marcos: 0.001943
+marine: 0.001943
+markup: 0.003885
+match: 0.048567
+matches: 0.013599
+matching: 0.007771
+maxoccurs: 0.110733
+meant: 0.001943
+mechanisms: 0.001943
+meet: 0.001943
+meeting: 0.001943
+member: 0.001943
+members: 0.003885
+memo: 0.003885
+merchantability: 0.001943
+message: 0.005828
+messaging: 0.001943
+method: 0.011656
+michaelson: 0.001943
+minlength: 0.003885
+minoccurs: 0.112676
+mixed: 0.003885
+multiple: 0.001943
+murphy: 0.001943
+names: 0.015541
+nameserver: 0.017484
+namespace: 0.003885
+namespaces: 0.005828
+naptr: 0.007771
+national: 0.003885
+natural: 0.011656
+ncc: 0.007771
+necessary: 0.001943
+needed: 0.003885
+needs: 0.007771
+negative: 0.001943
+nested: 0.001943
+nesting: 0.021370
+net: 0.038854
+netherlands: 0.003885
+network: 0.139873
+networkhandle: 0.015541
+networks: 0.099077
+networktype: 0.011656
+networktypeinfo: 0.003885
+neves: 0.001943
+new: 0.007771
+newton: 0.009713
+noc: 0.003885
+noccontact: 0.007771
+non: 0.001943
+noparent: 0.007771
+normalization: 0.007771
+normalizedstring: 0.036911
+normalizes: 0.003885
+normative: 0.003885
+notation: 0.011656
+notice: 0.007771
+nro: 0.001943
+ns: 0.040796
+number: 0.038854
+numberresourceregistry: 0.003885
+numbers: 0.001943
+oa12: 0.001943
+object: 0.001943
+obtain: 0.001943
+obtained: 0.001943
+october: 0.097134
+office: 0.001943
+official: 0.001943
+operate: 0.001943
+operational: 0.003885
+operations: 0.001943
+opposite: 0.001943
+option: 0.001943
+optional: 0.023312
+options: 0.001943
+order: 0.003885
+org: 0.029140
+organization: 0.097134
+organizationid: 0.005828
+organizationname: 0.003885
+organizations: 0.009713
+organizationtype: 0.003885
+orgx: 0.003885
+orgy: 0.001943
+othercontact: 0.007771
+outlines: 0.001943
+outside: 0.003885
+overlapping: 0.005828
+overlaps: 0.001943
+page: 0.095192
+parameter: 0.005828
+parameters: 0.013599
+params: 0.036911
+parent: 0.033026
+parentage: 0.001943
+partial: 0.001943
+partially: 0.007771
+partialmatchgroup: 0.005828
+partialmatchparameter: 0.005828
+particular: 0.001943
+party: 0.001943
+pass: 0.009713
+patent: 0.001943
+patents: 0.001943
+pattern: 0.005828
+pdf: 0.001943
+perform: 0.001943
+permission: 0.001943
+pertain: 0.001943
+phone: 0.021370
+place: 0.001943
+plain: 0.001943
+point: 0.001943
+policies: 0.005828
+policy: 0.003885
+portability: 0.007771
+portable: 0.001943
+position: 0.001943
+postal: 0.009713
+postaladdress: 0.007771
+postalcode: 0.011656
+precautions: 0.001943
+pref: 0.001943
+presence: 0.001943
+presented: 0.001943
+presents: 0.001943
+privacy: 0.005828
+problems: 0.001943
+procedures: 0.001943
+process: 0.005828
+processing: 0.007771
+properly: 0.001943
+property: 0.007771
+proposed: 0.001943
+proprietary: 0.003885
+protocol: 0.019427
+provide: 0.001943
+provided: 0.005828
+provides: 0.007771
+provision: 0.003885
+purpose: 0.001943
+purposefully: 0.001943
+qualified: 0.007771
+queries: 0.009713
+query: 0.134045
+querytype: 0.015541
+range: 0.054395
+ranges: 0.005828
+reaching: 0.003885
+readable: 0.001943
+reading: 0.001943
+reassigned: 0.001943
+rec: 0.007771
+recognized: 0.001943
+recommended: 0.003885
+record: 0.007771
+ref: 0.036911
+refer: 0.005828
+reference: 0.023312
+references: 0.021370
+referent: 0.017484
+referenttype: 0.017484
+regarding: 0.003885
+region: 0.017484
+registered: 0.003885
+registration: 0.007771
+registrationdate: 0.011656
+registries: 0.011656
+registry: 0.159300
+registrytype: 0.027198
+related: 0.003885
+relation: 0.001943
+relationship: 0.005828
+relationships: 0.001943
+remarks: 0.001943
+replacement: 0.001943
+repository: 0.001943
+represent: 0.001943
+representation: 0.003885
+represents: 0.007771
+request: 0.009713
+requested: 0.001943
+requests: 0.009713
+required: 0.003885
+requirement: 0.001943
+requirements: 0.001943
+requires: 0.001943
+resolution: 0.021370
+resource: 0.005828
+respect: 0.003885
+respectively: 0.007771
+response: 0.013599
+responses: 0.003885
+responsible: 0.001943
+restrict: 0.005828
+restriction: 0.027198
+restrictions: 0.001943
+result: 0.118504
+results: 0.042739
+resultset: 0.007771
+resulttype: 0.007771
+retain: 0.001943
+retrieving: 0.001943
+return: 0.011656
+returnass: 0.003885
+returned: 0.013599
+returnedresulttype: 0.007771
+returnipv4networks: 0.007771
+returnipv6networks: 0.007771
+returnorganizations: 0.003885
+reverse: 0.005828
+rfc: 0.110733
+rfcs: 0.001943
+ridgetop: 0.001943
+rights: 0.019427
+ripe: 0.007771
+rir: 0.025255
+rir1: 0.011656
+robachevsky: 0.001943
+role: 0.005828
+routines: 0.007771
+said: 0.001943
+sanz: 0.005828
+schema: 0.046624
+schemalocation: 0.005828
+scope: 0.007771
+search: 0.083535
+searches: 0.019427
+searching: 0.003885
+searchset: 0.007771
+second: 0.001943
+secretariat: 0.001943
+section: 0.083535
+security: 0.005828
+seealso: 0.007771
+seek: 0.001943
+selected: 0.001943
+sensitive: 0.009713
+sent: 0.003885
+sequence: 0.093249
+server: 0.036911
+servers: 0.013599
+service: 0.021370
+serving: 0.001943
+sessions: 0.001943
+set: 0.046624
+shall: 0.003885
+shane: 0.003885
+share: 0.001943
+short: 0.003885
+shows: 0.001943
+signifies: 0.003885
+signify: 0.001943
+similar: 0.003885
+simplecontent: 0.007771
+simpleentity: 0.005828
+simpletype: 0.027198
+singel: 0.003885
+single: 0.001943
+sip: 0.007771
+smaller: 0.001943
+smurd: 0.003885
+society: 0.005828
+space: 0.013599
+specific: 0.069937
+specification: 0.003885
+specifications: 0.001943
+specificity: 0.058281
+specificitysubsettype: 0.003885
+specificitytype: 0.005828
+specifics: 0.034968
+specified: 0.013599
+specifies: 0.021370
+specifying: 0.007771
+sponsored: 0.001943
+standard: 0.005828
+standardization: 0.003885
+standards: 0.099077
+start: 0.021370
+startaddress: 0.011656
+starting: 0.009713
+state: 0.001943
+statement: 0.001943
+status: 0.003885
+std: 0.001943
+sterling: 0.001943
+store: 0.003885
+stores: 0.001943
+string: 0.027198
+strings: 0.001943
+structures: 0.001943
+subject: 0.001943
+substantial: 0.001943
+substitutiongroup: 0.027198
+substrings: 0.001943
+subtype: 0.001943
+suggestions: 0.001943
+suitable: 0.001943
+support: 0.005828
+symbol: 0.001943
+syntax: 0.013599
+syntaxes: 0.001943
+systems: 0.009713
+table: 0.001943
+tags: 0.007771
+tailoring: 0.007771
+taken: 0.001943
+takes: 0.001943
+targetnamespace: 0.001943
+task: 0.001943
+techcontact: 0.013599
+technology: 0.003885
+ted: 0.001943
+terminology: 0.007771
+terms: 0.003885
+text: 0.001943
+tim: 0.003885
+time: 0.003885
+times: 0.001943
+token: 0.031083
+tr: 0.007771
+track: 0.097134
+tracker: 0.001943
+transfer: 0.001943
+transport: 0.003885
+travellers: 0.001943
+tree: 0.001943
+tried: 0.001943
+true: 0.015541
+type: 0.310830
+types: 0.017484
+unbounded: 0.040796
+unchanged: 0.009713
+unidirectional: 0.001943
+unique: 0.017484
+unlike: 0.001943
+unlimited: 0.001943
+updated: 0.001943
+uri: 0.003885
+uris: 0.001943
+urn: 0.038854
+usa: 0.001943
+use: 0.033026
+used: 0.011656
+user: 0.005828
+users: 0.001943
+uses: 0.003885
+using: 0.019427
+usually: 0.001943
+uu: 0.003885
+va: 0.001943
+valid: 0.007771
+validation: 0.001943
+validity: 0.001943
+value: 0.046624
+values: 0.013599
+verisign: 0.003885
+version: 0.009713
+w3: 0.017484
+w3c: 0.007771
+warranties: 0.003885
+warranty: 0.001943
+web: 0.007771
+wide: 0.007771
+william: 0.001943
+words: 0.003885
+working: 0.001943
+world: 0.007771
+www: 0.019427
+xml: 0.099077
+xml_ns: 0.001943
+xml_sd: 0.001943
+xml_ss: 0.001943
+xmlns: 0.033026
+xmlschema: 0.013599
+xmpp: 0.001943
+xpc: 0.001943
+xsd: 0.005828
+xsi: 0.013599
+yield: 0.003885
+yields: 0.007771
+zero: 0.001943

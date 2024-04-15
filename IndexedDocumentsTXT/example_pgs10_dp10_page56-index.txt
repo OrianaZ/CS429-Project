@@ -1,0 +1,93 @@
+Vocabulary:
+10
+11
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+477
+520
+announce
+april
+archive
+archives
+august
+author
+bytes
+date
+december
+downloadable
+february
+gzip
+information
+january
+july
+june
+kb
+list
+march
+november
+october
+september
+subject
+text
+thread
+tz
+version
+view
+
+TF-IDF Matrix:
+10: 0.006471
+11: 0.006471
+2012: 0.038825
+2013: 0.038825
+2014: 0.045296
+2015: 0.038825
+2016: 0.051767
+2017: 0.019413
+2018: 0.032354
+2019: 0.019413
+2020: 0.019413
+2021: 0.019413
+2022: 0.032354
+2023: 0.012942
+2024: 0.006471
+477: 0.006471
+520: 0.006471
+announce: 0.012942
+april: 0.025884
+archive: 0.006471
+archives: 0.012942
+august: 0.025884
+author: 0.375312
+bytes: 0.012942
+date: 0.375312
+december: 0.025884
+downloadable: 0.006471
+february: 0.012942
+gzip: 0.368841
+information: 0.006471
+january: 0.025884
+july: 0.025884
+june: 0.019413
+kb: 0.362370
+list: 0.006471
+march: 0.058238
+november: 0.025884
+october: 0.064709
+september: 0.045296
+subject: 0.375312
+text: 0.375312
+thread: 0.375312
+tz: 0.012942
+version: 0.006471
+view: 0.006471

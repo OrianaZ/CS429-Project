@@ -1,0 +1,455 @@
+Vocabulary:
+03
+10
+12
+15
+2018
+2023
+2024
+21
+7th
+abuse
+acceptable
+access
+accidental
+accountability
+additional
+adopted
+affiliate
+anchors
+annually
+archive
+arpa
+assets
+associated
+audit
+authority
+business
+cases
+ceremonies
+change
+charter
+community
+component
+compromised
+considered
+contact
+continuityprocedure
+contractors
+control
+controls
+coordinate
+create
+cryptographic
+cycle
+database
+date
+deliberate
+denial
+describes
+description
+designated
+disaster
+dns
+dnssec
+document
+documents
+domain
+domains
+ed
+effective
+eligibility
+emergency
+ensure
+espionage
+establishment
+event
+events
+excellence
+external
+extreme
+facilities
+files
+functions
+globally
+guides
+handling
+high
+hint
+iana
+icann
+identification
+identifiers
+idn
+implemented
+incident
+incidents
+including
+information
+initiated
+instructions
+int
+internal
+internet
+involved
+involving
+irrecoverably
+key
+keys
+kmf
+kmfs
+ksk
+ksks
+ksrs
+level
+life
+logging
+lost
+maintain
+maintainer
+maintenance
+managed
+management
+managing
+means
+measures
+members
+mitigate
+mitigation
+modify
+monitoring
+names
+number
+numbers
+occurred
+operations
+operator
+overview
+parameters
+parties
+party
+password
+passwords
+performance
+performed
+personal
+personnel
+physical
+pins
+plan
+pma
+policies
+policy
+potentially
+practice
+practices
+preventive
+privacy
+private
+procedural
+procedure
+procedures
+process
+project
+proper
+protocol
+protocols
+provided
+provides
+public
+recommendations
+recording
+recovery
+register
+registries
+registry
+relation
+remain
+reports
+repository
+represent
+representatives
+requests
+requirements
+reserved
+resources
+responsibilities
+responsibility
+responsible
+reviewed
+reviews
+risk
+risks
+roles
+rollover
+rollovers
+root
+rz
+sabotage
+scenarios
+security
+seeks
+series
+servers
+service
+signing
+software
+staff
+statement
+statements
+structure
+submit
+submitted
+successor
+suitability
+supporting
+systems
+table
+technical
+terminating
+termination
+terms
+terrorism
+threats
+time
+title
+traceable
+transferring
+triggering
+trusts
+understanding
+unique
+used
+users
+v2
+v3
+zone
+zsk
+
+TF-IDF Matrix:
+03: 0.072532
+10: 0.174078
+12: 0.188584
+15: 0.072532
+2018: 0.014506
+2023: 0.174078
+2024: 0.072532
+21: 0.014506
+7th: 0.014506
+abuse: 0.014506
+acceptable: 0.029013
+access: 0.058026
+accidental: 0.014506
+accountability: 0.014506
+additional: 0.014506
+adopted: 0.014506
+affiliate: 0.014506
+anchors: 0.014506
+annually: 0.014506
+archive: 0.014506
+arpa: 0.029013
+assets: 0.014506
+associated: 0.029013
+audit: 0.029013
+authority: 0.014506
+business: 0.014506
+cases: 0.014506
+ceremonies: 0.014506
+change: 0.014506
+charter: 0.014506
+community: 0.014506
+component: 0.029013
+compromised: 0.014506
+considered: 0.014506
+contact: 0.014506
+continuityprocedure: 0.014506
+contractors: 0.014506
+control: 0.014506
+controls: 0.014506
+coordinate: 0.014506
+create: 0.014506
+cryptographic: 0.029013
+cycle: 0.014506
+database: 0.029013
+date: 0.014506
+deliberate: 0.014506
+denial: 0.014506
+describes: 0.232104
+description: 0.014506
+designated: 0.043519
+disaster: 0.029013
+dns: 0.014506
+dnssec: 0.072532
+document: 0.043519
+documents: 0.043519
+domain: 0.043519
+domains: 0.029013
+ed: 0.014506
+effective: 0.246610
+eligibility: 0.014506
+emergency: 0.029013
+ensure: 0.014506
+espionage: 0.014506
+establishment: 0.014506
+event: 0.014506
+events: 0.014506
+excellence: 0.014506
+external: 0.014506
+extreme: 0.014506
+facilities: 0.029013
+files: 0.014506
+functions: 0.029013
+globally: 0.014506
+guides: 0.014506
+handling: 0.029013
+high: 0.014506
+hint: 0.014506
+iana: 0.029013
+icann: 0.014506
+identification: 0.029013
+identifiers: 0.029013
+idn: 0.029013
+implemented: 0.014506
+incident: 0.014506
+incidents: 0.029013
+including: 0.029013
+information: 0.043519
+initiated: 0.014506
+instructions: 0.014506
+int: 0.043519
+internal: 0.029013
+internet: 0.014506
+involved: 0.014506
+involving: 0.029013
+irrecoverably: 0.014506
+key: 0.159571
+keys: 0.043519
+kmf: 0.014506
+kmfs: 0.029013
+ksk: 0.536739
+ksks: 0.014506
+ksrs: 0.014506
+level: 0.072532
+life: 0.014506
+logging: 0.014506
+lost: 0.014506
+maintain: 0.014506
+maintainer: 0.014506
+maintenance: 0.043519
+managed: 0.014506
+management: 0.174078
+managing: 0.014506
+means: 0.043519
+measures: 0.014506
+members: 0.014506
+mitigate: 0.014506
+mitigation: 0.029013
+modify: 0.014506
+monitoring: 0.014506
+names: 0.029013
+number: 0.014506
+numbers: 0.029013
+occurred: 0.014506
+operations: 0.217597
+operator: 0.072532
+overview: 0.072532
+parameters: 0.014506
+parties: 0.014506
+party: 0.029013
+password: 0.014506
+passwords: 0.014506
+performance: 0.014506
+performed: 0.058026
+personal: 0.014506
+personnel: 0.058026
+physical: 0.043519
+pins: 0.014506
+plan: 0.043519
+pma: 0.043519
+policies: 0.058026
+policy: 0.116052
+potentially: 0.014506
+practice: 0.058026
+practices: 0.014506
+preventive: 0.014506
+privacy: 0.014506
+private: 0.043519
+procedural: 0.014506
+procedure: 0.087039
+procedures: 0.058026
+process: 0.014506
+project: 0.014506
+proper: 0.029013
+protocol: 0.014506
+protocols: 0.029013
+provided: 0.014506
+provides: 0.014506
+public: 0.014506
+recommendations: 0.058026
+recording: 0.014506
+recovery: 0.029013
+register: 0.014506
+registries: 0.014506
+registry: 0.072532
+relation: 0.174078
+remain: 0.014506
+reports: 0.014506
+repository: 0.029013
+represent: 0.014506
+representatives: 0.014506
+requests: 0.029013
+requirements: 0.072532
+reserved: 0.014506
+resources: 0.014506
+responsibilities: 0.058026
+responsibility: 0.014506
+responsible: 0.014506
+reviewed: 0.014506
+reviews: 0.014506
+risk: 0.043519
+risks: 0.058026
+roles: 0.043519
+rollover: 0.014506
+rollovers: 0.014506
+root: 0.145065
+rz: 0.261116
+sabotage: 0.014506
+scenarios: 0.014506
+security: 0.087039
+seeks: 0.014506
+series: 0.014506
+servers: 0.014506
+service: 0.029013
+signing: 0.058026
+software: 0.029013
+staff: 0.014506
+statement: 0.014506
+statements: 0.043519
+structure: 0.014506
+submit: 0.014506
+submitted: 0.014506
+successor: 0.014506
+suitability: 0.014506
+supporting: 0.014506
+systems: 0.043519
+table: 0.014506
+technical: 0.014506
+terminating: 0.014506
+termination: 0.014506
+terms: 0.014506
+terrorism: 0.014506
+threats: 0.029013
+time: 0.058026
+title: 0.014506
+traceable: 0.014506
+transferring: 0.014506
+triggering: 0.014506
+trusts: 0.014506
+understanding: 0.014506
+unique: 0.014506
+used: 0.014506
+users: 0.014506
+v2: 0.014506
+v3: 0.232104
+zone: 0.145065
+zsk: 0.029013

@@ -1,0 +1,385 @@
+Vocabulary:
+01
+02
+024
+03
+04
+05
+07
+08
+09
+10
+100
+106
+11
+116
+12
+125
+13
+138
+14
+15
+17
+18
+19
+200
+2023
+2024
+2025
+21
+23
+273
+29
+2nd
+31
+34
+41
+43
+47
+51
+60
+64
+70
+71
+745
+78
+80
+87
+90
+94
+abuse
+according
+additional
+address
+affiliate
+afrinic
+ag
+ai
+allocated
+allocation
+allocations
+answers
+apnic
+apply
+arin
+arpa
+asn
+asns
+au
+autonomous
+available
+average
+based
+bb
+bl
+blocks
+bm
+bs
+ca
+ch
+charts
+code
+contact
+coordinate
+countries
+country
+current
+cz
+data
+database
+date
+dm
+does
+domain
+domains
+eligibility
+eligible
+es
+estimate
+excellence
+fi
+forecast
+fr
+functions
+future
+gb
+gd
+globally
+gp
+graph
+gu
+iana
+icann
+identifiers
+idn
+il
+individual
+information
+int
+internet
+ipv6
+issues
+jm
+kn
+ky
+lacnic
+lc
+mf
+month
+monthly
+months
+mq
+ms
+mx
+names
+ncc
+near
+need
+needs
+network
+nl
+number
+numbers
+operators
+overview
+percentage
+performance
+pm
+policy
+pool
+pr
+previous
+privacy
+protocol
+protocols
+provided
+public
+publish
+published
+pw
+questions
+rate
+rates
+regional
+registries
+registry
+reports
+repository
+resources
+reviews
+ripe
+rir
+rirs
+root
+satisfy
+service
+sg
+space
+specifically
+tc
+technical
+terms
+time
+total
+tw
+unique
+updated
+used
+uses
+vc
+vg
+vi
+zone
+
+TF-IDF Matrix:
+01: 0.062561
+02: 0.062561
+024: 0.062561
+03: 0.062561
+04: 0.156403
+05: 0.031281
+07: 0.031281
+08: 0.031281
+09: 0.031281
+10: 0.125122
+100: 0.093842
+106: 0.031281
+11: 0.093842
+116: 0.031281
+12: 0.218964
+125: 0.031281
+13: 0.062561
+138: 0.031281
+14: 0.031281
+15: 0.062561
+17: 0.062561
+18: 0.031281
+19: 0.031281
+200: 0.031281
+2023: 0.093842
+2024: 0.437928
+2025: 0.125122
+21: 0.062561
+23: 0.031281
+273: 0.031281
+29: 0.031281
+2nd: 0.031281
+31: 0.031281
+34: 0.031281
+41: 0.031281
+43: 0.031281
+47: 0.031281
+51: 0.031281
+60: 0.031281
+64: 0.031281
+70: 0.062561
+71: 0.031281
+745: 0.031281
+78: 0.031281
+80: 0.062561
+87: 0.031281
+90: 0.031281
+94: 0.031281
+abuse: 0.062561
+according: 0.031281
+additional: 0.031281
+address: 0.031281
+affiliate: 0.031281
+afrinic: 0.062561
+ag: 0.031281
+ai: 0.031281
+allocated: 0.156403
+allocation: 0.187683
+allocations: 0.156403
+answers: 0.031281
+apnic: 0.062561
+apply: 0.031281
+arin: 0.281525
+arpa: 0.031281
+asn: 0.312806
+asns: 0.062561
+au: 0.031281
+autonomous: 0.031281
+available: 0.156403
+average: 0.093842
+based: 0.093842
+bb: 0.031281
+bl: 0.031281
+blocks: 0.031281
+bm: 0.031281
+bs: 0.031281
+ca: 0.031281
+ch: 0.031281
+charts: 0.031281
+code: 0.031281
+contact: 0.031281
+coordinate: 0.031281
+countries: 0.031281
+country: 0.062561
+current: 0.062561
+cz: 0.031281
+data: 0.062561
+database: 0.031281
+date: 0.062561
+dm: 0.031281
+does: 0.031281
+domain: 0.031281
+domains: 0.031281
+eligibility: 0.062561
+eligible: 0.093842
+es: 0.031281
+estimate: 0.031281
+excellence: 0.031281
+fi: 0.031281
+forecast: 0.062561
+fr: 0.031281
+functions: 0.031281
+future: 0.031281
+gb: 0.031281
+gd: 0.031281
+globally: 0.031281
+gp: 0.031281
+graph: 0.031281
+gu: 0.031281
+iana: 0.062561
+icann: 0.031281
+identifiers: 0.062561
+idn: 0.031281
+il: 0.031281
+individual: 0.031281
+information: 0.031281
+int: 0.031281
+internet: 0.062561
+ipv6: 0.156403
+issues: 0.031281
+jm: 0.031281
+kn: 0.031281
+ky: 0.031281
+lacnic: 0.062561
+lc: 0.031281
+mf: 0.031281
+month: 0.093842
+monthly: 0.031281
+months: 0.156403
+mq: 0.031281
+ms: 0.031281
+mx: 0.031281
+names: 0.031281
+ncc: 0.062561
+near: 0.031281
+need: 0.062561
+needs: 0.031281
+network: 0.031281
+nl: 0.031281
+number: 0.125122
+numbers: 0.093842
+operators: 0.031281
+overview: 0.093842
+percentage: 0.062561
+performance: 0.031281
+pm: 0.031281
+policy: 0.031281
+pool: 0.062561
+pr: 0.031281
+previous: 0.031281
+privacy: 0.031281
+protocol: 0.031281
+protocols: 0.062561
+provided: 0.031281
+public: 0.031281
+publish: 0.031281
+published: 0.031281
+pw: 0.031281
+questions: 0.031281
+rate: 0.062561
+rates: 0.031281
+regional: 0.031281
+registries: 0.062561
+registry: 0.093842
+reports: 0.031281
+repository: 0.031281
+resources: 0.062561
+reviews: 0.031281
+ripe: 0.062561
+rir: 0.031281
+rirs: 0.031281
+root: 0.031281
+satisfy: 0.031281
+service: 0.031281
+sg: 0.031281
+space: 0.062561
+specifically: 0.031281
+tc: 0.031281
+technical: 0.031281
+terms: 0.031281
+time: 0.031281
+total: 0.031281
+tw: 0.031281
+unique: 0.031281
+updated: 0.031281
+used: 0.031281
+uses: 0.031281
+vc: 0.031281
+vg: 0.031281
+vi: 0.031281
+zone: 0.062561

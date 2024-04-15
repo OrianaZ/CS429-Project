@@ -1,0 +1,203 @@
+Vocabulary:
+19
+2024
+21
+access
+administrative
+announce
+announcements
+appeals
+appointments
+architecture
+awareness
+barriers
+bias
+blog
+board
+bof
+bring
+chair
+communication
+community
+confirmations
+conflict
+contact
+content
+coordination
+correspondence
+development
+diverse
+documents
+drafts
+editor
+eliot
+experts
+explored
+global
+groups
+guide
+held
+history
+iab
+iana
+identify
+ietf
+independent
+innovation
+internet
+irtf
+ise
+lear
+learn
+liaison
+links
+lists
+llc
+mailing
+main
+mar
+meetings
+members
+minutes
+new
+news
+organizes
+outreach
+past
+pauly
+platform
+pleased
+policies
+policy
+possibly
+posts
+privacy
+programs
+publications
+raise
+reappointment
+reports
+rfc
+rfcs
+role
+search
+selects
+services
+shepherding
+skip
+statements
+steps
+submission
+submissions
+support
+technical
+tommy
+topics
+trust
+welcome
+wiki
+work
+workshop
+workshops
+
+TF-IDF Matrix:
+19: 0.051640
+2024: 0.154919
+21: 0.051640
+access: 0.051640
+administrative: 0.051640
+announce: 0.051640
+announcements: 0.103280
+appeals: 0.051640
+appointments: 0.051640
+architecture: 0.258199
+awareness: 0.051640
+barriers: 0.051640
+bias: 0.051640
+blog: 0.103280
+board: 0.258199
+bof: 0.051640
+bring: 0.051640
+chair: 0.051640
+communication: 0.051640
+community: 0.103280
+confirmations: 0.051640
+conflict: 0.051640
+contact: 0.103280
+content: 0.051640
+coordination: 0.051640
+correspondence: 0.051640
+development: 0.051640
+diverse: 0.051640
+documents: 0.051640
+drafts: 0.051640
+editor: 0.154919
+eliot: 0.103280
+experts: 0.051640
+explored: 0.051640
+global: 0.051640
+groups: 0.103280
+guide: 0.051640
+held: 0.051640
+history: 0.051640
+iab: 0.413118
+iana: 0.051640
+identify: 0.051640
+ietf: 0.258199
+independent: 0.103280
+innovation: 0.051640
+internet: 0.413118
+irtf: 0.051640
+ise: 0.051640
+lear: 0.103280
+learn: 0.051640
+liaison: 0.051640
+links: 0.051640
+lists: 0.051640
+llc: 0.051640
+mailing: 0.051640
+main: 0.051640
+mar: 0.154919
+meetings: 0.051640
+members: 0.051640
+minutes: 0.051640
+new: 0.103280
+news: 0.103280
+organizes: 0.051640
+outreach: 0.051640
+past: 0.051640
+pauly: 0.051640
+platform: 0.051640
+pleased: 0.051640
+policies: 0.051640
+policy: 0.051640
+possibly: 0.051640
+posts: 0.103280
+privacy: 0.051640
+programs: 0.103280
+publications: 0.051640
+raise: 0.051640
+reappointment: 0.103280
+reports: 0.051640
+rfc: 0.051640
+rfcs: 0.051640
+role: 0.051640
+search: 0.103280
+selects: 0.051640
+services: 0.051640
+shepherding: 0.051640
+skip: 0.051640
+statements: 0.051640
+steps: 0.051640
+submission: 0.051640
+submissions: 0.051640
+support: 0.051640
+technical: 0.103280
+tommy: 0.051640
+topics: 0.051640
+trust: 0.051640
+welcome: 0.051640
+wiki: 0.051640
+work: 0.051640
+workshop: 0.051640
+workshops: 0.154919

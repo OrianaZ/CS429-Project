@@ -1,0 +1,1448 @@
+<!doctype html>
+<html>
+<head>
+	<title></title>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<link rel="stylesheet" href="/_css/2022/iana_website.css"/>
+	<link rel="shortcut icon" type="image/ico" href="/_img/bookmark_icon.ico"/>
+
+	<script type="text/javascript" src="/_js/jquery.js"></script>
+	<script type="text/javascript" src="/_js/iana.js"></script>
+
+	
+    <script type="text/javascript" src="/_js/chartjs/chart.bundle.min.js"></script>
+    <script>
+    function stacked_bar(id, value, total, stepSize = 50, postfix_str = "%") {
+        girdColor = ['#fff', '#ff0000', '#ccc'];
+        titleText = 'Percentage Available (/12)';
+        if (stepSize === 10) {
+            stepSize = 20;
+            girdColor = ['#fff', 'red', '#fff', '#fff', '#fff', '#ccc'];
+            titleText = 'Percentage Available';
+        }
+        const data = {
+            labels: [""],
+            datasets: [{
+                label: "",
+                barThickness: 25,
+                data: [value],
+                backgroundColor: "#51C048",
+                hoverBackgroundColor: "#51C048"
+            }, {
+                label: "",
+                barThickness: 25,
+                data: [total - value],
+                backgroundColor: "#ddd",
+                hoverBackgroundColor: "#ddd"
+            },
+            ],
+        };
+        bar_ctx = document.getElementById(id);
+        bar_chart = new Chart(bar_ctx, {
+            type: 'bar',
+            data: data,
+            options: {
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    title: {
+                        display: true,
+                        text: titleText,
+                        position: 'bottom',
+                    },
+                    tooltips: {
+                        enabled: false,
+                    },
+                },
+                animation: {
+                    duration: 0
+                },
+                indexAxis: 'y',
+                responsive: true,
+                scales: {
+                    x: {
+                        stacked: true,
+                        grid: {
+                            drawBorder: true,
+                            lineWidth: 2,
+                            drawTicks: false,
+                            color: girdColor,
+                            offset: false,
+                        },
+                        ticks: {
+                            min: 0,
+                            max: 100,
+                            stepSize: stepSize,
+                            callback: function (value) {
+                                return value + postfix_str; // convert it to percentage
+                            },
+                        },
+                    },
+                    y: {
+                        stacked: true,
+                        barThickness: 30,
+                        ticks: {
+                            beginAtZero: true
+                        },
+                    }
+                }
+            }
+        });
+    }
+
+</script>
+    <script>
+        function display_i_chart() {
+            bar_ctx = document.getElementById('chart-asn-aval');
+            bar_chart = new Chart(bar_ctx, {
+                type: 'horizontalBar',
+                data: {
+                    labels: [],
+                    datasets: [{
+                        label: "Allocated",
+                        data: [],
+                        backgroundColor: "#33d38c"
+                    },
+                        {
+                            label: "Received Block",
+                            data: [],
+                            backgroundColor: "#ddd",
+                        },
+                    ],
+
+                },
+                options: {
+                    title: {
+                        display: true,
+                        text: 'ASN Allocated Blocks',
+                        position: 'bottom',
+                    },
+                    legend: {
+                        display: false,
+                        position: 'bottom',
+                        fontSize: 5,
+                    },
+                    tooltips: {
+                        enabled: false,
+                    },
+                    scales: {
+                        x: {
+                            stacked: true,
+                            gridLines: {
+                                drawBorder: true,
+                                color: ['#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', 'red', '#fff', '#ccc']
+                            },
+                            ticks: {
+                                min: 0,
+                                max: 100,
+                                stepSize: 10,
+                                callback: function (value) {
+                                    return value + '%'; // convert it to percentage
+                                }
+                            }
+
+                        },
+                        y: {
+                            scaleBeginAtZero: true,
+                            stacked: true,
+                            ticks: {
+                                beginAtZero: true
+                            }
+
+
+                        },
+                    } // scales
+                } // options
+            });
+        }
+
+        function display_status_chart(id) {
+            ctx = document.getElementById(id).getContext('2d');
+            myChart = new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: [],
+                    datasets: [{
+                        data: [],
+                        borderWidth: 1,
+                        backgroundColor: ["#ccc", "#FA3EAB", "#33d38c", "#1FA4E4"]
+                    }]
+                },
+                options: {
+                    legend: {
+                        display: true,
+                        position: 'bottom',
+                    },
+                    title: {
+                        display: true,
+                        text: "Allocations by Status",
+                        position: "bottom"
+                    },
+                }
+            });
+        }
+    </script>
+    <script>
+    function bar_chart_percent(id, labels, data, title, stepSize = 50) {
+        gridColor = ['#ccc', 'red', '#ccc'];
+        if (stepSize === 20){
+            gridColor = ['#ccc', 'red', '#ccc', '#ccc', '#ccc'];
+        }
+        let ctx = document.getElementById(id).getContext('2d');
+        let myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    data: data,
+                    borderWidth: 1,
+                    backgroundColor: "#51C048"
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false,
+                    },
+                    title: {
+                        display: true,
+                        text: title,
+                        position: "top"
+                    },
+                    tooltip: {
+                        enabled: true,
+                        callbacks: {
+                            label: function (context) {
+                                const currentValue = context.raw;
+                                return currentValue + '%';
+                            }
+                        }
+                    },
+                },
+                animation: false,
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: "Date"
+                        },
+                    },
+                    y: {
+                        min: 0,
+                        max: 100,
+                        title: {
+                            display: true,
+                            text: "Percentage Available (/12)"
+                        },
+                        grid: {
+                            drawBorder: true,
+                            offset: false,
+                            // lineWidth: 2,
+                            color: gridColor,
+                        },
+                        ticks: {
+                            stepSize: stepSize,
+                            callback: function (value) {
+                                return value + '%'; // convert it to percentage
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    }
+</script>
+    <script type="application/javascript">
+    function display_bar_chart(id, labels, data, title, xaxes_label='', yaxes_label='' ) {
+        ctx = document.getElementById(id).getContext('2d');
+        myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    data: data,
+                    borderWidth: 1,
+                    backgroundColor: "#6078ff"
+                }]
+            },
+            options: {
+                animation: false,
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false,
+                    },
+                    title: {
+                        display: true,
+                        text: title,
+                        position: "top",
+                    },
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: xaxes_label
+                        },
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: yaxes_label
+                        },
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+
+            }
+        });
+    }
+
+</script>
+
+
+</head>
+
+<body>
+
+<header>
+    <div id="header">
+        <div id="logo">
+            <a href="/"><img src="/_img/2022/iana-logo-header.svg" alt="Homepage"/></a>
+        </div>
+        <div class="navigation">
+            <ul>
+                <li><a href="/domains">Domains</a></li>
+                <li><a href="/protocols">Protocols</a></li>
+                <li><a href="/numbers">Numbers</a></li>
+<!--                <li><a href="/news">News</a></li>-->
+                <li><a href="/about">About</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<div id="body">
+
+
+<article class="hemmed sidenav">
+
+    <main>
+    
+
+    <h1>RIPE NCC ASN Allocations</h1>
+    <p>
+        Allocations of autonomous system numbers are made to regional Internet registries according to their needs,
+        based on allocation rates they publish. Specifically, RIRs are eligible for further allocations if their
+        available address space is 80% allocated, or the available pool does not satisfy two months of need based on
+        the previous six months' average allocation rate.
+    </p>
+
+    <h2>Current Pool and Eligibility</h2>
+
+    <div id="rir-map">
+        <div class="rir-cur">
+            <canvas id="current-status"></canvas>
+            <script>
+                stacked_bar('current-status', 55, 100, stepSize=10 )
+            </script>
+
+            <noscript>
+                        <table class="iana-table" style="width: 100%">
+                            <thead>
+                            <tr>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>Percentage Available</td>
+                                <td>55%</td>
+                            </tr>
+                            </tbody>
+                        </table>
+            </noscript>
+
+        </div>
+
+            <table class="iana-table rir-cur">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Eligibility</td>
+                    <td class="text-right">Not Eligible</td>
+                </tr>
+
+                <tr>
+                    <td>Available</td>
+                    <td class="text-right">1,702</td>
+                </tr>
+                <tr>
+                    <td>Two Month Need</td>
+                    <td class="text-right">382</td>
+                </tr>
+                <tr>
+                    <td>Monthly Average</td>
+                    <td class="text-right">191</td>
+                </tr>
+                <tr>
+                    <td>Last Allocation by IANA</td>
+                    <td class="text-right">3,072 ASNs (2023-08-10)</td>
+                </tr>
+
+                </tbody>
+            </table>
+
+    </div>
+
+                <h2>12-Month Forecast</h2>
+                <p>
+                    The graph below uses RIPE NCC's current average allocation rate to forecast their available ASN
+                    space over the next 12 months. This can be used to estimate if RIPE NCC will become eligible to
+                        apply for additional AS Numbers in the near future.
+                </p>
+                <div class="rir-chart">
+                <canvas id="ipv6-forecast"></canvas>
+                <script>
+                    bar_chart_percent( 'ipv6-forecast', ['2024-04', '2024-05', '2nd Month', '2024-07', '2024-08', '2024-09', '2024-10', '2024-11', '2024-12', '2025-01', '2025-02', '2025-03', '2025-04'], [55, 48.78, 42.57, 36.35, 30.13, 23.92, 17.7, 11.48, 5.26, -0.95, -7.17, -13.39, -19.6],
+                        "", 20)
+                </script>
+
+                <noscript>
+                    
+
+<table class="iana-table" style="width: 320px">
+
+    <thead>
+    <tr>
+        <th>Date</th>
+        <th class="text-right">Percentage Allocation</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+        <tr>
+            <td>2024-04</td>
+            <td class="text-right">55%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-05</td>
+            <td class="text-right">48.78%</td>
+        </tr>
+    
+        <tr>
+            <td>2ND MONTH</td>
+            <td class="text-right">42.57%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-07</td>
+            <td class="text-right">36.35%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-08</td>
+            <td class="text-right">30.13%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-09</td>
+            <td class="text-right">23.92%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-10</td>
+            <td class="text-right">17.7%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-11</td>
+            <td class="text-right">11.48%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-12</td>
+            <td class="text-right">5.26%</td>
+        </tr>
+    
+        <tr>
+            <td>2025-01</td>
+            <td class="text-right">-0.95%</td>
+        </tr>
+    
+        <tr>
+            <td>2025-02</td>
+            <td class="text-right">-7.17%</td>
+        </tr>
+    
+        <tr>
+            <td>2025-03</td>
+            <td class="text-right">-13.39%</td>
+        </tr>
+    
+        <tr>
+            <td>2025-04</td>
+            <td class="text-right">-19.6%</td>
+        </tr>
+    
+
+    </tbody>
+</table>
+                </noscript>
+
+                </div>
+
+
+
+
+            <h2>Allocations by Country</h2>
+                <p>
+                    Total number of ASN blocks allocated to individual countries from RIPE NCC.
+                </p>
+    <div class="rir-chart">
+
+            <canvas id="asn-country"></canvas>
+            <script>
+                display_bar_chart('asn-country', ['AD', 'AE', 'AG', 'AI', 'AL', 'AM', 'AR', 'AT', 'AU', 'AX', 'AZ', 'BA', 'BD', 'BE', 'BG', 'BH', 'BI', 'BM', 'BO', 'BQ', 'BR', 'BY', 'BZ', 'CA', 'CH', 'CN', 'CO', 'CW', 'CY', 'CZ', 'DE', 'DJ', 'DK', 'DM', 'DO', 'DZ', 'EC', 'EE', 'EG', 'ES', 'EU', 'FI', 'FK', 'FO', 'FR', 'GB', 'GE', 'GG', 'GI', 'GL', 'GM', 'GP', 'GR', 'GT', 'HK', 'HR', 'HU', 'ID', 'IE', 'IL', 'IM', 'IN', 'IQ', 'IR', 'IS', 'IT', 'JE', 'JO', 'JP', 'KE', 'KG', 'KH', 'KR', 'KW', 'KZ', 'LB', 'LI', 'LK', 'LR', 'LT', 'LU', 'LV', 'MC', 'MD', 'ME', 'MH', 'MK', 'MO', 'MQ', 'MT', 'MU', 'MV', 'MX', 'MY', 'MZ', 'NG', 'NL', 'NO', 'NP', 'NZ', 'OM', 'PA', 'PE', 'PH', 'PK', 'PL', 'PR', 'PS', 'PT', 'QA', 'RE', 'RO', 'RS', 'RU', 'RW', 'SA', 'SC', 'SE', 'SG', 'SI', 'SK', 'SL', 'SM', 'SY', 'TG', 'TH', 'TJ', 'TK', 'TM', 'TN', 'TR', 'TW', 'UA', 'UG', 'US', 'UZ', 'VA', 'VE', 'VG', 'VN', 'VU', 'YE', 'ZA'], [2, 139, 6, 1, 120, 129, 1, 754, 37, 1, 87, 55, 3, 388, 750, 28, 1, 2, 3, 1, 17, 122, 17, 90, 1055, 209, 1, 5, 162, 695, 3076, 1, 463, 2, 1, 1, 1, 212, 3, 1223, 409, 374, 2, 6, 1963, 3123, 156, 9, 33, 1, 1, 2, 237, 2, 95, 171, 298, 55, 295, 359, 26, 46, 218, 782, 95, 1295, 13, 53, 21, 3, 62, 1, 25, 79, 204, 172, 27, 1, 2, 207, 128, 305, 3, 213, 28, 2, 64, 2, 5, 54, 4, 1, 7, 8, 2, 2, 1548, 385, 2, 9, 22, 10, 1, 7, 3, 2511, 1, 68, 150, 22, 2, 1137, 206, 5797, 2, 188, 72, 873, 21, 300, 227, 1, 11, 5, 1, 4, 31, 2, 7, 2, 925, 73, 2116, 3, 738, 100, 3, 1, 26, 9, 1, 6, 14],
+                    "", "Country Code", "Allocated ASNs")
+            </script>
+            <noscript>
+                    
+
+<table class="iana-table" style="width: 320px">
+
+    <thead>
+    <tr>
+        <th>Country Code</th>
+        <th class="text-right">Allocated ASN</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+        <tr>
+            <td>AD</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>AE</td>
+            <td class="text-right">139</td>
+        </tr>
+    
+        <tr>
+            <td>AG</td>
+            <td class="text-right">6</td>
+        </tr>
+    
+        <tr>
+            <td>AI</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>AL</td>
+            <td class="text-right">120</td>
+        </tr>
+    
+        <tr>
+            <td>AM</td>
+            <td class="text-right">129</td>
+        </tr>
+    
+        <tr>
+            <td>AR</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>AT</td>
+            <td class="text-right">754</td>
+        </tr>
+    
+        <tr>
+            <td>AU</td>
+            <td class="text-right">37</td>
+        </tr>
+    
+        <tr>
+            <td>AX</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>AZ</td>
+            <td class="text-right">87</td>
+        </tr>
+    
+        <tr>
+            <td>BA</td>
+            <td class="text-right">55</td>
+        </tr>
+    
+        <tr>
+            <td>BD</td>
+            <td class="text-right">3</td>
+        </tr>
+    
+        <tr>
+            <td>BE</td>
+            <td class="text-right">388</td>
+        </tr>
+    
+        <tr>
+            <td>BG</td>
+            <td class="text-right">750</td>
+        </tr>
+    
+        <tr>
+            <td>BH</td>
+            <td class="text-right">28</td>
+        </tr>
+    
+        <tr>
+            <td>BI</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>BM</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>BO</td>
+            <td class="text-right">3</td>
+        </tr>
+    
+        <tr>
+            <td>BQ</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>BR</td>
+            <td class="text-right">17</td>
+        </tr>
+    
+        <tr>
+            <td>BY</td>
+            <td class="text-right">122</td>
+        </tr>
+    
+        <tr>
+            <td>BZ</td>
+            <td class="text-right">17</td>
+        </tr>
+    
+        <tr>
+            <td>CA</td>
+            <td class="text-right">90</td>
+        </tr>
+    
+        <tr>
+            <td>CH</td>
+            <td class="text-right">1,055</td>
+        </tr>
+    
+        <tr>
+            <td>CN</td>
+            <td class="text-right">209</td>
+        </tr>
+    
+        <tr>
+            <td>CO</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>CW</td>
+            <td class="text-right">5</td>
+        </tr>
+    
+        <tr>
+            <td>CY</td>
+            <td class="text-right">162</td>
+        </tr>
+    
+        <tr>
+            <td>CZ</td>
+            <td class="text-right">695</td>
+        </tr>
+    
+        <tr>
+            <td>DE</td>
+            <td class="text-right">3,076</td>
+        </tr>
+    
+        <tr>
+            <td>DJ</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>DK</td>
+            <td class="text-right">463</td>
+        </tr>
+    
+        <tr>
+            <td>DM</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>DO</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>DZ</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>EC</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>EE</td>
+            <td class="text-right">212</td>
+        </tr>
+    
+        <tr>
+            <td>EG</td>
+            <td class="text-right">3</td>
+        </tr>
+    
+        <tr>
+            <td>ES</td>
+            <td class="text-right">1,223</td>
+        </tr>
+    
+        <tr>
+            <td>EU</td>
+            <td class="text-right">409</td>
+        </tr>
+    
+        <tr>
+            <td>FI</td>
+            <td class="text-right">374</td>
+        </tr>
+    
+        <tr>
+            <td>FK</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>FO</td>
+            <td class="text-right">6</td>
+        </tr>
+    
+        <tr>
+            <td>FR</td>
+            <td class="text-right">1,963</td>
+        </tr>
+    
+        <tr>
+            <td>GB</td>
+            <td class="text-right">3,123</td>
+        </tr>
+    
+        <tr>
+            <td>GE</td>
+            <td class="text-right">156</td>
+        </tr>
+    
+        <tr>
+            <td>GG</td>
+            <td class="text-right">9</td>
+        </tr>
+    
+        <tr>
+            <td>GI</td>
+            <td class="text-right">33</td>
+        </tr>
+    
+        <tr>
+            <td>GL</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>GM</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>GP</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>GR</td>
+            <td class="text-right">237</td>
+        </tr>
+    
+        <tr>
+            <td>GT</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>HK</td>
+            <td class="text-right">95</td>
+        </tr>
+    
+        <tr>
+            <td>HR</td>
+            <td class="text-right">171</td>
+        </tr>
+    
+        <tr>
+            <td>HU</td>
+            <td class="text-right">298</td>
+        </tr>
+    
+        <tr>
+            <td>ID</td>
+            <td class="text-right">55</td>
+        </tr>
+    
+        <tr>
+            <td>IE</td>
+            <td class="text-right">295</td>
+        </tr>
+    
+        <tr>
+            <td>IL</td>
+            <td class="text-right">359</td>
+        </tr>
+    
+        <tr>
+            <td>IM</td>
+            <td class="text-right">26</td>
+        </tr>
+    
+        <tr>
+            <td>IN</td>
+            <td class="text-right">46</td>
+        </tr>
+    
+        <tr>
+            <td>IQ</td>
+            <td class="text-right">218</td>
+        </tr>
+    
+        <tr>
+            <td>IR</td>
+            <td class="text-right">782</td>
+        </tr>
+    
+        <tr>
+            <td>IS</td>
+            <td class="text-right">95</td>
+        </tr>
+    
+        <tr>
+            <td>IT</td>
+            <td class="text-right">1,295</td>
+        </tr>
+    
+        <tr>
+            <td>JE</td>
+            <td class="text-right">13</td>
+        </tr>
+    
+        <tr>
+            <td>JO</td>
+            <td class="text-right">53</td>
+        </tr>
+    
+        <tr>
+            <td>JP</td>
+            <td class="text-right">21</td>
+        </tr>
+    
+        <tr>
+            <td>KE</td>
+            <td class="text-right">3</td>
+        </tr>
+    
+        <tr>
+            <td>KG</td>
+            <td class="text-right">62</td>
+        </tr>
+    
+        <tr>
+            <td>KH</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>KR</td>
+            <td class="text-right">25</td>
+        </tr>
+    
+        <tr>
+            <td>KW</td>
+            <td class="text-right">79</td>
+        </tr>
+    
+        <tr>
+            <td>KZ</td>
+            <td class="text-right">204</td>
+        </tr>
+    
+        <tr>
+            <td>LB</td>
+            <td class="text-right">172</td>
+        </tr>
+    
+        <tr>
+            <td>LI</td>
+            <td class="text-right">27</td>
+        </tr>
+    
+        <tr>
+            <td>LK</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>LR</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>LT</td>
+            <td class="text-right">207</td>
+        </tr>
+    
+        <tr>
+            <td>LU</td>
+            <td class="text-right">128</td>
+        </tr>
+    
+        <tr>
+            <td>LV</td>
+            <td class="text-right">305</td>
+        </tr>
+    
+        <tr>
+            <td>MC</td>
+            <td class="text-right">3</td>
+        </tr>
+    
+        <tr>
+            <td>MD</td>
+            <td class="text-right">213</td>
+        </tr>
+    
+        <tr>
+            <td>ME</td>
+            <td class="text-right">28</td>
+        </tr>
+    
+        <tr>
+            <td>MH</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>MK</td>
+            <td class="text-right">64</td>
+        </tr>
+    
+        <tr>
+            <td>MO</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>MQ</td>
+            <td class="text-right">5</td>
+        </tr>
+    
+        <tr>
+            <td>MT</td>
+            <td class="text-right">54</td>
+        </tr>
+    
+        <tr>
+            <td>MU</td>
+            <td class="text-right">4</td>
+        </tr>
+    
+        <tr>
+            <td>MV</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>MX</td>
+            <td class="text-right">7</td>
+        </tr>
+    
+        <tr>
+            <td>MY</td>
+            <td class="text-right">8</td>
+        </tr>
+    
+        <tr>
+            <td>MZ</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>NG</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>NL</td>
+            <td class="text-right">1,548</td>
+        </tr>
+    
+        <tr>
+            <td>NO</td>
+            <td class="text-right">385</td>
+        </tr>
+    
+        <tr>
+            <td>NP</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>NZ</td>
+            <td class="text-right">9</td>
+        </tr>
+    
+        <tr>
+            <td>OM</td>
+            <td class="text-right">22</td>
+        </tr>
+    
+        <tr>
+            <td>PA</td>
+            <td class="text-right">10</td>
+        </tr>
+    
+        <tr>
+            <td>PE</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>PH</td>
+            <td class="text-right">7</td>
+        </tr>
+    
+        <tr>
+            <td>PK</td>
+            <td class="text-right">3</td>
+        </tr>
+    
+        <tr>
+            <td>PL</td>
+            <td class="text-right">2,511</td>
+        </tr>
+    
+        <tr>
+            <td>PR</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>PS</td>
+            <td class="text-right">68</td>
+        </tr>
+    
+        <tr>
+            <td>PT</td>
+            <td class="text-right">150</td>
+        </tr>
+    
+        <tr>
+            <td>QA</td>
+            <td class="text-right">22</td>
+        </tr>
+    
+        <tr>
+            <td>RE</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>RO</td>
+            <td class="text-right">1,137</td>
+        </tr>
+    
+        <tr>
+            <td>RS</td>
+            <td class="text-right">206</td>
+        </tr>
+    
+        <tr>
+            <td>RU</td>
+            <td class="text-right">5,797</td>
+        </tr>
+    
+        <tr>
+            <td>RW</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>SA</td>
+            <td class="text-right">188</td>
+        </tr>
+    
+        <tr>
+            <td>SC</td>
+            <td class="text-right">72</td>
+        </tr>
+    
+        <tr>
+            <td>SE</td>
+            <td class="text-right">873</td>
+        </tr>
+    
+        <tr>
+            <td>SG</td>
+            <td class="text-right">21</td>
+        </tr>
+    
+        <tr>
+            <td>SI</td>
+            <td class="text-right">300</td>
+        </tr>
+    
+        <tr>
+            <td>SK</td>
+            <td class="text-right">227</td>
+        </tr>
+    
+        <tr>
+            <td>SL</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>SM</td>
+            <td class="text-right">11</td>
+        </tr>
+    
+        <tr>
+            <td>SY</td>
+            <td class="text-right">5</td>
+        </tr>
+    
+        <tr>
+            <td>TG</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>TH</td>
+            <td class="text-right">4</td>
+        </tr>
+    
+        <tr>
+            <td>TJ</td>
+            <td class="text-right">31</td>
+        </tr>
+    
+        <tr>
+            <td>TK</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>TM</td>
+            <td class="text-right">7</td>
+        </tr>
+    
+        <tr>
+            <td>TN</td>
+            <td class="text-right">2</td>
+        </tr>
+    
+        <tr>
+            <td>TR</td>
+            <td class="text-right">925</td>
+        </tr>
+    
+        <tr>
+            <td>TW</td>
+            <td class="text-right">73</td>
+        </tr>
+    
+        <tr>
+            <td>UA</td>
+            <td class="text-right">2,116</td>
+        </tr>
+    
+        <tr>
+            <td>UG</td>
+            <td class="text-right">3</td>
+        </tr>
+    
+        <tr>
+            <td>US</td>
+            <td class="text-right">738</td>
+        </tr>
+    
+        <tr>
+            <td>UZ</td>
+            <td class="text-right">100</td>
+        </tr>
+    
+        <tr>
+            <td>VA</td>
+            <td class="text-right">3</td>
+        </tr>
+    
+        <tr>
+            <td>VE</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>VG</td>
+            <td class="text-right">26</td>
+        </tr>
+    
+        <tr>
+            <td>VN</td>
+            <td class="text-right">9</td>
+        </tr>
+    
+        <tr>
+            <td>VU</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>YE</td>
+            <td class="text-right">6</td>
+        </tr>
+    
+        <tr>
+            <td>ZA</td>
+            <td class="text-right">14</td>
+        </tr>
+    
+
+    </tbody>
+</table>
+            </noscript>
+    </div>
+
+            <h2>Allocations for the Last Six Months</h2>
+                <p>
+                    Number of ASNs allocated by RIPE NCC to network operators in the last six months.
+                </p>
+    <div class="rir-chart">
+            <canvas id="asn-six"></canvas>
+            <script>
+                display_bar_chart('asn-six', ['2023-10', '2023-11', '2023-12', '2024-01', '2024-02', '2024-03'], [200, 175, 147, 223, 199, 201],
+                    "", "Date", "Allocated ASNs")
+            </script>
+            <noscript>
+                    
+
+<table class="iana-table" style="width: 320px">
+
+    <thead>
+    <tr>
+        <th>Date</th>
+        <th class="text-right">Allocated ASN</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+        <tr>
+            <td>2023-10</td>
+            <td class="text-right">200</td>
+        </tr>
+    
+        <tr>
+            <td>2023-11</td>
+            <td class="text-right">175</td>
+        </tr>
+    
+        <tr>
+            <td>2023-12</td>
+            <td class="text-right">147</td>
+        </tr>
+    
+        <tr>
+            <td>2024-01</td>
+            <td class="text-right">223</td>
+        </tr>
+    
+        <tr>
+            <td>2024-02</td>
+            <td class="text-right">199</td>
+        </tr>
+    
+        <tr>
+            <td>2024-03</td>
+            <td class="text-right">201</td>
+        </tr>
+    
+
+    </tbody>
+</table>
+            </noscript>
+    </div>
+
+
+        
+
+        <div class="rir-footer">
+            Charts last updated <span class="last-updated">2024-04-15</span>
+            <br/>
+            Based on RIPE NCC data published <span class="last-updated">2024-04-14</span>
+        </div>
+
+    RIPE NCC
+
+    </main>
+
+    <nav id="sidenav">
+    
+
+<div class="navigation_box">
+    <h2>Number Resources</h2>
+    <ul>
+        <li id="nav_num_top"><a href="/numbers">Overview</a></li>
+
+        <li id="nav_num_rir"><a href="/numbers/allocations/">RIR Allocation Data</a></li>
+        <ul id="nav_num_rir_sub">
+            <li id="nav_num_rir_top"><a href="/numbers/allocations/">Overview</a></li>
+            <li id="nav_num_rir_afrinic_ip"><a href="/numbers/allocations/afrinic/ipv6/">IPv6 (AFRINIC)</a></li>
+            <li id="nav_num_rir_apnic_ip"><a href="/numbers/allocations/apnic/ipv6/">IPv6 (APNIC)</a></li>
+            <li id="nav_num_rir_arin_ip"><a href="/numbers/allocations/arin/ipv6/">IPv6 (ARIN)</a></li>
+            <li id="nav_num_rir_lacnic_ip"><a href="/numbers/allocations/lacnic/ipv6/">IPv6 (LACNIC)</a></li>
+            <li id="nav_num_rir_ripe_ip"><a href="/numbers/allocations/ripencc/ipv6/">IPv6 (RIPE NCC)</a></li>
+            <li id="nav_num_rir_afrinic_asn"><a href="/numbers/allocations/afrinic/asn/">ASN (AFRINIC)</a></li>
+            <li id="nav_num_rir_apnic_asn"><a href="/numbers/allocations/apnic/asn/">ASN (APNIC)</a></li>
+            <li id="nav_num_rir_arin_asn"><a href="/numbers/allocations/arin/asn/">ASN (ARIN)</a></li>
+            <li id="nav_num_rir_lacnic_asn"><a href="/numbers/allocations/lacnic/asn/">ASN (LACNIC)</a></li>
+            <li id="nav_num_rir_ripe_asn"><a href="/numbers/allocations/ripencc/asn/">ASN (RIPE NCC)</a></li>
+        </ul>
+        <li id="nav_num_abuse"><a href="/abuse">Abuse Issues</a></li>
+        <ul id="nav_num_abuse_sub">
+            <li id="nav_num_abuse_top"><a href="/abuse">Overview</a></li>
+            <li id="nav_num_abuse_answers"><a href="/abuse/answers">Questions and Answers</a></li>
+        </ul>
+    </ul>
+</div>
+
+
+    </nav>
+
+</article>
+
+
+</div>
+
+<footer>
+    <div id="footer">
+        <table class="navigation">
+            <tr>
+                <td class="section"><a href="/domains">Domain&nbsp;Names</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/domains/root">Root Zone Registry</a></li>
+                        <li><a href="/domains/int">.INT Registry</a></li>
+                        <li><a href="/domains/arpa">.ARPA Registry</a></li>
+                        <li><a href="/domains/idn-tables">IDN Repository</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/numbers">Number&nbsp;Resources</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/abuse">Abuse Information</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/protocols">Protocols</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/protocols">Protocol Registries</a></li>
+                        <li><a href="/time-zones">Time Zone Database</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/about">About&nbsp;Us</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/performance">Performance</a></li>
+                        <li><a href="/reports">Reports</a></li>
+                        <li><a href="/reviews">Reviews</a></li>
+                        <li><a href="/about/excellence">Excellence</a></li>
+<!--                        <li><a href="/news">News</a></li>-->
+                        <li><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        <div id="custodian">
+            <p>The IANA functions coordinate the Internet’s globally unique identifiers, and
+                are provided by <a href="http://pti.icann.org">Public Technical Identifiers</a>, an affiliate of
+                <a href="http://www.icann.org/">ICANN</a>.</p>
+        </div>
+
+        <div id="legalnotice">
+            <ul>
+                <li><a href="https://www.icann.org/privacy/policy">Privacy Policy</a></li>
+                <li><a href="https://www.icann.org/privacy/tos">Terms of Service</a></li>
+            </ul>
+        </div>
+
+    </div>
+</footer>
+
+
+<script>
+$(document).ready(function() {
+	$("#nav_num_rir").addClass("selected")
+    
+        $("#nav_num_rir_ripe_asn").addClass("selected")
+    
+});
+</script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,392 @@
+<!doctype html>
+<html>
+<head>
+	<title>RIR Allocation Data</title>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<link rel="stylesheet" href="/_css/2022/iana_website.css"/>
+	<link rel="shortcut icon" type="image/ico" href="/_img/bookmark_icon.ico"/>
+
+	<script type="text/javascript" src="/_js/jquery.js"></script>
+	<script type="text/javascript" src="/_js/iana.js"></script>
+
+	
+    <script  src="/_js/chartjs/chart.bundle.min.js"></script>
+    <script>
+        function display_chart(title, labels, values, id, xAxes_label, yAxes_label, color) {
+            var chartData = {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: "",
+                        data: values,
+                        borderWidth: 1,
+                        backgroundColor: color,
+                        // backgroundColor: ["#01579B","#0277BD", "#ffa600", "#FF9800", "#8BC34A"]
+                    }]
+                },
+                options: {
+                    'onClick': function (evt, item) {
+                        if (item.length > 0) {
+                            if (item[0]['_model'].datasetLabel.toLowerCase().indexOf('ipv6') > -1) {
+                                switch (item[0]['_model'].label.toLowerCase()) {
+                                    case "afrinic":
+                                        window.location.href = 'afrinic/ipv6/';
+                                        break;
+                                    case "apnic":
+                                        window.location.href = 'apnic/ipv6/';
+                                        break;
+                                    case "arin":
+                                        window.location.href = 'arin/ipv6/';
+                                        break;
+                                    case "lacnic":
+                                        window.location.href = 'lacnic/ipv6/';
+                                        break;
+                                    case "ripe ncc":
+                                        window.location.href = 'ripencc/ipv6/';
+                                        break;
+                                }
+                            } else if (item[0]['_model'].datasetLabel.toLowerCase().indexOf('asn') > -1) {
+                                switch (item[0]['_model'].label.toLowerCase()) {
+                                    case "afrinic":
+                                        window.location.href = 'afrinic/asn/';
+                                        break;
+                                    case "apnic":
+                                        window.location.href = 'apnic/asn/';
+                                        break;
+                                    case "arin":
+                                        window.location.href = 'arin/asn/';
+                                        break;
+                                    case "lacnic":
+                                        window.location.href = 'lacnic/asn/';
+                                        break;
+                                    case "ripencc":
+                                        window.location.href = 'ripencc/asn/';
+                                        break;
+                                }
+                            }
+                        }
+                    },
+                    indexAxis: 'y',
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        title: {
+                            display: true,
+                            text: title,
+                            position: "bottom"
+                        }
+                    },
+                    animation: {
+                        duration: 0
+                    },
+                    scales: {
+                        y: {
+                            ticks: {
+                                beginAtZero: true
+                            },
+                            scaleLabel: {
+                                display: false,
+                                labelString: yAxes_label,
+                            }
+                        },
+                        x: {
+                            scaleLabel: {
+                                display: false,
+                                labelString: xAxes_label,
+                            }
+                        }
+                    }
+                }
+            }
+
+            var ctx = document.getElementById(id).getContext('2d');
+            new Chart(ctx, chartData);
+        }
+    </script>
+
+</head>
+
+<body>
+
+<header>
+    <div id="header">
+        <div id="logo">
+            <a href="/"><img src="/_img/2022/iana-logo-header.svg" alt="Homepage"/></a>
+        </div>
+        <div class="navigation">
+            <ul>
+                <li><a href="/domains">Domains</a></li>
+                <li><a href="/protocols">Protocols</a></li>
+                <li><a href="/numbers">Numbers</a></li>
+<!--                <li><a href="/news">News</a></li>-->
+                <li><a href="/about">About</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<div id="body">
+
+
+<article class="hemmed sidenav">
+
+    <main>
+    
+
+    <h1>Number Resource Allocation Data</h1>
+    <p>
+        Our primary role in managing <a href="https://www.iana.org/numbers">Internet number resources</a>
+        is to provide pools of unallocated IP addresses and AS numbers to Regional Internet Registries
+        (RIRs)
+        according to their needs as described by
+        <a href="https://www.icann.org/resources/pages/global-addressing-2013-02-25-en">ICANN's Global
+            Addressing Policies</a>.
+    </p>
+    <p>
+        These policies contain allocation algorithms that are based on the level of resource utilization of
+        prior allocations. We track allocation rates here and provide analysis of eligibility for future
+        RIR allocations.
+    </p>
+
+
+    <h2>IP Address Utilization</h2>
+    <p>
+        The chart below summarizes the utilization of IPv6 addresses RIRs have made to network operators.
+        IPv4 is not represented as IANA's supply has been exhausted and our allocation method for recovered
+        address
+        space does not factor in utilization.
+    </p>
+    <p>
+        Detailed information is available for each RIR by clicking the chart.
+    </p>
+
+    <div class="rir-chart" >
+        <canvas id="rir-chart-ipv6" ></canvas>
+        <script type="application/javascript">
+            display_chart("IPv6 Address Utilization Count in /32s",
+                ['AFRINIC', 'APNIC', 'ARIN', 'LACNIC', 'RIPE NCC'], [39481, 228769, 784353, 59547, 1359227],
+                'rir-chart-ipv6', 'Millions of /32', 'RIR', "#3366CC")
+        </script>
+
+        <noscript>
+            <h2>Number of IPv6 Address Allocations in /32s</h2>
+            <table class="iana-table" style="width: 319px">
+                <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                </tr>
+                </thead>
+
+                <tbody>
+                
+                    <tr>
+                        <td>AFRINIC</td>
+                        <td class="text-right">39,481</td>
+                    </tr>
+                
+                    <tr>
+                        <td>APNIC</td>
+                        <td class="text-right">228,769</td>
+                    </tr>
+                
+                    <tr>
+                        <td>ARIN</td>
+                        <td class="text-right">784,353</td>
+                    </tr>
+                
+                    <tr>
+                        <td>LACNIC</td>
+                        <td class="text-right">59,547</td>
+                    </tr>
+                
+                    <tr>
+                        <td>RIPENCC</td>
+                        <td class="text-right">1,359,227</td>
+                    </tr>
+                
+
+                </tbody>
+            </table>
+        </noscript>
+
+    </div>
+
+    <h2>Autonomous System Number Utilization</h2>
+
+    <p>
+        The chart below summarizes utilization of AS numbers that RIRs have made to network operators.
+        Detailed information is available for each RIR by clicking the chart.
+    </p>
+
+    <div class="rir-chart" >
+        <canvas id="rir-chart-asn" ></canvas>
+        <script type="application/javascript">
+            display_chart("ASN Utilization Count", ['AFRINIC', 'APNIC', 'ARIN', 'LACNIC', 'RIPENCC'], [2405, 29268, 32336, 13343, 39258], 'rir-chart-asn', 'Millions of /32', 'RIR', "#3365CC")
+        </script>
+
+        <noscript>
+            <h1>Number of ASN Allocations</h1>
+            <table class="iana-table" style="width: 319px">
+                <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                </tr>
+                </thead>
+
+                <tbody>
+                
+                    <tr>
+                        <td>AFRINIC</td>
+                        <td class="text-right">2,405</td>
+                    </tr>
+                
+                    <tr>
+                        <td>APNIC</td>
+                        <td class="text-right">29,268</td>
+                    </tr>
+                
+                    <tr>
+                        <td>ARIN</td>
+                        <td class="text-right">32,336</td>
+                    </tr>
+                
+                    <tr>
+                        <td>LACNIC</td>
+                        <td class="text-right">13,343</td>
+                    </tr>
+                
+                    <tr>
+                        <td>RIPENCC</td>
+                        <td class="text-right">39,258</td>
+                    </tr>
+                
+
+                </tbody>
+            </table>
+        </noscript>
+
+    </div>
+
+
+    </main>
+
+    <nav id="sidenav">
+    
+
+<div class="navigation_box">
+    <h2>Number Resources</h2>
+    <ul>
+        <li id="nav_num_top"><a href="/numbers">Overview</a></li>
+
+        <li id="nav_num_rir"><a href="/numbers/allocations/">RIR Allocation Data</a></li>
+        <ul id="nav_num_rir_sub">
+            <li id="nav_num_rir_top"><a href="/numbers/allocations/">Overview</a></li>
+            <li id="nav_num_rir_afrinic_ip"><a href="/numbers/allocations/afrinic/ipv6/">IPv6 (AFRINIC)</a></li>
+            <li id="nav_num_rir_apnic_ip"><a href="/numbers/allocations/apnic/ipv6/">IPv6 (APNIC)</a></li>
+            <li id="nav_num_rir_arin_ip"><a href="/numbers/allocations/arin/ipv6/">IPv6 (ARIN)</a></li>
+            <li id="nav_num_rir_lacnic_ip"><a href="/numbers/allocations/lacnic/ipv6/">IPv6 (LACNIC)</a></li>
+            <li id="nav_num_rir_ripe_ip"><a href="/numbers/allocations/ripencc/ipv6/">IPv6 (RIPE NCC)</a></li>
+            <li id="nav_num_rir_afrinic_asn"><a href="/numbers/allocations/afrinic/asn/">ASN (AFRINIC)</a></li>
+            <li id="nav_num_rir_apnic_asn"><a href="/numbers/allocations/apnic/asn/">ASN (APNIC)</a></li>
+            <li id="nav_num_rir_arin_asn"><a href="/numbers/allocations/arin/asn/">ASN (ARIN)</a></li>
+            <li id="nav_num_rir_lacnic_asn"><a href="/numbers/allocations/lacnic/asn/">ASN (LACNIC)</a></li>
+            <li id="nav_num_rir_ripe_asn"><a href="/numbers/allocations/ripencc/asn/">ASN (RIPE NCC)</a></li>
+        </ul>
+        <li id="nav_num_abuse"><a href="/abuse">Abuse Issues</a></li>
+        <ul id="nav_num_abuse_sub">
+            <li id="nav_num_abuse_top"><a href="/abuse">Overview</a></li>
+            <li id="nav_num_abuse_answers"><a href="/abuse/answers">Questions and Answers</a></li>
+        </ul>
+    </ul>
+</div>
+
+
+    </nav>
+
+</article>
+
+
+</div>
+
+<footer>
+    <div id="footer">
+        <table class="navigation">
+            <tr>
+                <td class="section"><a href="/domains">Domain&nbsp;Names</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/domains/root">Root Zone Registry</a></li>
+                        <li><a href="/domains/int">.INT Registry</a></li>
+                        <li><a href="/domains/arpa">.ARPA Registry</a></li>
+                        <li><a href="/domains/idn-tables">IDN Repository</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/numbers">Number&nbsp;Resources</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/abuse">Abuse Information</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/protocols">Protocols</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/protocols">Protocol Registries</a></li>
+                        <li><a href="/time-zones">Time Zone Database</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/about">About&nbsp;Us</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/performance">Performance</a></li>
+                        <li><a href="/reports">Reports</a></li>
+                        <li><a href="/reviews">Reviews</a></li>
+                        <li><a href="/about/excellence">Excellence</a></li>
+<!--                        <li><a href="/news">News</a></li>-->
+                        <li><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        <div id="custodian">
+            <p>The IANA functions coordinate the Internet’s globally unique identifiers, and
+                are provided by <a href="http://pti.icann.org">Public Technical Identifiers</a>, an affiliate of
+                <a href="http://www.icann.org/">ICANN</a>.</p>
+        </div>
+
+        <div id="legalnotice">
+            <ul>
+                <li><a href="https://www.icann.org/privacy/policy">Privacy Policy</a></li>
+                <li><a href="https://www.icann.org/privacy/tos">Terms of Service</a></li>
+            </ul>
+        </div>
+
+    </div>
+</footer>
+
+
+<script>
+$(document).ready(function() {
+	$("#nav_num_rir").addClass("selected")
+	$("#nav_num_rir_top").addClass("selected")
+});
+</script>
+
+
+</body>
+
+</html>

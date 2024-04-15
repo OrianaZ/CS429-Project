@@ -1,0 +1,251 @@
+Vocabulary:
+12
+13
+2022
+abuse
+access
+administrators
+affiliate
+allows
+anchors
+archive
+arpa
+based
+ceremonies
+change
+changes
+community
+complete
+contact
+coordinate
+database
+delegation
+direct
+dnssec
+domain
+domains
+eligibility
+email
+excellence
+files
+functions
+globally
+guide
+guides
+hint
+historic
+iana
+icann
+identifiers
+idn
+information
+instructions
+int
+interface
+internet
+key
+keys
+level
+lodged
+login
+manage
+management
+mb
+method
+mgmt
+modify
+names
+number
+numbers
+obtained
+ongoing
+online
+org
+overview
+particulars
+password
+pdf
+performance
+plain
+policies
+policy
+practices
+prefer
+privacy
+procedures
+project
+protocol
+protocols
+provide
+provided
+public
+questions
+read
+recommended
+reference
+register
+registrar
+registration
+registries
+registry
+regular
+reports
+repository
+representatives
+request
+requesting
+requests
+reserved
+resources
+review
+reviews
+root
+section
+servers
+service
+signing
+specific
+staff
+status
+submit
+submitting
+table
+technical
+template
+terms
+text
+time
+trusts
+unique
+used
+user
+username
+using
+web
+zone
+
+TF-IDF Matrix:
+12: 0.040522
+13: 0.040522
+2022: 0.040522
+abuse: 0.040522
+access: 0.040522
+administrators: 0.040522
+affiliate: 0.040522
+allows: 0.040522
+anchors: 0.040522
+archive: 0.040522
+arpa: 0.081044
+based: 0.081044
+ceremonies: 0.040522
+change: 0.243132
+changes: 0.040522
+community: 0.040522
+complete: 0.040522
+contact: 0.081044
+coordinate: 0.040522
+database: 0.081044
+delegation: 0.040522
+direct: 0.040522
+dnssec: 0.040522
+domain: 0.283654
+domains: 0.121566
+eligibility: 0.040522
+email: 0.081044
+excellence: 0.040522
+files: 0.040522
+functions: 0.040522
+globally: 0.040522
+guide: 0.040522
+guides: 0.081044
+hint: 0.040522
+historic: 0.040522
+iana: 0.081044
+icann: 0.040522
+identifiers: 0.081044
+idn: 0.081044
+information: 0.121566
+instructions: 0.040522
+int: 0.121566
+interface: 0.040522
+internet: 0.040522
+key: 0.121566
+keys: 0.040522
+level: 0.081044
+lodged: 0.040522
+login: 0.040522
+manage: 0.081044
+management: 0.121566
+mb: 0.040522
+method: 0.040522
+mgmt: 0.040522
+modify: 0.081044
+names: 0.081044
+number: 0.040522
+numbers: 0.040522
+obtained: 0.040522
+ongoing: 0.040522
+online: 0.162088
+org: 0.040522
+overview: 0.202610
+particulars: 0.040522
+password: 0.040522
+pdf: 0.040522
+performance: 0.040522
+plain: 0.040522
+policies: 0.040522
+policy: 0.040522
+practices: 0.040522
+prefer: 0.040522
+privacy: 0.040522
+procedures: 0.081044
+project: 0.040522
+protocol: 0.040522
+protocols: 0.081044
+provide: 0.081044
+provided: 0.040522
+public: 0.040522
+questions: 0.040522
+read: 0.040522
+recommended: 0.040522
+reference: 0.040522
+register: 0.040522
+registrar: 0.040522
+registration: 0.081044
+registries: 0.040522
+registry: 0.243132
+regular: 0.081044
+reports: 0.040522
+repository: 0.081044
+representatives: 0.040522
+request: 0.121566
+requesting: 0.040522
+requests: 0.081044
+reserved: 0.040522
+resources: 0.040522
+review: 0.081044
+reviews: 0.040522
+root: 0.445742
+section: 0.040522
+servers: 0.040522
+service: 0.040522
+signing: 0.081044
+specific: 0.040522
+staff: 0.040522
+status: 0.040522
+submit: 0.081044
+submitting: 0.040522
+table: 0.040522
+technical: 0.040522
+template: 0.121566
+terms: 0.040522
+text: 0.081044
+time: 0.040522
+trusts: 0.040522
+unique: 0.040522
+used: 0.040522
+user: 0.040522
+username: 0.040522
+using: 0.040522
+web: 0.040522
+zone: 0.364698

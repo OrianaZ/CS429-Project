@@ -1,0 +1,405 @@
+Vocabulary:
+2024terms
+30
+accept
+access
+achieve
+act
+active
+additional
+advertising
+anonymous
+apply
+applying
+arabic
+assess
+assessment
+assessors
+audience
+award
+base
+best
+bringing
+brochure
+calendar
+carried
+carrying
+categories
+cebrat
+click
+communication
+communications
+community
+compliance
+consent
+constant
+contact
+content
+continuous
+cookie
+cookies
+create
+critical
+demonstrates
+designed
+details
+different
+discovered
+dotraininginsightrecognitioncase
+download
+economyun
+efqm
+efqmwhether
+electronic
+enabling
+english
+ensure
+exclusively
+experience
+expertise
+explicitly
+external
+feedback
+framework
+frenchshopcalendarnewsaboutcontactenglishالعربيةdeutschespañolfrançaisthe
+friend
+functional
+german
+global
+globally
+head
+help
+identify
+impact
+improvement
+independent
+information
+innovationeducationassessbasewhat
+insight
+insights
+internet
+journey
+just
+key
+knowledge
+leaderthe
+learn
+legitimate
+lens
+level
+levels
+likes
+location
+manage
+management
+marketing
+membership
+menu
+model
+modelefqm
+modelthe
+nature
+necessary
+net
+network
+news
+offer
+options
+organisation
+organisations
+partners
+party
+peer
+performance
+performing
+perspective
+platform
+preferences
+process
+profiles
+programme
+proven
+provide
+provider
+purpose
+purposes
+qualified
+quicker
+read
+recognise
+recognised
+recognition
+recognitionagnieszka
+records
+regardless
+reject
+requested
+required
+retrieved
+review
+reward
+running
+save
+scheme
+sdgs
+sector
+send
+series
+service
+services
+shop
+shopcalendarnewsaboutcontactenglishالعربيةdeutschespañolfrançaisthe
+shows
+similar
+size
+skip
+sole
+spanish
+specific
+star
+statement
+statistical
+statistics
+storage
+stored
+storing
+strictly
+studiespartnersmembership
+studiespartnersmembershiprecognitionbecome
+subpoena
+subscriber
+successwe
+suitable
+support
+tailored
+technical
+title
+track
+training
+transmission
+use
+used
+useprivacy
+user
+uses
+usglobal
+using
+usually
+validated
+valuable
+value
+ve
+vendor_count
+vendors
+view
+voluntary
+want
+website
+websites
+winning
+world
+years
+zerocircular
+
+TF-IDF Matrix:
+2024terms: 0.024769
+30: 0.024769
+accept: 0.024769
+access: 0.123844
+achieve: 0.024769
+act: 0.024769
+active: 0.024769
+additional: 0.024769
+advertising: 0.024769
+anonymous: 0.024769
+apply: 0.024769
+applying: 0.024769
+arabic: 0.024769
+assess: 0.024769
+assessment: 0.024769
+assessors: 0.049538
+audience: 0.024769
+award: 0.049538
+base: 0.049538
+best: 0.024769
+bringing: 0.024769
+brochure: 0.024769
+calendar: 0.024769
+carried: 0.024769
+carrying: 0.024769
+categories: 0.024769
+cebrat: 0.024769
+click: 0.024769
+communication: 0.024769
+communications: 0.024769
+community: 0.024769
+compliance: 0.024769
+consent: 0.049538
+constant: 0.024769
+contact: 0.049538
+content: 0.024769
+continuous: 0.024769
+cookie: 0.024769
+cookies: 0.049538
+create: 0.024769
+critical: 0.024769
+demonstrates: 0.024769
+designed: 0.024769
+details: 0.024769
+different: 0.024769
+discovered: 0.024769
+dotraininginsightrecognitioncase: 0.049538
+download: 0.024769
+economyun: 0.049538
+efqm: 0.743066
+efqmwhether: 0.024769
+electronic: 0.024769
+enabling: 0.024769
+english: 0.024769
+ensure: 0.024769
+exclusively: 0.049538
+experience: 0.024769
+expertise: 0.024769
+explicitly: 0.024769
+external: 0.024769
+feedback: 0.024769
+framework: 0.024769
+frenchshopcalendarnewsaboutcontactenglishالعربيةdeutschespañolfrançaisthe: 0.024769
+friend: 0.024769
+functional: 0.049538
+german: 0.024769
+global: 0.123844
+globally: 0.024769
+head: 0.024769
+help: 0.024769
+identify: 0.024769
+impact: 0.024769
+improvement: 0.049538
+independent: 0.024769
+information: 0.024769
+innovationeducationassessbasewhat: 0.049538
+insight: 0.024769
+insights: 0.024769
+internet: 0.024769
+journey: 0.024769
+just: 0.024769
+key: 0.024769
+knowledge: 0.024769
+leaderthe: 0.024769
+learn: 0.024769
+legitimate: 0.049538
+lens: 0.074307
+level: 0.024769
+levels: 0.024769
+likes: 0.024769
+location: 0.024769
+manage: 0.123844
+management: 0.024769
+marketing: 0.074307
+membership: 0.024769
+menu: 0.024769
+model: 0.099075
+modelefqm: 0.049538
+modelthe: 0.049538
+nature: 0.024769
+necessary: 0.049538
+net: 0.049538
+network: 0.024769
+news: 0.024769
+offer: 0.024769
+options: 0.024769
+organisation: 0.049538
+organisations: 0.049538
+partners: 0.024769
+party: 0.024769
+peer: 0.049538
+performance: 0.024769
+performing: 0.024769
+perspective: 0.024769
+platform: 0.024769
+preferences: 0.148613
+process: 0.074307
+profiles: 0.024769
+programme: 0.024769
+proven: 0.024769
+provide: 0.024769
+provider: 0.024769
+purpose: 0.099075
+purposes: 0.099075
+qualified: 0.024769
+quicker: 0.024769
+read: 0.024769
+recognise: 0.024769
+recognised: 0.049538
+recognition: 0.321995
+recognitionagnieszka: 0.024769
+records: 0.024769
+regardless: 0.024769
+reject: 0.024769
+requested: 0.049538
+required: 0.024769
+retrieved: 0.024769
+review: 0.024769
+reward: 0.024769
+running: 0.024769
+save: 0.024769
+scheme: 0.024769
+sdgs: 0.049538
+sector: 0.024769
+send: 0.024769
+series: 0.074307
+service: 0.049538
+services: 0.024769
+shop: 0.024769
+shopcalendarnewsaboutcontactenglishالعربيةdeutschespañolfrançaisthe: 0.024769
+shows: 0.049538
+similar: 0.024769
+size: 0.024769
+skip: 0.024769
+sole: 0.024769
+spanish: 0.024769
+specific: 0.024769
+star: 0.024769
+statement: 0.024769
+statistical: 0.049538
+statistics: 0.049538
+storage: 0.123844
+stored: 0.024769
+storing: 0.024769
+strictly: 0.024769
+studiespartnersmembership: 0.024769
+studiespartnersmembershiprecognitionbecome: 0.024769
+subpoena: 0.024769
+subscriber: 0.049538
+successwe: 0.024769
+suitable: 0.024769
+support: 0.024769
+tailored: 0.024769
+technical: 0.123844
+title: 0.074307
+track: 0.024769
+training: 0.024769
+transmission: 0.024769
+use: 0.024769
+used: 0.074307
+useprivacy: 0.024769
+user: 0.099075
+uses: 0.024769
+usglobal: 0.024769
+using: 0.024769
+usually: 0.024769
+validated: 0.049538
+valuable: 0.024769
+value: 0.024769
+ve: 0.024769
+vendor_count: 0.024769
+vendors: 0.024769
+view: 0.049538
+voluntary: 0.024769
+want: 0.024769
+website: 0.049538
+websites: 0.024769
+winning: 0.024769
+world: 0.049538
+years: 0.024769
+zerocircular: 0.049538

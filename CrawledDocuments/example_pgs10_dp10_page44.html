@@ -1,0 +1,1263 @@
+<!doctype html>
+<html>
+<head>
+	<title></title>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<link rel="stylesheet" href="/_css/2022/iana_website.css"/>
+	<link rel="shortcut icon" type="image/ico" href="/_img/bookmark_icon.ico"/>
+
+	<script type="text/javascript" src="/_js/jquery.js"></script>
+	<script type="text/javascript" src="/_js/iana.js"></script>
+
+	
+    <script  src="/_js/chartjs/chart.bundle.min.js"></script>
+    <script>
+    function stacked_bar(id, value, total, stepSize = 50, postfix_str = "%") {
+        girdColor = ['#fff', '#ff0000', '#ccc'];
+        titleText = 'Percentage Available (/12)';
+        if (stepSize === 10) {
+            stepSize = 20;
+            girdColor = ['#fff', 'red', '#fff', '#fff', '#fff', '#ccc'];
+            titleText = 'Percentage Available';
+        }
+        const data = {
+            labels: [""],
+            datasets: [{
+                label: "",
+                barThickness: 25,
+                data: [value],
+                backgroundColor: "#51C048",
+                hoverBackgroundColor: "#51C048"
+            }, {
+                label: "",
+                barThickness: 25,
+                data: [total - value],
+                backgroundColor: "#ddd",
+                hoverBackgroundColor: "#ddd"
+            },
+            ],
+        };
+        bar_ctx = document.getElementById(id);
+        bar_chart = new Chart(bar_ctx, {
+            type: 'bar',
+            data: data,
+            options: {
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    title: {
+                        display: true,
+                        text: titleText,
+                        position: 'bottom',
+                    },
+                    tooltips: {
+                        enabled: false,
+                    },
+                },
+                animation: {
+                    duration: 0
+                },
+                indexAxis: 'y',
+                responsive: true,
+                scales: {
+                    x: {
+                        stacked: true,
+                        grid: {
+                            drawBorder: true,
+                            lineWidth: 2,
+                            drawTicks: false,
+                            color: girdColor,
+                            offset: false,
+                        },
+                        ticks: {
+                            min: 0,
+                            max: 100,
+                            stepSize: stepSize,
+                            callback: function (value) {
+                                return value + postfix_str; // convert it to percentage
+                            },
+                        },
+                    },
+                    y: {
+                        stacked: true,
+                        barThickness: 30,
+                        ticks: {
+                            beginAtZero: true
+                        },
+                    }
+                }
+            }
+        });
+    }
+
+</script>
+    <script>
+        function display_status_chart(id) {
+            let ctx = document.getElementById(id).getContext('2d');
+            let myChart = new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: ['allocated', 'assigned', 'available', 'reserved'],
+                    datasets: [{
+                        data: [103635, 16, 838240, 125118],
+                        borderWidth: 1,
+                        backgroundColor: ["#6078ff", "#1FA4E4", "#51C048", "#e84c85"]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    animation: false,
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'bottom',
+                        },
+                        title: {
+                            display: true,
+                            text: "",
+                            position: "top",
+                            fontFamily: "Noto, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif"
+                        }
+                    },
+                }
+            });
+        }
+    </script>
+    <script>
+    function bar_chart_percent(id, labels, data, title, stepSize = 50) {
+        gridColor = ['#ccc', 'red', '#ccc'];
+        if (stepSize === 20){
+            gridColor = ['#ccc', 'red', '#ccc', '#ccc', '#ccc'];
+        }
+        let ctx = document.getElementById(id).getContext('2d');
+        let myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    data: data,
+                    borderWidth: 1,
+                    backgroundColor: "#51C048"
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false,
+                    },
+                    title: {
+                        display: true,
+                        text: title,
+                        position: "top"
+                    },
+                    tooltip: {
+                        enabled: true,
+                        callbacks: {
+                            label: function (context) {
+                                const currentValue = context.raw;
+                                return currentValue + '%';
+                            }
+                        }
+                    },
+                },
+                animation: false,
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: "Date"
+                        },
+                    },
+                    y: {
+                        min: 0,
+                        max: 100,
+                        title: {
+                            display: true,
+                            text: "Percentage Available (/12)"
+                        },
+                        grid: {
+                            drawBorder: true,
+                            offset: false,
+                            // lineWidth: 2,
+                            color: gridColor,
+                        },
+                        ticks: {
+                            stepSize: stepSize,
+                            callback: function (value) {
+                                return value + '%'; // convert it to percentage
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    }
+</script>
+    <script type="application/javascript">
+    function display_bar_chart(id, labels, data, title, xaxes_label='', yaxes_label='' ) {
+        ctx = document.getElementById(id).getContext('2d');
+        myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    data: data,
+                    borderWidth: 1,
+                    backgroundColor: "#6078ff"
+                }]
+            },
+            options: {
+                animation: false,
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false,
+                    },
+                    title: {
+                        display: true,
+                        text: title,
+                        position: "top",
+                    },
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: xaxes_label
+                        },
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: yaxes_label
+                        },
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+
+            }
+        });
+    }
+
+</script>
+
+
+
+</head>
+
+<body>
+
+<header>
+    <div id="header">
+        <div id="logo">
+            <a href="/"><img src="/_img/2022/iana-logo-header.svg" alt="Homepage"/></a>
+        </div>
+        <div class="navigation">
+            <ul>
+                <li><a href="/domains">Domains</a></li>
+                <li><a href="/protocols">Protocols</a></li>
+                <li><a href="/numbers">Numbers</a></li>
+<!--                <li><a href="/news">News</a></li>-->
+                <li><a href="/about">About</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<div id="body">
+
+
+<article class="hemmed sidenav">
+
+    <main>
+    
+
+    <h1>APNIC IPv6 Allocations</h1>
+    <p>
+        Allocations of IPv6 address space are made to regional Internet registries according to their needs, based on
+        allocation rates they publish. Specifically, RIRs are eligible for further allocations if their available space
+        of existing allocations is less than 50% of a /12 address block, or less than their necessary space for the
+        following 9 months.
+    </p>
+
+    <h2>Current Space and Eligibility</h2>
+
+    <div id="rir-map">
+        <div class="rir-cur">
+            <canvas id="current-status"></canvas>
+            <script>
+                stacked_bar('current-status', 80, 100)
+            </script>
+
+            <noscript>
+                <table class="iana-table" style="width: 100%">
+                    <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Percentage Available (/12)</td>
+                        <td>80%</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </noscript>
+
+        </div>
+
+        <table class="iana-table rir-cur">
+            <thead>
+            <tr>
+                <th></th>
+                <th></th>
+            </tr>
+            </thead>
+
+            <tbody>
+            <tr>
+                <td>Eligibility</td>
+                <td class="text-right">Not Eligible</td>
+            </tr>
+            <tr>
+                <td>Available Space</td>
+                <td class="text-right">
+                    838,153
+                </td>
+            </tr>
+            <tr>
+                <td>Necessary Space</td>
+                <td class="text-right">387</td>
+            </tr>
+
+            <tr>
+                <td>Monthly Average</td>
+                <td class="text-right">43</td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td class="text-right"><span style="color:#9d9d9d"> <i>measurements are in /32</i></span></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h2>24-Month Forecast</h2>
+    <p>
+        The chart below uses APNIC's current average allocation rate to forecast their available IPv6
+        space over the next 24 months. This can be used to estimate if APNIC will become eligible to
+        apply for additional IPv6 space in the near future.
+    </p>
+    <div class="rir-chart">
+        <canvas id="ipv6-forecast"></canvas>
+        <script>
+            bar_chart_percent('ipv6-forecast', ['2024-04', '2024-07', '2024-10', '9th Month', '2025-04', '2025-07', '2025-10', '2026-01', '2026-04'], [80, 79.988, 79.976, 79.964, 79.952, 79.94, 79.928, 79.916, 79.904],
+                "")
+        </script>
+
+        <noscript>
+            
+
+<table class="iana-table" style="width: 320px">
+
+    <thead>
+    <tr>
+        <th>Date</th>
+        <th class="text-right">Allocation Percentage</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+        <tr>
+            <td>2024-04</td>
+            <td class="text-right">80%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-07</td>
+            <td class="text-right">79.988%</td>
+        </tr>
+    
+        <tr>
+            <td>2024-10</td>
+            <td class="text-right">79.976%</td>
+        </tr>
+    
+        <tr>
+            <td>9TH MONTH</td>
+            <td class="text-right">79.964%</td>
+        </tr>
+    
+        <tr>
+            <td>2025-04</td>
+            <td class="text-right">79.952%</td>
+        </tr>
+    
+        <tr>
+            <td>2025-07</td>
+            <td class="text-right">79.94%</td>
+        </tr>
+    
+        <tr>
+            <td>2025-10</td>
+            <td class="text-right">79.928%</td>
+        </tr>
+    
+        <tr>
+            <td>2026-01</td>
+            <td class="text-right">79.916%</td>
+        </tr>
+    
+        <tr>
+            <td>2026-04</td>
+            <td class="text-right">79.904%</td>
+        </tr>
+    
+
+    </tbody>
+</table>
+        </noscript>
+
+    </div>
+
+    <h2>Allocations by Status</h2>
+    <p>
+        Status of IPv6 addresses IANA has allocated to APNIC.
+    </p>
+    <div class="rir-chart">
+        <canvas id="ipv6-status"></canvas>
+        <script>
+            display_status_chart('ipv6-status')
+        </script>
+
+        <noscript>
+            
+
+<table class="iana-table" style="width: 320px">
+
+    <thead>
+    <tr>
+        <th>Status</th>
+        <th class="text-right">Allocated IPv6 in /32</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+        <tr>
+            <td>ALLOCATED</td>
+            <td class="text-right">103,635</td>
+        </tr>
+    
+        <tr>
+            <td>ASSIGNED</td>
+            <td class="text-right">16</td>
+        </tr>
+    
+        <tr>
+            <td>AVAILABLE</td>
+            <td class="text-right">838,240</td>
+        </tr>
+    
+        <tr>
+            <td>RESERVED</td>
+            <td class="text-right">125,118</td>
+        </tr>
+    
+
+    </tbody>
+</table>
+        </noscript>
+    </div>
+
+    <h2>Allocations by Country</h2>
+    <p>
+        Total number of IPv6 addresses allocated to network operators by APNIC, grouped by country
+    </p>
+    <div class="rir-chart">
+        <canvas id="ipv6-country"></canvas>
+    </div>
+    <script>
+        display_bar_chart('ipv6-country', ['AE', 'AF', 'AL', 'AS', 'AU', 'BD', 'BN', 'BT', 'CA', 'CH', 'CK', 'CN', 'CY', 'DE', 'DK', 'ES', 'FJ', 'FM', 'FR', 'GB', 'GU', 'HK', 'ID', 'IE', 'IL', 'IN', 'IO', 'IT', 'JP', 'KH', 'KI', 'KR', 'LA', 'LK', 'LT', 'MH', 'MM', 'MN', 'MO', 'MP', 'MV', 'MY', 'NC', 'NF', 'NL', 'NO', 'NP', 'NR', 'NU', 'NZ', 'PA', 'PF', 'PG', 'PH', 'PK', 'PW', 'RO', 'SB', 'SC', 'SE', 'SG', 'SI', 'TH', 'TK', 'TL', 'TO', 'TV', 'TW', 'US', 'VG', 'VN', 'VU', 'WF', 'WS'],
+            [0.0, 27.0, 1.0, 2.0, 9414.02, 726.01, 5.0, 11.0, 4.0, 1.0, 2.0, 64373.25, 0.0, 3.0, 0.0, 0.0, 10.0, 2.0, 3.0, 13.0, 7.0, 473.0, 807.02, 0.0, 1.0, 6183.02, 1.0, 1.0, 10131.13, 64.0, 2.0, 5268.0, 14.0, 17.0, 2.0, 1.0, 71.0, 27.0, 9.0, 1.0, 4.0, 170.0, 10.0, 0.0, 3.0, 2.0, 75.0, 2.0, 0.0, 279.0, 2.0, 5.0, 14.0, 173.0, 165.0, 2.0, 1.0, 4.0, 2.0, 4.0, 1582.01, 1.0, 121.0, 1.0, 6.0, 4.0, 1.0, 2596.0, 338.0, 1.0, 397.0, 5.0, 1.0, 3.0], "",
+            "Country Code", "Addresses Allocated (/32)")
+    </script>
+
+    <noscript>
+        
+
+<table class="iana-table" style="width: 320px">
+
+    <thead>
+    <tr>
+        <th>Country Code</th>
+        <th class="text-right">Allocated IPv6 in /32</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+        <tr>
+            <td>AE</td>
+            <td class="text-right">0.0</td>
+        </tr>
+    
+        <tr>
+            <td>AF</td>
+            <td class="text-right">27.0</td>
+        </tr>
+    
+        <tr>
+            <td>AL</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>AS</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>AU</td>
+            <td class="text-right">9,414.02</td>
+        </tr>
+    
+        <tr>
+            <td>BD</td>
+            <td class="text-right">726.01</td>
+        </tr>
+    
+        <tr>
+            <td>BN</td>
+            <td class="text-right">5.0</td>
+        </tr>
+    
+        <tr>
+            <td>BT</td>
+            <td class="text-right">11.0</td>
+        </tr>
+    
+        <tr>
+            <td>CA</td>
+            <td class="text-right">4.0</td>
+        </tr>
+    
+        <tr>
+            <td>CH</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>CK</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>CN</td>
+            <td class="text-right">64,373.25</td>
+        </tr>
+    
+        <tr>
+            <td>CY</td>
+            <td class="text-right">0.0</td>
+        </tr>
+    
+        <tr>
+            <td>DE</td>
+            <td class="text-right">3.0</td>
+        </tr>
+    
+        <tr>
+            <td>DK</td>
+            <td class="text-right">0.0</td>
+        </tr>
+    
+        <tr>
+            <td>ES</td>
+            <td class="text-right">0.0</td>
+        </tr>
+    
+        <tr>
+            <td>FJ</td>
+            <td class="text-right">10.0</td>
+        </tr>
+    
+        <tr>
+            <td>FM</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>FR</td>
+            <td class="text-right">3.0</td>
+        </tr>
+    
+        <tr>
+            <td>GB</td>
+            <td class="text-right">13.0</td>
+        </tr>
+    
+        <tr>
+            <td>GU</td>
+            <td class="text-right">7.0</td>
+        </tr>
+    
+        <tr>
+            <td>HK</td>
+            <td class="text-right">473.0</td>
+        </tr>
+    
+        <tr>
+            <td>ID</td>
+            <td class="text-right">807.02</td>
+        </tr>
+    
+        <tr>
+            <td>IE</td>
+            <td class="text-right">0.0</td>
+        </tr>
+    
+        <tr>
+            <td>IL</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>IN</td>
+            <td class="text-right">6,183.02</td>
+        </tr>
+    
+        <tr>
+            <td>IO</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>IT</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>JP</td>
+            <td class="text-right">10,131.13</td>
+        </tr>
+    
+        <tr>
+            <td>KH</td>
+            <td class="text-right">64.0</td>
+        </tr>
+    
+        <tr>
+            <td>KI</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>KR</td>
+            <td class="text-right">5,268.0</td>
+        </tr>
+    
+        <tr>
+            <td>LA</td>
+            <td class="text-right">14.0</td>
+        </tr>
+    
+        <tr>
+            <td>LK</td>
+            <td class="text-right">17.0</td>
+        </tr>
+    
+        <tr>
+            <td>LT</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>MH</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>MM</td>
+            <td class="text-right">71.0</td>
+        </tr>
+    
+        <tr>
+            <td>MN</td>
+            <td class="text-right">27.0</td>
+        </tr>
+    
+        <tr>
+            <td>MO</td>
+            <td class="text-right">9.0</td>
+        </tr>
+    
+        <tr>
+            <td>MP</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>MV</td>
+            <td class="text-right">4.0</td>
+        </tr>
+    
+        <tr>
+            <td>MY</td>
+            <td class="text-right">170.0</td>
+        </tr>
+    
+        <tr>
+            <td>NC</td>
+            <td class="text-right">10.0</td>
+        </tr>
+    
+        <tr>
+            <td>NF</td>
+            <td class="text-right">0.0</td>
+        </tr>
+    
+        <tr>
+            <td>NL</td>
+            <td class="text-right">3.0</td>
+        </tr>
+    
+        <tr>
+            <td>NO</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>NP</td>
+            <td class="text-right">75.0</td>
+        </tr>
+    
+        <tr>
+            <td>NR</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>NU</td>
+            <td class="text-right">0.0</td>
+        </tr>
+    
+        <tr>
+            <td>NZ</td>
+            <td class="text-right">279.0</td>
+        </tr>
+    
+        <tr>
+            <td>PA</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>PF</td>
+            <td class="text-right">5.0</td>
+        </tr>
+    
+        <tr>
+            <td>PG</td>
+            <td class="text-right">14.0</td>
+        </tr>
+    
+        <tr>
+            <td>PH</td>
+            <td class="text-right">173.0</td>
+        </tr>
+    
+        <tr>
+            <td>PK</td>
+            <td class="text-right">165.0</td>
+        </tr>
+    
+        <tr>
+            <td>PW</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>RO</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>SB</td>
+            <td class="text-right">4.0</td>
+        </tr>
+    
+        <tr>
+            <td>SC</td>
+            <td class="text-right">2.0</td>
+        </tr>
+    
+        <tr>
+            <td>SE</td>
+            <td class="text-right">4.0</td>
+        </tr>
+    
+        <tr>
+            <td>SG</td>
+            <td class="text-right">1,582.01</td>
+        </tr>
+    
+        <tr>
+            <td>SI</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>TH</td>
+            <td class="text-right">121.0</td>
+        </tr>
+    
+        <tr>
+            <td>TK</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>TL</td>
+            <td class="text-right">6.0</td>
+        </tr>
+    
+        <tr>
+            <td>TO</td>
+            <td class="text-right">4.0</td>
+        </tr>
+    
+        <tr>
+            <td>TV</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>TW</td>
+            <td class="text-right">2,596.0</td>
+        </tr>
+    
+        <tr>
+            <td>US</td>
+            <td class="text-right">338.0</td>
+        </tr>
+    
+        <tr>
+            <td>VG</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>VN</td>
+            <td class="text-right">397.0</td>
+        </tr>
+    
+        <tr>
+            <td>VU</td>
+            <td class="text-right">5.0</td>
+        </tr>
+    
+        <tr>
+            <td>WF</td>
+            <td class="text-right">1.0</td>
+        </tr>
+    
+        <tr>
+            <td>WS</td>
+            <td class="text-right">3.0</td>
+        </tr>
+    
+
+    </tbody>
+</table>
+    </noscript>
+
+
+    <h2>Allocations for the Last Six Months</h2>
+    <p>
+        Number of IPv6 addresses allocated by APNIC to their network operators in the last six months.
+    </p>
+    <div class="rir-chart">
+        <canvas id="ipv6-six"></canvas>
+
+        <script>
+            display_bar_chart('ipv6-six', ['2023-10', '2023-11', '2023-12', '2024-01', '2024-02', '2024-03'],
+                [52, 40, 40, 52, 30, 46],
+                "", "Date", "Addresses Allocated (/32)")
+        </script>
+
+        <noscript>
+            
+
+<table class="iana-table" style="width: 320px">
+
+    <thead>
+    <tr>
+        <th>Date</th>
+        <th class="text-right">Allocated IPv6 in /32</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+        <tr>
+            <td>2023-10</td>
+            <td class="text-right">52</td>
+        </tr>
+    
+        <tr>
+            <td>2023-11</td>
+            <td class="text-right">40</td>
+        </tr>
+    
+        <tr>
+            <td>2023-12</td>
+            <td class="text-right">40</td>
+        </tr>
+    
+        <tr>
+            <td>2024-01</td>
+            <td class="text-right">52</td>
+        </tr>
+    
+        <tr>
+            <td>2024-02</td>
+            <td class="text-right">30</td>
+        </tr>
+    
+        <tr>
+            <td>2024-03</td>
+            <td class="text-right">46</td>
+        </tr>
+    
+
+    </tbody>
+</table>
+        </noscript>
+    </div>
+
+
+    <h2>Fragmented Allocations by Prefix Length</h2>
+    <p>
+        IPv6 address blocks smaller than /32 are considered "fragmented". The chart below shows the number
+        of fragmented blocks held by APNIC.
+    </p>
+    <div class="rir-chart">
+        <canvas id="ipv6-frag"></canvas>
+        <script>
+            display_bar_chart('ipv6-frag', ['33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '60', '61', '63', '64'], [71, 74, 157, 43, 43, 43, 43, 50, 228, 2297, 5575, 5577, 5569, 5571, 5616, 11611, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 6],
+                "", "Prefix Length", "Count")
+        </script>
+
+        <noscript>
+            
+
+<table class="iana-table" style="width: 320px">
+
+    <thead>
+    <tr>
+        <th>Prefix Length</th>
+        <th class="text-right">Count</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+        <tr>
+            <td>33</td>
+            <td class="text-right">71</td>
+        </tr>
+    
+        <tr>
+            <td>34</td>
+            <td class="text-right">74</td>
+        </tr>
+    
+        <tr>
+            <td>35</td>
+            <td class="text-right">157</td>
+        </tr>
+    
+        <tr>
+            <td>36</td>
+            <td class="text-right">43</td>
+        </tr>
+    
+        <tr>
+            <td>37</td>
+            <td class="text-right">43</td>
+        </tr>
+    
+        <tr>
+            <td>38</td>
+            <td class="text-right">43</td>
+        </tr>
+    
+        <tr>
+            <td>39</td>
+            <td class="text-right">43</td>
+        </tr>
+    
+        <tr>
+            <td>40</td>
+            <td class="text-right">50</td>
+        </tr>
+    
+        <tr>
+            <td>41</td>
+            <td class="text-right">228</td>
+        </tr>
+    
+        <tr>
+            <td>42</td>
+            <td class="text-right">2,297</td>
+        </tr>
+    
+        <tr>
+            <td>43</td>
+            <td class="text-right">5,575</td>
+        </tr>
+    
+        <tr>
+            <td>44</td>
+            <td class="text-right">5,577</td>
+        </tr>
+    
+        <tr>
+            <td>45</td>
+            <td class="text-right">5,569</td>
+        </tr>
+    
+        <tr>
+            <td>46</td>
+            <td class="text-right">5,571</td>
+        </tr>
+    
+        <tr>
+            <td>47</td>
+            <td class="text-right">5,616</td>
+        </tr>
+    
+        <tr>
+            <td>48</td>
+            <td class="text-right">11,611</td>
+        </tr>
+    
+        <tr>
+            <td>49</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>50</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>51</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>52</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>53</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>54</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>55</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>56</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>57</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>58</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>59</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>60</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>61</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>63</td>
+            <td class="text-right">1</td>
+        </tr>
+    
+        <tr>
+            <td>64</td>
+            <td class="text-right">6</td>
+        </tr>
+    
+
+    </tbody>
+</table>
+        </noscript>
+    </div>
+
+    <div class="rir-footer">
+        Charts last updated <span class="last-updated">2024-04-15</span>
+        <br/>
+        Based on APNIC data published <span class="last-updated">2024-04-13</span>
+    </div>
+
+    </main>
+
+    <nav id="sidenav">
+    
+
+<div class="navigation_box">
+    <h2>Number Resources</h2>
+    <ul>
+        <li id="nav_num_top"><a href="/numbers">Overview</a></li>
+
+        <li id="nav_num_rir"><a href="/numbers/allocations/">RIR Allocation Data</a></li>
+        <ul id="nav_num_rir_sub">
+            <li id="nav_num_rir_top"><a href="/numbers/allocations/">Overview</a></li>
+            <li id="nav_num_rir_afrinic_ip"><a href="/numbers/allocations/afrinic/ipv6/">IPv6 (AFRINIC)</a></li>
+            <li id="nav_num_rir_apnic_ip"><a href="/numbers/allocations/apnic/ipv6/">IPv6 (APNIC)</a></li>
+            <li id="nav_num_rir_arin_ip"><a href="/numbers/allocations/arin/ipv6/">IPv6 (ARIN)</a></li>
+            <li id="nav_num_rir_lacnic_ip"><a href="/numbers/allocations/lacnic/ipv6/">IPv6 (LACNIC)</a></li>
+            <li id="nav_num_rir_ripe_ip"><a href="/numbers/allocations/ripencc/ipv6/">IPv6 (RIPE NCC)</a></li>
+            <li id="nav_num_rir_afrinic_asn"><a href="/numbers/allocations/afrinic/asn/">ASN (AFRINIC)</a></li>
+            <li id="nav_num_rir_apnic_asn"><a href="/numbers/allocations/apnic/asn/">ASN (APNIC)</a></li>
+            <li id="nav_num_rir_arin_asn"><a href="/numbers/allocations/arin/asn/">ASN (ARIN)</a></li>
+            <li id="nav_num_rir_lacnic_asn"><a href="/numbers/allocations/lacnic/asn/">ASN (LACNIC)</a></li>
+            <li id="nav_num_rir_ripe_asn"><a href="/numbers/allocations/ripencc/asn/">ASN (RIPE NCC)</a></li>
+        </ul>
+        <li id="nav_num_abuse"><a href="/abuse">Abuse Issues</a></li>
+        <ul id="nav_num_abuse_sub">
+            <li id="nav_num_abuse_top"><a href="/abuse">Overview</a></li>
+            <li id="nav_num_abuse_answers"><a href="/abuse/answers">Questions and Answers</a></li>
+        </ul>
+    </ul>
+</div>
+
+
+    </nav>
+
+</article>
+
+
+</div>
+
+<footer>
+    <div id="footer">
+        <table class="navigation">
+            <tr>
+                <td class="section"><a href="/domains">Domain&nbsp;Names</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/domains/root">Root Zone Registry</a></li>
+                        <li><a href="/domains/int">.INT Registry</a></li>
+                        <li><a href="/domains/arpa">.ARPA Registry</a></li>
+                        <li><a href="/domains/idn-tables">IDN Repository</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/numbers">Number&nbsp;Resources</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/abuse">Abuse Information</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/protocols">Protocols</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/protocols">Protocol Registries</a></li>
+                        <li><a href="/time-zones">Time Zone Database</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/about">About&nbsp;Us</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/performance">Performance</a></li>
+                        <li><a href="/reports">Reports</a></li>
+                        <li><a href="/reviews">Reviews</a></li>
+                        <li><a href="/about/excellence">Excellence</a></li>
+<!--                        <li><a href="/news">News</a></li>-->
+                        <li><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        <div id="custodian">
+            <p>The IANA functions coordinate the Internet’s globally unique identifiers, and
+                are provided by <a href="http://pti.icann.org">Public Technical Identifiers</a>, an affiliate of
+                <a href="http://www.icann.org/">ICANN</a>.</p>
+        </div>
+
+        <div id="legalnotice">
+            <ul>
+                <li><a href="https://www.icann.org/privacy/policy">Privacy Policy</a></li>
+                <li><a href="https://www.icann.org/privacy/tos">Terms of Service</a></li>
+            </ul>
+        </div>
+
+    </div>
+</footer>
+
+
+<script>
+$(document).ready(function() {
+	$("#nav_num_rir").addClass("selected")
+    
+        $("#nav_num_rir_apnic_ip").addClass("selected")
+    
+});
+</script>
+
+
+</body>
+
+</html>

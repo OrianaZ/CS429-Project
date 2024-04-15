@@ -1,0 +1,181 @@
+Vocabulary:
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+abuse
+affiliate
+apr
+arpa
+audits
+aug
+committee
+contact
+contract
+coordinate
+csc
+customer
+database
+dec
+delivered
+documents
+domain
+domains
+excellence
+feb
+framework
+functions
+globally
+iana
+icann
+identified
+identifiers
+idn
+information
+int
+internet
+introduction
+issues
+jan
+jul
+jun
+levels
+mar
+meets
+monthly
+names
+naming
+nov
+number
+numbers
+oct
+performance
+policy
+posted
+presentations
+privacy
+procedures
+protocol
+protocols
+provided
+pti
+public
+quality
+registries
+registry
+regularly
+report
+reporting
+reports
+repository
+resources
+review
+reviews
+root
+sep
+service
+standing
+technical
+terms
+time
+turn
+unique
+website
+year
+zone
+
+TF-IDF Matrix:
+2016: 0.034690
+2017: 0.034690
+2018: 0.034690
+2019: 0.034690
+2020: 0.034690
+2021: 0.034690
+2022: 0.034690
+2023: 0.034690
+2024: 0.034690
+abuse: 0.034690
+affiliate: 0.034690
+apr: 0.242827
+arpa: 0.034690
+audits: 0.034690
+aug: 0.242827
+committee: 0.104069
+contact: 0.069379
+contract: 0.034690
+coordinate: 0.034690
+csc: 0.034690
+customer: 0.104069
+database: 0.034690
+dec: 0.277517
+delivered: 0.034690
+documents: 0.034690
+domain: 0.034690
+domains: 0.034690
+excellence: 0.069379
+feb: 0.277517
+framework: 0.034690
+functions: 0.069379
+globally: 0.034690
+iana: 0.069379
+icann: 0.034690
+identified: 0.034690
+identifiers: 0.069379
+idn: 0.034690
+information: 0.034690
+int: 0.034690
+internet: 0.034690
+introduction: 0.034690
+issues: 0.034690
+jan: 0.277517
+jul: 0.242827
+jun: 0.242827
+levels: 0.034690
+mar: 0.277517
+meets: 0.034690
+monthly: 0.069379
+names: 0.034690
+naming: 0.069379
+nov: 0.277517
+number: 0.034690
+numbers: 0.034690
+oct: 0.277517
+performance: 0.138758
+policy: 0.034690
+posted: 0.034690
+presentations: 0.034690
+privacy: 0.034690
+procedures: 0.034690
+protocol: 0.034690
+protocols: 0.069379
+provided: 0.034690
+pti: 0.034690
+public: 0.069379
+quality: 0.034690
+registries: 0.034690
+registry: 0.104069
+regularly: 0.034690
+report: 0.069379
+reporting: 0.069379
+reports: 0.208138
+repository: 0.034690
+resources: 0.034690
+review: 0.034690
+reviews: 0.069379
+root: 0.034690
+sep: 0.242827
+service: 0.069379
+standing: 0.104069
+technical: 0.034690
+terms: 0.034690
+time: 0.034690
+turn: 0.034690
+unique: 0.034690
+website: 0.034690
+year: 0.034690
+zone: 0.069379

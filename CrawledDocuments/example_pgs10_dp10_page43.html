@@ -1,0 +1,242 @@
+
+<!doctype html>
+<html>
+<head>
+	<title>Abuse Issues and IP Addresses</title>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<link rel="stylesheet" href="/_css/2022/iana_website.css"/>
+	<link rel="shortcut icon" type="image/ico" href="/_img/bookmark_icon.ico"/>
+
+	<script type="text/javascript" src="/_js/jquery.js"></script>
+	<script type="text/javascript" src="/_js/iana.js"></script>
+
+	
+</head>
+
+<body>
+
+<header>
+    <div id="header">
+        <div id="logo">
+            <a href="/"><img src="/_img/2022/iana-logo-header.svg" alt="Homepage"/></a>
+        </div>
+        <div class="navigation">
+            <ul>
+                <li><a href="/domains">Domains</a></li>
+                <li><a href="/protocols">Protocols</a></li>
+                <li><a href="/numbers">Numbers</a></li>
+<!--                <li><a href="/news">News</a></li>-->
+                <li><a href="/about">About</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<div id="body">
+
+
+<article class="hemmed sidenav">
+
+    <main>
+    
+<div class="help-article">
+
+<h1>Abuse Issues and IP Addresses</h1>
+<h2>Introduction</h2>
+<p>We receive many reports of spam, apparent hacker activity, and other forms
+of abuse. Most frequently, people make these reports because they have found
+an Internet address associated with the abusive activity, and through a bit
+of research, they find the IANA name associated in some way with that
+address.</p>
+<p>In virtually all such cases, the association of the IANA name with a particular
+address is not actually useful in dealing with the abuse incident. IANA is a
+set of record-keeping functions we provide, it is not an ISP, and we have no
+control over the use of any Internet Protocol (IP) addresses except the very
+few that are directly tied to the iana.org domain name.</p>
+<p>This document was written to explain our role and to provide some pointers
+that may be useful in actually resolving abuse cases.</p>
+<h2>The IANA Role in the Internet</h2>
+<p>The word "authority" in the IANA name is perhaps a bit misleading: it means
+that the IANA service keeps authoritative records concerning various numbers
+for other organizations; the choice of what goes into these records is
+determined by a variety of engineering and other considerations. We serve
+as a record-keeper (also known as a registry) in recording the assignments that
+are made.</p>
+<p>In addition to IP addresses, we also serve as a registry for thousands of other
+types of <a href="/protocols">Internet names and identifiers</a>.</p>
+<p>It is important to realize that we are not an ISP in any way, and we do not
+provide any network services to any end users or organizations. We do not control
+the use of any of the numbers recorded in our registries, nor, in general, do we have
+the authority to change the values we record.</p>
+<h2>Structure of IP Addresses</h2>
+<p>IP addresses are numbers, but are expressed is specialized formats. Currently there are two types of IP addresses in active
+use, version 4 (IPv4) and version 6 (IPv6):</p>
+<ul>
+<li>
+<p>IPv4 addresses are represented as 4 numbers separated by dots, with each number in
+  the range 0-255. For example, 192.0.2.80 or 203.0.13.25.</p>
+</li>
+<li>
+<p>IPv6 addresses are represented as a series of one ore more groups of hexadecimal digits,
+  separated by colons. Hexadecimal digits are comprised of the numbers 0-9 and letters a-f. There are many
+  more possible numbers in IPv6 so the addresses tend to be longer. For example,
+  2001:db8::abc:587.</p>
+</li>
+</ul>
+<h2>Allocation of IP Addresses</h2>
+<p>We maintain the overall global address space for IP addresses, but we do not allocate them
+directly to network operators or end users. Instead, we allocate large blocks of numbers
+to five Regional Internet Registries (RIRs) who service regions of the world, as follows:</p>
+<ul>
+<li>AFRINIC (Africa and parts of the Indian Ocean)</li>
+<li>APNIC (Asia/Pacific Region)</li>
+<li>ARIN (North America and parts of the Caribbean)</li>
+<li>LACNIC (Latin America and parts of the Caribbean)</li>
+<li>RIPE NCC (Europe, the Middle East and Central Asia)</li>
+</ul>
+<p>The RIRs are the organizations that actually allocate IP addresses to network operators and ISPs.</p>
+<p>Not all address space is allocated to RIRs. IANA retains certain blocks either because they are not
+yet allocated for any purpose, or because they have been designated for special-use purposes for the
+entire Internet community.</p>
+<h2>Special-Use Addresses</h2>
+<p>Several address ranges are reserved for special purposes. These addresses all have restrictions of some sort placed on
+their use, and in general should not appear in normal use on the public Internet. The overview below briefly explains
+the purpose of these addresses – in general they are used in specialized technical contexts.</p>
+<p>Particularly notable ranges include:</p>
+<table>
+<thead>
+<tr>
+<th>Address ranges</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10.0.0.0&nbsp;—&nbsp;10.255.255.255<br/>172.16.0.0 - 172.31.255.255<br/>192.168.0.0 - 192.168.255.255</td>
+<td>Private usage with local networks, such as within homes or corporations. See <a href="/help/private-addresses">Private-use addresses</a></td>
+</tr>
+<tr>
+<td>169.254.0.0&nbsp;—&nbsp;169.254.255.255</td>
+<td>Addresses in this range are used automatically by most network devices when they are configured to use IP, do not have a static IP Address assigned and are unable to obtain an IP address using DHCP. This traffic is intended to be confined to the local network, so the administrator of the local network should look for misconfigured hosts. Some ISPs inadvertently also permit this traffic, so you may also want to contact your ISP.</td>
+</tr>
+<tr>
+<td>127.0.0.0&nbsp;—&nbsp;127.255.255.255</td>
+<td>Each computer on the Internet uses this range to identify itself, to itself, known as a "loopback". This construct allows a computer to confirm that it can use IP and for different programs running on the same machine to communicate with each other using IP. Most software only uses 127.0.0.1 for loopback purposes (the other addresses in this range are seldom used). All of the addresses within the loopback address are treated with the same levels of restriction in Internet routing, so it is difficult to use any other addresses within this block for anything other than node specific applications, generally bootstraping.</td>
+</tr>
+<tr>
+<td>224.0.0.0&nbsp;—&nbsp;239.255.255.255</td>
+<td>Used for providing multicast services in the Internet. Multicast services allow a computer to send a single message to many destinations. Examples include the software that keeps computers’ clocks synchronised and television services delivered over IP, typically by cable ISPs. Various addresses in this range are used by routers and others are used by hosts that are listening to multicast sessions. These addresses are available for any host that wants to participate in multicast, and typically are assigned dynamically. The source address should not be multicast (without prior agreement). The destination address may be multicast. For technical background information please see RFC 1112 and RFC 2236.</td>
+</tr>
+</tbody>
+</table>
+<p>A more exhaustive list of addresses is in the <a href="/assignments/iana-ipv4-special-registry">IPv4 Special Purpose Address Registry</a> and
+<a href="/assignments/iana-ipv6-special-registry">IPv6 Special Purpose Address Registry</a>, and discussed in <a href="/go/rfc6890">Special-Purpose IP Address Registries</a> (RFC 6890).</p>
+<h2>Finding the person responsible for an address</h2>
+<p>For assigned IP addresses, you can use online databases to trace the organization or entity to which an IP address
+has been assigned. Network operation tools can also trace where those networks connect to the Internet, although such
+tools may require special expertise and you may need to speak to your network operator or ISP for them to use them.</p>
+<p>As IANA does not allocate blocks to network operators directly, you first need to identify which Regional Internet
+Registry is responsible for a given address. You may then lookup the address in their registry to find out which
+network operator the IP address has been assigned to. There are two technologies that may be used for such a lookup,
+either WHOIS or RDAP. Both provide similar data, but RDAP is more modern and provides additional features.</p>
+<p>ICANN provides an <a href="https://lookup.icann.org">RDAP Lookup Tool</a> that allows you to enter an IP address and quickly find
+the records from the respective Regional Internet Registry.</p>
+<h3>Fabricated (or "spoofed") IP addresses</h3>
+<p>It is quite possible that an IP address in an e-mail header could be fabricated.</p>
+<p>E-mail protocols are not secure and anyone with the minor technical skills necessary can forge any part of an e-mail.
+Forgeries are generally trivial to identify. We cannot locate the individuals who forge e-mail headers. In fact, return
+addresses can be spoofed right down to the packet level. (Just like in postal mail, one can put pretty much anything
+as a return address, but if there is a problem with the "to" address, the letter can't be delivered.) IP addresses
+can be spoofed in protocols other than e-mail, as well.</p>
+<h2>DNS Blackhole</h2>
+<p>In reports relating to private use IP addresses and other special-use IP addresses, you may encounter references
+to a DNS blackhole service, with references like "blackhole.iana.org" or "prisoner.iana.org". These relate to a service
+that helps alleviate unnecessary DNS traffic being generated by those IP addresses, and is described in our <a href="/help/dns-blackhole">DNS Blackhole</a> article.</p>
+
+<div class="last-updated">Published 2010-06-15, last revised 2024-01-26.</div>
+
+
+</div>
+
+    </main>
+
+    <nav id="sidenav">
+    
+    </nav>
+
+</article>
+
+
+</div>
+
+<footer>
+    <div id="footer">
+        <table class="navigation">
+            <tr>
+                <td class="section"><a href="/domains">Domain&nbsp;Names</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/domains/root">Root Zone Registry</a></li>
+                        <li><a href="/domains/int">.INT Registry</a></li>
+                        <li><a href="/domains/arpa">.ARPA Registry</a></li>
+                        <li><a href="/domains/idn-tables">IDN Repository</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/numbers">Number&nbsp;Resources</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/abuse">Abuse Information</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/protocols">Protocols</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/protocols">Protocol Registries</a></li>
+                        <li><a href="/time-zones">Time Zone Database</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="section"><a href="/about">About&nbsp;Us</a></td>
+                <td class="subsection">
+                    <ul>
+                        <li><a href="/performance">Performance</a></li>
+                        <li><a href="/reports">Reports</a></li>
+                        <li><a href="/reviews">Reviews</a></li>
+                        <li><a href="/about/excellence">Excellence</a></li>
+<!--                        <li><a href="/news">News</a></li>-->
+                        <li><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        <div id="custodian">
+            <p>The IANA functions coordinate the Internet’s globally unique identifiers, and
+                are provided by <a href="http://pti.icann.org">Public Technical Identifiers</a>, an affiliate of
+                <a href="http://www.icann.org/">ICANN</a>.</p>
+        </div>
+
+        <div id="legalnotice">
+            <ul>
+                <li><a href="https://www.icann.org/privacy/policy">Privacy Policy</a></li>
+                <li><a href="https://www.icann.org/privacy/tos">Terms of Service</a></li>
+            </ul>
+        </div>
+
+    </div>
+</footer>
+
+
+
+</body>
+
+</html>

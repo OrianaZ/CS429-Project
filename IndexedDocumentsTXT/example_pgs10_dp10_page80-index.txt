@@ -1,0 +1,149 @@
+Vocabulary:
+acceptance
+accuracy
+acknowledge
+actor
+approval
+availability
+cctld
+change
+checks
+clarification
+completion
+confirmation
+confirmations
+contact
+creation
+credential
+dashboard
+database
+directory
+dispatch
+download
+email
+end
+enquiry
+file
+final
+generation
+iana
+implementation
+initial
+label
+level
+lodgment
+log
+management
+manual
+naming
+notification
+outcome
+overview
+party
+performance
+policy
+preparation
+privacy
+processing
+publication
+raw
+recognition
+recovery
+report
+request
+requester
+response
+retest
+review
+reviews
+root
+rulesets
+service
+staff
+submission
+supplemental
+technical
+terms
+test
+time
+transfer
+validation
+volumes
+wait
+website
+zone
+
+TF-IDF Matrix:
+acceptance: 0.061546
+accuracy: 0.061546
+acknowledge: 0.061546
+actor: 0.123091
+approval: 0.061546
+availability: 0.123091
+cctld: 0.061546
+change: 0.061546
+checks: 0.061546
+clarification: 0.123091
+completion: 0.061546
+confirmation: 0.061546
+confirmations: 0.061546
+contact: 0.061546
+creation: 0.061546
+credential: 0.123091
+dashboard: 0.123091
+database: 0.061546
+directory: 0.061546
+dispatch: 0.061546
+download: 0.061546
+email: 0.061546
+end: 0.123091
+enquiry: 0.061546
+file: 0.061546
+final: 0.061546
+generation: 0.061546
+iana: 0.061546
+implementation: 0.123091
+initial: 0.061546
+label: 0.061546
+level: 0.061546
+lodgment: 0.061546
+log: 0.061546
+management: 0.061546
+manual: 0.061546
+naming: 0.061546
+notification: 0.061546
+outcome: 0.061546
+overview: 0.061546
+party: 0.061546
+performance: 0.061546
+policy: 0.061546
+preparation: 0.061546
+privacy: 0.061546
+processing: 0.123091
+publication: 0.061546
+raw: 0.061546
+recognition: 0.123091
+recovery: 0.061546
+report: 0.061546
+request: 0.123091
+requester: 0.123091
+response: 0.061546
+retest: 0.061546
+review: 0.123091
+reviews: 0.061546
+root: 0.307729
+rulesets: 0.061546
+service: 0.246183
+staff: 0.061546
+submission: 0.123091
+supplemental: 0.061546
+technical: 0.246183
+terms: 0.061546
+test: 0.184637
+time: 0.492366
+transfer: 0.061546
+validation: 0.061546
+volumes: 0.123091
+wait: 0.061546
+website: 0.061546
+zone: 0.307729

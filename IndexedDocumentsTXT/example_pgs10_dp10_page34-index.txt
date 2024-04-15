@@ -1,0 +1,247 @@
+Vocabulary:
+06
+10
+12
+16
+20
+2018
+27
+7958
+abuse
+accuracy
+acts
+additional
+affiliate
+anchor
+anchors
+archive
+arpa
+attestations
+attested
+aware
+ceremonies
+certificates
+change
+community
+configured
+contact
+coordinate
+data
+database
+description
+detailed
+discontinued
+dns
+dnssec
+domain
+domains
+eligibility
+excellence
+facilitate
+favour
+file
+files
+functions
+generation
+globally
+guides
+hint
+iana
+icann
+icannbundle
+identifiers
+idn
+information
+instructions
+int
+internet
+key
+keys
+ksk
+management
+mechanisms
+mime
+modify
+names
+note
+number
+numbers
+of2010
+of2016
+output
+overview
+p7s
+pem
+performance
+pgp
+policies
+policy
+practices
+privacy
+procedures
+project
+protocol
+protocols
+provided
+public
+publication
+register
+registries
+registry
+reports
+repository
+representatives
+requests
+reserved
+resolvers
+resources
+retrieve
+reviews
+rfc
+root
+servers
+service
+signature
+signing
+stand
+submit
+table
+technical
+terms
+time
+tool
+trust
+trusts
+unique
+updated
+updating
+validating
+validation
+verification
+verify
+xml
+zone
+
+TF-IDF Matrix:
+06: 0.035311
+10: 0.035311
+12: 0.035311
+16: 0.035311
+20: 0.035311
+2018: 0.035311
+27: 0.035311
+7958: 0.035311
+abuse: 0.035311
+accuracy: 0.035311
+acts: 0.035311
+additional: 0.035311
+affiliate: 0.035311
+anchor: 0.211867
+anchors: 0.282490
+archive: 0.035311
+arpa: 0.070622
+attestations: 0.035311
+attested: 0.070622
+aware: 0.035311
+ceremonies: 0.035311
+certificates: 0.035311
+change: 0.035311
+community: 0.035311
+configured: 0.035311
+contact: 0.035311
+coordinate: 0.035311
+data: 0.035311
+database: 0.070622
+description: 0.070622
+detailed: 0.035311
+discontinued: 0.035311
+dns: 0.105934
+dnssec: 0.176556
+domain: 0.141245
+domains: 0.070622
+eligibility: 0.035311
+excellence: 0.035311
+facilitate: 0.035311
+favour: 0.035311
+file: 0.105934
+files: 0.070622
+functions: 0.035311
+generation: 0.070622
+globally: 0.035311
+guides: 0.035311
+hint: 0.035311
+iana: 0.035311
+icann: 0.070622
+icannbundle: 0.035311
+identifiers: 0.070622
+idn: 0.070622
+information: 0.035311
+instructions: 0.035311
+int: 0.105934
+internet: 0.035311
+key: 0.247179
+keys: 0.070622
+ksk: 0.070622
+management: 0.035311
+mechanisms: 0.035311
+mime: 0.105934
+modify: 0.035311
+names: 0.070622
+note: 0.035311
+number: 0.035311
+numbers: 0.035311
+of2010: 0.035311
+of2016: 0.035311
+output: 0.070622
+overview: 0.176556
+p7s: 0.035311
+pem: 0.035311
+performance: 0.035311
+pgp: 0.035311
+policies: 0.035311
+policy: 0.035311
+practices: 0.035311
+privacy: 0.035311
+procedures: 0.035311
+project: 0.035311
+protocol: 0.035311
+protocols: 0.070622
+provided: 0.035311
+public: 0.035311
+publication: 0.070622
+register: 0.035311
+registries: 0.035311
+registry: 0.176556
+reports: 0.035311
+repository: 0.070622
+representatives: 0.035311
+requests: 0.035311
+reserved: 0.035311
+resolvers: 0.035311
+resources: 0.070622
+retrieve: 0.035311
+reviews: 0.035311
+rfc: 0.035311
+root: 0.494357
+servers: 0.035311
+service: 0.035311
+signature: 0.105934
+signing: 0.141245
+stand: 0.035311
+submit: 0.035311
+table: 0.035311
+technical: 0.035311
+terms: 0.035311
+time: 0.035311
+tool: 0.070622
+trust: 0.353112
+trusts: 0.035311
+unique: 0.035311
+updated: 0.035311
+updating: 0.035311
+validating: 0.035311
+validation: 0.070622
+verification: 0.035311
+verify: 0.070622
+xml: 0.035311
+zone: 0.211867

@@ -1,0 +1,531 @@
+Vocabulary:
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+2010
+2010q3
+2010q4
+2011
+2011q1
+2011q2
+2011q3
+2011q4
+2012
+2012q1
+2012q2
+2012q3
+2012q4
+2013
+2013q1
+2013q2
+2013q3
+2013q4
+2014
+2014q1
+2014q2
+2014q3
+2014q4
+2015
+2015q1
+2015q2
+2015q3
+2015q4
+2016
+2016q1
+2016q2
+2016q3
+2016q4
+2017
+2017q1
+2017q2
+2017q3
+2017q4
+2018
+2018q1
+2018q2
+2018q3
+2018q4
+2019
+2019q1
+2019q2
+2019q3
+2019q4
+2020
+2020q1
+2020q2
+2020q3
+2021
+2021q1
+2021q2
+2021q4
+2022
+2022q1
+2022q2
+2022q3
+2022q4
+2023
+2023q1
+2023q2
+2023q3
+2023q4
+2024
+2024q1
+2024q2
+2024q3
+2024q4
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+abuse
+affiliate
+agenda
+anchors
+archive
+arpa
+cards
+ceremonies
+ceremony
+change
+co1
+co2
+co5
+co6
+co7
+community
+conducted
+contact
+coordinate
+cryptographic
+culpeper
+database
+date
+delete
+destroy
+destruction
+dns
+dnssec
+domain
+domains
+east
+el
+eligibility
+excellence
+files
+functions
+generate
+generating
+globally
+guides
+hardware
+hint
+hsm1
+hsm3
+hsm4
+hsm5e
+hsm5w
+hsm6e
+hsm6w
+hsm7e
+hsm7w
+hsm8e
+hsm8w
+hsms
+iana
+icann
+identifiers
+idn
+import
+include
+information
+installing
+instantiate
+instructions
+int
+internet
+introduce
+involving
+key
+keys
+kmf
+ksk
+management
+modify
+month
+names
+new
+number
+numbers
+occur
+officers
+operational
+operations
+overview
+perform
+performance
+period
+policies
+policy
+practices
+privacy
+procedures
+project
+protocol
+protocols
+provided
+public
+register
+registries
+registry
+reissue
+replace
+replacing
+reports
+repository
+representatives
+requests
+reserved
+resources
+reviews
+rksh
+root
+segundo
+servers
+service
+set
+sign
+signing
+submit
+successor
+table
+tcrs
+technical
+terms
+test
+time
+times
+trusted
+trusts
+typical
+unique
+used
+using
+usually
+west
+year
+zeroize
+zone
+zsks
+
+TF-IDF Matrix:
+01: 0.023450
+02: 0.125065
+03: 0.007817
+04: 0.062532
+05: 0.046899
+06: 0.007817
+07: 0.062532
+08: 0.062532
+09: 0.015633
+10: 0.039083
+11: 0.109432
+12: 0.054716
+13: 0.023450
+14: 0.046899
+15: 0.023450
+16: 0.039083
+17: 0.039083
+18: 0.015633
+19: 0.015633
+20: 0.023450
+2010: 0.039083
+2010q3: 0.007817
+2010q4: 0.007817
+2011: 0.031266
+2011q1: 0.007817
+2011q2: 0.007817
+2011q3: 0.007817
+2011q4: 0.007817
+2012: 0.031266
+2012q1: 0.007817
+2012q2: 0.007817
+2012q3: 0.007817
+2012q4: 0.007817
+2013: 0.031266
+2013q1: 0.007817
+2013q2: 0.007817
+2013q3: 0.007817
+2013q4: 0.007817
+2014: 0.031266
+2014q1: 0.007817
+2014q2: 0.007817
+2014q3: 0.007817
+2014q4: 0.007817
+2015: 0.031266
+2015q1: 0.007817
+2015q2: 0.007817
+2015q3: 0.007817
+2015q4: 0.007817
+2016: 0.031266
+2016q1: 0.007817
+2016q2: 0.007817
+2016q3: 0.007817
+2016q4: 0.007817
+2017: 0.046899
+2017q1: 0.007817
+2017q2: 0.007817
+2017q3: 0.007817
+2017q4: 0.007817
+2018: 0.031266
+2018q1: 0.007817
+2018q2: 0.007817
+2018q3: 0.007817
+2018q4: 0.007817
+2019: 0.031266
+2019q1: 0.007817
+2019q2: 0.007817
+2019q3: 0.007817
+2019q4: 0.007817
+2020: 0.015633
+2020q1: 0.007817
+2020q2: 0.007817
+2020q3: 0.007817
+2021: 0.015633
+2021q1: 0.007817
+2021q2: 0.007817
+2021q4: 0.007817
+2022: 0.031266
+2022q1: 0.007817
+2022q2: 0.007817
+2022q3: 0.007817
+2022q4: 0.007817
+2023: 0.046899
+2023q1: 0.007817
+2023q2: 0.007817
+2023q3: 0.007817
+2023q4: 0.007817
+2024: 0.046899
+2024q1: 0.007817
+2024q2: 0.007817
+2024q3: 0.007817
+2024q4: 0.007817
+21: 0.007817
+22: 0.023450
+23: 0.015633
+24: 0.015633
+25: 0.015633
+26: 0.023450
+27: 0.039083
+28: 0.007817
+29: 0.007817
+30: 0.023450
+31: 0.007817
+32: 0.007817
+33: 0.007817
+34: 0.007817
+35: 0.007817
+36: 0.007817
+37: 0.007817
+38: 0.007817
+39: 0.007817
+40: 0.007817
+41: 0.007817
+42: 0.007817
+43: 0.007817
+44: 0.007817
+45: 0.007817
+46: 0.007817
+47: 0.007817
+48: 0.007817
+49: 0.007817
+50: 0.007817
+51: 0.007817
+52: 0.007817
+53: 0.015633
+54: 0.007817
+abuse: 0.007817
+affiliate: 0.007817
+agenda: 0.007817
+anchors: 0.007817
+archive: 0.007817
+arpa: 0.015633
+cards: 0.023450
+ceremonies: 0.046899
+ceremony: 0.445544
+change: 0.007817
+co1: 0.007817
+co2: 0.015633
+co5: 0.023450
+co6: 0.023450
+co7: 0.007817
+community: 0.015633
+conducted: 0.007817
+contact: 0.007817
+coordinate: 0.007817
+cryptographic: 0.007817
+culpeper: 0.007817
+database: 0.015633
+date: 0.007817
+delete: 0.015633
+destroy: 0.039083
+destruction: 0.007817
+dns: 0.007817
+dnssec: 0.007817
+domain: 0.023450
+domains: 0.015633
+east: 0.062532
+el: 0.007817
+eligibility: 0.007817
+excellence: 0.007817
+files: 0.007817
+functions: 0.007817
+generate: 0.031266
+generating: 0.007817
+globally: 0.007817
+guides: 0.007817
+hardware: 0.007817
+hint: 0.007817
+hsm1: 0.007817
+hsm3: 0.007817
+hsm4: 0.007817
+hsm5e: 0.007817
+hsm5w: 0.007817
+hsm6e: 0.007817
+hsm6w: 0.007817
+hsm7e: 0.007817
+hsm7w: 0.007817
+hsm8e: 0.007817
+hsm8w: 0.007817
+hsms: 0.070349
+iana: 0.007817
+icann: 0.007817
+identifiers: 0.015633
+idn: 0.015633
+import: 0.031266
+include: 0.007817
+information: 0.007817
+installing: 0.007817
+instantiate: 0.015633
+instructions: 0.007817
+int: 0.023450
+internet: 0.007817
+introduce: 0.085982
+involving: 0.007817
+key: 0.046899
+keys: 0.007817
+kmf: 0.015633
+ksk: 0.531526
+management: 0.007817
+modify: 0.007817
+month: 0.007817
+names: 0.015633
+new: 0.007817
+number: 0.007817
+numbers: 0.007817
+occur: 0.007817
+officers: 0.007817
+operational: 0.007817
+operations: 0.015633
+overview: 0.039083
+perform: 0.007817
+performance: 0.007817
+period: 0.007817
+policies: 0.007817
+policy: 0.007817
+practices: 0.007817
+privacy: 0.007817
+procedures: 0.007817
+project: 0.007817
+protocol: 0.007817
+protocols: 0.015633
+provided: 0.007817
+public: 0.007817
+register: 0.007817
+registries: 0.007817
+registry: 0.039083
+reissue: 0.023450
+replace: 0.093799
+replacing: 0.015633
+reports: 0.007817
+repository: 0.015633
+representatives: 0.015633
+requests: 0.007817
+reserved: 0.007817
+resources: 0.007817
+reviews: 0.007817
+rksh: 0.023450
+root: 0.062532
+segundo: 0.007817
+servers: 0.007817
+service: 0.007817
+set: 0.007817
+sign: 0.437727
+signing: 0.031266
+submit: 0.007817
+successor: 0.015633
+table: 0.007817
+tcrs: 0.007817
+technical: 0.007817
+terms: 0.007817
+test: 0.007817
+time: 0.007817
+times: 0.007817
+trusted: 0.007817
+trusts: 0.007817
+typical: 0.007817
+unique: 0.007817
+used: 0.015633
+using: 0.007817
+usually: 0.007817
+west: 0.070349
+year: 0.007817
+zeroize: 0.015633
+zone: 0.039083
+zsks: 0.429911

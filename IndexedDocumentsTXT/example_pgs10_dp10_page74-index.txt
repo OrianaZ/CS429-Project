@@ -1,0 +1,169 @@
+Vocabulary:
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+abuse
+accordance
+affiliate
+agreement
+apr
+arpa
+audits
+aug
+component
+contact
+contractor
+coordinate
+database
+dec
+dns
+documents
+domain
+domains
+excellence
+feb
+framework
+functions
+globally
+iana
+icann
+identifiers
+idn
+information
+int
+internet
+introduction
+jan
+jul
+jun
+maintainer
+managing
+mar
+month
+monthly
+names
+nov
+number
+numbers
+oct
+performance
+policy
+presentations
+privacy
+procedures
+protocol
+protocols
+provided
+provides
+public
+published
+quality
+registries
+registry
+report
+reporting
+reports
+repository
+resources
+reviews
+root
+sep
+service
+services
+technical
+terms
+time
+unique
+year
+zone
+
+TF-IDF Matrix:
+2016: 0.034219
+2017: 0.034219
+2018: 0.034219
+2019: 0.034219
+2020: 0.034219
+2021: 0.034219
+2022: 0.034219
+2023: 0.034219
+2024: 0.034219
+abuse: 0.034219
+accordance: 0.034219
+affiliate: 0.034219
+agreement: 0.034219
+apr: 0.239535
+arpa: 0.034219
+audits: 0.034219
+aug: 0.239535
+component: 0.034219
+contact: 0.068439
+contractor: 0.034219
+coordinate: 0.034219
+database: 0.034219
+dec: 0.273754
+dns: 0.034219
+documents: 0.034219
+domain: 0.034219
+domains: 0.034219
+excellence: 0.068439
+feb: 0.273754
+framework: 0.034219
+functions: 0.034219
+globally: 0.034219
+iana: 0.034219
+icann: 0.068439
+identifiers: 0.068439
+idn: 0.034219
+information: 0.034219
+int: 0.034219
+internet: 0.034219
+introduction: 0.034219
+jan: 0.273754
+jul: 0.239535
+jun: 0.239535
+maintainer: 0.136877
+managing: 0.034219
+mar: 0.239535
+month: 0.034219
+monthly: 0.034219
+names: 0.034219
+nov: 0.273754
+number: 0.034219
+numbers: 0.034219
+oct: 0.273754
+performance: 0.102658
+policy: 0.034219
+presentations: 0.034219
+privacy: 0.034219
+procedures: 0.034219
+protocol: 0.034219
+protocols: 0.068439
+provided: 0.068439
+provides: 0.068439
+public: 0.068439
+published: 0.034219
+quality: 0.034219
+registries: 0.034219
+registry: 0.102658
+report: 0.034219
+reporting: 0.034219
+reports: 0.171096
+repository: 0.034219
+resources: 0.034219
+reviews: 0.068439
+root: 0.205316
+sep: 0.239535
+service: 0.034219
+services: 0.068439
+technical: 0.034219
+terms: 0.034219
+time: 0.034219
+unique: 0.034219
+year: 0.034219
+zone: 0.239535

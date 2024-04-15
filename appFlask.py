@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify # type: ignore
 import os
 import pickle
 from index import search
@@ -38,7 +38,7 @@ def load_indexed_documents(directory):
                     'tfidf_matrix': index_data['tfidf_matrix']
                 }
 
-    print(f"Loaded {len(indexed_documents)} indexed documents")
+    #print(f"Loaded {len(indexed_documents)} indexed documents")
     return indexed_documents
 
 if __name__ == '__main__':

@@ -1,0 +1,455 @@
+Vocabulary:
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+abuse
+actions
+address
+administratively
+affiliate
+appears
+approval
+approved
+apr
+arpa
+assigned
+assignments
+attribute
+attribution
+aug
+authors
+available
+calendar
+case
+categories
+chairs
+close
+closed
+completed
+concatenated
+confirm
+confirms
+considerations
+contact
+containing
+coordinate
+created
+createda
+daily
+data
+database
+date
+days
+dec
+definitions
+deleted
+designated
+deviation
+divided
+document
+domain
+domains
+draft
+drafts
+editor
+elapsed
+email
+end
+eval
+evaluation
+excellence
+exist
+expert
+extract
+extracting
+feb
+form
+functions
+gathered
+given
+globally
+group
+history
+iana
+ianathis
+icann
+identifiers
+idn
+iesg
+ietf
+inappropriate
+includes
+information
+int
+intend
+internet
+ip
+itad
+jan
+january
+jul
+jun
+known
+lastcall
+log
+logs
+mar
+mean
+media
+median
+met
+methodology
+mime
+modifications
+modified
+monthly
+multicast
+names
+new
+notification
+notifies
+nov
+number
+numbers
+oct
+open
+opened
+outside
+param
+parameters
+parties
+party
+partythis
+performance
+period
+policy
+port
+ports
+present
+presented
+prior
+privacy
+processed
+processing
+prot
+protocol
+protocols
+provided
+public
+publication
+publish
+queue
+queues
+reasons
+receive
+received
+references
+refers
+refs
+registration
+registrations
+registries
+registry
+rejectedthe
+related
+reporting
+reports
+repository
+request
+requested
+requester
+requestor
+requestorthis
+requests
+requiring
+resolved
+resolveda
+resource
+resources
+responsibility
+responsible
+reviews
+rfc
+root
+secretariat
+sep
+service
+spent
+standard
+state
+statedescription
+states
+statistics
+status
+submitted
+tables
+technical
+template
+terms
+ticket
+ticketing
+tickets
+time
+timethe
+total
+track
+tracked
+transaction
+trip
+type
+unique
+update
+updated
+user
+various
+web
+website
+withdrawn
+workdays
+working
+year
+zombiethis
+zone
+
+TF-IDF Matrix:
+2007: 0.029044
+2008: 0.014522
+2009: 0.014522
+2010: 0.014522
+2011: 0.014522
+2012: 0.014522
+2013: 0.014522
+2014: 0.014522
+2015: 0.014522
+2016: 0.014522
+2017: 0.014522
+2018: 0.014522
+2019: 0.014522
+2020: 0.014522
+2021: 0.014522
+2022: 0.014522
+2023: 0.014522
+2024: 0.014522
+abuse: 0.014522
+actions: 0.014522
+address: 0.014522
+administratively: 0.014522
+affiliate: 0.014522
+appears: 0.014522
+approval: 0.014522
+approved: 0.043565
+apr: 0.232348
+arpa: 0.014522
+assigned: 0.014522
+assignments: 0.043565
+attribute: 0.014522
+attribution: 0.014522
+aug: 0.246870
+authors: 0.014522
+available: 0.014522
+calendar: 0.029044
+case: 0.014522
+categories: 0.014522
+chairs: 0.014522
+close: 0.014522
+closed: 0.072609
+completed: 0.014522
+concatenated: 0.014522
+confirm: 0.014522
+confirms: 0.014522
+considerations: 0.014522
+contact: 0.014522
+containing: 0.014522
+coordinate: 0.014522
+created: 0.116174
+createda: 0.029044
+daily: 0.014522
+data: 0.029044
+database: 0.029044
+date: 0.116174
+days: 0.029044
+dec: 0.246870
+definitions: 0.058087
+deleted: 0.014522
+designated: 0.014522
+deviation: 0.014522
+divided: 0.014522
+document: 0.043565
+domain: 0.014522
+domains: 0.014522
+draft: 0.029044
+drafts: 0.145218
+editor: 0.058087
+elapsed: 0.014522
+email: 0.014522
+end: 0.029044
+eval: 0.029044
+evaluation: 0.014522
+excellence: 0.014522
+exist: 0.014522
+expert: 0.014522
+extract: 0.014522
+extracting: 0.014522
+feb: 0.246870
+form: 0.014522
+functions: 0.014522
+gathered: 0.014522
+given: 0.014522
+globally: 0.014522
+group: 0.014522
+history: 0.014522
+iana: 0.130696
+ianathis: 0.014522
+icann: 0.014522
+identifiers: 0.029044
+idn: 0.014522
+iesg: 0.058087
+ietf: 0.072609
+inappropriate: 0.014522
+includes: 0.043565
+information: 0.014522
+int: 0.014522
+intend: 0.014522
+internet: 0.043565
+ip: 0.014522
+itad: 0.014522
+jan: 0.246870
+january: 0.029044
+jul: 0.246870
+jun: 0.246870
+known: 0.014522
+lastcall: 0.029044
+log: 0.014522
+logs: 0.043565
+mar: 0.246870
+mean: 0.029044
+media: 0.014522
+median: 0.014522
+met: 0.014522
+methodology: 0.014522
+mime: 0.014522
+modifications: 0.029044
+modified: 0.014522
+monthly: 0.043565
+multicast: 0.029044
+names: 0.014522
+new: 0.014522
+notification: 0.029044
+notifies: 0.014522
+nov: 0.246870
+number: 0.087131
+numbers: 0.014522
+oct: 0.246870
+open: 0.029044
+opened: 0.014522
+outside: 0.014522
+param: 0.014522
+parameters: 0.014522
+parties: 0.014522
+party: 0.014522
+partythis: 0.014522
+performance: 0.029044
+period: 0.043565
+policy: 0.029044
+port: 0.043565
+ports: 0.014522
+present: 0.014522
+presented: 0.029044
+prior: 0.014522
+privacy: 0.014522
+processed: 0.014522
+processing: 0.145218
+prot: 0.014522
+protocol: 0.072609
+protocols: 0.029044
+provided: 0.014522
+public: 0.014522
+publication: 0.014522
+publish: 0.014522
+queue: 0.043565
+queues: 0.072609
+reasons: 0.014522
+receive: 0.014522
+received: 0.014522
+references: 0.014522
+refers: 0.029044
+refs: 0.029044
+registration: 0.014522
+registrations: 0.043565
+registries: 0.043565
+registry: 0.043565
+rejectedthe: 0.014522
+related: 0.043565
+reporting: 0.058087
+reports: 0.043565
+repository: 0.014522
+request: 0.101652
+requested: 0.029044
+requester: 0.029044
+requestor: 0.043565
+requestorthis: 0.014522
+requests: 0.029044
+requiring: 0.014522
+resolved: 0.101652
+resolveda: 0.029044
+resource: 0.029044
+resources: 0.014522
+responsibility: 0.014522
+responsible: 0.014522
+reviews: 0.014522
+rfc: 0.087131
+root: 0.014522
+secretariat: 0.014522
+sep: 0.246870
+service: 0.014522
+spent: 0.043565
+standard: 0.014522
+state: 0.043565
+statedescription: 0.043565
+states: 0.014522
+statistics: 0.058087
+status: 0.014522
+submitted: 0.014522
+tables: 0.014522
+technical: 0.014522
+template: 0.014522
+terms: 0.014522
+ticket: 0.188783
+ticketing: 0.014522
+tickets: 0.058087
+time: 0.203305
+timethe: 0.029044
+total: 0.014522
+track: 0.014522
+tracked: 0.014522
+transaction: 0.029044
+trip: 0.029044
+type: 0.014522
+unique: 0.014522
+update: 0.029044
+updated: 0.014522
+user: 0.014522
+various: 0.014522
+web: 0.014522
+website: 0.014522
+withdrawn: 0.014522
+workdays: 0.029044
+working: 0.029044
+year: 0.014522
+zombiethis: 0.014522
+zone: 0.043565

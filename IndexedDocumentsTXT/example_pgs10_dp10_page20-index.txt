@@ -1,0 +1,63 @@
+Vocabulary:
+09
+1998
+2000
+assigned
+authority
+comments
+create
+domain
+enter
+existing
+form
+iana
+int
+internet
+level
+modify
+new
+numbers
+operation
+org
+page
+registration
+reserved
+rights
+send
+sep
+site
+updated
+web
+webmaster
+
+TF-IDF Matrix:
+09: 0.120386
+1998: 0.120386
+2000: 0.240772
+assigned: 0.120386
+authority: 0.120386
+comments: 0.120386
+create: 0.120386
+domain: 0.601929
+enter: 0.120386
+existing: 0.120386
+form: 0.240772
+iana: 0.120386
+int: 0.240772
+internet: 0.120386
+level: 0.240772
+modify: 0.120386
+new: 0.120386
+numbers: 0.120386
+operation: 0.120386
+org: 0.120386
+page: 0.120386
+registration: 0.240772
+reserved: 0.120386
+rights: 0.120386
+send: 0.120386
+sep: 0.120386
+site: 0.120386
+updated: 0.120386
+web: 0.120386
+webmaster: 0.120386

@@ -1,0 +1,127 @@
+Vocabulary:
+abuse
+affiliate
+allocations
+arpa
+audits
+class
+complaint
+contact
+coordinate
+customer
+database
+documents
+domain
+domains
+excellence
+framework
+functions
+globally
+iana
+icann
+identifiers
+idn
+information
+int
+internet
+introduction
+ipv4
+legacy
+making
+names
+number
+numbers
+performance
+policy
+practices
+presentations
+privacy
+procedures
+process
+protocol
+protocols
+provided
+public
+quality
+regional
+registries
+registry
+reporting
+reports
+repository
+resolution
+resource
+resources
+reviews
+root
+service
+technical
+terms
+time
+unique
+updating
+zone
+
+TF-IDF Matrix:
+abuse: 0.087370
+affiliate: 0.087370
+allocations: 0.174741
+arpa: 0.087370
+audits: 0.087370
+class: 0.087370
+complaint: 0.087370
+contact: 0.174741
+coordinate: 0.087370
+customer: 0.087370
+database: 0.087370
+documents: 0.087370
+domain: 0.087370
+domains: 0.087370
+excellence: 0.174741
+framework: 0.087370
+functions: 0.087370
+globally: 0.087370
+iana: 0.087370
+icann: 0.087370
+identifiers: 0.174741
+idn: 0.174741
+information: 0.087370
+int: 0.087370
+internet: 0.262111
+introduction: 0.087370
+ipv4: 0.087370
+legacy: 0.087370
+making: 0.087370
+names: 0.087370
+number: 0.174741
+numbers: 0.087370
+performance: 0.174741
+policy: 0.087370
+practices: 0.087370
+presentations: 0.087370
+privacy: 0.087370
+procedures: 0.262111
+process: 0.087370
+protocol: 0.087370
+protocols: 0.174741
+provided: 0.087370
+public: 0.174741
+quality: 0.087370
+regional: 0.087370
+registries: 0.174741
+registry: 0.262111
+reporting: 0.087370
+reports: 0.174741
+repository: 0.174741
+resolution: 0.087370
+resource: 0.087370
+resources: 0.087370
+reviews: 0.174741
+root: 0.087370
+service: 0.174741
+technical: 0.087370
+terms: 0.087370
+time: 0.087370
+unique: 0.087370
+updating: 0.087370
+zone: 0.174741

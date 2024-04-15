@@ -1,0 +1,387 @@
+Vocabulary:
+10
+112
+12
+128
+129
+13
+14
+148
+17
+170
+190
+192
+193
+198
+199
+1b8
+2001
+202
+203
+230
+241
+247
+27
+2801
+2d
+2f
+30
+33
+35
+36
+41
+42
+500
+503
+53
+58
+7fd
+7fe
+83
+91
+97
+9f
+a8
+abuse
+access
+addresses
+affiliate
+ames
+anchors
+archive
+army
+arpa
+authoritative
+authorities
+ba3e
+bootstrap
+built
+c27
+california
+center
+ceremonies
+change
+cogent
+comes
+commonly
+communications
+community
+configure
+configured
+configuring
+consortium
+contact
+contains
+coordinate
+countries
+d0d
+database
+dc3
+defense
+department
+dns
+dnssec
+domain
+domains
+eligibility
+excellence
+file
+files
+follows
+functions
+globally
+guides
+hint
+hints
+hostname
+hundreds
+iana
+icann
+identifiers
+idn
+information
+instances
+institute
+instructions
+int
+internet
+ip
+key
+keys
+known
+lab
+list
+locations
+manage
+management
+map
+maryland
+material
+modify
+named
+names
+nasa
+ncc
+need
+net
+netnod
+network
+nic
+number
+numbers
+operate
+operator
+operators
+organisations
+overview
+performance
+pieces
+policies
+policy
+practices
+privacy
+procedures
+process
+project
+protocol
+protocols
+provide
+provided
+public
+recursive
+register
+registries
+registry
+reports
+repository
+representatives
+requests
+research
+reserved
+resolution
+resolver
+resources
+reviews
+ripe
+root
+sciences
+serve
+server
+servers
+service
+signing
+software
+southern
+statistics
+submit
+systems
+table
+technical
+terms
+time
+trusts
+typically
+unique
+university
+useful
+utilization
+verisign
+visit
+website
+wide
+world
+zone
+
+TF-IDF Matrix:
+10: 0.040056
+112: 0.020028
+12: 0.060084
+128: 0.020028
+129: 0.020028
+13: 0.040056
+14: 0.020028
+148: 0.020028
+17: 0.020028
+170: 0.040056
+190: 0.020028
+192: 0.120168
+193: 0.020028
+198: 0.040056
+199: 0.040056
+1b8: 0.020028
+2001: 0.240337
+202: 0.020028
+203: 0.020028
+230: 0.020028
+241: 0.020028
+247: 0.020028
+27: 0.020028
+2801: 0.020028
+2d: 0.020028
+2f: 0.020028
+30: 0.060084
+33: 0.040056
+35: 0.020028
+36: 0.040056
+41: 0.020028
+42: 0.040056
+500: 0.140196
+503: 0.040056
+53: 0.060084
+58: 0.020028
+7fd: 0.020028
+7fe: 0.020028
+83: 0.020028
+91: 0.020028
+97: 0.020028
+9f: 0.020028
+a8: 0.020028
+abuse: 0.020028
+access: 0.020028
+addresses: 0.040056
+affiliate: 0.020028
+ames: 0.020028
+anchors: 0.020028
+archive: 0.020028
+army: 0.020028
+arpa: 0.040056
+authoritative: 0.020028
+authorities: 0.020028
+ba3e: 0.020028
+bootstrap: 0.020028
+built: 0.020028
+c27: 0.020028
+california: 0.020028
+center: 0.020028
+ceremonies: 0.020028
+change: 0.020028
+cogent: 0.020028
+comes: 0.020028
+commonly: 0.020028
+communications: 0.020028
+community: 0.020028
+configure: 0.020028
+configured: 0.020028
+configuring: 0.020028
+consortium: 0.020028
+contact: 0.020028
+contains: 0.020028
+coordinate: 0.020028
+countries: 0.020028
+d0d: 0.020028
+database: 0.040056
+dc3: 0.020028
+defense: 0.020028
+department: 0.020028
+dns: 0.080112
+dnssec: 0.020028
+domain: 0.060084
+domains: 0.040056
+eligibility: 0.020028
+excellence: 0.020028
+file: 0.040056
+files: 0.020028
+follows: 0.020028
+functions: 0.020028
+globally: 0.020028
+guides: 0.020028
+hint: 0.020028
+hints: 0.040056
+hostname: 0.020028
+hundreds: 0.020028
+iana: 0.020028
+icann: 0.040056
+identifiers: 0.040056
+idn: 0.040056
+information: 0.100140
+instances: 0.020028
+institute: 0.020028
+instructions: 0.020028
+int: 0.060084
+internet: 0.040056
+ip: 0.040056
+key: 0.060084
+keys: 0.020028
+known: 0.020028
+lab: 0.020028
+list: 0.040056
+locations: 0.020028
+manage: 0.020028
+management: 0.020028
+map: 0.020028
+maryland: 0.020028
+material: 0.020028
+modify: 0.020028
+named: 0.020028
+names: 0.060084
+nasa: 0.020028
+ncc: 0.020028
+need: 0.020028
+net: 0.260365
+netnod: 0.020028
+network: 0.020028
+nic: 0.020028
+number: 0.020028
+numbers: 0.020028
+operate: 0.020028
+operator: 0.020028
+operators: 0.020028
+organisations: 0.020028
+overview: 0.100140
+performance: 0.020028
+pieces: 0.020028
+policies: 0.020028
+policy: 0.020028
+practices: 0.020028
+privacy: 0.020028
+procedures: 0.020028
+process: 0.020028
+project: 0.040056
+protocol: 0.020028
+protocols: 0.040056
+provide: 0.020028
+provided: 0.020028
+public: 0.020028
+recursive: 0.020028
+register: 0.020028
+registries: 0.020028
+registry: 0.100140
+reports: 0.020028
+repository: 0.040056
+representatives: 0.020028
+requests: 0.020028
+research: 0.040056
+reserved: 0.020028
+resolution: 0.020028
+resolver: 0.020028
+resources: 0.020028
+reviews: 0.020028
+ripe: 0.020028
+root: 0.660926
+sciences: 0.020028
+serve: 0.020028
+server: 0.060084
+servers: 0.460645
+service: 0.020028
+signing: 0.040056
+software: 0.060084
+southern: 0.020028
+statistics: 0.020028
+submit: 0.020028
+systems: 0.020028
+table: 0.020028
+technical: 0.020028
+terms: 0.020028
+time: 0.020028
+trusts: 0.020028
+typically: 0.020028
+unique: 0.020028
+university: 0.040056
+useful: 0.020028
+utilization: 0.020028
+verisign: 0.040056
+visit: 0.020028
+website: 0.020028
+wide: 0.020028
+world: 0.020028
+zone: 0.140196

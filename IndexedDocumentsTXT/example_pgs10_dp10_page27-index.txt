@@ -1,0 +1,587 @@
+Vocabulary:
+03
+07
+10
+16
+17
+2008
+2009
+2010
+2015
+2016
+2018
+24
+27
+29
+36
+38
+47
+48
+49
+59
+60
+76
+77
+78
+abuse
+acceptance
+accompanying
+accordance
+add
+administration
+affiliate
+analysis
+anchor
+anchors
+answers
+apnic
+apops
+approach
+architecture
+architecturethis
+archive
+archived
+arpa
+august
+ausnog
+authoritative
+backup
+based
+baseline
+basic
+began
+ceremonies
+change
+changes
+changing
+commencing
+commerce
+community
+conducted
+conjunction
+consultation
+consultations
+consulted
+contact
+contained
+controlled
+coordinate
+data
+database
+date
+dedicated
+deliberately
+department
+deployment
+describes
+description
+design
+detailed
+details
+develop
+development
+discussions
+distributing
+distribution
+dns
+dnssec
+doc
+document
+documentation
+documents
+domain
+domains
+dps
+draft
+drafted
+ds
+durz
+durzthis
+eligibility
+employed
+evolution
+excellence
+executed
+extended
+extent
+faq
+files
+following
+formed
+forth
+functionality
+functions
+generation
+globally
+guide
+guides
+guidethis
+high
+hint
+historical
+iana
+icann
+identifiers
+idn
+iepg
+ietf
+implementation
+implemented
+include
+including
+information
+initial
+input
+institute
+instructions
+int
+internet
+internetdagarna
+inviting
+issuing
+jointly
+july
+key
+keys
+ksk
+lacnic
+launch
+level
+limited
+management
+managementthis
+managing
+meant
+mechanisms
+members
+menog
+microsite
+modify
+names
+nanog
+national
+new
+nist
+ntia
+number
+numbers
+nznog
+october
+ongoing
+operation
+operationalized
+operations
+operator
+operators
+operatorthis
+org
+originally
+outlines
+overview
+page
+partners
+perform
+performance
+placing
+plan
+planning
+policies
+policy
+popular
+possible
+practice
+practices
+presentation
+presentations
+privacy
+procedures
+process
+processing
+project
+projects
+proposed
+protocol
+protocols
+provide
+provided
+providing
+provisions
+public
+publication
+published
+purpose
+purposes
+questions
+receiving
+recognized
+recommendations
+records
+reflected
+register
+registries
+registry
+relating
+relied
+remove
+replacing
+reports
+repository
+representatives
+requests
+required
+requirements
+reserved
+resolver
+resolvers
+resources
+responsible
+resulted
+resulting
+results
+reviews
+revision
+ripe
+rollover
+root
+security
+selection
+september
+servers
+service
+services
+session
+set
+signed
+signing
+specific
+specifies
+standards
+statement
+statements
+states
+status
+strategy
+submit
+table
+tcr
+team
+technical
+technology
+telecommunication
+telecommunications
+template
+terms
+test
+testing
+time
+tld
+today
+trust
+trusted
+trusts
+unique
+unvalidatable
+update
+updates
+verisign
+work
+working
+xiii
+zone
+zoneas
+zonethis
+zsk
+
+TF-IDF Matrix:
+03: 0.013721
+07: 0.013721
+10: 0.013721
+16: 0.013721
+17: 0.013721
+2008: 0.013721
+2009: 0.027441
+2010: 0.068603
+2015: 0.027441
+2016: 0.027441
+2018: 0.027441
+24: 0.013721
+27: 0.013721
+29: 0.013721
+36: 0.013721
+38: 0.013721
+47: 0.013721
+48: 0.013721
+49: 0.013721
+59: 0.013721
+60: 0.013721
+76: 0.013721
+77: 0.013721
+78: 0.013721
+abuse: 0.013721
+acceptance: 0.013721
+accompanying: 0.013721
+accordance: 0.013721
+add: 0.013721
+administration: 0.027441
+affiliate: 0.013721
+analysis: 0.013721
+anchor: 0.013721
+anchors: 0.054882
+answers: 0.027441
+apnic: 0.013721
+apops: 0.013721
+approach: 0.027441
+architecture: 0.027441
+architecturethis: 0.013721
+archive: 0.054882
+archived: 0.013721
+arpa: 0.027441
+august: 0.013721
+ausnog: 0.013721
+authoritative: 0.013721
+backup: 0.013721
+based: 0.013721
+baseline: 0.013721
+basic: 0.013721
+began: 0.013721
+ceremonies: 0.041162
+change: 0.027441
+changes: 0.013721
+changing: 0.013721
+commencing: 0.013721
+commerce: 0.027441
+community: 0.096044
+conducted: 0.013721
+conjunction: 0.013721
+consultation: 0.013721
+consultations: 0.013721
+consulted: 0.013721
+contact: 0.013721
+contained: 0.013721
+controlled: 0.013721
+coordinate: 0.013721
+data: 0.013721
+database: 0.027441
+date: 0.013721
+dedicated: 0.013721
+deliberately: 0.013721
+department: 0.027441
+deployment: 0.137205
+describes: 0.082323
+description: 0.013721
+design: 0.068603
+detailed: 0.013721
+details: 0.013721
+develop: 0.013721
+development: 0.013721
+discussions: 0.013721
+distributing: 0.013721
+distribution: 0.013721
+dns: 0.109764
+dnssec: 0.301852
+doc: 0.013721
+document: 0.137205
+documentation: 0.027441
+documents: 0.068603
+domain: 0.068603
+domains: 0.027441
+dps: 0.013721
+draft: 0.027441
+drafted: 0.013721
+ds: 0.027441
+durz: 0.041162
+durzthis: 0.013721
+eligibility: 0.013721
+employed: 0.013721
+evolution: 0.013721
+excellence: 0.013721
+executed: 0.013721
+extended: 0.013721
+extent: 0.013721
+faq: 0.013721
+files: 0.013721
+following: 0.013721
+formed: 0.013721
+forth: 0.013721
+functionality: 0.013721
+functions: 0.027441
+generation: 0.027441
+globally: 0.013721
+guide: 0.013721
+guides: 0.013721
+guidethis: 0.013721
+high: 0.027441
+hint: 0.013721
+historical: 0.027441
+iana: 0.027441
+icann: 0.096044
+identifiers: 0.027441
+idn: 0.027441
+iepg: 0.027441
+ietf: 0.041162
+implementation: 0.068603
+implemented: 0.013721
+include: 0.013721
+including: 0.013721
+information: 0.068603
+initial: 0.054882
+input: 0.013721
+institute: 0.013721
+instructions: 0.013721
+int: 0.041162
+internet: 0.027441
+internetdagarna: 0.013721
+inviting: 0.013721
+issuing: 0.013721
+jointly: 0.013721
+july: 0.013721
+key: 0.205808
+keys: 0.027441
+ksk: 0.150926
+lacnic: 0.013721
+launch: 0.013721
+level: 0.041162
+limited: 0.013721
+management: 0.082323
+managementthis: 0.013721
+managing: 0.013721
+meant: 0.013721
+mechanisms: 0.013721
+members: 0.027441
+menog: 0.013721
+microsite: 0.013721
+modify: 0.013721
+names: 0.027441
+nanog: 0.041162
+national: 0.041162
+new: 0.013721
+nist: 0.013721
+ntia: 0.013721
+number: 0.013721
+numbers: 0.013721
+nznog: 0.013721
+october: 0.027441
+ongoing: 0.013721
+operation: 0.013721
+operationalized: 0.013721
+operations: 0.013721
+operator: 0.068603
+operators: 0.013721
+operatorthis: 0.013721
+org: 0.013721
+originally: 0.013721
+outlines: 0.027441
+overview: 0.178367
+page: 0.013721
+partners: 0.013721
+perform: 0.013721
+performance: 0.013721
+placing: 0.013721
+plan: 0.054882
+planning: 0.013721
+policies: 0.013721
+policy: 0.027441
+popular: 0.013721
+possible: 0.013721
+practice: 0.054882
+practices: 0.027441
+presentation: 0.027441
+presentations: 0.013721
+privacy: 0.013721
+procedures: 0.013721
+process: 0.041162
+processing: 0.013721
+project: 0.260690
+projects: 0.013721
+proposed: 0.054882
+protocol: 0.013721
+protocols: 0.027441
+provide: 0.013721
+provided: 0.027441
+providing: 0.013721
+provisions: 0.013721
+public: 0.013721
+publication: 0.027441
+published: 0.027441
+purpose: 0.013721
+purposes: 0.013721
+questions: 0.027441
+receiving: 0.013721
+recognized: 0.013721
+recommendations: 0.041162
+records: 0.027441
+reflected: 0.013721
+register: 0.013721
+registries: 0.013721
+registry: 0.068603
+relating: 0.013721
+relied: 0.013721
+remove: 0.013721
+replacing: 0.027441
+reports: 0.013721
+repository: 0.027441
+representatives: 0.041162
+requests: 0.027441
+required: 0.013721
+requirements: 0.082323
+reserved: 0.013721
+resolver: 0.013721
+resolvers: 0.013721
+resources: 0.013721
+responsible: 0.027441
+resulted: 0.013721
+resulting: 0.027441
+results: 0.013721
+reviews: 0.013721
+revision: 0.013721
+ripe: 0.027441
+rollover: 0.068603
+root: 0.562542
+security: 0.013721
+selection: 0.013721
+september: 0.013721
+servers: 0.013721
+service: 0.013721
+services: 0.013721
+session: 0.013721
+set: 0.013721
+signed: 0.013721
+signing: 0.096044
+specific: 0.027441
+specifies: 0.027441
+standards: 0.013721
+statement: 0.041162
+statements: 0.013721
+states: 0.013721
+status: 0.054882
+strategy: 0.013721
+submit: 0.013721
+table: 0.013721
+tcr: 0.013721
+team: 0.041162
+technical: 0.054882
+technology: 0.013721
+telecommunication: 0.013721
+telecommunications: 0.013721
+template: 0.013721
+terms: 0.013721
+test: 0.027441
+testing: 0.041162
+time: 0.013721
+tld: 0.027441
+today: 0.013721
+trust: 0.054882
+trusted: 0.027441
+trusts: 0.013721
+unique: 0.013721
+unvalidatable: 0.013721
+update: 0.041162
+updates: 0.013721
+verisign: 0.027441
+work: 0.013721
+working: 0.013721
+xiii: 0.013721
+zone: 0.397895
+zoneas: 0.013721
+zonethis: 0.041162
+zsk: 0.041162

@@ -1,0 +1,337 @@
+Vocabulary:
+04
+05
+09
+12
+13
+18
+19
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+25
+26
+abuse
+ace
+ack
+acknowledged
+actions
+ads
+affiliate
+approved
+apr
+archived
+area
+arpa
+assigning
+authors
+blank
+ccamp
+chairs
+changed
+code
+completed
+contact
+contains
+coordinate
+corresponds
+created
+creating
+currently
+database
+date
+directors
+displayed
+dnssd
+document
+documents
+domain
+domains
+draft
+drafts
+dynamic
+ed
+editor
+enc
+entered
+excellence
+explanation
+fields
+flooding
+functions
+generally
+globally
+group
+groupcomm
+hold
+iana
+ic
+icann
+identifiers
+idn
+iesg
+ietf
+independent
+information
+int
+intend
+internet
+involve
+ipv6
+jan
+key
+l1csm
+links
+list
+lsr
+message
+names
+new
+notified
+number
+numbers
+page
+parameters
+pce
+perform
+performance
+points
+policy
+privacy
+processing
+progress
+protocol
+protocols
+provided
+public
+publish
+queue
+receipt
+received
+referred
+registries
+registry
+related
+reports
+repository
+request
+resources
+respond
+reviews
+rfc
+root
+routing
+segment
+service
+sframe
+similar
+sorted
+srp
+status
+submission
+suspended
+taken
+technical
+terms
+time
+tracker
+unique
+useful
+usually
+value
+ve
+version
+waiting
+wgc
+work
+working
+yang
+year
+zone
+
+TF-IDF Matrix:
+04: 0.027671
+05: 0.083014
+09: 0.083014
+12: 0.083014
+13: 0.027671
+18: 0.055342
+19: 0.055342
+2004: 0.027671
+2005: 0.027671
+2006: 0.027671
+2007: 0.027671
+2008: 0.027671
+2009: 0.027671
+2010: 0.027671
+2011: 0.027671
+2012: 0.027671
+2013: 0.027671
+2014: 0.027671
+2015: 0.027671
+2016: 0.027671
+2017: 0.027671
+2018: 0.027671
+2019: 0.027671
+2020: 0.027671
+2021: 0.027671
+2022: 0.027671
+2023: 0.027671
+2024: 0.359726
+25: 0.055342
+26: 0.027671
+abuse: 0.027671
+ace: 0.027671
+ack: 0.027671
+acknowledged: 0.027671
+actions: 0.193699
+ads: 0.027671
+affiliate: 0.027671
+approved: 0.083014
+apr: 0.276712
+archived: 0.027671
+area: 0.027671
+arpa: 0.027671
+assigning: 0.027671
+authors: 0.110685
+blank: 0.027671
+ccamp: 0.027671
+chairs: 0.027671
+changed: 0.027671
+code: 0.027671
+completed: 0.110685
+contact: 0.027671
+contains: 0.027671
+coordinate: 0.027671
+corresponds: 0.027671
+created: 0.027671
+creating: 0.027671
+currently: 0.027671
+database: 0.055342
+date: 0.083014
+directors: 0.027671
+displayed: 0.055342
+dnssd: 0.027671
+document: 0.193699
+documents: 0.055342
+domain: 0.027671
+domains: 0.027671
+draft: 0.359726
+drafts: 0.083014
+dynamic: 0.027671
+ed: 0.027671
+editor: 0.138356
+enc: 0.027671
+entered: 0.055342
+excellence: 0.027671
+explanation: 0.027671
+fields: 0.055342
+flooding: 0.027671
+functions: 0.027671
+generally: 0.027671
+globally: 0.027671
+group: 0.027671
+groupcomm: 0.027671
+hold: 0.055342
+iana: 0.027671
+ic: 0.027671
+icann: 0.027671
+identifiers: 0.055342
+idn: 0.027671
+iesg: 0.027671
+ietf: 0.332055
+independent: 0.027671
+information: 0.055342
+int: 0.027671
+intend: 0.027671
+internet: 0.138356
+involve: 0.027671
+ipv6: 0.027671
+jan: 0.055342
+key: 0.027671
+l1csm: 0.027671
+links: 0.027671
+list: 0.027671
+lsr: 0.027671
+message: 0.027671
+names: 0.027671
+new: 0.027671
+notified: 0.055342
+number: 0.083014
+numbers: 0.027671
+page: 0.027671
+parameters: 0.027671
+pce: 0.027671
+perform: 0.027671
+performance: 0.055342
+points: 0.027671
+policy: 0.027671
+privacy: 0.027671
+processing: 0.083014
+progress: 0.138356
+protocol: 0.083014
+protocols: 0.055342
+provided: 0.027671
+public: 0.027671
+publish: 0.027671
+queue: 0.083014
+receipt: 0.027671
+received: 0.055342
+referred: 0.027671
+registries: 0.083014
+registry: 0.138356
+related: 0.027671
+reports: 0.027671
+repository: 0.027671
+request: 0.055342
+resources: 0.027671
+respond: 0.083014
+reviews: 0.027671
+rfc: 0.193699
+root: 0.027671
+routing: 0.027671
+segment: 0.027671
+service: 0.027671
+sframe: 0.027671
+similar: 0.027671
+sorted: 0.027671
+srp: 0.027671
+status: 0.166027
+submission: 0.027671
+suspended: 0.027671
+taken: 0.027671
+technical: 0.027671
+terms: 0.027671
+time: 0.055342
+tracker: 0.055342
+unique: 0.027671
+useful: 0.027671
+usually: 0.027671
+value: 0.027671
+ve: 0.027671
+version: 0.110685
+waiting: 0.249041
+wgc: 0.027671
+work: 0.027671
+working: 0.027671
+yang: 0.027671
+year: 0.027671
+zone: 0.083014

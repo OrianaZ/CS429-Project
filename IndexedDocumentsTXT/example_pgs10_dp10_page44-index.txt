@@ -1,0 +1,565 @@
+Vocabulary:
+01
+02
+03
+04
+07
+10
+103
+11
+118
+12
+121
+125
+13
+131
+14
+15
+153
+157
+16
+165
+17
+170
+173
+183
+2023
+2024
+2025
+2026
+228
+24
+240
+25
+268
+27
+279
+297
+30
+32
+33
+338
+34
+35
+36
+37
+373
+38
+387
+39
+397
+40
+41
+414
+42
+43
+44
+45
+46
+47
+473
+48
+49
+50
+51
+52
+53
+54
+55
+56
+569
+57
+571
+575
+577
+58
+582
+59
+596
+60
+61
+611
+616
+63
+635
+64
+71
+726
+74
+75
+79
+80
+807
+838
+904
+916
+928
+94
+952
+964
+976
+988
+9th
+abuse
+according
+additional
+address
+addresses
+ae
+af
+affiliate
+afrinic
+al
+allocated
+allocation
+allocations
+answers
+apnic
+apply
+arin
+arpa
+asn
+assigned
+au
+available
+average
+based
+bd
+block
+blocks
+bn
+bt
+ca
+ch
+chart
+charts
+ck
+cn
+code
+considered
+contact
+coordinate
+count
+country
+current
+cy
+data
+database
+date
+dk
+domain
+domains
+eligibility
+eligible
+es
+estimate
+excellence
+existing
+fj
+fm
+following
+forecast
+fr
+fragmented
+functions
+future
+gb
+globally
+grouped
+gu
+held
+hk
+iana
+icann
+id
+identifiers
+idn
+il
+information
+int
+internet
+io
+ipv6
+issues
+jp
+kh
+ki
+kr
+la
+lacnic
+length
+lk
+lt
+measurements
+mh
+mm
+mn
+mo
+month
+monthly
+months
+mp
+mv
+names
+nc
+ncc
+near
+necessary
+needs
+network
+nf
+nl
+np
+nr
+nu
+number
+numbers
+nz
+operators
+overview
+pa
+percentage
+performance
+pf
+pg
+ph
+pk
+policy
+prefix
+privacy
+protocol
+protocols
+provided
+public
+publish
+published
+pw
+questions
+rate
+rates
+regional
+registries
+registry
+reports
+repository
+reserved
+resources
+reviews
+ripe
+rir
+rirs
+ro
+root
+sb
+sc
+se
+service
+sg
+shows
+si
+smaller
+space
+specifically
+status
+technical
+terms
+th
+time
+tk
+tl
+total
+tv
+tw
+unique
+updated
+used
+uses
+vg
+vn
+vu
+wf
+ws
+zone
+
+TF-IDF Matrix:
+01: 0.105593
+02: 0.105593
+03: 0.026398
+04: 0.131991
+07: 0.052796
+10: 0.158389
+103: 0.026398
+11: 0.079195
+118: 0.026398
+12: 0.079195
+121: 0.026398
+125: 0.026398
+13: 0.079195
+131: 0.026398
+14: 0.052796
+15: 0.026398
+153: 0.026398
+157: 0.026398
+16: 0.026398
+165: 0.026398
+17: 0.026398
+170: 0.026398
+173: 0.026398
+183: 0.026398
+2023: 0.079195
+2024: 0.211185
+2025: 0.079195
+2026: 0.052796
+228: 0.026398
+24: 0.052796
+240: 0.026398
+25: 0.026398
+268: 0.026398
+27: 0.052796
+279: 0.026398
+297: 0.026398
+30: 0.026398
+32: 0.131991
+33: 0.026398
+338: 0.026398
+34: 0.026398
+35: 0.026398
+36: 0.026398
+37: 0.026398
+373: 0.026398
+38: 0.026398
+387: 0.026398
+39: 0.026398
+397: 0.026398
+40: 0.079195
+41: 0.026398
+414: 0.026398
+42: 0.026398
+43: 0.158389
+44: 0.026398
+45: 0.026398
+46: 0.052796
+47: 0.026398
+473: 0.026398
+48: 0.026398
+49: 0.026398
+50: 0.079195
+51: 0.026398
+52: 0.079195
+53: 0.026398
+54: 0.026398
+55: 0.026398
+56: 0.026398
+569: 0.026398
+57: 0.026398
+571: 0.026398
+575: 0.026398
+577: 0.026398
+58: 0.026398
+582: 0.026398
+59: 0.026398
+596: 0.026398
+60: 0.026398
+61: 0.026398
+611: 0.026398
+616: 0.026398
+63: 0.026398
+635: 0.026398
+64: 0.079195
+71: 0.052796
+726: 0.026398
+74: 0.026398
+75: 0.026398
+79: 0.211185
+80: 0.052796
+807: 0.026398
+838: 0.052796
+904: 0.026398
+916: 0.026398
+928: 0.026398
+94: 0.026398
+952: 0.026398
+964: 0.026398
+976: 0.026398
+988: 0.026398
+9th: 0.026398
+abuse: 0.052796
+according: 0.026398
+additional: 0.026398
+address: 0.079195
+addresses: 0.079195
+ae: 0.026398
+af: 0.026398
+affiliate: 0.026398
+afrinic: 0.052796
+al: 0.026398
+allocated: 0.184787
+allocation: 0.105593
+allocations: 0.211185
+answers: 0.026398
+apnic: 0.263982
+apply: 0.026398
+arin: 0.052796
+arpa: 0.026398
+asn: 0.131991
+assigned: 0.026398
+au: 0.026398
+available: 0.131991
+average: 0.052796
+based: 0.052796
+bd: 0.026398
+block: 0.026398
+blocks: 0.052796
+bn: 0.026398
+bt: 0.026398
+ca: 0.026398
+ch: 0.026398
+chart: 0.052796
+charts: 0.026398
+ck: 0.026398
+cn: 0.026398
+code: 0.026398
+considered: 0.026398
+contact: 0.026398
+coordinate: 0.026398
+count: 0.026398
+country: 0.079195
+current: 0.052796
+cy: 0.026398
+data: 0.052796
+database: 0.026398
+date: 0.052796
+dk: 0.026398
+domain: 0.026398
+domains: 0.026398
+eligibility: 0.052796
+eligible: 0.079195
+es: 0.026398
+estimate: 0.026398
+excellence: 0.026398
+existing: 0.026398
+fj: 0.026398
+fm: 0.026398
+following: 0.026398
+forecast: 0.052796
+fr: 0.026398
+fragmented: 0.079195
+functions: 0.026398
+future: 0.026398
+gb: 0.026398
+globally: 0.026398
+grouped: 0.026398
+gu: 0.026398
+held: 0.026398
+hk: 0.026398
+iana: 0.052796
+icann: 0.026398
+id: 0.026398
+identifiers: 0.052796
+idn: 0.026398
+il: 0.026398
+information: 0.026398
+int: 0.026398
+internet: 0.052796
+io: 0.026398
+ipv6: 0.422371
+issues: 0.026398
+jp: 0.026398
+kh: 0.026398
+ki: 0.026398
+kr: 0.026398
+la: 0.026398
+lacnic: 0.052796
+length: 0.052796
+lk: 0.026398
+lt: 0.026398
+measurements: 0.026398
+mh: 0.026398
+mm: 0.026398
+mn: 0.026398
+mo: 0.026398
+month: 0.052796
+monthly: 0.026398
+months: 0.105593
+mp: 0.026398
+mv: 0.026398
+names: 0.026398
+nc: 0.026398
+ncc: 0.052796
+near: 0.026398
+necessary: 0.052796
+needs: 0.026398
+network: 0.052796
+nf: 0.026398
+nl: 0.026398
+np: 0.026398
+nr: 0.026398
+nu: 0.026398
+number: 0.131991
+numbers: 0.026398
+nz: 0.026398
+operators: 0.052796
+overview: 0.079195
+pa: 0.026398
+percentage: 0.052796
+performance: 0.026398
+pf: 0.026398
+pg: 0.026398
+ph: 0.026398
+pk: 0.026398
+policy: 0.026398
+prefix: 0.052796
+privacy: 0.026398
+protocol: 0.026398
+protocols: 0.052796
+provided: 0.026398
+public: 0.026398
+publish: 0.026398
+published: 0.026398
+pw: 0.026398
+questions: 0.026398
+rate: 0.026398
+rates: 0.026398
+regional: 0.026398
+registries: 0.052796
+registry: 0.079195
+reports: 0.026398
+repository: 0.026398
+reserved: 0.026398
+resources: 0.052796
+reviews: 0.026398
+ripe: 0.052796
+rir: 0.026398
+rirs: 0.026398
+ro: 0.026398
+root: 0.026398
+sb: 0.026398
+sc: 0.026398
+se: 0.026398
+service: 0.026398
+sg: 0.026398
+shows: 0.026398
+si: 0.026398
+smaller: 0.026398
+space: 0.211185
+specifically: 0.026398
+status: 0.079195
+technical: 0.026398
+terms: 0.026398
+th: 0.026398
+time: 0.026398
+tk: 0.026398
+tl: 0.026398
+total: 0.026398
+tv: 0.026398
+tw: 0.026398
+unique: 0.026398
+updated: 0.026398
+used: 0.026398
+uses: 0.026398
+vg: 0.026398
+vn: 0.026398
+vu: 0.026398
+wf: 0.026398
+ws: 0.026398
+zone: 0.052796

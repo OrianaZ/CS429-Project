@@ -1,0 +1,423 @@
+Vocabulary:
+1591
+1988
+2000
+28
+3172
+able
+abuse
+accordingly
+activity
+additional
+administered
+administration
+administrative
+administrator
+affiliate
+agencies
+allowed
+anchors
+appendix
+applicant
+application
+applying
+appropriate
+april
+architecture
+archive
+arpa
+aspects
+assembly
+assumed
+based
+board
+brief
+bylaws
+california
+ceremonies
+certified
+change
+community
+consent
+consider
+consideration
+considered
+constitution
+contact
+contacts
+contracts
+coordinate
+copy
+council
+created
+database
+databases
+decision
+declaration
+designating
+determine
+dnssec
+domain
+domains
+elements
+eligibility
+eligible
+enter
+establish
+established
+establishment
+example
+excellence
+existing
+fee
+files
+following
+function
+functions
+general
+given
+globally
+governed
+governments
+granted
+grants
+guides
+having
+help
+hint
+iana
+icann
+identifiers
+idn
+inception
+independent
+information
+infrastructure
+institute
+instructions
+int
+intergovernmental
+international
+internet
+involvement
+isi
+karen
+key
+keys
+law
+legal
+letter
+level
+longer
+look
+louis
+management
+meets
+met
+migrating
+modify
+names
+national
+need
+new
+number
+numbers
+observer
+officials
+online
+operated
+organization
+organizations
+overview
+party
+past
+performance
+personality
+personnel
+policies
+policy
+practices
+privacy
+procedures
+proceedings
+program
+project
+protocol
+protocols
+provide
+provided
+public
+purposes
+pursue
+qualifications
+qualified
+receive
+recognize
+recommended
+register
+registering
+registration
+registries
+registry
+reports
+repository
+representatives
+requests
+requirements
+reserved
+resources
+review
+reviews
+rfc
+root
+rose
+sciences
+second
+secretariat
+secure
+servers
+service
+set
+signing
+similar
+southern
+specialized
+stable
+status
+subdomains
+subject
+submit
+submitted
+suggest
+sure
+table
+technical
+terms
+time
+touton
+transition
+treaties
+treaty
+true
+trusts
+unique
+university
+usc
+used
+various
+whois
+widely
+wish
+zone
+
+TF-IDF Matrix:
+1591: 0.043427
+1988: 0.021713
+2000: 0.043427
+28: 0.021713
+3172: 0.021713
+able: 0.043427
+abuse: 0.021713
+accordingly: 0.021713
+activity: 0.021713
+additional: 0.021713
+administered: 0.021713
+administration: 0.021713
+administrative: 0.021713
+administrator: 0.021713
+affiliate: 0.021713
+agencies: 0.021713
+allowed: 0.021713
+anchors: 0.021713
+appendix: 0.021713
+applicant: 0.021713
+application: 0.021713
+applying: 0.043427
+appropriate: 0.021713
+april: 0.021713
+architecture: 0.021713
+archive: 0.021713
+arpa: 0.108567
+aspects: 0.021713
+assembly: 0.021713
+assumed: 0.021713
+based: 0.043427
+board: 0.021713
+brief: 0.021713
+bylaws: 0.021713
+california: 0.021713
+ceremonies: 0.021713
+certified: 0.021713
+change: 0.021713
+community: 0.021713
+consent: 0.021713
+consider: 0.021713
+consideration: 0.021713
+considered: 0.021713
+constitution: 0.021713
+contact: 0.086854
+contacts: 0.021713
+contracts: 0.021713
+coordinate: 0.021713
+copy: 0.021713
+council: 0.021713
+created: 0.043427
+database: 0.065140
+databases: 0.021713
+decision: 0.021713
+declaration: 0.021713
+designating: 0.021713
+determine: 0.021713
+dnssec: 0.021713
+domain: 0.455983
+domains: 0.065140
+elements: 0.021713
+eligibility: 0.043427
+eligible: 0.021713
+enter: 0.021713
+establish: 0.021713
+established: 0.108567
+establishment: 0.021713
+example: 0.065140
+excellence: 0.021713
+existing: 0.021713
+fee: 0.021713
+files: 0.021713
+following: 0.043427
+function: 0.065140
+functions: 0.043427
+general: 0.021713
+given: 0.021713
+globally: 0.021713
+governed: 0.021713
+governments: 0.043427
+granted: 0.021713
+grants: 0.021713
+guides: 0.021713
+having: 0.021713
+help: 0.021713
+hint: 0.021713
+iana: 0.130281
+icann: 0.086854
+identifiers: 0.043427
+idn: 0.043427
+inception: 0.021713
+independent: 0.021713
+information: 0.086854
+infrastructure: 0.086854
+institute: 0.021713
+instructions: 0.021713
+int: 0.521124
+intergovernmental: 0.021713
+international: 0.173708
+internet: 0.065140
+involvement: 0.021713
+isi: 0.021713
+karen: 0.021713
+key: 0.065140
+keys: 0.021713
+law: 0.021713
+legal: 0.065140
+letter: 0.021713
+level: 0.130281
+longer: 0.021713
+look: 0.021713
+louis: 0.021713
+management: 0.043427
+meets: 0.021713
+met: 0.021713
+migrating: 0.021713
+modify: 0.021713
+names: 0.086854
+national: 0.043427
+need: 0.021713
+new: 0.021713
+number: 0.021713
+numbers: 0.021713
+observer: 0.021713
+officials: 0.021713
+online: 0.021713
+operated: 0.021713
+organization: 0.325702
+organizations: 0.108567
+overview: 0.108567
+party: 0.021713
+past: 0.021713
+performance: 0.021713
+personality: 0.043427
+personnel: 0.021713
+policies: 0.021713
+policy: 0.065140
+practices: 0.021713
+privacy: 0.021713
+procedures: 0.065140
+proceedings: 0.021713
+program: 0.065140
+project: 0.021713
+protocol: 0.021713
+protocols: 0.043427
+provide: 0.043427
+provided: 0.043427
+public: 0.021713
+purposes: 0.021713
+pursue: 0.021713
+qualifications: 0.021713
+qualified: 0.021713
+receive: 0.021713
+recognize: 0.021713
+recommended: 0.021713
+register: 0.043427
+registering: 0.043427
+registration: 0.021713
+registries: 0.021713
+registry: 0.108567
+reports: 0.021713
+repository: 0.043427
+representatives: 0.021713
+requests: 0.021713
+requirements: 0.021713
+reserved: 0.021713
+resources: 0.021713
+review: 0.021713
+reviews: 0.021713
+rfc: 0.065140
+root: 0.108567
+rose: 0.021713
+sciences: 0.021713
+second: 0.021713
+secretariat: 0.021713
+secure: 0.021713
+servers: 0.021713
+service: 0.043427
+set: 0.021713
+signing: 0.043427
+similar: 0.021713
+southern: 0.021713
+specialized: 0.021713
+stable: 0.021713
+status: 0.021713
+subdomains: 0.065140
+subject: 0.021713
+submit: 0.043427
+submitted: 0.021713
+suggest: 0.021713
+sure: 0.021713
+table: 0.021713
+technical: 0.043427
+terms: 0.021713
+time: 0.065140
+touton: 0.021713
+transition: 0.021713
+treaties: 0.043427
+treaty: 0.238848
+true: 0.021713
+trusts: 0.021713
+unique: 0.021713
+university: 0.021713
+usc: 0.021713
+used: 0.043427
+various: 0.021713
+whois: 0.021713
+widely: 0.021713
+wish: 0.021713
+zone: 0.086854

@@ -1,0 +1,891 @@
+Vocabulary:
+000
+1000
+2024terms
+30
+50
+able
+accept
+access
+according
+accredit
+achieve
+achieved
+achieving
+acquisitions
+actions
+active
+acts
+actually
+adaptive
+additional
+advertising
+agenda
+agile
+aims
+allows
+alternative
+analysis
+andthe
+anonymous
+applicant
+applying
+approaches
+arabic
+asking
+assess
+assessbase
+assessment
+assessors
+assistance
+attention
+base
+based
+baseline
+baselining
+benchmarking
+best
+better
+blueprint
+break
+brochure
+brochureyou
+build
+building
+business
+businesses
+buy
+calendar
+capabilities
+capability
+capable
+carrying
+cases
+caseswe
+cause
+ceo
+certificate
+change
+checkpoints
+class
+committed
+common
+communication
+communications
+compared
+complement
+compliance
+concepts
+consent
+consequence
+consumed
+contact
+content
+context
+continue
+continues
+continuous
+controlled
+cookie
+cookies
+copydownload
+corecompetence
+corporate
+covers
+create
+creates
+creation
+criteria
+culture
+current
+czech
+danish
+date
+deal
+define
+defined
+deliver
+demergers
+designing
+desired
+develop
+different
+diligence
+directionhow
+disposal
+disruption
+disruptions
+diversity
+does
+dotraininginsightrecognitioncase
+download
+driven
+driving
+dutch
+economyun
+effectiveness
+efqm
+efqmrecognition
+electronic
+embedded
+emerging
+enables
+enabling
+english
+englisharabicgreekczechdanishdutchfinnishfrenchgermanitalianmandarinportugueseromanianrussianslovenianspanishswedishturkishhungarian
+ensure
+ensuring
+envision
+establish
+established
+europe
+events
+evolve
+example
+exclusively
+execution
+executionwhat
+exercise
+exist
+existing
+expected
+experience
+experienced
+explicitly
+expressed
+external
+externally
+facilitator
+fact
+finnish
+fit
+foundation
+framework
+free
+french
+frenchshopcalendarnewsaboutcontactenglishdeutschespañolfrançaisthe
+fulfil
+functional
+fundamentals
+funding
+future
+gain
+gap
+gaps
+gathered
+german
+gives
+globally
+good
+greek
+having
+help
+helping
+helpingto
+hungarian
+identified
+identify
+impact
+implemented
+implementing
+improvement
+improving
+inception
+increasing
+information
+innovation
+innovationeducationassessbasewhat
+insight
+insights
+inspire
+integration
+intend
+internet
+introducing
+italian
+journey
+key
+know
+knowledge
+language
+large
+leaders
+learn
+legitimate
+lens
+level
+life
+linked
+logic
+long
+longmuir
+main
+major
+manage
+management
+managing
+mandarin
+map
+market
+marketdisruptions
+marketing
+marketplace
+matchesthe
+matters
+maturity
+membership
+menu
+mergers
+mindset
+mitigating
+mitigation
+mode
+model
+modelefqm
+modelthe
+monitor
+necessary
+need
+negative
+net
+network
+new
+news
+offers
+options
+organisation
+organisational
+organisations
+particular
+partners
+party
+past
+peers
+performance
+performances
+periodof
+picture
+place
+plans
+point
+points
+portfolio
+portuguese
+possess
+potential
+powerful
+practical
+practices
+practitioners
+preferences
+prepare
+present
+printed
+prioritised
+priority
+processes
+procurement
+profiles
+programme
+programmes
+progress
+protect
+provide
+provided
+provider
+provides
+purchase
+purpose
+purposes
+putting
+qualified
+qualifying
+questions
+radar
+read
+reality
+reasons
+receive
+recipients
+recognised
+recognition
+records
+red
+reduced
+regardless
+regular
+reinforced
+reject
+relevant
+remaining
+remains
+represent
+requested
+require
+required
+resilience
+resources
+respond
+responding
+results
+resultswhy
+retrieved
+review
+reviewed
+risk
+risks
+road
+role
+romanian
+russell
+russian
+sale
+save
+scored
+sdgs
+searching
+second
+section
+sector
+send
+sense
+sensing
+series
+service
+services
+set
+sharing
+shop
+shopcalendarnewsaboutcontactenglishdeutschespañolfrançaisthe
+shown
+significant
+similar
+simple
+situations
+size
+skip
+slovenian
+sme
+snapshot
+sole
+spanish
+specific
+speed
+stakeholder
+stands
+start
+starting
+state
+statement
+statistical
+statistics
+storage
+stored
+storing
+strategy
+strengths
+strictly
+strong
+structure
+studiespartnersmembership
+studiespartnersmembershipthe
+subpoena
+subscriber
+subsequent
+successful
+suppliers
+supporting
+supports
+sustainable
+swedish
+target
+technical
+term
+thanks
+thousands
+thread
+time
+title
+tobe
+today
+tomorrow
+tools
+toplay
+track
+training
+transformation
+transmission
+trusted
+turkish
+undergo
+undergoing
+understand
+understanding
+undertake
+use
+used
+useprivacy
+user
+users
+uses
+using
+usually
+value
+vendor_count
+vendors
+version
+view
+voluntary
+want
+wanting
+website
+websites
+worldwide
+years
+zerocircular
+
+TF-IDF Matrix:
+000: 0.014511
+1000: 0.014511
+2024terms: 0.014511
+30: 0.014511
+50: 0.014511
+able: 0.029022
+accept: 0.014511
+access: 0.072555
+according: 0.014511
+accredit: 0.014511
+achieve: 0.014511
+achieved: 0.029022
+achieving: 0.014511
+acquisitions: 0.014511
+actions: 0.058044
+active: 0.014511
+acts: 0.014511
+actually: 0.014511
+adaptive: 0.014511
+additional: 0.014511
+advertising: 0.014511
+agenda: 0.014511
+agile: 0.014511
+aims: 0.014511
+allows: 0.014511
+alternative: 0.014511
+analysis: 0.014511
+andthe: 0.014511
+anonymous: 0.014511
+applicant: 0.014511
+applying: 0.014511
+approaches: 0.014511
+arabic: 0.014511
+asking: 0.014511
+assess: 0.014511
+assessbase: 0.029022
+assessment: 0.043533
+assessors: 0.014511
+assistance: 0.014511
+attention: 0.014511
+base: 0.029022
+based: 0.043533
+baseline: 0.029022
+baselining: 0.014511
+benchmarking: 0.043533
+best: 0.029022
+better: 0.014511
+blueprint: 0.014511
+break: 0.014511
+brochure: 0.029022
+brochureyou: 0.014511
+build: 0.029022
+building: 0.058044
+business: 0.087066
+businesses: 0.014511
+buy: 0.014511
+calendar: 0.014511
+capabilities: 0.029022
+capability: 0.043533
+capable: 0.014511
+carrying: 0.014511
+cases: 0.014511
+caseswe: 0.014511
+cause: 0.014511
+ceo: 0.014511
+certificate: 0.014511
+change: 0.029022
+checkpoints: 0.014511
+class: 0.014511
+committed: 0.014511
+common: 0.014511
+communication: 0.014511
+communications: 0.014511
+compared: 0.014511
+complement: 0.014511
+compliance: 0.014511
+concepts: 0.014511
+consent: 0.029022
+consequence: 0.014511
+consumed: 0.014511
+contact: 0.014511
+content: 0.014511
+context: 0.014511
+continue: 0.029022
+continues: 0.014511
+continuous: 0.029022
+controlled: 0.014511
+cookie: 0.014511
+cookies: 0.029022
+copydownload: 0.014511
+corecompetence: 0.014511
+corporate: 0.058044
+covers: 0.014511
+create: 0.029022
+creates: 0.014511
+creation: 0.014511
+criteria: 0.029022
+culture: 0.029022
+current: 0.058044
+czech: 0.014511
+danish: 0.014511
+date: 0.014511
+deal: 0.014511
+define: 0.014511
+defined: 0.014511
+deliver: 0.014511
+demergers: 0.014511
+designing: 0.014511
+desired: 0.029022
+develop: 0.058044
+different: 0.014511
+diligence: 0.014511
+directionhow: 0.014511
+disposal: 0.014511
+disruption: 0.043533
+disruptions: 0.014511
+diversity: 0.014511
+does: 0.058044
+dotraininginsightrecognitioncase: 0.029022
+download: 0.058044
+driven: 0.014511
+driving: 0.029022
+dutch: 0.014511
+economyun: 0.029022
+effectiveness: 0.029022
+efqm: 0.623975
+efqmrecognition: 0.014511
+electronic: 0.014511
+embedded: 0.014511
+emerging: 0.014511
+enables: 0.014511
+enabling: 0.014511
+english: 0.029022
+englisharabicgreekczechdanishdutchfinnishfrenchgermanitalianmandarinportugueseromanianrussianslovenianspanishswedishturkishhungarian: 0.014511
+ensure: 0.014511
+ensuring: 0.014511
+envision: 0.014511
+establish: 0.029022
+established: 0.014511
+europe: 0.014511
+events: 0.014511
+evolve: 0.014511
+example: 0.014511
+exclusively: 0.029022
+execution: 0.014511
+executionwhat: 0.014511
+exercise: 0.014511
+exist: 0.014511
+existing: 0.029022
+expected: 0.014511
+experience: 0.014511
+experienced: 0.014511
+explicitly: 0.014511
+expressed: 0.014511
+external: 0.029022
+externally: 0.014511
+facilitator: 0.014511
+fact: 0.029022
+finnish: 0.014511
+fit: 0.029022
+foundation: 0.014511
+framework: 0.029022
+free: 0.043533
+french: 0.014511
+frenchshopcalendarnewsaboutcontactenglishdeutschespañolfrançaisthe: 0.014511
+fulfil: 0.014511
+functional: 0.029022
+fundamentals: 0.014511
+funding: 0.029022
+future: 0.043533
+gain: 0.014511
+gap: 0.014511
+gaps: 0.014511
+gathered: 0.014511
+german: 0.029022
+gives: 0.014511
+globally: 0.029022
+good: 0.014511
+greek: 0.014511
+having: 0.014511
+help: 0.029022
+helping: 0.014511
+helpingto: 0.014511
+hungarian: 0.014511
+identified: 0.029022
+identify: 0.029022
+impact: 0.043533
+implemented: 0.014511
+implementing: 0.014511
+improvement: 0.087066
+improving: 0.014511
+inception: 0.014511
+increasing: 0.014511
+information: 0.029022
+innovation: 0.014511
+innovationeducationassessbasewhat: 0.029022
+insight: 0.029022
+insights: 0.014511
+inspire: 0.014511
+integration: 0.014511
+intend: 0.029022
+internet: 0.014511
+introducing: 0.014511
+italian: 0.014511
+journey: 0.014511
+key: 0.029022
+know: 0.014511
+knowledge: 0.014511
+language: 0.014511
+large: 0.014511
+leaders: 0.014511
+learn: 0.029022
+legitimate: 0.029022
+lens: 0.043533
+level: 0.043533
+life: 0.014511
+linked: 0.014511
+logic: 0.014511
+long: 0.014511
+longmuir: 0.014511
+main: 0.029022
+major: 0.029022
+manage: 0.072555
+management: 0.043533
+managing: 0.087066
+mandarin: 0.014511
+map: 0.014511
+market: 0.043533
+marketdisruptions: 0.014511
+marketing: 0.043533
+marketplace: 0.014511
+matchesthe: 0.014511
+matters: 0.014511
+maturity: 0.072555
+membership: 0.014511
+menu: 0.014511
+mergers: 0.014511
+mindset: 0.029022
+mitigating: 0.014511
+mitigation: 0.014511
+mode: 0.043533
+model: 0.435332
+modelefqm: 0.029022
+modelthe: 0.043533
+monitor: 0.029022
+necessary: 0.029022
+need: 0.014511
+negative: 0.014511
+net: 0.029022
+network: 0.014511
+new: 0.043533
+news: 0.014511
+offers: 0.014511
+options: 0.014511
+organisation: 0.159622
+organisational: 0.072555
+organisations: 0.203155
+particular: 0.014511
+partners: 0.029022
+party: 0.014511
+past: 0.014511
+peers: 0.014511
+performance: 0.087066
+performances: 0.014511
+periodof: 0.014511
+picture: 0.014511
+place: 0.014511
+plans: 0.029022
+point: 0.014511
+points: 0.014511
+portfolio: 0.014511
+portuguese: 0.014511
+possess: 0.014511
+potential: 0.043533
+powerful: 0.014511
+practical: 0.014511
+practices: 0.014511
+practitioners: 0.014511
+preferences: 0.087066
+prepare: 0.014511
+present: 0.014511
+printed: 0.014511
+prioritised: 0.014511
+priority: 0.014511
+processes: 0.014511
+procurement: 0.014511
+profiles: 0.014511
+programme: 0.043533
+programmes: 0.014511
+progress: 0.014511
+protect: 0.014511
+provide: 0.043533
+provided: 0.014511
+provider: 0.014511
+provides: 0.014511
+purchase: 0.014511
+purpose: 0.101577
+purposes: 0.072555
+putting: 0.014511
+qualified: 0.014511
+qualifying: 0.014511
+questions: 0.014511
+radar: 0.116088
+read: 0.014511
+reality: 0.014511
+reasons: 0.029022
+receive: 0.014511
+recipients: 0.014511
+recognised: 0.029022
+recognition: 0.058044
+records: 0.014511
+red: 0.014511
+reduced: 0.014511
+regardless: 0.043533
+regular: 0.014511
+reinforced: 0.014511
+reject: 0.014511
+relevant: 0.029022
+remaining: 0.014511
+remains: 0.014511
+represent: 0.014511
+requested: 0.029022
+require: 0.014511
+required: 0.014511
+resilience: 0.043533
+resources: 0.014511
+respond: 0.029022
+responding: 0.014511
+results: 0.014511
+resultswhy: 0.014511
+retrieved: 0.014511
+review: 0.029022
+reviewed: 0.014511
+risk: 0.014511
+risks: 0.043533
+road: 0.014511
+role: 0.029022
+romanian: 0.014511
+russell: 0.014511
+russian: 0.014511
+sale: 0.014511
+save: 0.014511
+scored: 0.014511
+sdgs: 0.029022
+searching: 0.014511
+second: 0.014511
+section: 0.014511
+sector: 0.014511
+send: 0.014511
+sense: 0.029022
+sensing: 0.014511
+series: 0.043533
+service: 0.029022
+services: 0.014511
+set: 0.014511
+sharing: 0.014511
+shop: 0.014511
+shopcalendarnewsaboutcontactenglishdeutschespañolfrançaisthe: 0.014511
+shown: 0.014511
+significant: 0.029022
+similar: 0.014511
+simple: 0.029022
+situations: 0.014511
+size: 0.029022
+skip: 0.014511
+slovenian: 0.014511
+sme: 0.014511
+snapshot: 0.014511
+sole: 0.014511
+spanish: 0.029022
+specific: 0.014511
+speed: 0.014511
+stakeholder: 0.014511
+stands: 0.014511
+start: 0.014511
+starting: 0.014511
+state: 0.014511
+statement: 0.014511
+statistical: 0.029022
+statistics: 0.029022
+storage: 0.072555
+stored: 0.014511
+storing: 0.014511
+strategy: 0.058044
+strengths: 0.014511
+strictly: 0.014511
+strong: 0.014511
+structure: 0.043533
+studiespartnersmembership: 0.014511
+studiespartnersmembershipthe: 0.014511
+subpoena: 0.014511
+subscriber: 0.029022
+subsequent: 0.014511
+successful: 0.014511
+suppliers: 0.029022
+supporting: 0.014511
+supports: 0.014511
+sustainable: 0.043533
+swedish: 0.014511
+target: 0.014511
+technical: 0.072555
+term: 0.014511
+thanks: 0.014511
+thousands: 0.014511
+thread: 0.014511
+time: 0.014511
+title: 0.043533
+tobe: 0.014511
+today: 0.014511
+tomorrow: 0.014511
+tools: 0.029022
+toplay: 0.014511
+track: 0.029022
+training: 0.014511
+transformation: 0.058044
+transmission: 0.014511
+trusted: 0.014511
+turkish: 0.014511
+undergo: 0.014511
+undergoing: 0.014511
+understand: 0.029022
+understanding: 0.014511
+undertake: 0.014511
+use: 0.145111
+used: 0.072555
+useprivacy: 0.014511
+user: 0.058044
+users: 0.014511
+uses: 0.029022
+using: 0.087066
+usually: 0.014511
+value: 0.029022
+vendor_count: 0.014511
+vendors: 0.014511
+version: 0.058044
+view: 0.029022
+voluntary: 0.014511
+want: 0.014511
+wanting: 0.029022
+website: 0.029022
+websites: 0.014511
+worldwide: 0.029022
+years: 0.014511
+zerocircular: 0.029022

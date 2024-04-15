@@ -1,0 +1,1295 @@
+Vocabulary:
+10
+1003
+11
+14
+1721
+175
+1970
+1980s
+1987
+1997
+2000
+2005
+2007
+2008
+2009
+2011
+2012
+2070
+2119
+2254
+26
+267
+2860
+310
+3979
+41
+4532j
+4833
+5226
+5378
+5545
+5741
+6557
+78
+79
+8304
+878
+90095
+9200
+9899
+able
+abstract
+access
+accordance
+account
+accurate
+achieve
+achievements
+acknowledgment
+acknowledgments
+act
+actions
+actually
+added
+addition
+address
+addresses
+administered
+administration
+adopt
+agreed
+alexey
+alfred
+alvestrand
+andre
+angeles
+announce
+announced
+announcement
+appeal
+appealing
+appeals
+appear
+appellant
+applications
+apply
+appoint
+approaching
+appropriate
+approved
+approximately
+april
+archive
+area
+arthur
+assess
+assigned
+assistance
+associated
+attempt
+authority
+authors
+available
+average
+backup
+baker
+barry
+base
+based
+basic
+bcp
+bcps
+best
+boelter
+bradner
+bsd
+ca
+calendaring
+candidate
+carefully
+carpenter
+case
+cases
+category
+caused
+ch
+change
+changed
+changes
+charge
+choose
+cisco
+claims
+clear
+code
+com
+comments
+community
+competent
+components
+computer
+concern
+concerning
+condition
+configure
+confirm
+confirmation
+consensus
+considerations
+consistent
+consists
+consultation
+continue
+continuing
+contreras
+contribution
+contributions
+contributors
+convert
+coordinated
+coordinator
+copyright
+core
+corporation
+correct
+corrections
+costs
+court
+cover
+covered
+created
+creation
+criteria
+cryptographic
+cryptographically
+cs
+current
+currently
+data
+database
+date
+david
+davies
+daylight
+december
+decide
+decision
+decisions
+defined
+definition
+definitions
+deliberations
+department
+depending
+described
+designated
+desruisseaux
+determining
+develop
+devices
+dhcp
+died
+different
+direct
+directly
+directors
+discretion
+discuss
+discussed
+discussion
+disposal
+distributed
+distribution
+document
+documents
+domain
+downloaded
+dst
+early
+ease
+easily
+editor
+edu
+effect
+efforts
+eggert
+electrical
+electronics
+element
+eliot
+elise
+elsie
+elwyn
+elz
+email
+empowered
+engineering
+engineers
+entries
+entry
+envisioned
+errata
+error
+establish
+establishment
+eubanks
+evidence
+excellent
+exist
+existing
+expert
+expertise
+experts
+express
+expressed
+extent
+extracted
+fashion
+february
+feedback
+field
+files
+finch
+following
+follows
+force
+forever
+forth
+forum
+forward
+free
+ftp
+fulfill
+function
+functions
+future
+geographies
+gerich
+given
+gmbh
+good
+gov
+governance
+ground
+group
+guidance
+guide
+guidelines
+hall
+hardie
+harm
+health
+historic
+historical
+hoenes
+home
+hosted
+housley
+htm
+html
+http
+https
+iana
+icalendar
+icann
+identified
+iec
+ieee
+ieee1003
+iesg
+ietf
+implementation
+improvements
+inaccuracies
+inaccuracy
+incapacitated
+inception
+include
+including
+inclusion
+incurred
+indicate
+indices
+individual
+individuals
+info
+information
+informational
+informed
+institute
+institutes
+intellectual
+intended
+intent
+interface
+international
+internet
+interpreted
+introduction
+involved
+ipr
+iso
+iso9899c
+issn
+issue
+java
+judgment
+june
+just
+key
+keys
+known
+languages
+lead
+lear
+learn
+legal
+leiba
+levels
+license
+licenses
+like
+link
+list
+listinfo
+local
+localities
+location
+locations
+long
+longer
+los
+mail
+mailing
+mailman
+maintain
+maintained
+maintainer
+maintainers
+maintaining
+maintains
+maintenance
+make
+makes
+making
+manage
+manager
+managing
+march
+marshall
+material
+materially
+matters
+meanings
+means
+melenkov
+member
+members
+membership
+memo
+memorandum
+meticulously
+metrics
+missing
+mm
+moonesamy
+moving
+named
+names
+narten
+national
+nci
+nearly
+necessary
+new
+nih
+normative
+notice
+november
+number
+numbers
+object
+obtained
+occur
+offsets
+olson
+ongoing
+operating
+optional
+options
+order
+orders
+org
+organization
+ownership
+page
+parameters
+participated
+participating
+paul
+pdf
+people
+perform
+performing
+person
+persons
+pete
+peter
+phone
+place
+placing
+planning
+platform
+play
+policy
+portable
+posix
+possible
+practice
+pre
+presented
+previously
+prior
+private
+procedures
+proceed
+processed
+product
+programming
+property
+proposed
+protocol
+protocols
+provide
+provided
+providing
+provisions
+public
+publication
+purposes
+raise
+ratified
+reach
+reached
+reasons
+received
+recommended
+reference
+references
+referred
+reflect
+regard
+regarding
+regards
+region
+regularly
+relating
+release
+released
+releases
+remain
+remarkable
+replacing
+repository
+represents
+request
+requested
+required
+requirement
+reserved
+resides
+resnick
+resolution
+resolve
+resort
+respect
+responsibility
+rest
+restrictions
+retire
+retirement
+retiring
+review
+rfc
+rfc2119
+rfc2860
+rfc3979
+rfc4833
+rfc5226
+rfc5378
+rfc5545
+rfc6557
+rfcs
+richtistrasse
+rights
+rob
+roberts
+role
+rough
+roughly
+rules
+russ
+saint
+saving
+scheduling
+science
+scope
+section
+secured
+security
+selecting
+selection
+semantic
+september
+serve
+server
+serves
+service
+set
+shall
+sign
+signature
+signed
+simplified
+single
+software
+sorts
+sources
+speaking
+special
+specification
+specified
+specifies
+standard
+standards
+states
+status
+steering
+stewardship
+stored
+street
+subject
+submit
+subscriptions
+substantiated
+succession
+suite
+support
+supporting
+survive
+switzerland
+systems
+task
+team
+technical
+technology
+ted
+terminology
+text
+thank
+thanks
+think
+time
+times
+timezone
+timing
+today
+tony
+tooling
+tracker
+transferring
+transition
+transitioned
+trust
+trustee
+tz
+tzdb
+tzid
+ucla
+unable
+understanding
+unix
+updated
+updates
+updating
+usa
+use
+used
+using
+usually
+utc
+valid
+values
+various
+verifiable
+versions
+vevents
+view
+views
+volunteer
+volunteers
+waive
+waives
+wallisellen
+warranty
+weigh
+wishes
+words
+work
+world
+writing
+www
+year
+years
+zone
+zones
+
+TF-IDF Matrix:
+10: 0.007496
+1003: 0.014993
+11: 0.022489
+14: 0.007496
+1721: 0.007496
+175: 0.007496
+1970: 0.007496
+1980s: 0.007496
+1987: 0.007496
+1997: 0.007496
+2000: 0.014993
+2005: 0.007496
+2007: 0.007496
+2008: 0.029985
+2009: 0.007496
+2011: 0.022489
+2012: 0.074964
+2070: 0.007496
+2119: 0.014993
+2254: 0.007496
+26: 0.007496
+267: 0.007496
+2860: 0.007496
+310: 0.007496
+3979: 0.007496
+41: 0.007496
+4532j: 0.007496
+4833: 0.007496
+5226: 0.007496
+5378: 0.007496
+5545: 0.007496
+5741: 0.007496
+6557: 0.074964
+78: 0.022489
+79: 0.014993
+8304: 0.007496
+878: 0.007496
+90095: 0.007496
+9200: 0.007496
+9899: 0.014993
+able: 0.007496
+abstract: 0.007496
+access: 0.007496
+accordance: 0.022489
+account: 0.007496
+accurate: 0.007496
+achieve: 0.007496
+achievements: 0.007496
+acknowledgment: 0.007496
+acknowledgments: 0.007496
+act: 0.014993
+actions: 0.007496
+actually: 0.007496
+added: 0.014993
+addition: 0.007496
+address: 0.007496
+addresses: 0.007496
+administered: 0.007496
+administration: 0.007496
+adopt: 0.007496
+agreed: 0.007496
+alexey: 0.007496
+alfred: 0.007496
+alvestrand: 0.007496
+andre: 0.007496
+angeles: 0.007496
+announce: 0.007496
+announced: 0.007496
+announcement: 0.007496
+appeal: 0.014993
+appealing: 0.007496
+appeals: 0.007496
+appear: 0.007496
+appellant: 0.007496
+applications: 0.022489
+apply: 0.007496
+appoint: 0.007496
+approaching: 0.007496
+appropriate: 0.037482
+approved: 0.007496
+approximately: 0.007496
+april: 0.007496
+archive: 0.007496
+area: 0.037482
+arthur: 0.022489
+assess: 0.007496
+assigned: 0.029985
+assistance: 0.007496
+associated: 0.029985
+attempt: 0.037482
+authority: 0.022489
+authors: 0.022489
+available: 0.014993
+average: 0.007496
+backup: 0.007496
+baker: 0.007496
+barry: 0.007496
+base: 0.007496
+based: 0.022489
+basic: 0.007496
+bcp: 0.044978
+bcps: 0.014993
+best: 0.104949
+boelter: 0.007496
+bradner: 0.022489
+bsd: 0.014993
+ca: 0.007496
+calendaring: 0.022489
+candidate: 0.022489
+carefully: 0.007496
+carpenter: 0.007496
+case: 0.007496
+cases: 0.007496
+category: 0.007496
+caused: 0.007496
+ch: 0.007496
+change: 0.007496
+changed: 0.007496
+changes: 0.029985
+charge: 0.007496
+choose: 0.014993
+cisco: 0.022489
+claims: 0.029985
+clear: 0.007496
+code: 0.097453
+com: 0.007496
+comments: 0.007496
+community: 0.082460
+competent: 0.007496
+components: 0.007496
+computer: 0.007496
+concern: 0.022489
+concerning: 0.014993
+condition: 0.007496
+configure: 0.007496
+confirm: 0.007496
+confirmation: 0.007496
+consensus: 0.074964
+considerations: 0.037482
+consistent: 0.007496
+consists: 0.022489
+consultation: 0.007496
+continue: 0.022489
+continuing: 0.007496
+contreras: 0.007496
+contribution: 0.029985
+contributions: 0.014993
+contributors: 0.014993
+convert: 0.007496
+coordinated: 0.014993
+coordinator: 0.209898
+copyright: 0.014993
+core: 0.007496
+corporation: 0.007496
+correct: 0.014993
+corrections: 0.007496
+costs: 0.007496
+court: 0.007496
+cover: 0.007496
+covered: 0.007496
+created: 0.007496
+creation: 0.007496
+criteria: 0.007496
+cryptographic: 0.022489
+cryptographically: 0.007496
+cs: 0.007496
+current: 0.112446
+currently: 0.037482
+data: 0.007496
+database: 0.442286
+date: 0.007496
+david: 0.022489
+davies: 0.007496
+daylight: 0.014993
+december: 0.014993
+decide: 0.014993
+decision: 0.014993
+decisions: 0.022489
+defined: 0.022489
+definition: 0.007496
+definitions: 0.007496
+deliberations: 0.007496
+department: 0.007496
+depending: 0.007496
+described: 0.037482
+designated: 0.022489
+desruisseaux: 0.007496
+determining: 0.007496
+develop: 0.007496
+devices: 0.007496
+dhcp: 0.022489
+died: 0.007496
+different: 0.007496
+direct: 0.007496
+directly: 0.014993
+directors: 0.022489
+discretion: 0.007496
+discuss: 0.007496
+discussed: 0.014993
+discussion: 0.007496
+disposal: 0.007496
+distributed: 0.044978
+distribution: 0.014993
+document: 0.097453
+documents: 0.029985
+domain: 0.037482
+downloaded: 0.007496
+dst: 0.007496
+early: 0.007496
+ease: 0.007496
+easily: 0.007496
+editor: 0.007496
+edu: 0.007496
+effect: 0.007496
+efforts: 0.007496
+eggert: 0.104949
+electrical: 0.007496
+electronics: 0.007496
+element: 0.007496
+eliot: 0.007496
+elise: 0.007496
+elsie: 0.007496
+elwyn: 0.007496
+elz: 0.007496
+email: 0.014993
+empowered: 0.007496
+engineering: 0.022489
+engineers: 0.007496
+entries: 0.014993
+entry: 0.007496
+envisioned: 0.007496
+errata: 0.007496
+error: 0.007496
+establish: 0.007496
+establishment: 0.007496
+eubanks: 0.007496
+evidence: 0.007496
+excellent: 0.007496
+exist: 0.014993
+existing: 0.022489
+expert: 0.029985
+expertise: 0.007496
+experts: 0.014993
+express: 0.007496
+expressed: 0.007496
+extent: 0.007496
+extracted: 0.007496
+fashion: 0.007496
+february: 0.067467
+feedback: 0.007496
+field: 0.007496
+files: 0.022489
+finch: 0.007496
+following: 0.022489
+follows: 0.007496
+force: 0.014993
+forever: 0.007496
+forth: 0.007496
+forum: 0.014993
+forward: 0.029985
+free: 0.007496
+ftp: 0.014993
+fulfill: 0.014993
+function: 0.022489
+functions: 0.007496
+future: 0.007496
+geographies: 0.007496
+gerich: 0.007496
+given: 0.014993
+gmbh: 0.014993
+good: 0.014993
+gov: 0.007496
+governance: 0.007496
+ground: 0.007496
+group: 0.014993
+guidance: 0.014993
+guide: 0.014993
+guidelines: 0.007496
+hall: 0.007496
+hardie: 0.007496
+harm: 0.007496
+health: 0.007496
+historic: 0.007496
+historical: 0.022489
+hoenes: 0.007496
+home: 0.007496
+hosted: 0.014993
+housley: 0.007496
+htm: 0.007496
+html: 0.007496
+http: 0.029985
+https: 0.014993
+iana: 0.089956
+icalendar: 0.007496
+icann: 0.044978
+identified: 0.007496
+iec: 0.014993
+ieee: 0.014993
+ieee1003: 0.014993
+iesg: 0.059971
+ietf: 0.142431
+implementation: 0.014993
+improvements: 0.007496
+inaccuracies: 0.007496
+inaccuracy: 0.007496
+incapacitated: 0.007496
+inception: 0.007496
+include: 0.014993
+including: 0.014993
+inclusion: 0.007496
+incurred: 0.007496
+indicate: 0.014993
+indices: 0.007496
+individual: 0.029985
+individuals: 0.007496
+info: 0.022489
+information: 0.082460
+informational: 0.007496
+informed: 0.007496
+institute: 0.007496
+institutes: 0.007496
+intellectual: 0.014993
+intended: 0.007496
+intent: 0.007496
+interface: 0.007496
+international: 0.007496
+internet: 0.074964
+interpreted: 0.007496
+introduction: 0.007496
+involved: 0.007496
+ipr: 0.007496
+iso: 0.014993
+iso9899c: 0.014993
+issn: 0.007496
+issue: 0.007496
+java: 0.007496
+judgment: 0.022489
+june: 0.007496
+just: 0.007496
+key: 0.029985
+keys: 0.007496
+known: 0.014993
+languages: 0.007496
+lead: 0.014993
+lear: 0.097453
+learn: 0.007496
+legal: 0.014993
+leiba: 0.007496
+levels: 0.007496
+license: 0.029985
+licenses: 0.007496
+like: 0.014993
+link: 0.007496
+list: 0.187409
+listinfo: 0.007496
+local: 0.007496
+localities: 0.014993
+location: 0.014993
+locations: 0.007496
+long: 0.007496
+longer: 0.007496
+los: 0.007496
+mail: 0.007496
+mailing: 0.127438
+mailman: 0.007496
+maintain: 0.022489
+maintained: 0.022489
+maintainer: 0.022489
+maintainers: 0.007496
+maintaining: 0.074964
+maintains: 0.007496
+maintenance: 0.052475
+make: 0.014993
+makes: 0.007496
+making: 0.014993
+manage: 0.022489
+manager: 0.007496
+managing: 0.007496
+march: 0.022489
+marshall: 0.007496
+material: 0.007496
+materially: 0.007496
+matters: 0.007496
+meanings: 0.007496
+means: 0.029985
+melenkov: 0.007496
+member: 0.007496
+members: 0.029985
+membership: 0.007496
+memo: 0.037482
+memorandum: 0.022489
+meticulously: 0.007496
+metrics: 0.007496
+missing: 0.007496
+mm: 0.007496
+moonesamy: 0.007496
+moving: 0.029985
+named: 0.007496
+names: 0.037482
+narten: 0.007496
+national: 0.007496
+nci: 0.007496
+nearly: 0.007496
+necessary: 0.029985
+new: 0.037482
+nih: 0.029985
+normative: 0.014993
+notice: 0.007496
+november: 0.007496
+number: 0.007496
+numbers: 0.029985
+object: 0.007496
+obtained: 0.007496
+occur: 0.007496
+offsets: 0.007496
+olson: 0.037482
+ongoing: 0.007496
+operating: 0.007496
+optional: 0.007496
+options: 0.007496
+order: 0.007496
+orders: 0.007496
+org: 0.044978
+organization: 0.022489
+ownership: 0.029985
+page: 0.074964
+parameters: 0.007496
+participated: 0.007496
+participating: 0.007496
+paul: 0.007496
+pdf: 0.007496
+people: 0.007496
+perform: 0.007496
+performing: 0.007496
+person: 0.022489
+persons: 0.007496
+pete: 0.007496
+peter: 0.007496
+phone: 0.014993
+place: 0.007496
+placing: 0.007496
+planning: 0.007496
+platform: 0.007496
+play: 0.007496
+policy: 0.007496
+portable: 0.007496
+posix: 0.014993
+possible: 0.007496
+practice: 0.097453
+pre: 0.007496
+presented: 0.014993
+previously: 0.007496
+prior: 0.014993
+private: 0.007496
+procedures: 0.044978
+proceed: 0.007496
+processed: 0.007496
+product: 0.007496
+programming: 0.007496
+property: 0.014993
+proposed: 0.007496
+protocol: 0.014993
+protocols: 0.014993
+provide: 0.037482
+provided: 0.022489
+providing: 0.007496
+provisions: 0.014993
+public: 0.059971
+publication: 0.014993
+purposes: 0.007496
+raise: 0.007496
+ratified: 0.007496
+reach: 0.007496
+reached: 0.029985
+reasons: 0.007496
+received: 0.007496
+recommended: 0.007496
+reference: 0.052475
+references: 0.022489
+referred: 0.007496
+reflect: 0.007496
+regard: 0.007496
+regarding: 0.014993
+regards: 0.007496
+region: 0.022489
+regularly: 0.007496
+relating: 0.014993
+release: 0.037482
+released: 0.007496
+releases: 0.014993
+remain: 0.007496
+remarkable: 0.007496
+replacing: 0.007496
+repository: 0.007496
+represents: 0.007496
+request: 0.014993
+requested: 0.007496
+required: 0.014993
+requirement: 0.007496
+reserved: 0.007496
+resides: 0.007496
+resnick: 0.007496
+resolution: 0.037482
+resolve: 0.007496
+resort: 0.007496
+respect: 0.007496
+responsibility: 0.007496
+rest: 0.007496
+restrictions: 0.007496
+retire: 0.007496
+retirement: 0.007496
+retiring: 0.007496
+review: 0.014993
+rfc: 0.172417
+rfc2119: 0.014993
+rfc2860: 0.014993
+rfc3979: 0.014993
+rfc4833: 0.014993
+rfc5226: 0.014993
+rfc5378: 0.014993
+rfc5545: 0.014993
+rfc6557: 0.007496
+rfcs: 0.014993
+richtistrasse: 0.007496
+rights: 0.037482
+rob: 0.007496
+roberts: 0.007496
+role: 0.029985
+rough: 0.044978
+roughly: 0.007496
+rules: 0.007496
+russ: 0.007496
+saint: 0.007496
+saving: 0.014993
+scheduling: 0.007496
+science: 0.007496
+scope: 0.007496
+section: 0.044978
+secured: 0.007496
+security: 0.014993
+selecting: 0.014993
+selection: 0.014993
+semantic: 0.007496
+september: 0.007496
+serve: 0.007496
+server: 0.007496
+serves: 0.007496
+service: 0.007496
+set: 0.014993
+shall: 0.089956
+sign: 0.007496
+signature: 0.014993
+signed: 0.014993
+simplified: 0.014993
+single: 0.014993
+software: 0.014993
+sorts: 0.007496
+sources: 0.014993
+speaking: 0.007496
+special: 0.007496
+specification: 0.007496
+specified: 0.007496
+specifies: 0.022489
+standard: 0.022489
+standards: 0.014993
+states: 0.007496
+status: 0.014993
+steering: 0.007496
+stewardship: 0.014993
+stored: 0.007496
+street: 0.007496
+subject: 0.007496
+submit: 0.007496
+subscriptions: 0.007496
+substantiated: 0.007496
+succession: 0.007496
+suite: 0.007496
+support: 0.007496
+supporting: 0.029985
+survive: 0.007496
+switzerland: 0.007496
+systems: 0.037482
+task: 0.014993
+team: 0.007496
+technical: 0.022489
+technology: 0.022489
+ted: 0.007496
+terminology: 0.007496
+text: 0.014993
+thank: 0.007496
+thanks: 0.007496
+think: 0.007496
+time: 0.239884
+times: 0.007496
+timezone: 0.007496
+timing: 0.007496
+today: 0.007496
+tony: 0.007496
+tooling: 0.007496
+tracker: 0.007496
+transferring: 0.007496
+transition: 0.007496
+transitioned: 0.007496
+trust: 0.037482
+trustee: 0.007496
+tz: 0.532242
+tzdb: 0.014993
+tzid: 0.007496
+ucla: 0.022489
+unable: 0.007496
+understanding: 0.022489
+unix: 0.007496
+updated: 0.014993
+updates: 0.037482
+updating: 0.007496
+usa: 0.007496
+use: 0.044978
+used: 0.044978
+using: 0.007496
+usually: 0.007496
+utc: 0.007496
+valid: 0.007496
+values: 0.022489
+various: 0.007496
+verifiable: 0.007496
+versions: 0.014993
+vevents: 0.007496
+view: 0.007496
+views: 0.007496
+volunteer: 0.007496
+volunteers: 0.014993
+waive: 0.007496
+waives: 0.007496
+wallisellen: 0.007496
+warranty: 0.007496
+weigh: 0.007496
+wishes: 0.007496
+words: 0.014993
+work: 0.037482
+world: 0.014993
+writing: 0.007496
+www: 0.014993
+year: 0.014993
+years: 0.014993
+zone: 0.164920
+zones: 0.007496

@@ -1,0 +1,527 @@
+Vocabulary:
+2010
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+abuabed
+abuse
+acceptance
+acting
+affiliate
+affiliated
+aina
+alain
+alvaran
+amante
+anchors
+andy
+anne
+antoniello
+arbogast
+archive
+arpa
+au
+available
+backup
+based
+bevil
+bf
+bj
+br
+burkov
+ca
+called
+carlos
+castro
+ceremonies
+cerf
+change
+christopher
+cl
+cn
+common
+community
+confidence
+considered
+contact
+coordinate
+cryptographic
+curran
+current
+cz
+damas
+dan
+daniel
+database
+david
+dileepa
+directly
+dk
+dmitry
+dns
+dnssec
+domain
+domains
+edward
+effort
+eklund
+eligibility
+erwin
+etges
+excellence
+fabian
+files
+filip
+frederico
+functions
+gaurab
+generation
+george
+globally
+griffiths
+gruvö
+guebre
+guides
+guðmundsson
+hardie
+hernández
+hint
+hofvander
+holder
+hori
+hugo
+hussain
+iana
+icann
+identifiers
+idn
+improve
+information
+instructions
+int
+interested
+internet
+inviting
+jiankang
+john
+joint
+jorge
+joão
+jp
+kaminsky
+kane
+key
+keys
+kolkman
+kristian
+kumari
+lansing
+lathsara
+lawrence
+lewis
+linton
+lk
+luis
+löwinder
+management
+marie
+martinez
+masato
+matt
+mechanism
+members
+michaelson
+minda
+modify
+mohamed
+moonesamy
+morales
+moussa
+mu
+mwayenga
+names
+neves
+nicolas
+nl
+nomsa
+norm
+np
+number
+numbers
+nz
+officer
+olaf
+ondřej
+overview
+participate
+parties
+paul
+performance
+persons
+ph
+pia
+pk
+policies
+policy
+practices
+privacy
+procedures
+process
+project
+protocol
+protocols
+provided
+ps
+pt
+pti
+public
+questions
+ralf
+recognized
+recovery
+regarding
+register
+registries
+registry
+reports
+repository
+representative
+representatives
+requests
+reserved
+resources
+retired
+reviews
+ritchie
+robert
+role
+root
+ru
+rudolph
+rujeko
+salgado
+sarmad
+satsuki
+se
+seastrom
+sebastian
+secure
+security
+seek
+selection
+servers
+service
+share
+signing
+silva
+siren
+solicited
+statement
+statements
+submit
+subramanian
+support
+surý
+table
+tcr
+tcrs
+technical
+ted
+terms
+thomlinson
+time
+travel
+trusted
+trusts
+tt
+tz
+uk
+unique
+upadhaya
+uy
+vacancies
+vc
+verisign
+vinton
+warren
+weber
+wider
+wooding
+wouters
+yao
+zone
+zw
+ólafur
+ørmen
+
+TF-IDF Matrix:
+2010: 0.394742
+2013: 0.031579
+2014: 0.047369
+2015: 0.063159
+2016: 0.015790
+2017: 0.031579
+2018: 0.015790
+2019: 0.047369
+2020: 0.015790
+2021: 0.015790
+2022: 0.142107
+2023: 0.205266
+abuabed: 0.015790
+abuse: 0.015790
+acceptance: 0.015790
+acting: 0.015790
+affiliate: 0.015790
+affiliated: 0.015790
+aina: 0.015790
+alain: 0.015790
+alvaran: 0.015790
+amante: 0.015790
+anchors: 0.015790
+andy: 0.015790
+anne: 0.015790
+antoniello: 0.015790
+arbogast: 0.015790
+archive: 0.015790
+arpa: 0.031579
+au: 0.015790
+available: 0.015790
+backup: 0.236845
+based: 0.015790
+bevil: 0.015790
+bf: 0.015790
+bj: 0.015790
+br: 0.031579
+burkov: 0.015790
+ca: 0.015790
+called: 0.015790
+carlos: 0.015790
+castro: 0.015790
+ceremonies: 0.031579
+cerf: 0.015790
+change: 0.015790
+christopher: 0.015790
+cl: 0.015790
+cn: 0.015790
+common: 0.015790
+community: 0.205266
+confidence: 0.015790
+considered: 0.031579
+contact: 0.015790
+coordinate: 0.015790
+cryptographic: 0.394742
+curran: 0.015790
+current: 0.015790
+cz: 0.031579
+damas: 0.015790
+dan: 0.015790
+daniel: 0.015790
+database: 0.031579
+david: 0.015790
+dileepa: 0.015790
+directly: 0.015790
+dk: 0.015790
+dmitry: 0.015790
+dns: 0.031579
+dnssec: 0.047369
+domain: 0.063159
+domains: 0.031579
+edward: 0.015790
+effort: 0.015790
+eklund: 0.015790
+eligibility: 0.015790
+erwin: 0.015790
+etges: 0.015790
+excellence: 0.015790
+fabian: 0.015790
+files: 0.015790
+filip: 0.015790
+frederico: 0.015790
+functions: 0.015790
+gaurab: 0.015790
+generation: 0.031579
+george: 0.015790
+globally: 0.015790
+griffiths: 0.015790
+gruvö: 0.015790
+guebre: 0.015790
+guides: 0.015790
+guðmundsson: 0.015790
+hardie: 0.015790
+hernández: 0.015790
+hint: 0.015790
+hofvander: 0.015790
+holder: 0.142107
+hori: 0.015790
+hugo: 0.015790
+hussain: 0.015790
+iana: 0.015790
+icann: 0.031579
+identifiers: 0.031579
+idn: 0.031579
+improve: 0.015790
+information: 0.015790
+instructions: 0.015790
+int: 0.047369
+interested: 0.015790
+internet: 0.063159
+inviting: 0.015790
+jiankang: 0.015790
+john: 0.015790
+joint: 0.015790
+jorge: 0.015790
+joão: 0.015790
+jp: 0.031579
+kaminsky: 0.015790
+kane: 0.015790
+key: 0.268425
+keys: 0.015790
+kolkman: 0.015790
+kristian: 0.015790
+kumari: 0.015790
+lansing: 0.015790
+lathsara: 0.015790
+lawrence: 0.015790
+lewis: 0.015790
+linton: 0.015790
+lk: 0.015790
+luis: 0.015790
+löwinder: 0.015790
+management: 0.031579
+marie: 0.015790
+martinez: 0.015790
+masato: 0.015790
+matt: 0.015790
+mechanism: 0.015790
+members: 0.015790
+michaelson: 0.015790
+minda: 0.015790
+modify: 0.015790
+mohamed: 0.015790
+moonesamy: 0.015790
+morales: 0.015790
+moussa: 0.015790
+mu: 0.015790
+mwayenga: 0.015790
+names: 0.031579
+neves: 0.015790
+nicolas: 0.015790
+nl: 0.047369
+nomsa: 0.015790
+norm: 0.015790
+np: 0.015790
+number: 0.031579
+numbers: 0.015790
+nz: 0.031579
+officer: 0.394742
+olaf: 0.015790
+ondřej: 0.031579
+overview: 0.078948
+participate: 0.015790
+parties: 0.015790
+paul: 0.031579
+performance: 0.015790
+persons: 0.047369
+ph: 0.015790
+pia: 0.015790
+pk: 0.015790
+policies: 0.015790
+policy: 0.015790
+practices: 0.015790
+privacy: 0.015790
+procedures: 0.015790
+process: 0.031579
+project: 0.015790
+protocol: 0.015790
+protocols: 0.031579
+provided: 0.015790
+ps: 0.015790
+pt: 0.015790
+pti: 0.015790
+public: 0.015790
+questions: 0.015790
+ralf: 0.015790
+recognized: 0.015790
+recovery: 0.142107
+regarding: 0.015790
+register: 0.015790
+registries: 0.015790
+registry: 0.078948
+reports: 0.015790
+repository: 0.031579
+representative: 0.031579
+representatives: 0.157897
+requests: 0.015790
+reserved: 0.015790
+resources: 0.031579
+retired: 0.015790
+reviews: 0.015790
+ritchie: 0.015790
+robert: 0.015790
+role: 0.031579
+root: 0.126318
+ru: 0.015790
+rudolph: 0.015790
+rujeko: 0.015790
+salgado: 0.015790
+sarmad: 0.015790
+satsuki: 0.015790
+se: 0.047369
+seastrom: 0.015790
+sebastian: 0.015790
+secure: 0.015790
+security: 0.015790
+seek: 0.015790
+selection: 0.015790
+servers: 0.015790
+service: 0.015790
+share: 0.142107
+signing: 0.063159
+silva: 0.015790
+siren: 0.015790
+solicited: 0.015790
+statement: 0.015790
+statements: 0.015790
+submit: 0.031579
+subramanian: 0.015790
+support: 0.015790
+surý: 0.015790
+table: 0.015790
+tcr: 0.221056
+tcrs: 0.031579
+technical: 0.031579
+ted: 0.015790
+terms: 0.015790
+thomlinson: 0.015790
+time: 0.015790
+travel: 0.015790
+trusted: 0.142107
+trusts: 0.015790
+tt: 0.015790
+tz: 0.015790
+uk: 0.015790
+unique: 0.015790
+upadhaya: 0.015790
+uy: 0.031579
+vacancies: 0.015790
+vc: 0.015790
+verisign: 0.015790
+vinton: 0.015790
+warren: 0.015790
+weber: 0.015790
+wider: 0.015790
+wooding: 0.015790
+wouters: 0.015790
+yao: 0.015790
+zone: 0.063159
+zw: 0.015790
+ólafur: 0.015790
+ørmen: 0.015790

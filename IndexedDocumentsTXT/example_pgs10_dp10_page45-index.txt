@@ -1,0 +1,249 @@
+Vocabulary:
+13
+227
+228
+258
+268
+29
+32
+32s
+336
+343
+353
+359
+39
+405
+481
+547
+59
+769
+784
+abuse
+according
+address
+addresses
+addressing
+affiliate
+afrinic
+algorithms
+allocation
+allocations
+analysis
+answers
+apnic
+arin
+arpa
+asn
+autonomous
+available
+based
+chart
+clicking
+contact
+contain
+coordinate
+data
+database
+described
+detailed
+does
+domain
+domains
+eligibility
+excellence
+exhausted
+factor
+functions
+future
+global
+globally
+iana
+icann
+identifiers
+idn
+information
+int
+internet
+ip
+ipv4
+ipv6
+issues
+lacnic
+level
+managing
+method
+names
+ncc
+needs
+network
+number
+numbers
+operators
+overview
+performance
+policies
+policy
+pools
+primary
+prior
+privacy
+protocol
+protocols
+provide
+provided
+public
+questions
+rates
+recovered
+regional
+registries
+registry
+reports
+repository
+represented
+resource
+resources
+reviews
+ripe
+ripencc
+rir
+rirs
+role
+root
+service
+space
+summarizes
+supply
+technical
+terms
+time
+track
+unallocated
+unique
+utilization
+zone
+
+TF-IDF Matrix:
+13: 0.041667
+227: 0.041667
+228: 0.041667
+258: 0.041667
+268: 0.041667
+29: 0.041667
+32: 0.041667
+32s: 0.041667
+336: 0.041667
+343: 0.041667
+353: 0.041667
+359: 0.041667
+39: 0.083333
+405: 0.041667
+481: 0.041667
+547: 0.041667
+59: 0.041667
+769: 0.041667
+784: 0.041667
+abuse: 0.083333
+according: 0.041667
+address: 0.125000
+addresses: 0.083333
+addressing: 0.041667
+affiliate: 0.041667
+afrinic: 0.166667
+algorithms: 0.041667
+allocation: 0.250000
+allocations: 0.166667
+analysis: 0.041667
+answers: 0.041667
+apnic: 0.166667
+arin: 0.166667
+arpa: 0.041667
+asn: 0.250000
+autonomous: 0.041667
+available: 0.083333
+based: 0.041667
+chart: 0.166667
+clicking: 0.083333
+contact: 0.041667
+contain: 0.041667
+coordinate: 0.041667
+data: 0.125000
+database: 0.041667
+described: 0.041667
+detailed: 0.083333
+does: 0.041667
+domain: 0.041667
+domains: 0.041667
+eligibility: 0.041667
+excellence: 0.041667
+exhausted: 0.041667
+factor: 0.041667
+functions: 0.041667
+future: 0.041667
+global: 0.041667
+globally: 0.041667
+iana: 0.083333
+icann: 0.083333
+identifiers: 0.083333
+idn: 0.041667
+information: 0.125000
+int: 0.041667
+internet: 0.125000
+ip: 0.083333
+ipv4: 0.041667
+ipv6: 0.291667
+issues: 0.041667
+lacnic: 0.166667
+level: 0.041667
+managing: 0.041667
+method: 0.041667
+names: 0.041667
+ncc: 0.083333
+needs: 0.041667
+network: 0.083333
+number: 0.291667
+numbers: 0.125000
+operators: 0.083333
+overview: 0.125000
+performance: 0.041667
+policies: 0.083333
+policy: 0.041667
+pools: 0.041667
+primary: 0.041667
+prior: 0.041667
+privacy: 0.041667
+protocol: 0.041667
+protocols: 0.083333
+provide: 0.083333
+provided: 0.041667
+public: 0.041667
+questions: 0.041667
+rates: 0.041667
+recovered: 0.041667
+regional: 0.041667
+registries: 0.083333
+registry: 0.125000
+reports: 0.041667
+repository: 0.041667
+represented: 0.041667
+resource: 0.083333
+resources: 0.125000
+reviews: 0.041667
+ripe: 0.083333
+ripencc: 0.083333
+rir: 0.208333
+rirs: 0.125000
+role: 0.041667
+root: 0.041667
+service: 0.041667
+space: 0.041667
+summarizes: 0.083333
+supply: 0.041667
+technical: 0.041667
+terms: 0.041667
+time: 0.041667
+track: 0.041667
+unallocated: 0.041667
+unique: 0.041667
+utilization: 0.250000
+zone: 0.083333

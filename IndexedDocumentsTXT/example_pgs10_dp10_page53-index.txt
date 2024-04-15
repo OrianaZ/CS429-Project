@@ -1,0 +1,249 @@
+Vocabulary:
+abuse
+additionally
+addresses
+affiliate
+anchor
+anchors
+applications
+archive
+arpa
+authoritative
+available
+aware
+basis
+bootstrap
+built
+ceremonies
+chain
+change
+children
+comes
+community
+complete
+configure
+contact
+contains
+contents
+coordinate
+current
+database
+delegated
+dns
+dnssec
+domain
+domains
+download
+eligibility
+enabled
+enables
+excellence
+file
+files
+following
+ftp
+functions
+globally
+guides
+hint
+hints
+http
+iana
+icann
+identifiers
+idn
+information
+instructions
+int
+internet
+ip
+key
+keys
+level
+list
+locations
+manage
+management
+modify
+names
+need
+number
+numbers
+operators
+ordinarily
+overview
+performance
+pieces
+plain
+policies
+policy
+practices
+privacy
+procedures
+process
+project
+protocol
+protocols
+provided
+public
+recursive
+register
+registries
+registry
+regular
+reports
+repository
+representatives
+requests
+reserved
+resolution
+resolver
+resources
+reviews
+root
+served
+servers
+service
+signing
+single
+software
+sofware
+submit
+table
+technical
+terms
+text
+time
+trust
+trusts
+typically
+unique
+used
+valid
+verify
+zone
+
+TF-IDF Matrix:
+abuse: 0.030571
+additionally: 0.030571
+addresses: 0.030571
+affiliate: 0.030571
+anchor: 0.061142
+anchors: 0.061142
+applications: 0.030571
+archive: 0.030571
+arpa: 0.061142
+authoritative: 0.030571
+available: 0.030571
+aware: 0.030571
+basis: 0.030571
+bootstrap: 0.030571
+built: 0.030571
+ceremonies: 0.030571
+chain: 0.030571
+change: 0.030571
+children: 0.030571
+comes: 0.030571
+community: 0.030571
+complete: 0.030571
+configure: 0.030571
+contact: 0.030571
+contains: 0.030571
+contents: 0.061142
+coordinate: 0.030571
+current: 0.030571
+database: 0.061142
+delegated: 0.030571
+dns: 0.122284
+dnssec: 0.091713
+domain: 0.122284
+domains: 0.183425
+download: 0.061142
+eligibility: 0.030571
+enabled: 0.061142
+enables: 0.030571
+excellence: 0.030571
+file: 0.275138
+files: 0.091713
+following: 0.030571
+ftp: 0.061142
+functions: 0.030571
+globally: 0.030571
+guides: 0.030571
+hint: 0.030571
+hints: 0.122284
+http: 0.061142
+iana: 0.030571
+icann: 0.030571
+identifiers: 0.061142
+idn: 0.061142
+information: 0.030571
+instructions: 0.030571
+int: 0.091713
+internet: 0.030571
+ip: 0.030571
+key: 0.152854
+keys: 0.030571
+level: 0.152854
+list: 0.091713
+locations: 0.030571
+manage: 0.030571
+management: 0.030571
+modify: 0.030571
+names: 0.091713
+need: 0.091713
+number: 0.030571
+numbers: 0.030571
+operators: 0.030571
+ordinarily: 0.030571
+overview: 0.152854
+performance: 0.030571
+pieces: 0.030571
+plain: 0.030571
+policies: 0.030571
+policy: 0.030571
+practices: 0.030571
+privacy: 0.030571
+procedures: 0.030571
+process: 0.030571
+project: 0.030571
+protocol: 0.030571
+protocols: 0.061142
+provided: 0.061142
+public: 0.030571
+recursive: 0.030571
+register: 0.030571
+registries: 0.030571
+registry: 0.152854
+regular: 0.030571
+reports: 0.030571
+repository: 0.061142
+representatives: 0.030571
+requests: 0.030571
+reserved: 0.030571
+resolution: 0.030571
+resolver: 0.030571
+resources: 0.030571
+reviews: 0.030571
+root: 0.641989
+served: 0.030571
+servers: 0.061142
+service: 0.030571
+signing: 0.091713
+single: 0.030571
+software: 0.122284
+sofware: 0.030571
+submit: 0.030571
+table: 0.030571
+technical: 0.030571
+terms: 0.030571
+text: 0.030571
+time: 0.030571
+trust: 0.122284
+trusts: 0.030571
+typically: 0.030571
+unique: 0.030571
+used: 0.030571
+valid: 0.030571
+verify: 0.030571
+zone: 0.336280
