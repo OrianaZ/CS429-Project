@@ -48,7 +48,8 @@ The web document retrieval and search system can be operated in two distinct way
 #### Query Processing
 - Start the Flask app to handle user queries:
 `python query.py`
-- Users can input queries and retrieve relevant document results using the Flask-based query processor.
+- Users will then be prompted to input queries and the program will retrieve relevant document results using the Flask-based query processor.
+- The progem will default to showing the top 10 results. However the user can specify the number of ranked documents they wish to retrieve by taggin `k=#` at the end of there query. Where # is replaced by the number of documents wished to be retrieved.
 
 ### Streamlined Execution
 #### Automated Workflow
