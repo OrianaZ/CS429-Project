@@ -31,6 +31,7 @@ The system architecture comprises the following components and interactions:
 - Validates and processes user queries, returning ranked document results.
 
 ## Operation
+This respository should be cloned/downloaded in order to use commands. All commands should done from the root folder. (CS429-Project) <br>
 The web document retrieval and search system can be operated in two distinct ways to accommodate different user needs: independent execution of specific tasks or streamlined execution using a single script.
 ### Independent Execution 
 #### Crawling Documents
