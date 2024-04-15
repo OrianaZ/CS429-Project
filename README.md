@@ -105,7 +105,11 @@ Fixes and Improvements 2: <br>
 - added new py file to run the crawler then index, then the flask app in succession.<br>
   - Usage: python run.py https://example.com 3 2 <br>
 - added # type: ignore to some of the imports to get rid of warnings<br>
-- renamed CrawlerRun file to just crawl and updated usages
+- renamed CrawlerRun file to just crawl and updated usages<br><br>
+
+Fixes and Improvements 3: <br>
+- rename the files so that it is the title of the page <br>
+- renamed the overall TF_IDF file so it comes first in the folder <br> <br>
 
 Future ideas: <br>
-- rename the files so that it is the 'title'? <br>
+- spelling correction/suggestions<br>

@@ -75,11 +75,11 @@ def save_completed_tfidf(documents, output_directory, output_directory_2):
                 term_tfidf_dict[feature] = {}
             term_tfidf_dict[feature][filename] = value
     
-    completed_tfidf_pickle_file = os.path.join(output_directory, 'completed-TFIDF.pkl')
+    completed_tfidf_pickle_file = os.path.join(output_directory, '1full-TFIDF.pkl')
     with open(completed_tfidf_pickle_file, 'wb') as file:
         pickle.dump(term_tfidf_dict, file)
         
-    completed_tfidf_txt_file = os.path.join(output_directory_2, 'completed-TFIDF.txt')
+    completed_tfidf_txt_file = os.path.join(output_directory_2, '1full-TFIDF.txt')
     with open(completed_tfidf_txt_file, 'w', encoding='utf-8') as file:
         file.write("        ")
         for filename, _ in documents:

@@ -26,7 +26,7 @@ def display_results(results, k):
     else:
         print("Top-ranked documents:")
         for idx, result in enumerate(results[:min(len(results), k)], start=1):
-            print(f"{idx}. Filename: {result['filename']}, Similarity Score: {result['similarity_score']:.4f}")
+            print(f"{idx}. Document: {result['filename']}, Similarity Score: {result['similarity_score']:.4f}")
 
 def main():
     start_flask_server()

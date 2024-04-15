@@ -1,4 +1,4 @@
-import scrapy
+import scrapy # type: ignore
 import os
 from urllib.parse import urlparse
 class MySpider(scrapy.Spider):
@@ -18,11 +18,27 @@ class MySpider(scrapy.Spider):
         
         if not self.domain:
             self.domain = parsed_url.path.replace('/', '_') if parsed_url.path else 'root'
+            
+    def clean_title(self, title):
+        cleaned_title = ''.join(char for char in title if char.isalnum() or char in ' -')
+        cleaned_title = cleaned_title.strip()
+        cleaned_title = cleaned_title.replace(' ', '-')
+        cleaned_title = cleaned_title.replace('--', '-')      
+        cleaned_title = cleaned_title.lower()
+        return cleaned_title
 
     def parse(self, response):
         html_content = response.body.decode('utf-8')
+        
+        title = response.css('title::text').get()
+        if title:
+            title = title.strip()
+        else:
+            title = 'Untitled'
+            
+        clean_title = self.clean_title(title)
 
-        filename = f"../CrawledDocuments/{self.domain}_pgs{self.max_pages}_dp{self.max_depth}_page{self.crawled_count}.html"
+        filename = f"../CrawledDocuments/{clean_title}.html"
 
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, 'w', encoding='utf-8') as f:
