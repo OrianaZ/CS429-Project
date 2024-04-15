@@ -125,6 +125,7 @@ The automated workflow (run.py) facilitated the execution of multiple combinatio
 
 ## Source Code
 ###  Listings and documentation
+This Project was developed in Visual Studio Code
 Please see this [respository](https://github.com/OrianaZ/CS429-Project) for full code works, and documentation outline.
 
 ### Dependencies
