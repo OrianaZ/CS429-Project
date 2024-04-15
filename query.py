@@ -20,12 +20,12 @@ def send_query(query):
         print(f"Error: {response.status_code} - {response.json().get('error', 'Unknown error')}")
         return []
 
-def display_results(results):
+def display_results(results, k):
     if not results:
         print("No results found.")
     else:
         print("Top-ranked documents:")
-        for idx, result in enumerate(results, start=1):
+        for idx, result in enumerate(results[:min(len(results), k)], start=1):
             print(f"{idx}. Filename: {result['filename']}, Similarity Score: {result['similarity_score']:.4f}")
 
 def main():
@@ -41,12 +41,27 @@ def main():
             print("Exiting Interactive Query System. Goodbye!")
             break
 
+        parts = query.split()
+        for part in parts:
+            if part.lower().startswith('k='):
+                try:
+                    k = int(part.split('=')[1])
+                    query = query.replace(part, '').strip()                    
+                    break
+                except ValueError:
+                    k = 10
+                    break
+        else:
+            k = 10
+
         results = send_query(query)
 
-        display_results(results)
+        display_results(results, k)
 
 if __name__ == '__main__':
     main()
 
 
 #usage python query.py
+#query usage: 'type any query' k=#
+# can omit k= for a default of 10 results

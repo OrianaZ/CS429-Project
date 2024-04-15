@@ -12,8 +12,8 @@ def run_spider(url, max_pages, max_depth):
     
     
 if __name__ == "__main__":
-    if len(sys.argv) != 5 or sys.argv[1] != "scrapy":
-        print("Usage: python projectRunFile.py scrapy <url> <max_pages> <max_depth>")
+    if len(sys.argv) != 5 or sys.argv[1] != "crawl":
+        print("Usage: python crawlerRun.py crawl <url> <max_pages> <max_depth>")
     else:
         url = sys.argv[2]
         max_pages = sys.argv[3]
@@ -21,7 +21,7 @@ if __name__ == "__main__":
         run_spider(url, max_pages, max_depth)
         
 #usage        
-#python crawlerRun.py scrapy https://example.com 1 1
+#python crawlerRun.py crawl https://example.com 1 1
 
 #needed installed things
 #pip install scrapy
