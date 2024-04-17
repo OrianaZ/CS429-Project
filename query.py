@@ -32,7 +32,7 @@ def main():
     start_flask_server()
     
     print("Welcome to the Interactive Query System!")
-    print("type your query and append with 'k=#' to return # number of results (deafult 10)")
+    print("Type your query and append with 'k=#' to return # number of results (default 10)")
     print("Type 'exit' to quit at any time.")
 
     while True:
